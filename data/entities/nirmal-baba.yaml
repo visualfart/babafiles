@@ -1,0 +1,195 @@
+id: nirmal-baba
+type: person
+is_subject: true
+name_en: Nirmal Baba
+name_hi: निर्मल बाबा
+aliases: [Nirmaljit Singh Narula, Nirmal Baba Ji, Nirmal Darbar]
+born:
+died:
+base_location: New Delhi
+country: IN
+countries_of_operation: [IN]
+organisations: [Nirmal Darbar]
+activity_status: active
+abap_2017_list: true
+summary_en: >
+  Nirmaljit Singh Narula, known as Nirmal Baba, is a television preacher whose "Samagam"
+  congregations, in which he sold entry tickets and offered everyday-life "solutions" to
+  attendees, drew both a mass following and cheating complaints from 2012 onward in Bihar,
+  Uttar Pradesh and elsewhere. A private complaint case in Muzaffarpur, Bihar, in which a
+  magistrate took cognizance against him in July 2013 under IPC sections for cheating and
+  deliberately hurting religious feelings, was quashed by the Patna High Court in June 2017
+  for want of any material disclosing an offence. A separate case that a Lucknow magistrate
+  directed police to register in May 2012 was reported at the time but its later outcome could
+  not be independently verified. The tax authorities separately pursued a service-tax demand
+  running into several crores of rupees over the entry fees and "Daswand" donations collected
+  at his events, part of which he was reported to have paid while contesting the rest. The
+  Akhil Bharatiya Akhara Parishad named him on its September 2017 list of 14 religious figures
+  it called on governments to act against.
+summary_hi: >
+  निर्मलजीत सिंह नारुला, जिन्हें निर्मल बाबा के नाम से जाना जाता है, एक टेलीविज़न प्रवचनकर्ता हैं जिनके
+  "समागम" कार्यक्रमों में प्रवेश टिकट बेचे जाते थे और रोज़मर्रा की समस्याओं के "समाधान" बताए जाते थे। इससे
+  उन्हें बड़ी संख्या में अनुयायी मिले, साथ ही 2012 से बिहार, उत्तर प्रदेश और अन्य राज्यों में धोखाधड़ी की
+  शिकायतें भी मिलीं। बिहार के मुज़फ़्फ़रपुर में एक निजी परिवाद मामले में, जिसमें जुलाई 2013 में एक मजिस्ट्रेट ने
+  धोखाधड़ी और धार्मिक भावनाओं को जान-बूझकर ठेस पहुँचाने की धाराओं के तहत संज्ञान लिया था, पटना उच्च न्यायालय ने
+  जून 2017 में यह कहते हुए कार्यवाही रद्द कर दी कि कोई अपराध बनता ही नहीं दिखता। मई 2012 में लखनऊ के एक
+  मजिस्ट्रेट के आदेश पर दर्ज कराए गए एक अन्य मामले की उस समय रिपोर्टिंग हुई थी, परंतु उसका आगे का परिणाम
+  स्वतंत्र रूप से सत्यापित नहीं किया जा सका। कर विभाग ने अलग से उनके कार्यक्रमों में ली गई प्रवेश फीस और
+  "दसवंध" दान पर करोड़ों रुपये की सेवा कर माँग की, जिसका कुछ हिस्सा उन्होंने चुकाया बताया गया जबकि शेष को वे
+  चुनौती दे रहे थे। अखिल भारतीय अखाड़ा परिषद ने सितंबर 2017 की अपनी सूची में, जिसमें उसने सरकारों से 14 धार्मिक
+  व्यक्तियों के विरुद्ध कार्रवाई की माँग की थी, उनका नाम शामिल किया।
+hi_reviewed: false
+
+sources:
+  - id: nirmal-baba-src-01
+    url: https://indiankanoon.org/doc/165963266/
+    title: Nirmaljit Singh Narula @ Nirmal Baba vs State Of Bihar & Anr on 22 June, 2017
+    publisher: Patna High Court (copy hosted by Indian Kanoon)
+    type: court
+    published_at: 2017-06-22
+    language: en
+    archive_url: https://web.archive.org/web/20260908141352/https://indiankanoon.org/doc/165963266/
+    captured_at: 2026-09-09
+    sha256:
+    note: >
+      Criminal Miscellaneous No.32693 of 2013, Arun Kumar J. Quashes the order dated 09.07.2013
+      of the Judicial Magistrate 1st Class, Muzaffarpur, taking cognizance under IPC 417 and 298
+      against Nirmal Baba in Complaint Case No.955 of 2012 filed by Sudhir Kumar Ojha, holding
+      there was no material to take cognizance even on the uncontroverted allegations.
+  - id: nirmal-baba-src-02
+    url: https://www.business-standard.com/article/pti-stories/fir-against-nirmal-baba-for-cheating-fraud-112051200243_1.html
+    title: FIR against Nirmal Baba for cheating, fraud
+    publisher: Business Standard (PTI)
+    type: major_outlet
+    published_at: 2012-05-12
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Reports that Chief Judicial Magistrate Rajesh Upadhyaya, Lucknow, on 9 May 2012 directed
+      Gomti Nagar police station to register a case against Nirmal Baba on a complaint by two
+      siblings; quotes the magistrate's order describing his "samagam" solutions as superstition
+      and cheating. Later outcome of this case not located.
+  - id: nirmal-baba-src-03
+    url: https://www.oneindia.com/2012/04/23/godman-nirmal-baba-likely-to-be-arrested-fir-file.html
+    title: Godman Nirmal Baba likely to be arrested on Apr 23
+    publisher: Oneindia News
+    type: major_outlet
+    published_at: 2012-04-23
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Reports an FIR filed against Nirmal Baba in Bihar on 22 April 2012 and that police sought
+      an arrest warrant; states he had been "booked in different cheating and forgery cases in
+      many states."
+  - id: nirmal-baba-src-04
+    url: https://www.business-standard.com/article/current-affairs/rs-3-5-cr-service-tax-evasion-charge-against-nirmal-baba-114022300140_1.html
+    title: Rs 3.5-cr service tax evasion charge against 'Nirmal Baba'
+    publisher: Business Standard (PTI)
+    type: major_outlet
+    published_at: 2014-02-23
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Reports a Rs 3.58-crore service-tax demand raised by the Directorate General of Central
+      Excise Intelligence since July 2012 over "Daswand" donations, which Nirmal Baba was
+      contesting, in addition to an already-paid demand of about Rs 3.08 crore plus Rs 80 lakh
+      interest on entry fees to his "Samagam" events.
+
+cases:
+  - id: nirmal-baba-bihar-muzaffarpur-2012
+    title_en: Nirmaljit Singh Narula @ Nirmal Baba v. State of Bihar (Muzaffarpur complaint case)
+    title_hi: निर्मलजीत सिंह नारुला उर्फ़ निर्मल बाबा बनाम बिहार राज्य (मुज़फ़्फ़रपुर परिवाद मामला)
+    jurisdiction_country: IN
+    jurisdiction_region: Bihar
+    court: Patna High Court; Judicial Magistrate 1st Class, Muzaffarpur (trial court)
+    case_number: Criminal Miscellaneous No. 32693 of 2013 (High Court); Complaint Case No. 955 of 2012 (trial court)
+    filed_year: 2012
+    case_type: criminal
+    statutes: [IPC 417, IPC 298]
+    status: quashed
+    tier: closed
+    verdict_date: 2017-06-22
+    sentence_or_remedy: Order of cognizance and further proceedings quashed
+    appeal_status: Not applicable
+    summary_en: >
+      A private complaint filed by one Sudhir Kumar Ojha in Muzaffarpur led a Judicial
+      Magistrate to take cognizance on 9 July 2013 against Nirmal Baba under IPC sections 417
+      (cheating) and 298 (deliberately hurting religious feelings) over his "samagam" preaching.
+      Nirmal Baba sought quashing before the Patna High Court, which on 22 June 2017 held there
+      was no material to take cognizance even taking the allegations at face value, and quashed
+      the cognizance order and the further criminal proceeding.
+    summary_hi: >
+      मुज़फ़्फ़रपुर में सुधीर कुमार ओझा नामक व्यक्ति द्वारा दायर एक निजी परिवाद पर 9 जुलाई 2013 को एक न्यायिक
+      मजिस्ट्रेट ने निर्मल बाबा के विरुद्ध उनके "समागम" प्रवचनों को लेकर आईपीसी की धारा 417 (धोखाधड़ी) और 298
+      (धार्मिक भावनाओं को जान-बूझकर ठेस पहुँचाना) के तहत संज्ञान लिया। निर्मल बाबा ने पटना उच्च न्यायालय में
+      कार्यवाही रद्द कराने की याचिका दायर की, जिस पर न्यायालय ने 22 जून 2017 को यह कहते हुए कि आरोपों को
+      सही मानने पर भी संज्ञान लेने लायक कोई सामग्री नहीं है, संज्ञान आदेश और आगे की आपराधिक कार्यवाही रद्द कर दी।
+    source_ids: [nirmal-baba-src-01]
+
+claims:
+  - id: nirmal-baba-claim-01
+    case_id: nirmal-baba-bihar-muzaffarpur-2012
+    statement_en: On 22 June 2017 the Patna High Court (Arun Kumar J) quashed the order of cognizance dated 9 July 2013 of the Judicial Magistrate 1st Class, Muzaffarpur, and the further criminal proceedings against Nirmal Baba under IPC sections 417 and 298 in Complaint Case No. 955 of 2012, holding there was no material to sustain the charge.
+    statement_hi: 22 जून 2017 को पटना उच्च न्यायालय (न्यायमूर्ति अरुण कुमार) ने मुज़फ़्फ़रपुर के न्यायिक मजिस्ट्रेट प्रथम श्रेणी के 9 जुलाई 2013 के संज्ञान आदेश और परिवाद मामला संख्या 955/2012 में निर्मल बाबा के विरुद्ध आईपीसी धारा 417 और 298 के तहत चल रही आगे की आपराधिक कार्यवाही को यह कहते हुए रद्द कर दिया कि आरोप को बनाए रखने लायक कोई सामग्री नहीं है।
+    tier: closed
+    date: 2017-06-22
+    source_ids: [nirmal-baba-src-01]
+  - id: nirmal-baba-claim-02
+    statement_en: An FIR accusing Nirmal Baba of cheating was registered in Bihar around 22 April 2012, and police sought a warrant for his arrest; press reports at the time said he had been booked in similar cheating and forgery cases in several states.
+    statement_hi: 22 अप्रैल 2012 के आसपास बिहार में निर्मल बाबा के विरुद्ध धोखाधड़ी की एक प्राथमिकी दर्ज की गई और पुलिस ने उनकी गिरफ़्तारी के लिए वारंट की माँग की; उस समय की प्रेस रिपोर्टों के अनुसार उनके विरुद्ध कई राज्यों में इसी तरह के धोखाधड़ी और जालसाज़ी के मामले दर्ज थे।
+    tier: allegation
+    date: 2012-04-22
+    source_ids: [nirmal-baba-src-03]
+  - id: nirmal-baba-claim-03
+    statement_en: On 9 May 2012 the Chief Judicial Magistrate, Lucknow, directed Gomti Nagar police station to register a criminal case against Nirmal Baba on a complaint that his paid "samagam" solutions amounted to cheating and promoted superstition; the case's later outcome could not be independently verified.
+    statement_hi: 9 मई 2012 को लखनऊ के मुख्य न्यायिक मजिस्ट्रेट ने गोमती नगर थाने को निर्मल बाबा के विरुद्ध इस शिकायत पर मामला दर्ज करने का निर्देश दिया कि उनके सशुल्क "समागम" समाधान धोखाधड़ी और अंधविश्वास फैलाने के समान हैं; इस मामले का बाद का परिणाम स्वतंत्र रूप से सत्यापित नहीं किया जा सका।
+    tier: allegation
+    date: 2012-05-09
+    source_ids: [nirmal-baba-src-02]
+  - id: nirmal-baba-claim-04
+    statement_en: The Directorate General of Central Excise Intelligence raised a service-tax demand of about Rs 3.58 crore against Nirmal Baba from July 2012 over "Daswand" donations, in addition to an already-collected demand of about Rs 3.08 crore plus Rs 80 lakh interest on entry fees to his "Samagam" events; he was reported to be contesting the further demand.
+    statement_hi: केंद्रीय उत्पाद शुल्क आसूचना महानिदेशालय ने जुलाई 2012 से "दसवंध" दान पर निर्मल बाबा के विरुद्ध लगभग 3.58 करोड़ रुपये की सेवा कर माँग उठाई, इसके अतिरिक्त उनके "समागम" कार्यक्रमों की प्रवेश फीस पर पहले से वसूली गई लगभग 3.08 करोड़ रुपये और 80 लाख रुपये ब्याज की माँग भी थी; रिपोर्टों के अनुसार वे आगे की माँग को चुनौती दे रहे थे।
+    tier: allegation
+    date: 2014-02-23
+    source_ids: [nirmal-baba-src-04]
+  - id: nirmal-baba-claim-05
+    statement_en: On 10 September 2017 the Akhil Bharatiya Akhara Parishad released a list of 14 religious figures it called on governments to act against, and Nirmal Baba was among the names.
+    statement_hi: 10 सितंबर 2017 को अखिल भारतीय अखाड़ा परिषद ने 14 धार्मिक व्यक्तियों की एक सूची जारी की जिनके विरुद्ध उसने सरकारों से कार्रवाई की माँग की, और निर्मल बाबा का नाम भी उसमें शामिल था।
+    tier: allegation
+    date: 2017-09-10
+    source_ids: [rampal-src-08]
+
+events:
+  - date: 2012-04-22
+    kind: fir
+    label_en: FIR registered in Bihar accusing Nirmal Baba of cheating
+    label_hi: बिहार में निर्मल बाबा के विरुद्ध धोखाधड़ी की प्राथमिकी दर्ज
+    source_ids: [nirmal-baba-src-03]
+  - date: 2012-05-09
+    kind: fir
+    label_en: Lucknow CJM directs police to register a cheating case against Nirmal Baba
+    label_hi: लखनऊ के मुख्य न्यायिक मजिस्ट्रेट ने निर्मल बाबा के विरुद्ध धोखाधड़ी का मामला दर्ज करने का निर्देश दिया
+    source_ids: [nirmal-baba-src-02]
+  - date: 2013-07-09
+    kind: other
+    label_en: Muzaffarpur magistrate takes cognizance in Complaint Case No. 955/2012
+    label_hi: मुज़फ़्फ़रपुर के मजिस्ट्रेट ने परिवाद मामला संख्या 955/2012 में संज्ञान लिया
+    case_id: nirmal-baba-bihar-muzaffarpur-2012
+    source_ids: [nirmal-baba-src-01]
+  - date: 2017-06-22
+    kind: verdict
+    label_en: Patna High Court quashes the Muzaffarpur cheating case
+    label_hi: पटना उच्च न्यायालय ने मुज़फ़्फ़रपुर के धोखाधड़ी मामले को रद्द किया
+    case_id: nirmal-baba-bihar-muzaffarpur-2012
+    source_ids: [nirmal-baba-src-01]
+  - date: 2017-09-10
+    kind: other
+    label_en: Named on the Akhil Bharatiya Akhara Parishad list of 14
+    label_hi: अखिल भारतीय अखाड़ा परिषद की 14 की सूची में नाम शामिल
+    source_ids: [rampal-src-08]

@@ -51,6 +51,32 @@ summary_hi: >-
   जारी रखे हुए हैं, और सितंबर 2026 तक दूसरी संशोधित शिकायत को खारिज करने की अर्जियाँ लंबित थीं।
   बीएपीएस आरोपों से इनकार करती है।
 hi_reviewed: false
+response_from_subject:
+  text_en: >-
+    On 11 May 2021 a BAPS spokesperson, Matthew Frankel, said the organisation had been "first
+    made aware of the accusations this morning", was "taking them very seriously" and was
+    "thoroughly reviewing the issues raised". CNN reported that a BAPS spokesperson, Lenin Joshi,
+    told The New York Times: "We are naturally shaken by this turn of events and are sure that
+    once the full facts come out, we will be able to provide answers and show that these
+    accusations and allegations are without merit"; Kanu Patel, BAPS's chief executive and a named
+    defendant, disputed the wage allegations. In November 2021 a lawyer for the organisation told
+    the Associated Press that "US Government officials have authorised the use of R-1 visas for
+    stone artisans for 20 years, and federal, state, and local government agencies have regularly
+    visited and inspected all of the construction projects on which those artisans volunteered".
+    The defendants have moved to dismiss the second amended complaint and maintain that the
+    artisans were volunteers performing religious service.
+  text_hi: >-
+    11 मई 2021 को बीएपीएस के प्रवक्ता मैथ्यू फ्रैंकल ने कहा कि संगठन को "आरोपों की जानकारी आज सुबह
+    ही मिली", वह उन्हें "बहुत गंभीरता से ले रहा है" और "उठाए गए मुद्दों की गहन समीक्षा कर रहा है"।
+    सीएनएन ने बताया कि बीएपीएस के प्रवक्ता लेनिन जोशी ने द न्यूयॉर्क टाइम्स से कहा: "हम इस घटनाक्रम
+    से स्वाभाविक रूप से हिल गए हैं और हमें विश्वास है कि पूरे तथ्य सामने आने पर हम उत्तर दे सकेंगे
+    और दिखा सकेंगे कि ये आरोप निराधार हैं"; बीएपीएस के मुख्य कार्यकारी और नामित प्रतिवादी कनु पटेल ने
+    वेतन संबंधी आरोपों को अस्वीकार किया। नवंबर 2021 में संगठन के एक वकील ने एसोसिएटेड प्रेस से कहा कि
+    "अमेरिकी सरकारी अधिकारियों ने 20 वर्षों से पत्थर कारीगरों के लिए आर-1 वीज़ा के उपयोग की अनुमति दी
+    है, और संघीय, राज्य तथा स्थानीय सरकारी एजेंसियों ने उन सभी निर्माण परियोजनाओं का नियमित दौरा और
+    निरीक्षण किया है जिनमें उन कारीगरों ने स्वेच्छा से सेवा दी"। प्रतिवादियों ने दूसरी संशोधित शिकायत
+    खारिज करने की अर्जी दी है और उनका कहना है कि कारीगर धार्मिक सेवा करने वाले स्वयंसेवक थे।
+  source_id: baps-src-05
 
 sources:
   - id: baps-src-01
@@ -83,7 +109,7 @@ sources:
     note: >-
       42-page complaint by Mukesh Kumar, Keshav Kumar, Devi Laal, Niranjan, Pappu and Brajendra.
       Six causes of action: TVPA (18 U.S.C. 1595, pleading violations of 18 U.S.C. 1589, 1590,
-      1592(a) and 1597(a)); FLSA minimum wage and overtime; N.J.S.A. 34:11-56a et seq.; N.J.S.A.
+      1592(a), 1594(a), 1594(b) and 1597(a)); FLSA minimum wage and overtime; N.J.S.A. 34:11-56a et seq.; N.J.S.A.
       34:11-4.4 et seq.; unjust enrichment; quantum meruit. Alleges more than 200 R-1 workers,
       87-hour weeks, about $450 a month or roughly $1.20 an hour, passports confiscated on arrival,
       a fenced and guarded compound, and recruitment from Scheduled Caste and other marginalised
@@ -119,6 +145,81 @@ sources:
       longer a basis on which to continue the stay". The same letter records that on 11 May 2021 the
       Department of Justice and various federal investigative agencies conducted a search at the
       Robbinsville mandir.
+  - id: baps-src-05
+    url: https://www.cnn.com/2021/05/12/us/new-jersey-baps-hindu-temple-suit
+    title: Lawsuit claims New Jersey Hindu temple was built on forced labor
+    publisher: CNN (Evan Simko-Bednarski)
+    type: major_outlet
+    published_at: 2021-05-12
+    language: en
+    archive_url:
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      Doreen Holder, a spokesperson for the FBI's Newark field office, confirmed the agents'
+      presence at the temple, saying only that the FBI was on scene "on court-authorized law
+      enforcement activity". Carries BAPS spokesperson Matthew Frankel's statement and, at second
+      hand from The New York Times, the statements of BAPS spokesperson Lenin Joshi and chief
+      executive Kanu Patel.
+  - id: baps-src-06
+    url: https://www.nbcnews.com/news/us-news/hindu-temple-new-jersey-accused-shocking-violations-forced-labor-lawsuit-n1267041
+    title: Hindu temple in New Jersey accused of "shocking" violations of forced labor laws in lawsuit
+    publisher: NBC News (Daniella Silva)
+    type: major_outlet
+    published_at: 2021-05-11
+    language: en
+    archive_url:
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      Reports the FBI's "court-authorized law enforcement activity" statement and that Homeland
+      Security Investigations declined to comment.
+  - id: baps-src-07
+    url: https://whyy.org/articles/suit-workers-lured-to-n-j-from-india-paid-1-20-per-hour-for-years/
+    title: "Suit: Workers lured to N.J. from India paid $1.20 per hour for years"
+    publisher: Associated Press (David Porter and Mallika Sen) via WHYY
+    type: major_outlet
+    published_at: 2021-05-12
+    language: en
+    archive_url:
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      An FBI spokesperson confirmed agents were at the temple on "court-authorized law enforcement
+      activity" but would not elaborate; one of the attorneys who filed the suit said some workers
+      were removed from the site on 11 May 2021. Carries Matthew Frankel's statement for BAPS.
+  - id: baps-src-08
+    url: https://www.aljazeera.com/news/2021/11/11/human-trafficking-suit-spreads-to-hindu-temples-in-five-us-states
+    title: Human trafficking suit spreads to Hindu temples in five US states
+    publisher: Al Jazeera
+    type: major_outlet
+    published_at: 2021-11-11
+    language: en
+    archive_url:
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      Reports the amended complaint extending the claims to BAPS sites in other states and quotes a
+      lawyer for the organisation that "US Government officials have authorised the use of R-1 visas
+      for stone artisans for 20 years, and federal, state, and local government agencies have
+      regularly visited and inspected all of the construction projects on which those artisans
+      volunteered".
+  - id: baps-src-09
+    url: https://m.thewire.in/article/rights/rights-groups-justice-baps-nj-temple-workers-doj-case
+    title: "'Workers Exploited By BAPS': Calls For Justice as US Govt Concludes Probe"
+    publisher: The Wire (Anirudh S. K.)
+    type: major_outlet
+    published_at: 2025-10-11
+    language: en
+    archive_url:
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      Reports the court filing in which BAPS's lawyer said government attorneys had informed him
+      that the "DOJ has closed its investigation of BAPS and the other entities and individuals
+      named as defendants in this lawsuit", and records that the Dalit Solidarity Forum and other
+      groups under the Savera umbrella called for a full investigation into BAPS's recruitment and
+      contracting practices.
 
 cases:
   - id: baps-njd-kumar-forced-labour-2021
@@ -135,6 +236,8 @@ cases:
       - 18 U.S.C. 1589
       - 18 U.S.C. 1590
       - 18 U.S.C. 1592(a)
+      - 18 U.S.C. 1594(a)
+      - 18 U.S.C. 1594(b)
       - 18 U.S.C. 1597(a)
       - 29 U.S.C. 201 et seq. (FLSA)
       - N.J.S.A. 34:11-56a et seq.
@@ -210,7 +313,7 @@ cases:
       न्यायालय को बताया कि सरकारी अधिवक्ताओं ने 15 और 16 सितंबर 2025 को सूचित किया कि न्याय विभाग ने
       बीएपीएस तथा अन्य नामित प्रतिवादियों की जांच बंद कर दी है। 28 अक्टूबर 2025 को मजिस्ट्रेट
       न्यायाधीश टोनियन जे. बोंजियोवानी ने मामला पुनः खोलकर स्थगन हटा दिया।
-    source_ids: [baps-src-01, baps-src-04]
+    source_ids: [baps-src-01, baps-src-04, baps-src-05, baps-src-09]
 
 claims:
   - id: baps-claim-01
@@ -247,17 +350,33 @@ claims:
     case_id: baps-njd-kumar-forced-labour-2021
     statement_en: >-
       The complaint pleads claims under the Trafficking Victims Protection Act's civil remedy,
-      18 U.S.C. 1595, alleging violations of 18 U.S.C. 1589, 1590, 1592(a) and 1597(a), together
+      18 U.S.C. 1595, alleging violations of 18 U.S.C. 1589, 1590, 1592(a), 1594(a), 1594(b) and
+      1597(a), together
       with claims under the Fair Labor Standards Act, the New Jersey Wage and Hour Law, the New
       Jersey Wage Payment Law, unjust enrichment and quantum meruit.
     statement_hi: >-
       शिकायत में ट्रैफिकिंग विक्टिम्स प्रोटेक्शन एक्ट के दीवानी उपचार, 18 यू.एस.सी. 1595 के तहत दावे
-      किए गए हैं, जिनमें 18 यू.एस.सी. 1589, 1590, 1592(क) और 1597(क) के उल्लंघन का आरोप है, साथ ही
+      किए गए हैं, जिनमें 18 यू.एस.सी. 1589, 1590, 1592(क), 1594(क), 1594(ख) और 1597(क) के उल्लंघन का आरोप है, साथ ही
       फेयर लेबर स्टैंडर्ड्स एक्ट, न्यू जर्सी वेतन एवं घंटा कानून, न्यू जर्सी वेतन भुगतान कानून,
       अन्यायपूर्ण संवर्धन और क्वांटम मेरुइट के तहत दावे शामिल हैं।
     tier: allegation
     date: 2021-05-11
     source_ids: [baps-src-02]
+  - id: baps-claim-09
+    case_id: baps-nj-federal-criminal-investigation-2021
+    statement_en: >-
+      On 11 May 2021 federal agents were present at the BAPS Shri Swaminarayan Mandir in
+      Robbinsville; Doreen Holder, a spokesperson for the FBI's Newark field office, confirmed the
+      agents' presence and said only that the FBI was on scene "on court-authorized law enforcement
+      activity", and Homeland Security Investigations declined to comment.
+    statement_hi: >-
+      11 मई 2021 को रॉबिन्सविल स्थित बीएपीएस श्री स्वामीनारायण मंदिर में संघीय एजेंट मौजूद थे;
+      एफबीआई के नेवार्क फील्ड कार्यालय की प्रवक्ता डोरीन होल्डर ने एजेंटों की उपस्थिति की पुष्टि की
+      और केवल इतना कहा कि एफबीआई "न्यायालय द्वारा अधिकृत विधि प्रवर्तन कार्रवाई" पर मौके पर थी, तथा
+      होमलैंड सिक्योरिटी इन्वेस्टिगेशन्स ने टिप्पणी करने से इनकार किया।
+    tier: closed
+    date: 2021-05-11
+    source_ids: [baps-src-04, baps-src-05, baps-src-06, baps-src-07]
   - id: baps-claim-04
     case_id: baps-nj-federal-criminal-investigation-2021
     statement_en: >-
@@ -297,7 +416,7 @@ claims:
       नामित अन्य संस्थाओं और व्यक्तियों की जांच बंद कर दी है।
     tier: closed
     date: 2025-09-18
-    source_ids: [baps-src-04]
+    source_ids: [baps-src-04, baps-src-09]
   - id: baps-claim-07
     case_id: baps-nj-federal-criminal-investigation-2021
     statement_en: >-
@@ -332,7 +451,7 @@ events:
     label_en: Class action filed in the District of New Jersey and a federal search carried out at the Robbinsville mandir
     label_hi: न्यू जर्सी जिले में वर्ग वाद दायर और रॉबिन्सविल मंदिर में संघीय तलाशी
     case_id: baps-njd-kumar-forced-labour-2021
-    source_ids: [baps-src-01, baps-src-02, baps-src-04]
+    source_ids: [baps-src-01, baps-src-02, baps-src-04, baps-src-05, baps-src-07]
   - date: 2021-11-23
     kind: other
     label_en: Court stays the civil case under the TVPA's mandatory stay provision
@@ -356,7 +475,7 @@ events:
     label_en: BAPS counsel tells the court the Department of Justice has closed its investigation
     label_hi: बीएपीएस के वकील ने न्यायालय को बताया कि न्याय विभाग ने जांच बंद कर दी है
     case_id: baps-nj-federal-criminal-investigation-2021
-    source_ids: [baps-src-04]
+    source_ids: [baps-src-04, baps-src-09]
   - date: 2025-10-28
     kind: other
     label_en: Court reopens the case and lifts the stay
