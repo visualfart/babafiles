@@ -1,5 +1,5 @@
 import { and, desc, eq, inArray, or, sql } from "drizzle-orm";
-import { db, client } from "@/db/client";
+import { db } from "@/db/client";
 import * as t from "@/db/schema";
 import { ADVERSE_TIERS, TIERS, type Tier } from "./tiers";
 
@@ -17,12 +17,10 @@ async function linkMap(
 ): Promise<Map<string, string[]>> {
   const m = new Map<string, string[]>();
   if (ids.length === 0) return m;
-  const placeholders = ids.map(() => "?").join(",");
-  const res = await client.execute({
-    sql: `SELECT ${keyCol} AS k, source_id AS s FROM ${tbl} WHERE ${keyCol} IN (${placeholders})`,
-    args: ids,
-  });
-  for (const r of res.rows) {
+  const res = await db.all<{ k: string; s: string }>(
+    sql`SELECT ${sql.raw(keyCol)} AS k, source_id AS s FROM ${sql.raw(tbl)} WHERE ${sql.raw(keyCol)} IN ${ids}`,
+  );
+  for (const r of res) {
     const k = String(r.k); const s = String(r.s);
     if (!m.has(k)) m.set(k, []);
     m.get(k)!.push(s);
@@ -119,7 +117,7 @@ export async function getSourceFull(id: string) {
   const s = (await db.select().from(t.sources).where(eq(t.sources.id, id)))[0];
   if (!s) return null;
   const q = async (tbl: string, col: string) =>
-    (await client.execute({ sql: `SELECT ${col} AS k FROM ${tbl} WHERE source_id = ?`, args: [id] })).rows.map((r) => String(r.k));
+    (await db.all<{ k: string }>(sql`SELECT ${sql.raw(col)} AS k FROM ${sql.raw(tbl)} WHERE source_id = ${id}`)).map((r) => String(r.k));
   const [claimIds, caseIds, eventIds, relIds] = await Promise.all([
     q("claim_sources", "claim_id"), q("case_sources", "case_id"), q("event_sources", "event_id"), q("relationship_sources", "relationship_id"),
   ]);
@@ -138,12 +136,11 @@ export async function search(q: string) {
   if (!term) return [];
   // Prefix-match each token; quote to neutralise FTS operators.
   const match = term.split(/\s+/).map((w) => `"${w.replace(/"/g, "")}"*`).join(" ");
-  const res = await client.execute({
-    sql: `SELECT e.* FROM entities_fts f JOIN entities e ON e.id = f.id
-          WHERE entities_fts MATCH ? AND e.is_subject = 1 ORDER BY bm25(entities_fts) LIMIT 50`,
-    args: [match],
-  });
-  return res.rows.map((r) => ({
+  const res = await db.all<Record<string, unknown>>(
+    sql`SELECT e.* FROM entities_fts f JOIN entities e ON e.id = f.id
+        WHERE entities_fts MATCH ${match} AND e.is_subject = 1 ORDER BY bm25(entities_fts) LIMIT 50`,
+  );
+  return res.map((r) => ({
     id: String(r.id), nameEn: String(r.name_en), nameHi: r.name_hi ? String(r.name_hi) : null,
     overallTier: r.overall_tier ? String(r.overall_tier) : null, baseLocation: r.base_location ? String(r.base_location) : null,
     type: String(r.type), activityStatus: r.activity_status ? String(r.activity_status) : null,

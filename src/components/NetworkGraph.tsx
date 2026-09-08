@@ -1,5 +1,6 @@
 "use client";
 import { useEffect, useRef } from "react";
+import { useRouter } from "next/navigation";
 import * as d3 from "d3";
 
 export interface GNode { id: string; nameEn: string; nameHi: string | null; type: string; overallTier: string | null; isSubject: boolean; adverse: boolean; }
@@ -7,6 +8,7 @@ export interface GLink { source: string; target: string; type: string; id: strin
 
 export function NetworkGraph({ nodes, links, lang, focus }: { nodes: GNode[]; links: GLink[]; lang: string; focus?: string }) {
   const ref = useRef<SVGSVGElement>(null);
+  const router = useRouter();
 
   useEffect(() => {
     const svg = d3.select(ref.current!);
@@ -34,7 +36,7 @@ export function NetworkGraph({ nodes, links, lang, focus }: { nodes: GNode[]; li
 
     const node = g.append("g").selectAll<SVGGElement, N>("g").data(ns).join("g")
       .style("cursor", "pointer")
-      .on("click", (_, d) => { window.location.href = `/${lang}/records/${d.id}`; });
+      .on("click", (_, d) => { router.push(`/${lang}/records/${d.id}`); });
     node.append("circle")
       .attr("r", (d) => (d.isSubject ? 9 : 6))
       .attr("fill", (d) => (d.adverse ? "#111" : "#fff"))
@@ -60,7 +62,7 @@ export function NetworkGraph({ nodes, links, lang, focus }: { nodes: GNode[]; li
       node.attr("transform", (d) => `translate(${d.x},${d.y})`);
     });
     return () => { sim.stop(); };
-  }, [nodes, links, lang, focus]);
+  }, [nodes, links, lang, focus, router]);
 
   return <svg ref={ref} className="w-full border hair" style={{ height: "min(70vh, 760px)" }} role="img" aria-label="relationship graph" />;
 }

@@ -1,9 +1,9 @@
 import fs from "node:fs";
 import { migrate } from "drizzle-orm/libsql/migrator";
-import { db, client } from "../src/db/client";
 
 async function main() {
 fs.mkdirSync(".data", { recursive: true });
+const { db, client } = await import("../src/db/client");
 await migrate(db, { migrationsFolder: "src/db/migrations" });
 
 // Full-text search over entities. External-content FTS5 table kept in sync by triggers.

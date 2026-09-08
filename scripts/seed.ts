@@ -23,7 +23,7 @@ async function main() {
     await client.execute(`DELETE FROM ${table}`);
   }
 
-  let counts = { entities: 0, sources: 0, cases: 0, claims: 0, events: 0, relationships: 0 };
+  const counts = { entities: 0, sources: 0, cases: 0, claims: 0, events: 0, relationships: 0 };
 
   for (const ef of files.values()) {
     const tiers: Tier[] = [...ef.cases.map((c) => c.tier), ...ef.claims.map((c) => c.tier)];
