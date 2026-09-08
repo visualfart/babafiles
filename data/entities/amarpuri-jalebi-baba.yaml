@@ -1,0 +1,439 @@
+id: amarpuri-jalebi-baba
+type: person
+is_subject: true
+name_en: Amarpuri (Jalebi Baba)
+name_hi: अमरपुरी (जलेबी बाबा)
+aliases: [Jalebi Baba, Billu Ram, Amar Puri, Amarveer, Amarpuri Billu]
+born:
+died: 2024-05-08
+base_location: Tohana, Fatehabad district, Haryana
+country: IN
+countries_of_operation: [IN]
+organisations: [Baba Balak Nath Mandir, Tohana]
+activity_status: deceased
+abap_2017_list: false
+summary_en: >
+  Amarpuri, alias Billu Ram, known locally as "Jalebi Baba", ran an ashram at a temple in
+  Tohana, Fatehabad district, Haryana. Tohana police registered a case against him on
+  19 July 2018 under IPC sections 292, 293, 294, 376, 384 and 509 and section 67A of the IT
+  Act, with POCSO Act sections added later, after video clips allegedly showing him with
+  women were recovered. The Tribune reported that the Fast Track Court at Fatehabad
+  (Judge Balwant Singh) convicted him on 5 January 2023 and on 10 January 2023 sentenced
+  him to 14 years' imprisonment with a fine of Rs 35,000; his counsel said the verdict
+  would be challenged in the Punjab and Haryana High Court. He died in custody at Hisar
+  on 8 May 2024. No court or official record has yet been obtained for this file, so all
+  claims are held at the allegation tier pending that record.
+summary_hi: >
+  अमरपुरी उर्फ बिल्लू राम, जिन्हें स्थानीय रूप से "जलेबी बाबा" कहा जाता था, हरियाणा के
+  फतेहाबाद जिले के टोहाना में एक मंदिर परिसर में आश्रम चलाते थे। टोहाना पुलिस ने 19 जुलाई
+  2018 को उनके विरुद्ध आईपीसी की धारा 292, 293, 294, 376, 384, 509 और आईटी अधिनियम की धारा
+  67A के तहत मामला दर्ज किया; बाद में पॉक्सो अधिनियम की धाराएँ जोड़ी गईं। द ट्रिब्यून के
+  अनुसार फतेहाबाद की फास्ट ट्रैक अदालत (न्यायाधीश बलवंत सिंह) ने 5 जनवरी 2023 को उन्हें
+  दोषी ठहराया और 10 जनवरी 2023 को 14 वर्ष के कारावास तथा 35,000 रुपये जुर्माने की सज़ा
+  सुनाई; उनके वकील ने कहा कि फैसले को पंजाब एवं हरियाणा उच्च न्यायालय में चुनौती दी
+  जाएगी। 8 मई 2024 को हिसार में हिरासत के दौरान उनकी मृत्यु हो गई। इस फ़ाइल के लिए अभी
+  तक कोई अदालती या आधिकारिक रिकॉर्ड प्राप्त नहीं हुआ है, इसलिए सभी दावे उस रिकॉर्ड के
+  मिलने तक आरोप स्तर पर रखे गए हैं।
+hi_reviewed: false
+response_from_subject:
+  text_en: >
+    Defence counsel Gajender Pandey, quoted by The Tribune after sentencing, said the case
+    "is entirely dependent on the contents of the CDs and the requisite certificate under
+    the section 65B of the Indian Evidence Act was not given in the court for
+    authenticity", and added: "We are waiting for the judgement and will challenge it in
+    the high court."
+  text_hi: >
+    सज़ा सुनाए जाने के बाद द ट्रिब्यून से बात करते हुए बचाव पक्ष के वकील गजेंद्र पांडे ने
+    कहा कि मामला पूरी तरह सीडी की सामग्री पर निर्भर है और भारतीय साक्ष्य अधिनियम की धारा
+    65B के तहत प्रामाणिकता का आवश्यक प्रमाणपत्र अदालत में नहीं दिया गया; उन्होंने कहा कि
+    "हम फैसले की प्रतीक्षा कर रहे हैं और इसे उच्च न्यायालय में चुनौती देंगे।"
+  source_id: amarpuri-jalebi-baba-src-02
+
+sources:
+  - id: amarpuri-jalebi-baba-src-01
+    url: https://www.tribuneindia.com/news/haryana/jalebi-baba-gets-14-yr-jail-for-sexual-abuse-469344/
+    title: "'Jalebi baba' gets 14-yr jail for sexual abuse"
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2023-01-10
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Tribune News Service, datelined "Fatehabad, January 10". States the Fast Track Court
+      judge Balwant Singh convicted Billu Ram alias Amarpuri alias Jalebi baba on January 5
+      and that "the quantum of punishment was awarded today" (14 years, fine Rs 35,000).
+      Gives the FIR date of July 19, 2018 and the IPC/POCSO/IT Act sections.
+  - id: amarpuri-jalebi-baba-src-02
+    url: https://www.tribuneindia.com/news/haryana/jalebi-baba-who-lured-several-women-to-sexually-exploit-them-for-years-gets-14-year-jail-term-469527
+    title: "Jalebi baba, who lured several women to sexually exploit them for years, gets 14-year jail term"
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2023-01-11
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      By Deepender Deswal, datelined "Hisar, January 11". Sentence breakdown (14 years
+      POCSO, 7 years each on two rape counts, 5 years IT Act, concurrent), six women
+      traced from the footage and five agreed to depose, conviction on the evidence of
+      three women including a minor, pending NDPS Act case, 2017 complaint, and defence
+      counsel Gajender Pandey's statement that the verdict would be challenged in the
+      High Court.
+  - id: amarpuri-jalebi-baba-src-03
+    url: https://www.tribuneindia.com/news/haryana/jalebi-baba-lured-women-by-offering-magical-remedies-469620/amp
+    title: "Jalebi baba lured women by offering magical remedies"
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2023-01-11
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Tribune News Service, datelined "Hisar, January 11"; says he "was yesterday
+      sentenced", i.e. 10 January 2023. Police "got CDs of sexual abuse of nearly 120
+      women"; the Tohana SHO received a video clip on a mobile phone; he had been in jail
+      "nearly four and a half years" to be deducted from the term. Gives his age as 55.
+  - id: amarpuri-jalebi-baba-src-04
+    url: https://www.outlookindia.com/national/who-is-godman-jalebi-baba-convicted-for-raping-up-to-120-women-and-sentenced-to-14-years-in-jail-news-252768
+    title: "Who Is Godman Jalebi Baba, Convicted For Raping Up To 120 Women And Sentenced To 14 Years In Jail?"
+    publisher: Outlook India
+    type: major_outlet
+    published_at: 2023-01-11
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Outlook News Desk. Sentence under Section 6 POCSO, Section 376-C IPC (two counts)
+      and Section 67-A IT Act; acquitted under the Arms Act; victims' counsel Sanjay Verma
+      quoted on time served. Gives his age as 63 (the Tribune gives 55).
+  - id: amarpuri-jalebi-baba-src-05
+    url: https://www.etvbharat.com/english/state/haryana/haryana-court-to-announce-quantum-of-punishment-for-jalebi-baba-on-monday/na20230107224356204204387
+    title: "Haryana court to announce quantum of punishment for 'Jalebi Baba' on Monday"
+    publisher: ETV Bharat
+    type: other
+    published_at: 2023-01-07
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Names the complainant as Pradeep Kumar, then city station in charge, Tohana, and
+      says the arrest in July 2018 was made by then Fatehabad DSP Joginder Sharma.
+      Used for identity and timeline detail only.
+  - id: amarpuri-jalebi-baba-src-06
+    url: https://www.dnaindia.com/india/report-why-is-amarpuri-billu-called-jalebi-baba-serial-rapist-and-tantrik-police-found-120-rape-clips-3016059
+    title: "Why is Amarpuri Billu called Jalebi Baba, serial rapist and tantrik? Police found 120 rape clips"
+    publisher: DNA India
+    type: other
+    published_at: 2023-01-10
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Reports conviction on January 5 and lists the seized items (video tapes, pills,
+      mobile, account books, diaries, live bullets, cheque books). Says he obtained bail
+      after the initial 2018 arrest; this is not corroborated by the Tribune, which says
+      he had been in jail about four and a half years at sentencing. Background only.
+  - id: amarpuri-jalebi-baba-src-07
+    url: https://www.businesstoday.in/latest/trends/story/haryana-who-is-jalebi-baba-the-self-styled-godman-convicted-for-raping-over-100-women-359809-2023-01-11
+    title: "Haryana: Who is 'Jalebi Baba', the self styled godman convicted for raping over 100 women"
+    publisher: Business Today
+    type: other
+    published_at: 2023-01-11
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Identifies him as chief seer at Baba Balak Nath Mandir, Tohana; from Mansa, Punjab;
+      quotes then women's police cell in-charge Bimla Devi on 120 clips recovered from his
+      mobile phone. Identity facts only.
+  - id: amarpuri-jalebi-baba-src-08
+    url: https://www.freepressjournal.in/india/who-was-jalebi-baba-jailed-tantrik-who-raped-made-obscene-videos-of-over-100-women-dies-in-hisar-jail
+    title: "Who Was Jalebi Baba? Jailed Tantrik Who Raped & Made Obscene Videos Of Over 100 Women Dies In Hisar Jail"
+    publisher: The Free Press Journal
+    type: other
+    published_at: 2024-05-09
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      By Azhar Khan. "Jalebi Baba died on Wednesday (May 8) after he fell ill and
+      complained of chest pain inside prison"; lodged in Central Jail-2, Hisar; taken to
+      Agroha PGIMS where he was pronounced dead. Death (identity fact) only.
+  - id: amarpuri-jalebi-baba-src-09
+    url: https://www.sentinelassam.com/more-news/national-news/haryanas-self-styled-godman-jalebi-baba-convicted-of-raping-his-disciples-dies-in-jail
+    title: "Haryana's Self-Styled Godman 'Jalebi Baba', Convicted Of Raping His Disciples Dies In Jail"
+    publisher: The Sentinel (Assam)
+    type: other
+    published_at: 2024-05-10
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Says he complained of discomfort on Tuesday night (7 May 2024) and was rushed to
+      hospital; defence lawyer Gajender Pandey attributed the death to a heart attack
+      linked to diabetes. Death (identity fact) only.
+
+cases:
+  - id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    title_en: State v. Billu Ram alias Amarpuri (Tohana FIR of 19 July 2018; Fast Track Court, Fatehabad)
+    title_hi: राज्य बनाम बिल्लू राम उर्फ अमरपुरी (टोहाना एफआईआर, 19 जुलाई 2018; फास्ट ट्रैक कोर्ट, फतेहाबाद)
+    jurisdiction_country: IN
+    jurisdiction_region: Haryana
+    court: Fast Track Court (Additional District Judge Balwant Singh), Fatehabad
+    case_number:
+    filed_year: 2018
+    case_type: criminal
+    statutes: [IPC 292, IPC 293, IPC 294, IPC 376, IPC 384, IPC 509, POCSO s.6, IT Act s.67A, Arms Act]
+    status: >
+      Reported by The Tribune as convicted on 5 January 2023 and sentenced on 10 January
+      2023; defence counsel said the verdict would be challenged in the Punjab and Haryana
+      High Court; the convict died in custody on 8 May 2024. Held at allegation tier
+      because no court or official record has yet been obtained.
+    tier: allegation
+    verdict_date: 2023-01-05
+    sentence_or_remedy: >
+      14 years' rigorous imprisonment under POCSO s.6, 7 years each on two rape counts
+      (reported as IPC 376/376-C) and 5 years under IT Act s.67A, all concurrent, with a
+      fine of Rs 35,000; acquitted of the Arms Act charge (as reported).
+    appeal_status: >
+      Defence counsel Gajender Pandey told The Tribune on 11 January 2023 that the verdict
+      would be challenged in the High Court. No Punjab and Haryana High Court order or
+      case-status record could be located as of 2026-09-09; the convict died on
+      8 May 2024.
+    summary_en: >
+      Tohana city police registered a case on 19 July 2018, on the complaint of the then
+      SHO, under IPC sections 292, 293, 294, 376, 384 and 509 and section 67A of the IT
+      Act, after a video clip allegedly showing Amarpuri with a woman reached the police;
+      POCSO Act sections were added when a minor was identified among the victims. Police
+      told reporters that around 120 video clips were recovered and that six women were
+      traced from the footage, of whom five agreed to depose. The Tribune reported that the
+      Fast Track Court at Fatehabad convicted him on 5 January 2023 on the evidence of
+      three women including a minor, and on 10 January 2023 sentenced him to 14 years'
+      imprisonment with a fine of Rs 35,000, the sentences running concurrently, with
+      about four and a half years already served to be deducted. His counsel argued the
+      case rested on CDs without a section 65B certificate and said the verdict would be
+      appealed. No court judgment or official statement has yet been fetched for this file.
+    summary_hi: >
+      टोहाना शहर पुलिस ने 19 जुलाई 2018 को तत्कालीन थाना प्रभारी की शिकायत पर आईपीसी की
+      धारा 292, 293, 294, 376, 384, 509 और आईटी अधिनियम की धारा 67A के तहत मामला दर्ज
+      किया, जब कथित रूप से अमरपुरी को एक महिला के साथ दिखाने वाली एक वीडियो क्लिप पुलिस
+      तक पहुँची; पीड़ितों में एक नाबालिग की पहचान होने पर पॉक्सो अधिनियम की धाराएँ जोड़ी
+      गईं। पुलिस ने पत्रकारों को बताया कि लगभग 120 वीडियो क्लिप बरामद हुईं और फुटेज से छह
+      महिलाओं का पता लगाया गया, जिनमें से पाँच गवाही देने को तैयार हुईं। द ट्रिब्यून के
+      अनुसार फतेहाबाद की फास्ट ट्रैक अदालत ने 5 जनवरी 2023 को एक नाबालिग सहित तीन
+      महिलाओं की गवाही के आधार पर उन्हें दोषी ठहराया और 10 जनवरी 2023 को 14 वर्ष के
+      कारावास तथा 35,000 रुपये जुर्माने की सज़ा सुनाई; सभी सज़ाएँ साथ-साथ चलेंगी और लगभग
+      साढ़े चार वर्ष की पहले से काटी गई अवधि घटाई जाएगी। उनके वकील ने कहा कि मामला बिना
+      धारा 65B प्रमाणपत्र वाली सीडी पर टिका है और फैसले के विरुद्ध अपील की जाएगी। इस
+      फ़ाइल के लिए अभी तक कोई अदालती निर्णय या आधिकारिक बयान प्राप्त नहीं हुआ है।
+    source_ids: [amarpuri-jalebi-baba-src-01, amarpuri-jalebi-baba-src-02, amarpuri-jalebi-baba-src-03, amarpuri-jalebi-baba-src-04]
+
+  - id: amarpuri-jalebi-baba-ndps-tohana
+    title_en: State v. Amarpuri (NDPS Act case, Tohana)
+    title_hi: राज्य बनाम अमरपुरी (एनडीपीएस अधिनियम मामला, टोहाना)
+    jurisdiction_country: IN
+    jurisdiction_region: Haryana
+    court: District Courts, Fatehabad
+    case_number:
+    filed_year: 2018
+    case_type: criminal
+    statutes: [NDPS Act]
+    status: >
+      Reported by The Tribune in January 2023 as under trial after police recovered drugs
+      from him; no outcome located. The accused died on 8 May 2024.
+    tier: allegation
+    verdict_date:
+    sentence_or_remedy:
+    appeal_status:
+    summary_en: >
+      The Tribune reported on 11 January 2023 that, apart from the sexual-offence case,
+      Amarpuri was "also facing another case under the NDPS Act as the police had recovered
+      drugs from him which are under trial in the court". Reports of the 2018 search list
+      intoxicating pills among the items seized from the ashram. No case number, court
+      record or outcome has been located; the filing year is inferred from the 2018
+      arrest and is unconfirmed.
+    summary_hi: >
+      द ट्रिब्यून ने 11 जनवरी 2023 को बताया कि यौन अपराध के मामले के अलावा अमरपुरी पर
+      एनडीपीएस अधिनियम के तहत एक और मामला चल रहा था, क्योंकि पुलिस ने उनसे नशीले पदार्थ
+      बरामद किए थे। 2018 की तलाशी की रिपोर्टों में आश्रम से जब्त वस्तुओं में नशीली
+      गोलियाँ शामिल बताई गई हैं। कोई मामला संख्या, अदालती रिकॉर्ड या परिणाम नहीं मिला है;
+      दाखिल होने का वर्ष 2018 की गिरफ्तारी से अनुमानित है और अपुष्ट है।
+    source_ids: [amarpuri-jalebi-baba-src-02]
+
+claims:
+  - id: amarpuri-jalebi-baba-claim-01
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    statement_en: >
+      On 19 July 2018 Tohana police registered a case against Amarpuri under IPC sections
+      292, 293, 294, 376, 384 and 509 and section 67A of the IT Act, on the complaint of
+      the then SHO of Tohana police station; POCSO Act sections were added later.
+    statement_hi: >
+      19 जुलाई 2018 को टोहाना पुलिस ने टोहाना थाने के तत्कालीन थाना प्रभारी की शिकायत पर
+      अमरपुरी के विरुद्ध आईपीसी की धारा 292, 293, 294, 376, 384, 509 और आईटी अधिनियम की
+      धारा 67A के तहत मामला दर्ज किया; बाद में पॉक्सो अधिनियम की धाराएँ जोड़ी गईं।
+    tier: allegation
+    date: 2018-07-19
+    source_ids: [amarpuri-jalebi-baba-src-01, amarpuri-jalebi-baba-src-02]
+
+  - id: amarpuri-jalebi-baba-claim-02
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    statement_en: >
+      Police told The Tribune that the Tohana SHO received a video clip on a mobile phone
+      and that CDs containing footage of the sexual abuse of nearly 120 women were
+      recovered; six women were traced from the footage and five agreed to depose.
+    statement_hi: >
+      पुलिस ने द ट्रिब्यून को बताया कि टोहाना थाना प्रभारी को मोबाइल फोन पर एक वीडियो
+      क्लिप मिली और लगभग 120 महिलाओं के यौन शोषण की फुटेज वाली सीडी बरामद की गईं; फुटेज से
+      छह महिलाओं का पता लगाया गया, जिनमें से पाँच गवाही देने को तैयार हुईं।
+    tier: allegation
+    date: 2023-01-11
+    source_ids: [amarpuri-jalebi-baba-src-02, amarpuri-jalebi-baba-src-03]
+
+  - id: amarpuri-jalebi-baba-claim-03
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    statement_en: >
+      Amarpuri was arrested in July 2018 and, according to The Tribune and Outlook, had
+      been in jail for about four and a half years by the time of sentencing in January
+      2023, that period to be deducted from his term.
+    statement_hi: >
+      अमरपुरी को जुलाई 2018 में गिरफ्तार किया गया और द ट्रिब्यून तथा आउटलुक के अनुसार जनवरी
+      2023 में सज़ा सुनाए जाने तक वे लगभग साढ़े चार वर्ष जेल में रह चुके थे, जो अवधि उनकी
+      सज़ा से घटाई जानी थी।
+    tier: allegation
+    date: 2018-07
+    source_ids: [amarpuri-jalebi-baba-src-03, amarpuri-jalebi-baba-src-04, amarpuri-jalebi-baba-src-05]
+
+  - id: amarpuri-jalebi-baba-claim-04
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    statement_en: >
+      The Tribune reported that on 5 January 2023 Fast Track Court judge Balwant Singh at
+      Fatehabad convicted Billu Ram alias Amarpuri alias Jalebi Baba, relying on the
+      evidence of three women including a minor.
+    statement_hi: >
+      द ट्रिब्यून के अनुसार 5 जनवरी 2023 को फतेहाबाद के फास्ट ट्रैक कोर्ट के न्यायाधीश
+      बलवंत सिंह ने एक नाबालिग सहित तीन महिलाओं की गवाही के आधार पर बिल्लू राम उर्फ
+      अमरपुरी उर्फ जलेबी बाबा को दोषी ठहराया।
+    tier: allegation
+    date: 2023-01-05
+    source_ids: [amarpuri-jalebi-baba-src-01, amarpuri-jalebi-baba-src-02]
+
+  - id: amarpuri-jalebi-baba-claim-05
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    statement_en: >
+      The Tribune reported that on 10 January 2023 the Fast Track Court at Fatehabad
+      sentenced Amarpuri to 14 years' imprisonment and imposed a fine of Rs 35,000.
+    statement_hi: >
+      द ट्रिब्यून के अनुसार 10 जनवरी 2023 को फतेहाबाद की फास्ट ट्रैक अदालत ने अमरपुरी को
+      14 वर्ष के कारावास की सज़ा सुनाई और 35,000 रुपये का जुर्माना लगाया।
+    tier: allegation
+    date: 2023-01-10
+    source_ids: [amarpuri-jalebi-baba-src-01, amarpuri-jalebi-baba-src-03]
+
+  - id: amarpuri-jalebi-baba-claim-06
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    statement_en: >
+      As reported, the sentence comprised 14 years under section 6 of the POCSO Act,
+      seven years on each of two rape counts under IPC 376 (Outlook: 376-C) and five years
+      under section 67A of the IT Act, all to run concurrently.
+    statement_hi: >
+      रिपोर्टों के अनुसार सज़ा में पॉक्सो अधिनियम की धारा 6 के तहत 14 वर्ष, आईपीसी 376
+      (आउटलुक के अनुसार 376-C) के तहत बलात्कार के दो मामलों में सात-सात वर्ष और आईटी
+      अधिनियम की धारा 67A के तहत पाँच वर्ष शामिल थे, जो सभी साथ-साथ चलेंगी।
+    tier: allegation
+    date: 2023-01-10
+    source_ids: [amarpuri-jalebi-baba-src-02, amarpuri-jalebi-baba-src-03, amarpuri-jalebi-baba-src-04]
+
+  - id: amarpuri-jalebi-baba-claim-07
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    statement_en: >
+      Outlook reported that Amarpuri was acquitted of the Arms Act charge in the same
+      trial; reports of the 2018 search list live cartridges among the items seized.
+    statement_hi: >
+      आउटलुक के अनुसार उसी मुकदमे में अमरपुरी को आर्म्स एक्ट के आरोप से बरी कर दिया गया;
+      2018 की तलाशी की रिपोर्टों में जब्त वस्तुओं में जीवित कारतूस शामिल बताए गए हैं।
+    tier: allegation
+    date: 2023-01-05
+    source_ids: [amarpuri-jalebi-baba-src-04, amarpuri-jalebi-baba-src-06]
+
+  - id: amarpuri-jalebi-baba-claim-08
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    statement_en: >
+      The FIR included IPC section 384 (extortion); police and reports stated that he
+      used the recorded videos to blackmail the women for money.
+    statement_hi: >
+      एफआईआर में आईपीसी की धारा 384 (जबरन वसूली) शामिल थी; पुलिस और रिपोर्टों के अनुसार वे
+      रिकॉर्ड किए गए वीडियो का उपयोग महिलाओं से पैसे के लिए ब्लैकमेल करने में करते थे।
+    tier: allegation
+    date: 2018-07-19
+    source_ids: [amarpuri-jalebi-baba-src-01, amarpuri-jalebi-baba-src-04]
+
+  - id: amarpuri-jalebi-baba-claim-09
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    statement_en: >
+      Defence counsel Gajender Pandey told The Tribune that the case depended entirely
+      on the contents of the CDs, that no certificate under section 65B of the Indian
+      Evidence Act had been given for their authenticity, and that the verdict would be
+      challenged in the High Court.
+    statement_hi: >
+      बचाव पक्ष के वकील गजेंद्र पांडे ने द ट्रिब्यून को बताया कि मामला पूरी तरह सीडी की
+      सामग्री पर निर्भर है, उनकी प्रामाणिकता के लिए भारतीय साक्ष्य अधिनियम की धारा 65B के
+      तहत कोई प्रमाणपत्र नहीं दिया गया, और फैसले को उच्च न्यायालय में चुनौती दी जाएगी।
+    tier: allegation
+    date: 2023-01-11
+    source_ids: [amarpuri-jalebi-baba-src-02]
+
+  - id: amarpuri-jalebi-baba-claim-10
+    case_id: amarpuri-jalebi-baba-ndps-tohana
+    statement_en: >
+      The Tribune reported in January 2023 that Amarpuri was also facing a separate case
+      under the NDPS Act, then under trial, after police recovered drugs from him.
+    statement_hi: >
+      द ट्रिब्यून ने जनवरी 2023 में बताया कि पुलिस द्वारा नशीले पदार्थ बरामद किए जाने के
+      बाद अमरपुरी पर एनडीपीएस अधिनियम के तहत एक अलग मामला भी चल रहा था।
+    tier: allegation
+    date: 2023-01-11
+    source_ids: [amarpuri-jalebi-baba-src-02]
+
+events:
+  - date: 2018-07-19
+    kind: fir
+    label_en: Case registered at Tohana city police station on the complaint of the then SHO
+    label_hi: तत्कालीन थाना प्रभारी की शिकायत पर टोहाना शहर थाने में मामला दर्ज
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    source_ids: [amarpuri-jalebi-baba-src-01, amarpuri-jalebi-baba-src-05]
+  - date: 2018-07
+    kind: arrest
+    label_en: Arrested by Fatehabad police (reported as led by then DSP Joginder Sharma)
+    label_hi: फतेहाबाद पुलिस द्वारा गिरफ्तार (रिपोर्टों के अनुसार तत्कालीन डीएसपी जोगिंदर शर्मा के नेतृत्व में)
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    source_ids: [amarpuri-jalebi-baba-src-05, amarpuri-jalebi-baba-src-03]
+  - date: 2023-01-05
+    kind: verdict
+    label_en: Convicted by the Fast Track Court, Fatehabad (Judge Balwant Singh)
+    label_hi: फतेहाबाद की फास्ट ट्रैक अदालत (न्यायाधीश बलवंत सिंह) द्वारा दोषी करार
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    source_ids: [amarpuri-jalebi-baba-src-01]
+  - date: 2023-01-10
+    kind: sentence
+    label_en: Sentenced to 14 years' imprisonment and a fine of Rs 35,000
+    label_hi: 14 वर्ष के कारावास और 35,000 रुपये जुर्माने की सज़ा
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    source_ids: [amarpuri-jalebi-baba-src-01, amarpuri-jalebi-baba-src-03]
+  - date: 2024-05-08
+    kind: death
+    label_en: Died in custody after falling ill at Central Jail-2, Hisar; pronounced dead at Agroha PGIMS
+    label_hi: हिसार की केंद्रीय जेल-2 में बीमार पड़ने के बाद हिरासत में मृत्यु; अग्रोहा पीजीआईएमएस में मृत घोषित
+    case_id: amarpuri-jalebi-baba-fatehabad-pocso-2018
+    source_ids: [amarpuri-jalebi-baba-src-08, amarpuri-jalebi-baba-src-09]
+
+relationships: []

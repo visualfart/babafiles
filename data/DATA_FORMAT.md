@@ -125,3 +125,26 @@ summary_en: One neutral sentence (office held, party).
 summary_hi: ...
 hi_reviewed: false
 ```
+
+## Fetching sources that block direct requests
+
+indiankanoon.org and some outlets sit behind a browser challenge. Do not try to pass it.
+Use the helper, which asks the Wayback Machine to capture the page and prints the text:
+
+```bash
+scripts/fetch-via-wayback.sh "https://indiankanoon.org/doc/12345/"
+scripts/fetch-via-wayback.sh "https://indiankanoon.org/search/?formInput=asaram%20rape"
+```
+
+The first line is `ARCHIVE_URL=...`. Put that value straight into the source's `archive_url`
+and today's date into `captured_at`. Other sites that answer a normal request can be fetched
+with curl and a desktop user-agent:
+
+```bash
+curl -sL -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36" "$URL" | sed 's/<[^>]*>/ /g' | tr -s ' \n' | head -c 60000
+```
+
+Other free primary sources for Indian judgments: livelaw.in and barandbench.com (they attach
+judgment PDFs), verdictum.in, casemine.com, the Supreme Court's digiscr.sci.gov.in, and High
+Court websites. A LiveLaw or Bar & Bench article that quotes and attaches the order counts as
+`major_outlet`; the attached PDF or the court's own page counts as `court`.

@@ -1,0 +1,799 @@
+id: rampal
+type: person
+is_subject: true
+name_en: Rampal
+name_hi: रामपाल
+aliases: [Sant Rampal, Sant Rampal Ji Maharaj, Rampal Dass, Rampal Singh Jatin, Jagat Guru Rampal]
+born: 1951
+died:
+base_location: Satlok Ashram, Barwala, Hisar district, Haryana
+country: IN
+countries_of_operation: [IN]
+organisations: [Satlok Ashram, Chhor Parmeshwar Bhagti Trust, Bandi Chhor Mukti Trust, Rashtriya Samaj Sewa Samiti]
+activity_status: active
+abap_2017_list: true
+summary_en: >
+  Rampal, a former junior engineer in the Haryana irrigation department, heads the Satlok Ashram at
+  Barwala in Hisar district. In October 2018 an Additional Sessions Judge sitting in a special court
+  inside Hisar's Central Jail-I convicted him in two murder cases arising from the November 2014 police
+  operation at the ashram, in which five women and a child died, and sentenced him to life imprisonment
+  without remission in each; both sentences were suspended by the Punjab and Haryana High Court in
+  2025 while his appeals remain pending. He was acquitted in two related 2014 cases (FIRs 426 and 427)
+  in August 2017 and in the 2006 Karontha (Rohtak) clash murder case in December 2022. A sedition and
+  UAPA case (FIR 428 of 2014) is still at trial; the High Court refused him bail in it in September
+  2023 and granted regular bail on 8 April 2026. The High Court closed its 2014 contempt case against
+  him in October 2025 after he sought the court's forgiveness.
+summary_hi: >
+  रामपाल, जो पहले हरियाणा सिंचाई विभाग में कनिष्ठ अभियंता थे, हिसार ज़िले के बरवाला स्थित सतलोक आश्रम के
+  प्रमुख हैं। अक्टूबर 2018 में हिसार की केंद्रीय जेल-I के भीतर बैठी विशेष अदालत के अतिरिक्त सत्र न्यायाधीश ने
+  उन्हें नवंबर 2014 की पुलिस कार्रवाई से जुड़े दो हत्या के मामलों में दोषी ठहराया, जिसमें पाँच महिलाओं और एक
+  बच्चे की मृत्यु हुई थी, और दोनों में बिना छूट के आजीवन कारावास की सज़ा सुनाई; पंजाब एवं हरियाणा उच्च न्यायालय
+  ने 2025 में दोनों सज़ाएँ अपील लंबित रहने तक निलंबित कर दीं। 2014 के दो संबंधित मामलों (एफआईआर 426 और 427) में
+  उन्हें अगस्त 2017 में और 2006 के करौंथा (रोहतक) संघर्ष के हत्या मामले में दिसंबर 2022 में बरी किया गया। राजद्रोह
+  और यूएपीए का मामला (एफआईआर 428/2014) अभी विचाराधीन है; उच्च न्यायालय ने सितंबर 2023 में इसमें ज़मानत देने से
+  इनकार किया और 8 अप्रैल 2026 को नियमित ज़मानत दी। अक्टूबर 2025 में उच्च न्यायालय ने उनके क्षमा माँगने के बाद
+  2014 का अवमानना मामला बंद कर दिया।
+hi_reviewed: false
+response_from_subject:
+  text_en: >
+    On its website the organisation says of the 2014 deaths: "These are circumstantial deaths occurring
+    primarily due to heavy handedness of the police," and "There is no direct or indirect involvement of
+    Satguru Rampal Ji Maharaj. There is no conspiracy or intent to murder in any of the above cases."
+    Before the High Court in 2025 his counsel argued that the five deaths were natural, that the eyewitnesses
+    had attributed the suffocation to police tear-gas shells, and that he had been falsely implicated.
+  text_hi: >
+    संगठन अपनी वेबसाइट पर 2014 की मौतों के बारे में कहता है कि ये "मुख्यतः पुलिस की ज़्यादती से हुई परिस्थितिजन्य
+    मौतें" थीं और "सतगुरु रामपाल जी महाराज की कोई प्रत्यक्ष या अप्रत्यक्ष संलिप्तता नहीं है; किसी भी मामले में हत्या
+    की साज़िश या इरादा नहीं था।" 2025 में उच्च न्यायालय के समक्ष उनके वकील ने कहा कि पाँचों मौतें स्वाभाविक थीं,
+    चश्मदीदों ने दम घुटने का कारण पुलिस के आँसू-गैस के गोले बताया था, और उन्हें झूठा फँसाया गया है।
+  source_id: rampal-src-23
+
+sources:
+  - id: rampal-src-01
+    url: https://www.livelaw.in/pdf_upload/crm29233202402092025finalorder-618931.pdf
+    title: Rampal v. State of Haryana, CRM-30769-2024 and CRM-29233-2024 in CRA-D-9008-2018 (order suspending sentence)
+    publisher: Punjab and Haryana High Court (copy hosted by LiveLaw)
+    type: court
+    published_at: 2025-09-02
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Division Bench (Gurvinder Singh Gill and Deepinder Singh Nalwa JJ). Records conviction by judgment dated
+      11.10.2018 and sentence order dated 17.10.2018 of the Additional Sessions Judge, Special Court at Central
+      Jail-I, Hisar under IPC 343, 302 and 120-B; names the five deceased (Santosh, Raj Bala, Malkit Kaur, Adarsh,
+      Sarita); custody 10 years 8 months 21 days; suspends sentence pending appeal with conditions.
+  - id: rampal-src-02
+    url: https://www.livelaw.in/pdf_upload/crm-m15399202115092023finalorder-3-492708.pdf
+    title: Rampal v. State of Haryana, CRM-M-15399-2021, 2023:PHHC:120843-DB (regular bail refused)
+    publisher: Punjab and Haryana High Court (copy hosted by LiveLaw)
+    type: court
+    published_at: 2023-09-15
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Division Bench (G.S. Sandhawalia and Alok Jain JJ). Sets out FIR 428 dated 18.11.2014, PS Barwala, its
+      sections, the charge framed on 15.07.2016 and reiterated on 16.01.2017 (including IPC 121, 121-A, UAPA 16
+      and 22-C); records that Rampal was convicted in FIRs 429 and 430 and acquitted in FIRs 426 and 427; records
+      acquittal in Rohtak FIR 198 (2006) on 21.12.2022 per custody certificate; recites the investigation report
+      on the two trusts and the 12-acre Barwala land; refers to CRCOP No. 12 of 2014.
+  - id: rampal-src-03
+    url: https://www.tribuneindia.com/news/archive/haryana/rampal-13-aides-awarded-life-term-in-another-murder-case-669641
+    title: Rampal, 13 aides awarded life term in another murder case
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2018-10-18
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Deepender Deswal. Sentencing in the case of the death of disciple Rajni; 14 convicts, life without remission, fine Rs 2.05 lakh each, judge D.R. Chalia.
+  - id: rampal-src-04
+    url: https://www.tribuneindia.com/news/haryana/10-years-on-high-court-suspends-satlok-ashram-head-rampals-sentence
+    title: 10 years on, High Court suspends Satlok Ashram head Rampal's sentence
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2025-09-04
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Saurabh Malik.
+  - id: rampal-src-05
+    url: https://www.tribuneindia.com/news/haryana/barwala-case-high-court-grants-bail-to-preacher-rampal/
+    title: "Barwala case: High Court grants bail to 'preacher' Rampal"
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2026-04-08
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Saurabh Malik. Regular bail on 8 April 2026 by Justices Gurvinder Singh Gill and Ramesh Kumari in the November 2014 Barwala FIR; custody about 11 years.
+  - id: rampal-src-06
+    url: https://www.tribuneindia.com/news/haryana/controversial-godman-rampal-walks-free-a-look-back-at-his-controversies/
+    title: "Controversial godman Rampal walks free: A look back at his controversies"
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2026-04-09
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Deepender Deswal. Lists the five Barwala FIRs (426, 427 acquitted; 428 sedition, bail; 429, 430 murder convictions, sentences stayed by HC); non-bailable warrant of 5 November 2014.
+  - id: rampal-src-07
+    url: https://www.tribuneindia.com/news/haryana/rampal-24-others-acquitted-in-firing-case-463041/
+    title: Satlok Ashram head Rampal, 24 others acquitted in firing case
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2022-12-21
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Tribune News Service. Additional Sessions Judge Rakesh Singh, Rohtak, 20 December 2022; IPC 302, 307, 323, 148, 149 and Arms Act 25, 27, 29; three others convicted under the Arms Act.
+  - id: rampal-src-08
+    url: https://www.tribuneindia.com/news/archive/nirmal-baba-radhe-maa-narayan-sai-on-list-of-14-fake-babas-464947
+    title: Nirmal Baba, Radhe Maa, Narayan Sai on 'list of 14 fake babas'
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2017-09-10
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Tribune News Service / Agencies. Akhil Bharatiya Akhara Parishad list; Rampal is named.
+  - id: rampal-src-09
+    url: https://www.deccanherald.com/india/sc-refuses-parole-for-self-styled-godman-rampal-serving-life-term-in-murder-cases-861095.html
+    title: SC refuses parole for self-styled Godman Rampal, serving life term in murder cases
+    publisher: Deccan Herald (PTI)
+    type: major_outlet
+    published_at: 2020-07-14
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Bench of CJI S.A. Bobde, R. Subhash Reddy and A.S. Bopanna JJ; also recites the 16 and 17 October 2018 sentences and the May 1995 resignation from the irrigation department.
+  - id: rampal-src-10
+    url: https://www.deccanherald.com/india/rampal-produced-high-court-today-2227142
+    title: Rampal to be produced before High Court today
+    publisher: Deccan Herald (PTI)
+    type: major_outlet
+    published_at: 2014-11-28
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: High Court cancelled bail in the 2006 murder case on 20 November 2014; non-appearance on 5, 10 and 17 November; over 900 followers arrested; five women and a child died.
+  - id: rampal-src-11
+    url: https://www.deccanherald.com/amp/story/india/haryana-godman-acquitted-2-cases-2022392
+    title: Haryana 'godman' acquitted in 2 cases
+    publisher: Deccan Herald
+    type: major_outlet
+    published_at: 2017-08-29
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: DHNS. Acquittal on 29 August 2017 in cases of assault, obstructing a public servant, rioting and unlawful assembly.
+  - id: rampal-src-12
+    url: https://www.deccanherald.com/amp/story/india/self-styled-hisar-godman-26-697406.html
+    title: Self-styled godman Rampal convicted in 2 murder cases
+    publisher: Deccan Herald (PTI)
+    type: major_outlet
+    published_at: 2018-10-11
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Conviction on 11 October 2018 by ADJ D.R. Chaliya via video conference; counsel said they would move the High Court.
+  - id: rampal-src-13
+    url: https://www.thehindu.com/news/national/haryana/high-court-suspends-life-sentence-of-satlok-ashram-head-rampal-in-disciples-death-case/article70014829.ece
+    title: High Court suspends life sentence of Satlok Ashram head Rampal in disciples' death case
+    publisher: The Hindu (PTI)
+    type: major_outlet
+    published_at: 2025-09-05
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Quotes the 2 September 2025 order; records that an appeal against conviction is also pending.
+  - id: rampal-src-14
+    url: https://www.aljazeera.com/news/2014/11/19/indian-guru-held-after-deadly-confrontation
+    title: Indian guru held after deadly confrontation
+    publisher: Al Jazeera
+    type: major_outlet
+    published_at: 2014-11-19
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Six dead (four women inside the complex, one woman and an 18-month-old child at hospital); hundreds injured; more than 40 summons ignored.
+  - id: rampal-src-15
+    url: https://m.thewire.in/article/law/self-styled-godman-rampal-convicted-murder-cases-haryana
+    title: Haryana Court Convicts Self-Styled Godman Rampal Dass in Two Murder Cases
+    publisher: The Wire
+    type: major_outlet
+    published_at: 2018-10-11
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: The Wire Staff. Conviction of 11 October 2018; 43 summons ignored before arrest; August 2017 acquittal in two cases; 22 months in custody after the 2006 case until 2008.
+  - id: rampal-src-16
+    url: https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-no-bail-godman-rampal-war-against-india-9-years-jail-237960
+    title: "'Used Devotees As Human Shields To Resist Arrest': P&H High Court Denies Bail To Self-Styled Godman Rampal Accused Of Waging War Against India"
+    publisher: LiveLaw
+    type: major_outlet
+    published_at: 2023-09-16
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Report on CRM-M-15399-2021 (2023 LiveLaw (PH) 173).
+  - id: rampal-src-17
+    url: https://www.livelaw.in/news-updates/punjab-haryana-hc-dismisses-bail-plea-of-self-styled-godman-rampal-read-order-159520
+    title: Punjab & Haryana HC Dismisses Bail Plea Of Self-Styled Godman Rampal [Read Order]
+    publisher: LiveLaw
+    type: major_outlet
+    published_at: 2020-07-07
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: CRM No. 14574/2020, Justices S. Muralidhar and Avneesh Jhingan, 7 July 2020; interim bail for granddaughter's wedding refused.
+  - id: rampal-src-18
+    url: https://www.livelaw.in/high-court/punjab-and-haryana-high-court/godman-rampal-murder-life-sentence-suspended-302922
+    title: "Spent Over 10 Yrs In Jail: P&H High Court Suspends Life Sentence Of Self-Styled Godman Rampal, Tells Him To Refrain From 'Mob Mentality'"
+    publisher: LiveLaw
+    type: major_outlet
+    published_at: 2025-09-04
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Report on the 2 September 2025 order; links the order PDF (rampal-src-01).
+  - id: rampal-src-19
+    url: https://www.barandbench.com/news/punjab-and-haryana-high-court-closes-2014-contempt-of-court-case-against-sant-rampal
+    title: Punjab and Haryana High Court closes 2014 contempt of court case against Sant Rampal
+    publisher: Bar & Bench
+    type: major_outlet
+    published_at: 2025-10-09
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Contempt case closed on Wednesday 8 October 2025 after Rampal sought the court's forgiveness for the 2014 violence. Body of article is paywalled; the lede states the outcome.
+  - id: rampal-src-20
+    url: https://www.barandbench.com/news/punjab-and-haryana-high-court-suspends-sentence-of-godman-rampal-in-murder-cases
+    title: Punjab and Haryana High Court suspends sentence of godman Rampal in murder cases
+    publisher: Bar & Bench
+    type: major_outlet
+    published_at: 2025-09-04
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: States that the life sentences in both murder cases were suspended. Body of article is paywalled; the lede states the outcome.
+  - id: rampal-src-21
+    url: https://www.tribuneindia.com/news/archive/features/cop-found-at-satlok-ashram-during-police-action-sacked-35600
+    title: Cop found at Satlok Ashram during police action sacked
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2015-01-30
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Criminal contempt proceedings before the High Court against Rampal, Ram Kumar Dhaka and Dr O.P. Hooda; 112 police personnel injured during the operation.
+  - id: rampal-src-22
+    url: https://www.tribuneindia.com/2014/20141112/haryana.htm
+    title: Haryana page, 12 November 2014 (Satlok Ashram coverage)
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2014-11-12
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: 2006 FIR of 12 July 2006 under IPC 148, 302, 323, 324, 307, 120-B and Arms Act 25; bail by High Court single bench on 2 April 2008; fresh non-bailable warrant on 5 November 2014.
+  - id: rampal-src-23
+    url: https://satlokashram.org/what-type-of-murder-cases-is-sant-rampal-ji-maharaj-accused-of/
+    title: What type of murder cases is Sant Rampal Ji Maharaj accused of?
+    publisher: Satlok Ashram (organisation website)
+    type: other
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: The organisation's own account of the 2014 deaths; used only for the subject's response.
+  - id: rampal-src-24
+    url: https://news.jagatgururampalji.org/sant-rampal-ji-maharaj-granted-bail-in-sedition-case/
+    title: Sant Rampal Ji's Bail in FIR 428 Signals Truth's Victory
+    publisher: Jagat Guru Rampal Ji news site (organisation website)
+    type: other
+    published_at: 2026-04
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Organisation's account; gives 28 August 2025 as the date the sentence in FIR 430 was suspended and 2 September 2025 for FIR 429. Not relied on for any adverse claim.
+  - id: rampal-src-25
+    url: https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-goldman-rampal-followers-contempt-274725
+    title: Punjab & Haryana High Court Closes Contempt Case Against 274 Followers Of Self-Styled Godman Rampal For Criticising Judge
+    publisher: LiveLaw
+    type: major_outlet
+    published_at: 2024-11-09
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: CROCP-4/2019, order of 7 November 2024, Justices Sureshwar Thakur and Sudeepti Sharma; followers who published a book criticising Judge D.R. Chalia discharged on unconditional apology.
+
+cases:
+  - id: rampal-hisar-barwala-five-deaths-2014
+    title_en: State v. Rampal and others (Barwala, deaths of five disciples, November 2014)
+    title_hi: राज्य बनाम रामपाल एवं अन्य (बरवाला, पाँच अनुयायियों की मृत्यु, नवंबर 2014)
+    jurisdiction_country: IN
+    jurisdiction_region: Haryana
+    court: Additional Sessions Judge, Special Court at Central Jail-I, Hisar; appeal in Punjab and Haryana High Court
+    case_number: CRA-D-9008-2018 (High Court appeal); trial court case number not on record; press and the organisation identify the FIR as No. 429 of 2014, PS Barwala
+    filed_year: 2014
+    case_type: criminal
+    statutes: [IPC 302, IPC 343, IPC 120-B]
+    status: convicted; sentence suspended pending appeal
+    tier: convicted
+    verdict_date: 2018-10-11
+    sentence_or_remedy: Rigorous imprisonment for life without remission under IPC 302 and 120-B (fine Rs 1,00,000 each) and RI for two years under IPC 343 (fine Rs 5,000), by sentencing order dated 17 October 2018
+    appeal_status: CRA-D-9008-2018 pending in the Punjab and Haryana High Court; sentence suspended on 2 September 2025 (order in CRM-29233-2024) on his furnishing bail bonds
+    summary_en: >
+      Registered at Barwala police station after five people (Santosh, Raj Bala, Malkit Kaur, Sarita and the
+      child Adarsh) died at the Satlok Ashram during the police operation of 18-19 November 2014 to execute
+      the High Court's warrants against Rampal. On 11 October 2018 the Additional Sessions Judge, Special
+      Court at Central Jail-I, Hisar convicted Rampal and 13 co-accused under IPC 343, 302 and 120-B and, by
+      order dated 17 October 2018, sentenced him to life imprisonment without remission. On 2 September 2025
+      the High Court suspended the sentence during the pendency of his appeal, noting his age (about 74),
+      custody of 10 years 8 months and 21 days, that all 13 co-accused were on bail, and that there were
+      "debatable issues particularly regarding cause of death being homicidal or not" because the eyewitness
+      relatives of the deceased had attributed the suffocation to tear-gas shells. The court directed him not
+      to promote "mob mentality" and clarified that nothing in the order was an expression on the merits of
+      the appeal.
+    summary_hi: >
+      18-19 नवंबर 2014 को रामपाल के विरुद्ध उच्च न्यायालय के वारंट तामील कराने की पुलिस कार्रवाई के दौरान सतलोक
+      आश्रम में पाँच लोगों (संतोष, राज बाला, मलकीत कौर, सरिता और बालक आदर्श) की मृत्यु के बाद बरवाला थाने में दर्ज
+      मामला। 11 अक्टूबर 2018 को हिसार की केंद्रीय जेल-I में बैठी विशेष अदालत के अतिरिक्त सत्र न्यायाधीश ने रामपाल
+      और 13 सह-अभियुक्तों को आईपीसी 343, 302 और 120-बी के तहत दोषी ठहराया और 17 अक्टूबर 2018 के आदेश से बिना छूट
+      के आजीवन कारावास की सज़ा दी। 2 सितंबर 2025 को उच्च न्यायालय ने अपील लंबित रहने तक सज़ा निलंबित की, यह देखते
+      हुए कि उनकी आयु लगभग 74 वर्ष है, वे 10 वर्ष 8 माह 21 दिन हिरासत में रह चुके हैं, सभी 13 सह-अभियुक्त ज़मानत
+      पर हैं, और मृत्यु के कारण के हत्या-जनित होने पर "विवादास्पद प्रश्न" हैं क्योंकि मृतकों के रिश्तेदार गवाहों ने दम
+      घुटने का कारण आँसू-गैस के गोले बताया। अदालत ने उन्हें "भीड़-मानसिकता" न बढ़ाने का निर्देश दिया और स्पष्ट किया
+      कि यह आदेश अपील के गुण-दोष पर कोई राय नहीं है।
+    source_ids: [rampal-src-01, rampal-src-13, rampal-src-12, rampal-src-04, rampal-src-18]
+
+  - id: rampal-hisar-barwala-rajni-death-2014
+    title_en: State v. Rampal and others (Barwala, death of disciple Rajni, November 2014)
+    title_hi: राज्य बनाम रामपाल एवं अन्य (बरवाला, अनुयायी रजनी की मृत्यु, नवंबर 2014)
+    jurisdiction_country: IN
+    jurisdiction_region: Haryana
+    court: Additional Sessions Judge, Special Court at Central Jail-I, Hisar; appeal in Punjab and Haryana High Court
+    case_number: Press and the organisation identify the FIR as No. 430 of 2014, PS Barwala; High Court appeal number not on record
+    filed_year: 2014
+    case_type: criminal
+    statutes: [IPC 302, IPC 343, IPC 120-B]
+    status: convicted; sentence reported suspended pending appeal
+    tier: convicted
+    verdict_date: 2018-10-11
+    sentence_or_remedy: Life imprisonment without remission for murder and conspiracy, two years' rigorous imprisonment for wrongful confinement, and fines totalling Rs 2.05 lakh, for Rampal and 13 co-accused
+    appeal_status: Appeal pending in the Punjab and Haryana High Court; Bar & Bench and The Tribune report the sentence as suspended by early September 2025 (the organisation gives 28 August 2025); order not located
+    summary_en: >
+      The second murder case from the November 2014 police operation, concerning the death of a woman
+      disciple, Rajni, found dead at the ashram on 19 November 2014. Additional District and Sessions Judge
+      D.R. Chalia convicted Rampal on 11 October 2018 and, per The Tribune, on 17 October 2018 sentenced him and
+      13 followers to life imprisonment without remission with fines of Rs 2.05 lakh each. The High Court's
+      2023 order in the sedition case records that he stands convicted in FIRs 429 and 430. In July 2020 the
+      High Court refused him interim bail and the Supreme Court refused parole to attend his granddaughter's
+      wedding. Bar & Bench reported on 4 September 2025 that the High Court had suspended the life sentences
+      in both murder cases pending appeal.
+    summary_hi: >
+      नवंबर 2014 की पुलिस कार्रवाई से जुड़ा दूसरा हत्या का मामला, जो 19 नवंबर 2014 को आश्रम में मृत पाई गई महिला
+      अनुयायी रजनी की मृत्यु से संबंधित है। अतिरिक्त ज़िला एवं सत्र न्यायाधीश डी.आर. चालिया ने 11 अक्टूबर 2018 को
+      रामपाल को दोषी ठहराया और, द ट्रिब्यून के अनुसार, 17 अक्टूबर 2018 को उन्हें और 13 अनुयायियों को बिना छूट के
+      आजीवन कारावास तथा प्रत्येक पर 2.05 लाख रुपये जुर्माने की सज़ा सुनाई। राजद्रोह मामले में उच्च न्यायालय के 2023
+      के आदेश में दर्ज है कि वे एफआईआर 429 और 430 में दोषसिद्ध हैं। जुलाई 2020 में उच्च न्यायालय ने अंतरिम ज़मानत
+      और सर्वोच्च न्यायालय ने पोती के विवाह के लिए पैरोल देने से इनकार किया। बार एंड बेंच ने 4 सितंबर 2025 को बताया
+      कि उच्च न्यायालय ने दोनों हत्या मामलों में आजीवन कारावास की सज़ा अपील लंबित रहने तक निलंबित कर दी है।
+    source_ids: [rampal-src-02, rampal-src-03, rampal-src-09, rampal-src-20, rampal-src-06, rampal-src-17]
+
+  - id: rampal-hisar-barwala-fir428-sedition-uapa-2014
+    title_en: State v. Rampal and others (FIR 428/2014, PS Barwala; sedition, waging war, UAPA)
+    title_hi: राज्य बनाम रामपाल एवं अन्य (एफआईआर 428/2014, थाना बरवाला; राजद्रोह, राज्य के विरुद्ध युद्ध, यूएपीए)
+    jurisdiction_country: IN
+    jurisdiction_region: Haryana
+    court: Special Court at Central Jail-I, Hisar (trial); Punjab and Haryana High Court (bail)
+    case_number: FIR No. 428 dated 18.11.2014, PS Barwala; CRM-M-15399-2021 (bail, High Court)
+    filed_year: 2014
+    case_type: criminal
+    statutes: [IPC 121, IPC 121-A, IPC 122, IPC 123, IPC 124, IPC 125, IPC 120-B, IPC 307, IPC 332, IPC 353, IPC 435, IPC 436, IPC 188, "UAPA s.16, s.22-C", "Arms Act s.25, 54, 59", "PDPP Act s.3", "Explosive Substances Act s.3, 4"]
+    status: charges framed; trial pending; regular bail granted 8 April 2026
+    tier: charged
+    verdict_date:
+    sentence_or_remedy:
+    appeal_status: Not applicable (trial pending)
+    summary_en: >
+      FIR 428 dated 18 November 2014 at Barwala police station covers the armed resistance to the police
+      operation to execute the High Court's non-bailable warrants. The Special Court at Central Jail-I, Hisar
+      framed charges against Rampal and co-accused on 15 July 2016 (reiterated on 16 January 2017 after a
+      revision), including waging or attempting to wage war against the State (IPC 121, 121-A), offences under
+      UAPA sections 16 and 22-C in his capacity as person in charge of the Chhor Parmeshwar Bhagti Trust and
+      Bandi Chhor Mukti Trust, the Arms Act, the Explosive Substances Act and the PDPP Act. On 15 September
+      2023 a Division Bench of the High Court refused regular bail, finding prima facie material that women and
+      children had been used as "human shields" while warrants were executed, and directed the trial court to
+      expedite the trial (463 prosecution witnesses, 89 examined at that date). On 8 April 2026 another Division
+      Bench granted regular bail, noting his age (about 74), roughly eleven years in custody, his health and
+      that co-accused were already on bail.
+    summary_hi: >
+      18 नवंबर 2014 की बरवाला थाने की एफआईआर 428 उच्च न्यायालय के गैर-ज़मानती वारंट तामील कराने की पुलिस कार्रवाई
+      के सशस्त्र प्रतिरोध से संबंधित है। हिसार की केंद्रीय जेल-I की विशेष अदालत ने 15 जुलाई 2016 को (पुनरीक्षण के बाद
+      16 जनवरी 2017 को पुनः) रामपाल और सह-अभियुक्तों पर आरोप तय किए, जिनमें राज्य के विरुद्ध युद्ध छेड़ना या उसका
+      प्रयास (आईपीसी 121, 121-ए), छोड़ परमेश्वर भगति ट्रस्ट और बंदी छोड़ मुक्ति ट्रस्ट के प्रभारी के रूप में यूएपीए की
+      धारा 16 और 22-सी, आर्म्स एक्ट, विस्फोटक पदार्थ अधिनियम और पीडीपीपी अधिनियम शामिल हैं। 15 सितंबर 2023 को उच्च
+      न्यायालय की खंडपीठ ने नियमित ज़मानत से इनकार किया, यह प्रथम दृष्टया पाते हुए कि वारंट तामील के समय महिलाओं और
+      बच्चों को "मानव ढाल" के रूप में इस्तेमाल किया गया, और विचारण अदालत को सुनवाई शीघ्र पूरी करने का निर्देश दिया
+      (463 अभियोजन गवाह, उस समय 89 की गवाही हो चुकी थी)। 8 अप्रैल 2026 को एक अन्य खंडपीठ ने उनकी आयु (लगभग 74),
+      लगभग ग्यारह वर्ष की हिरासत, स्वास्थ्य और सह-अभियुक्तों की ज़मानत को देखते हुए नियमित ज़मानत दी।
+    source_ids: [rampal-src-02, rampal-src-16, rampal-src-05, rampal-src-06]
+
+  - id: rampal-hisar-barwala-fir426-427-2014
+    title_en: State v. Rampal (FIRs 426 and 427 of 2014, PS Barwala; obstruction, rioting, unlawful assembly)
+    title_hi: राज्य बनाम रामपाल (एफआईआर 426 और 427/2014, थाना बरवाला; लोक सेवक के कार्य में बाधा, बलवा, विधिविरुद्ध जमाव)
+    jurisdiction_country: IN
+    jurisdiction_region: Haryana
+    court: Additional District and Sessions Judge, Hisar (sitting at Central Jail-I, Hisar)
+    case_number: FIR Nos. 426 and 427 of 2014, PS Barwala
+    filed_year: 2014
+    case_type: criminal
+    statutes: [IPC 353, IPC 186, IPC 147, IPC 149, IPC 188]
+    status: acquitted
+    tier: acquitted
+    verdict_date: 2017-08-29
+    sentence_or_remedy: Acquitted
+    appeal_status: No appeal by the State located
+    summary_en: >
+      Two of the five FIRs registered at Barwala police station after the November 2014 police operation,
+      charging assault or obstruction of public servants, rioting, unlawful assembly and disobedience of an
+      order of a public servant. On 29 August 2017 the Hisar sessions court acquitted Rampal in both cases;
+      press reports attribute the acquittal to lack of evidence after prosecution witnesses did not support
+      the case. The High Court's 2023 order in the sedition matter records his acquittal in FIRs 426 and 427.
+      He remained in custody in the other cases. The exact IPC sections in these two FIRs are as described in
+      press reports; the judgments were not located.
+    summary_hi: >
+      नवंबर 2014 की पुलिस कार्रवाई के बाद बरवाला थाने में दर्ज पाँच एफआईआर में से दो, जिनमें लोक सेवकों पर हमला या
+      उनके कार्य में बाधा, बलवा, विधिविरुद्ध जमाव और लोक सेवक के आदेश की अवज्ञा के आरोप थे। 29 अगस्त 2017 को हिसार
+      सत्र न्यायालय ने रामपाल को दोनों मामलों में बरी किया; प्रेस रिपोर्टों के अनुसार अभियोजन गवाहों के समर्थन न करने
+      पर साक्ष्य के अभाव में बरी किया गया। राजद्रोह मामले में उच्च न्यायालय के 2023 के आदेश में एफआईआर 426 और 427 में
+      उनकी बरी होने की बात दर्ज है। अन्य मामलों में वे हिरासत में बने रहे। इन दो एफआईआर की सटीक धाराएँ प्रेस रिपोर्टों
+      के अनुसार हैं; निर्णय उपलब्ध नहीं हो सके।
+    source_ids: [rampal-src-02, rampal-src-11, rampal-src-06, rampal-src-15]
+
+  - id: rampal-rohtak-karontha-2006
+    title_en: State v. Rampal and others (Karontha, Rohtak, clash of 12 July 2006; FIR 198/2006)
+    title_hi: राज्य बनाम रामपाल एवं अन्य (करौंथा, रोहतक, 12 जुलाई 2006 का संघर्ष; एफआईआर 198/2006)
+    jurisdiction_country: IN
+    jurisdiction_region: Haryana
+    court: Additional Sessions Judge, Rohtak
+    case_number: FIR No. 198 of 2006, Rohtak
+    filed_year: 2006
+    case_type: criminal
+    statutes: [IPC 302, IPC 307, IPC 148, IPC 149, IPC 323, IPC 324, IPC 120-B, "Arms Act s.25, 27, 29"]
+    status: acquitted
+    tier: acquitted
+    verdict_date: 2022-12-20
+    sentence_or_remedy: Acquitted; three other accused convicted under the Arms Act and sentenced to two years
+    appeal_status: No appeal by the State located
+    summary_en: >
+      On 12 July 2006 a clash outside the then Satlok Ashram at Karontha village, Rohtak, between Rampal's
+      followers and Arya Samaj supporters from nearby villages left one man dead and about 61 injured. An FIR
+      was registered the same day under IPC 148, 302, 323, 324, 307 and 120-B and the Arms Act; Rampal was
+      in custody until the High Court granted bail in April 2008. His failure to appear in the High Court's
+      contempt proceedings connected to this case led to the non-bailable warrants of November 2014 and the
+      cancellation of his bail on 20 November 2014. On 20 December 2022 Additional Sessions Judge Rakesh Singh,
+      Rohtak, acquitted Rampal and 24 others, the allegation of firing from inside the ashram not having been
+      proved; three others were convicted under the Arms Act. The High Court's 2023 order records the
+      acquittal date as 21 December 2022 per the custody certificate.
+    summary_hi: >
+      12 जुलाई 2006 को रोहतक के करौंथा गाँव में तत्कालीन सतलोक आश्रम के बाहर रामपाल के अनुयायियों और आसपास के गाँवों
+      के आर्य समाज समर्थकों के बीच संघर्ष में एक व्यक्ति की मृत्यु हुई और लगभग 61 घायल हुए। उसी दिन आईपीसी 148, 302,
+      323, 324, 307, 120-बी और आर्म्स एक्ट के तहत एफआईआर दर्ज हुई; अप्रैल 2008 में उच्च न्यायालय से ज़मानत मिलने तक
+      रामपाल हिरासत में रहे। इसी मामले से जुड़ी अवमानना कार्यवाही में उच्च न्यायालय में पेश न होने के कारण नवंबर 2014
+      के गैर-ज़मानती वारंट जारी हुए और 20 नवंबर 2014 को उनकी ज़मानत रद्द हुई। 20 दिसंबर 2022 को रोहतक के अतिरिक्त
+      सत्र न्यायाधीश राकेश सिंह ने रामपाल और 24 अन्य को बरी किया, क्योंकि आश्रम के भीतर से गोली चलाने का आरोप साबित
+      नहीं हुआ; तीन अन्य को आर्म्स एक्ट के तहत दोषी ठहराया गया। उच्च न्यायालय के 2023 के आदेश में हिरासत प्रमाणपत्र
+      के अनुसार बरी होने की तिथि 21 दिसंबर 2022 दर्ज है।
+    source_ids: [rampal-src-07, rampal-src-02, rampal-src-22, rampal-src-10]
+
+  - id: rampal-phhc-contempt-2014
+    title_en: Court on its own motion v. Rampal and others (criminal contempt, Punjab and Haryana High Court, 2014)
+    title_hi: न्यायालय स्वप्रेरणा से बनाम रामपाल एवं अन्य (आपराधिक अवमानना, पंजाब एवं हरियाणा उच्च न्यायालय, 2014)
+    jurisdiction_country: IN
+    jurisdiction_region: Punjab and Haryana High Court
+    court: Punjab and Haryana High Court
+    case_number: CRCOP No. 12 of 2014 (referred to in the 2023 High Court order)
+    filed_year: 2014
+    case_type: criminal
+    statutes: [Contempt of Courts Act 1971]
+    status: closed
+    tier: closed
+    verdict_date: 2025-10-08
+    sentence_or_remedy: Proceedings closed after Rampal sought the court's forgiveness
+    appeal_status: Not applicable
+    summary_en: >
+      The High Court initiated contempt proceedings after Rampal repeatedly failed to appear before it in
+      connection with the 2006 Rohtak case; he did not appear on 5, 10 and 17 November 2014, a fresh
+      non-bailable warrant was issued on 5 November 2014, and on 20 November 2014 the court cancelled his
+      bail in the 2006 case and called for the Haryana DGP's affidavit on the arrest operation. Criminal
+      contempt proceedings continued against Rampal, Ram Kumar Dhaka and Dr O.P. Hooda. On 8 October 2025 the
+      High Court closed the contempt case after Rampal sought the court's forgiveness for the 2014 violence.
+    summary_hi: >
+      2006 के रोहतक मामले के सिलसिले में उच्च न्यायालय में बार-बार पेश न होने पर अदालत ने अवमानना कार्यवाही शुरू
+      की; वे 5, 10 और 17 नवंबर 2014 को पेश नहीं हुए, 5 नवंबर 2014 को नया गैर-ज़मानती वारंट जारी हुआ, और 20 नवंबर 2014
+      को अदालत ने 2006 के मामले में उनकी ज़मानत रद्द कर हरियाणा डीजीपी से गिरफ़्तारी अभियान पर शपथपत्र माँगा।
+      रामपाल, राम कुमार ढाका और डॉ. ओ.पी. हुड्डा के विरुद्ध आपराधिक अवमानना कार्यवाही चलती रही। 8 अक्टूबर 2025 को
+      उच्च न्यायालय ने 2014 की हिंसा के लिए रामपाल के क्षमा माँगने पर अवमानना मामला बंद कर दिया।
+    source_ids: [rampal-src-19, rampal-src-10, rampal-src-22, rampal-src-21, rampal-src-02]
+
+claims:
+  - id: rampal-claim-01
+    case_id: rampal-hisar-barwala-five-deaths-2014
+    statement_en: On 11 October 2018 the Additional Sessions Judge, Special Court at Central Jail-I, Hisar convicted Rampal under IPC 343, 302 and 120-B in the case concerning the deaths of five disciples (Santosh, Raj Bala, Malkit Kaur, Adarsh and Sarita) at the Satlok Ashram, Barwala, in November 2014.
+    statement_hi: 11 अक्टूबर 2018 को हिसार की केंद्रीय जेल-I में बैठी विशेष अदालत के अतिरिक्त सत्र न्यायाधीश ने नवंबर 2014 में बरवाला के सतलोक आश्रम में पाँच अनुयायियों (संतोष, राज बाला, मलकीत कौर, आदर्श और सरिता) की मृत्यु के मामले में रामपाल को आईपीसी 343, 302 और 120-बी के तहत दोषी ठहराया।
+    tier: convicted
+    date: 2018-10-11
+    source_ids: [rampal-src-01, rampal-src-12, rampal-src-15]
+  - id: rampal-claim-02
+    case_id: rampal-hisar-barwala-five-deaths-2014
+    statement_en: By sentencing order dated 17 October 2018 Rampal was sentenced to rigorous imprisonment for life without remission under IPC 302 and IPC 120-B, with fines of Rs 1,00,000 under each, and two years' rigorous imprisonment under IPC 343 with a fine of Rs 5,000.
+    statement_hi: 17 अक्टूबर 2018 के दंडादेश द्वारा रामपाल को आईपीसी 302 और 120-बी के तहत बिना छूट के आजीवन कठोर कारावास तथा प्रत्येक के तहत 1,00,000 रुपये जुर्माना, और आईपीसी 343 के तहत दो वर्ष का कठोर कारावास तथा 5,000 रुपये जुर्माने की सज़ा सुनाई गई।
+    tier: convicted
+    date: 2018-10-17
+    source_ids: [rampal-src-01]
+  - id: rampal-claim-03
+    case_id: rampal-hisar-barwala-five-deaths-2014
+    statement_en: On 2 September 2025 a Division Bench of the Punjab and Haryana High Court (Gurvinder Singh Gill and Deepinder Singh Nalwa JJ) suspended Rampal's sentence in CRA-D-9008-2018 during the pendency of his appeal, recording that he was about 74 years old, had undergone 10 years 8 months and 21 days of actual imprisonment, that all 13 co-accused were on bail, and that there were "debatable issues particularly regarding cause of death being homicidal or not".
+    statement_hi: 2 सितंबर 2025 को पंजाब एवं हरियाणा उच्च न्यायालय की खंडपीठ (न्यायमूर्ति गुरविंदर सिंह गिल और दीपिंदर सिंह नलवा) ने CRA-D-9008-2018 में अपील लंबित रहने तक रामपाल की सज़ा निलंबित की, यह दर्ज करते हुए कि उनकी आयु लगभग 74 वर्ष है, वे 10 वर्ष 8 माह 21 दिन वास्तविक कारावास भुगत चुके हैं, सभी 13 सह-अभियुक्त ज़मानत पर हैं, और मृत्यु के कारण के हत्या-जनित होने पर "विवादास्पद प्रश्न" हैं।
+    tier: convicted
+    date: 2025-09-02
+    source_ids: [rampal-src-01, rampal-src-13, rampal-src-04]
+  - id: rampal-claim-04
+    case_id: rampal-hisar-barwala-five-deaths-2014
+    statement_en: The High Court's 2 September 2025 order directed Rampal not to promote any kind of "mob mentality" and to avoid congregations where there is any tendency among "disciples" or participants to cause a breach of peace, law and order, and stated that the State could seek cancellation of bail if he was found inciting others to commit any offence.
+    statement_hi: उच्च न्यायालय के 2 सितंबर 2025 के आदेश ने रामपाल को किसी भी प्रकार की "भीड़-मानसिकता" न बढ़ाने और ऐसे जमावड़ों से दूर रहने का निर्देश दिया जहाँ "शिष्यों" या प्रतिभागियों में शांति और क़ानून-व्यवस्था भंग करने की प्रवृत्ति हो, और कहा कि यदि वे दूसरों को अपराध के लिए उकसाते पाए गए तो राज्य ज़मानत रद्द कराने के लिए कदम उठा सकता है।
+    tier: convicted
+    date: 2025-09-02
+    source_ids: [rampal-src-01, rampal-src-13]
+  - id: rampal-claim-05
+    case_id: rampal-hisar-barwala-rajni-death-2014
+    statement_en: In the second murder case from the November 2014 operation, concerning the death of the disciple Rajni, Rampal was convicted on 11 October 2018 and, as reported by The Tribune, sentenced on 17 October 2018 together with 13 followers to life imprisonment without remission with a fine of Rs 2.05 lakh each; the High Court's 2023 order records that he stands convicted in both FIR 429 and FIR 430.
+    statement_hi: नवंबर 2014 की कार्रवाई से जुड़े दूसरे हत्या के मामले में, जो अनुयायी रजनी की मृत्यु से संबंधित है, रामपाल को 11 अक्टूबर 2018 को दोषी ठहराया गया और, द ट्रिब्यून के अनुसार, 17 अक्टूबर 2018 को 13 अनुयायियों सहित बिना छूट के आजीवन कारावास और प्रत्येक पर 2.05 लाख रुपये जुर्माने की सज़ा सुनाई गई; उच्च न्यायालय के 2023 के आदेश में दर्ज है कि वे एफआईआर 429 और एफआईआर 430 दोनों में दोषसिद्ध हैं।
+    tier: convicted
+    date: 2018-10-17
+    source_ids: [rampal-src-02, rampal-src-03, rampal-src-09]
+  - id: rampal-claim-06
+    case_id: rampal-hisar-barwala-rajni-death-2014
+    statement_en: Bar & Bench reported on 4 September 2025 that the Punjab and Haryana High Court had suspended Rampal's life sentences in both murder cases pending appeal; The Tribune likewise reported in April 2026 that the sentences in FIRs 429 and 430 had been stayed by the High Court.
+    statement_hi: बार एंड बेंच ने 4 सितंबर 2025 को बताया कि पंजाब एवं हरियाणा उच्च न्यायालय ने अपील लंबित रहने तक दोनों हत्या मामलों में रामपाल की आजीवन कारावास की सज़ा निलंबित कर दी है; द ट्रिब्यून ने भी अप्रैल 2026 में बताया कि एफआईआर 429 और 430 में सज़ाओं पर उच्च न्यायालय ने रोक लगा दी है।
+    tier: convicted
+    date: 2025-09-04
+    source_ids: [rampal-src-20, rampal-src-06, rampal-src-02]
+  - id: rampal-claim-07
+    case_id: rampal-hisar-barwala-rajni-death-2014
+    statement_en: On 7 July 2020 the Punjab and Haryana High Court (S. Muralidhar and Avneesh Jhingan JJ) dismissed Rampal's application for interim bail to attend his granddaughter's wedding, and on 14 July 2020 a Supreme Court bench headed by Chief Justice S.A. Bobde refused him parole for the same purpose.
+    statement_hi: 7 जुलाई 2020 को पंजाब एवं हरियाणा उच्च न्यायालय (न्यायमूर्ति एस. मुरलीधर और अवनीश झिंगन) ने पोती के विवाह में शामिल होने के लिए रामपाल की अंतरिम ज़मानत याचिका खारिज की, और 14 जुलाई 2020 को मुख्य न्यायाधीश एस.ए. बोबडे की अध्यक्षता वाली सर्वोच्च न्यायालय की पीठ ने उसी उद्देश्य के लिए पैरोल देने से इनकार किया।
+    tier: convicted
+    date: 2020-07-14
+    source_ids: [rampal-src-17, rampal-src-09, rampal-src-02]
+  - id: rampal-claim-08
+    case_id: rampal-hisar-barwala-fir428-sedition-uapa-2014
+    statement_en: In FIR 428 dated 18 November 2014 (PS Barwala) the Special Court at Central Jail-I, Hisar framed charges against Rampal on 15 July 2016, reiterated on 16 January 2017, including IPC 121 and 121-A (waging or conspiring to wage war against the Government of India), UAPA sections 16 and 22-C, the Arms Act, the Explosive Substances Act and the Prevention of Damage to Public Property Act; the trial is pending.
+    statement_hi: 18 नवंबर 2014 की एफआईआर 428 (थाना बरवाला) में हिसार की केंद्रीय जेल-I की विशेष अदालत ने 15 जुलाई 2016 को (16 जनवरी 2017 को पुनः) रामपाल पर आरोप तय किए, जिनमें आईपीसी 121 और 121-ए (भारत सरकार के विरुद्ध युद्ध छेड़ना या उसकी साज़िश), यूएपीए की धारा 16 और 22-सी, आर्म्स एक्ट, विस्फोटक पदार्थ अधिनियम और लोक संपत्ति क्षति निवारण अधिनियम शामिल हैं; विचारण लंबित है।
+    tier: charged
+    date: 2016-07-15
+    source_ids: [rampal-src-02, rampal-src-16]
+  - id: rampal-claim-09
+    case_id: rampal-hisar-barwala-fir428-sedition-uapa-2014
+    statement_en: The UAPA section 22-C charge in FIR 428 is framed against Rampal as the person in charge of the Chhor Parmeshwar Bhagti Trust and the Bandi Chhor Mukti Trust, which the investigation report recorded in the High Court's 2023 order describes as registered under the Indian Trusts Act 1882; the same report records that the Barwala dera was set up in 2009 on 12 acres of purchased land on the Tohana road.
+    statement_hi: एफआईआर 428 में यूएपीए की धारा 22-सी का आरोप रामपाल पर छोड़ परमेश्वर भगति ट्रस्ट और बंदी छोड़ मुक्ति ट्रस्ट के प्रभारी के रूप में तय किया गया है, जिन्हें उच्च न्यायालय के 2023 के आदेश में दर्ज जाँच रिपोर्ट भारतीय न्यास अधिनियम 1882 के तहत पंजीकृत बताती है; उसी रिपोर्ट में दर्ज है कि बरवाला डेरा 2009 में टोहाना रोड पर खरीदी गई 12 एकड़ भूमि पर स्थापित किया गया।
+    tier: charged
+    date: 2016-07-15
+    source_ids: [rampal-src-02]
+  - id: rampal-claim-10
+    case_id: rampal-hisar-barwala-fir428-sedition-uapa-2014
+    statement_en: On 15 September 2023 a Division Bench of the Punjab and Haryana High Court (G.S. Sandhawalia and Alok Jain JJ) dismissed Rampal's second regular bail petition in FIR 428 (CRM-M-15399-2021), holding that the warrants had been executed "at the precious cost of innocent lives of women and a child" who "were being used as a human shields", while directing the trial court to expedite the trial.
+    statement_hi: 15 सितंबर 2023 को पंजाब एवं हरियाणा उच्च न्यायालय की खंडपीठ (न्यायमूर्ति जी.एस. संधावालिया और आलोक जैन) ने एफआईआर 428 में रामपाल की दूसरी नियमित ज़मानत याचिका (CRM-M-15399-2021) खारिज की, यह कहते हुए कि वारंट "महिलाओं और एक बच्चे के निर्दोष जीवन की क़ीमत पर" तामील हुए जिन्हें "मानव ढाल" के रूप में इस्तेमाल किया गया, और विचारण अदालत को सुनवाई शीघ्र पूरी करने का निर्देश दिया।
+    tier: charged
+    date: 2023-09-15
+    source_ids: [rampal-src-02, rampal-src-16]
+  - id: rampal-claim-11
+    case_id: rampal-hisar-barwala-fir428-sedition-uapa-2014
+    statement_en: On 8 April 2026 a Division Bench of the Punjab and Haryana High Court (Gurvinder Singh Gill and Ramesh Kumari JJ) granted Rampal regular bail in the November 2014 Barwala FIR, noting that he was around 74, had been in custody for approximately 11 years, that his health had been deteriorating in jail, and that co-accused had already been granted relief.
+    statement_hi: 8 अप्रैल 2026 को पंजाब एवं हरियाणा उच्च न्यायालय की खंडपीठ (न्यायमूर्ति गुरविंदर सिंह गिल और रमेश कुमारी) ने नवंबर 2014 की बरवाला एफआईआर में रामपाल को नियमित ज़मानत दी, यह देखते हुए कि उनकी आयु लगभग 74 वर्ष है, वे लगभग 11 वर्ष हिरासत में रहे, जेल में उनका स्वास्थ्य बिगड़ता रहा है, और सह-अभियुक्तों को पहले ही राहत मिल चुकी है।
+    tier: charged
+    date: 2026-04-08
+    source_ids: [rampal-src-05, rampal-src-06, rampal-src-02]
+  - id: rampal-claim-12
+    case_id: rampal-hisar-barwala-fir426-427-2014
+    statement_en: On 29 August 2017 the Hisar sessions court acquitted Rampal in two of the November 2014 Barwala cases (FIRs 426 and 427), which charged obstruction of public servants, rioting, unlawful assembly and disobedience of a public servant's order; the High Court's 2023 order records his acquittal in FIRs 426 and 427.
+    statement_hi: 29 अगस्त 2017 को हिसार सत्र न्यायालय ने रामपाल को नवंबर 2014 के बरवाला के दो मामलों (एफआईआर 426 और 427) में बरी किया, जिनमें लोक सेवकों के कार्य में बाधा, बलवा, विधिविरुद्ध जमाव और लोक सेवक के आदेश की अवज्ञा के आरोप थे; उच्च न्यायालय के 2023 के आदेश में एफआईआर 426 और 427 में उनके बरी होने की बात दर्ज है।
+    tier: acquitted
+    date: 2017-08-29
+    source_ids: [rampal-src-11, rampal-src-02, rampal-src-06, rampal-src-15]
+  - id: rampal-claim-13
+    case_id: rampal-rohtak-karontha-2006
+    statement_en: On 20 December 2022 Additional Sessions Judge Rakesh Singh, Rohtak, acquitted Rampal and 24 others in the case arising from the 12 July 2006 clash at Karontha village in which one man died and about 61 were injured, the allegation of firing from inside the ashram not having been proved; three other accused were convicted under the Arms Act and sentenced to two years.
+    statement_hi: 20 दिसंबर 2022 को रोहतक के अतिरिक्त सत्र न्यायाधीश राकेश सिंह ने 12 जुलाई 2006 के करौंथा गाँव के संघर्ष, जिसमें एक व्यक्ति की मृत्यु और लगभग 61 घायल हुए थे, से उत्पन्न मामले में रामपाल और 24 अन्य को बरी किया, क्योंकि आश्रम के भीतर से गोली चलाने का आरोप साबित नहीं हुआ; तीन अन्य अभियुक्तों को आर्म्स एक्ट के तहत दोषी ठहराकर दो वर्ष की सज़ा दी गई।
+    tier: acquitted
+    date: 2022-12-20
+    source_ids: [rampal-src-07, rampal-src-02]
+  - id: rampal-claim-14
+    case_id: rampal-phhc-contempt-2014
+    statement_en: After Rampal failed to appear before the Punjab and Haryana High Court in the contempt proceedings on 5, 10 and 17 November 2014, the court issued a fresh non-bailable warrant on 5 November 2014 and on 20 November 2014 cancelled his bail in the 2006 murder case and directed the Haryana DGP to file an affidavit on the operation to arrest him.
+    statement_hi: 5, 10 और 17 नवंबर 2014 को अवमानना कार्यवाही में पंजाब एवं हरियाणा उच्च न्यायालय के समक्ष पेश न होने पर अदालत ने 5 नवंबर 2014 को नया गैर-ज़मानती वारंट जारी किया और 20 नवंबर 2014 को 2006 के हत्या मामले में उनकी ज़मानत रद्द कर हरियाणा डीजीपी को गिरफ़्तारी अभियान पर शपथपत्र दाखिल करने का निर्देश दिया।
+    tier: regulatory_action
+    date: 2014-11-20
+    source_ids: [rampal-src-10, rampal-src-22, rampal-src-02]
+  - id: rampal-claim-15
+    case_id: rampal-phhc-contempt-2014
+    statement_en: On 8 October 2025 the Punjab and Haryana High Court closed the 2014 contempt of court case against Rampal after he sought the court's forgiveness for the violence of November 2014.
+    statement_hi: 8 अक्टूबर 2025 को पंजाब एवं हरियाणा उच्च न्यायालय ने नवंबर 2014 की हिंसा के लिए रामपाल के क्षमा माँगने पर उनके विरुद्ध 2014 का न्यायालय अवमानना मामला बंद कर दिया।
+    tier: closed
+    date: 2025-10-08
+    source_ids: [rampal-src-19]
+  - id: rampal-claim-16
+    statement_en: On 10 September 2017 the Akhil Bharatiya Akhara Parishad released a list of names it described as "fake babas" that included Rampal, then in Hisar jail awaiting trial.
+    statement_hi: 10 सितंबर 2017 को अखिल भारतीय अखाड़ा परिषद ने नामों की एक सूची जारी की, जिसे उसने "फ़र्ज़ी बाबाओं" की सूची कहा, और जिसमें उस समय हिसार जेल में विचाराधीन रामपाल का नाम शामिल था।
+    tier: allegation
+    date: 2017-09-10
+    source_ids: [rampal-src-08]
+
+events:
+  - date: 1995-05
+    kind: other
+    label_en: Resigns as junior engineer in a Haryana government department after about 15 years' service
+    label_hi: लगभग 15 वर्ष की सेवा के बाद हरियाणा सरकार के विभाग में कनिष्ठ अभियंता पद से त्यागपत्र
+    source_ids: [rampal-src-09, rampal-src-02]
+  - date: 2006-07-12
+    kind: incident
+    label_en: Clash outside the Karontha (Rohtak) ashram; one dead, about 61 injured; FIR 198/2006 registered under IPC 302 and other sections
+    label_hi: करौंथा (रोहतक) आश्रम के बाहर संघर्ष; एक की मृत्यु, लगभग 61 घायल; आईपीसी 302 व अन्य धाराओं में एफआईआर 198/2006 दर्ज
+    case_id: rampal-rohtak-karontha-2006
+    source_ids: [rampal-src-22, rampal-src-07, rampal-src-02]
+  - date: 2008-04
+    kind: bail
+    label_en: Granted bail by the High Court in the 2006 Karontha case after about 22 months in custody
+    label_hi: लगभग 22 माह की हिरासत के बाद 2006 के करौंथा मामले में उच्च न्यायालय से ज़मानत
+    case_id: rampal-rohtak-karontha-2006
+    source_ids: [rampal-src-22, rampal-src-15]
+  - date: 2009
+    kind: other
+    label_en: Satlok Ashram set up at Barwala, Hisar, on 12 acres purchased on the Tohana road (per investigation report recited by the High Court)
+    label_hi: टोहाना रोड पर खरीदी गई 12 एकड़ भूमि पर बरवाला, हिसार में सतलोक आश्रम स्थापित (उच्च न्यायालय द्वारा उद्धृत जाँच रिपोर्ट के अनुसार)
+    source_ids: [rampal-src-02]
+  - date: 2014-11-05
+    kind: notice
+    label_en: High Court issues fresh non-bailable warrant in the contempt proceedings after non-appearance
+    label_hi: पेश न होने पर उच्च न्यायालय ने अवमानना कार्यवाही में नया गैर-ज़मानती वारंट जारी किया
+    case_id: rampal-phhc-contempt-2014
+    source_ids: [rampal-src-22, rampal-src-10, rampal-src-06]
+  - date: 2014-11-18
+    kind: fir
+    label_en: FIR 428 registered at Barwala police station as police move to execute the High Court's warrants at the ashram
+    label_hi: उच्च न्यायालय के वारंट तामील कराने के लिए पुलिस की आश्रम पर कार्रवाई के साथ बरवाला थाने में एफआईआर 428 दर्ज
+    case_id: rampal-hisar-barwala-fir428-sedition-uapa-2014
+    source_ids: [rampal-src-02]
+  - date: 2014-11-19
+    kind: death
+    label_en: Five women and an 18-month-old child die during the operation at the Satlok Ashram; hundreds of followers and over 100 police personnel injured
+    label_hi: सतलोक आश्रम पर कार्रवाई के दौरान पाँच महिलाओं और 18 माह के बच्चे की मृत्यु; सैकड़ों अनुयायी और 100 से अधिक पुलिसकर्मी घायल
+    source_ids: [rampal-src-14, rampal-src-01, rampal-src-21, rampal-src-10]
+  - date: 2014-11-19
+    kind: arrest
+    label_en: Arrested by Haryana Police at the Satlok Ashram, Barwala (the High Court's 2023 order gives the arrest date as 20 November 2014)
+    label_hi: हरियाणा पुलिस द्वारा बरवाला के सतलोक आश्रम से गिरफ़्तार (उच्च न्यायालय के 2023 के आदेश में गिरफ़्तारी की तिथि 20 नवंबर 2014 दर्ज है)
+    source_ids: [rampal-src-14, rampal-src-10, rampal-src-02]
+  - date: 2014-11-20
+    kind: other
+    label_en: High Court cancels his bail in the 2006 case and calls for the DGP's affidavit; five FIRs (426 to 430) registered at Barwala police station
+    label_hi: उच्च न्यायालय ने 2006 के मामले में ज़मानत रद्द की और डीजीपी से शपथपत्र माँगा; बरवाला थाने में पाँच एफआईआर (426 से 430) दर्ज
+    case_id: rampal-phhc-contempt-2014
+    source_ids: [rampal-src-10, rampal-src-06]
+  - date: 2016-07-15
+    kind: chargesheet
+    label_en: Charges framed in FIR 428 by the Special Court at Central Jail-I, Hisar (reiterated 16 January 2017)
+    label_hi: हिसार की केंद्रीय जेल-I की विशेष अदालत द्वारा एफआईआर 428 में आरोप तय (16 जनवरी 2017 को पुनः)
+    case_id: rampal-hisar-barwala-fir428-sedition-uapa-2014
+    source_ids: [rampal-src-02]
+  - date: 2017-08-29
+    kind: acquittal
+    label_en: Acquitted by the Hisar sessions court in FIRs 426 and 427 of 2014
+    label_hi: हिसार सत्र न्यायालय द्वारा 2014 की एफआईआर 426 और 427 में बरी
+    case_id: rampal-hisar-barwala-fir426-427-2014
+    source_ids: [rampal-src-11, rampal-src-02]
+  - date: 2017-09-10
+    kind: other
+    label_en: Named on the Akhil Bharatiya Akhara Parishad list
+    label_hi: अखिल भारतीय अखाड़ा परिषद की सूची में नामित
+    source_ids: [rampal-src-08]
+  - date: 2018-10-11
+    kind: verdict
+    label_en: Convicted in both Barwala murder cases by ADJ D.R. Chalia, Special Court at Central Jail-I, Hisar
+    label_hi: हिसार की केंद्रीय जेल-I की विशेष अदालत के एडीजे डी.आर. चालिया द्वारा बरवाला के दोनों हत्या मामलों में दोषी करार
+    case_id: rampal-hisar-barwala-five-deaths-2014
+    source_ids: [rampal-src-01, rampal-src-12]
+  - date: 2018-10-16
+    kind: sentence
+    label_en: First life sentence pronounced (press reports); the formal sentencing order in the five-deaths case is dated 17 October 2018
+    label_hi: पहली आजीवन कारावास की सज़ा सुनाई गई (प्रेस रिपोर्टों के अनुसार); पाँच मौतों के मामले में औपचारिक दंडादेश 17 अक्टूबर 2018 का है
+    case_id: rampal-hisar-barwala-five-deaths-2014
+    source_ids: [rampal-src-09, rampal-src-01]
+  - date: 2018-10-17
+    kind: sentence
+    label_en: Life sentence without remission in the Rajni death case for Rampal and 13 followers
+    label_hi: रजनी की मृत्यु के मामले में रामपाल और 13 अनुयायियों को बिना छूट के आजीवन कारावास
+    case_id: rampal-hisar-barwala-rajni-death-2014
+    source_ids: [rampal-src-03, rampal-src-09]
+  - date: 2020-07-07
+    kind: bail
+    label_en: High Court dismisses interim bail plea for granddaughter's wedding
+    label_hi: पोती के विवाह के लिए अंतरिम ज़मानत याचिका उच्च न्यायालय द्वारा खारिज
+    case_id: rampal-hisar-barwala-rajni-death-2014
+    source_ids: [rampal-src-17]
+  - date: 2020-07-14
+    kind: parole
+    label_en: Supreme Court refuses parole for granddaughter's wedding
+    label_hi: सर्वोच्च न्यायालय ने पोती के विवाह के लिए पैरोल देने से इनकार किया
+    source_ids: [rampal-src-09]
+  - date: 2022-12-20
+    kind: acquittal
+    label_en: Acquitted with 24 others by ASJ Rakesh Singh, Rohtak, in the 2006 Karontha case
+    label_hi: 2006 के करौंथा मामले में रोहतक के एएसजे राकेश सिंह द्वारा 24 अन्य के साथ बरी
+    case_id: rampal-rohtak-karontha-2006
+    source_ids: [rampal-src-07, rampal-src-02]
+  - date: 2023-09-15
+    kind: bail
+    label_en: High Court refuses regular bail in FIR 428 (CRM-M-15399-2021)
+    label_hi: उच्च न्यायालय ने एफआईआर 428 में नियमित ज़मानत से इनकार किया (CRM-M-15399-2021)
+    case_id: rampal-hisar-barwala-fir428-sedition-uapa-2014
+    source_ids: [rampal-src-02, rampal-src-16]
+  - date: 2024-11-07
+    kind: other
+    label_en: High Court closes contempt case (CROCP-4/2019) against 274 followers who had published a book criticising the trial judge, on their unconditional apology
+    label_hi: विचारण न्यायाधीश की आलोचना वाली पुस्तक प्रकाशित करने वाले 274 अनुयायियों के विरुद्ध अवमानना मामला (CROCP-4/2019) बिना शर्त क्षमायाचना पर उच्च न्यायालय द्वारा बंद
+    source_ids: [rampal-src-25]
+  - date: 2025-09-02
+    kind: appeal
+    label_en: High Court suspends sentence in CRA-D-9008-2018 (five-deaths case) pending appeal
+    label_hi: उच्च न्यायालय ने CRA-D-9008-2018 (पाँच मौतों का मामला) में अपील लंबित रहने तक सज़ा निलंबित की
+    case_id: rampal-hisar-barwala-five-deaths-2014
+    source_ids: [rampal-src-01, rampal-src-13]
+  - date: 2025-09-04
+    kind: appeal
+    label_en: Bar & Bench reports that the High Court has suspended the life sentences in both murder cases
+    label_hi: बार एंड बेंच की रिपोर्ट कि उच्च न्यायालय ने दोनों हत्या मामलों में आजीवन कारावास की सज़ा निलंबित कर दी है
+    case_id: rampal-hisar-barwala-rajni-death-2014
+    source_ids: [rampal-src-20]
+  - date: 2025-10-08
+    kind: other
+    label_en: High Court closes the 2014 contempt case after Rampal seeks the court's forgiveness
+    label_hi: रामपाल के क्षमा माँगने पर उच्च न्यायालय ने 2014 का अवमानना मामला बंद किया
+    case_id: rampal-phhc-contempt-2014
+    source_ids: [rampal-src-19]
+  - date: 2026-04-08
+    kind: bail
+    label_en: High Court grants regular bail in FIR 428, the last case keeping him in custody
+    label_hi: उच्च न्यायालय ने एफआईआर 428 में नियमित ज़मानत दी, जो उन्हें हिरासत में रखने वाला अंतिम मामला था
+    case_id: rampal-hisar-barwala-fir428-sedition-uapa-2014
+    source_ids: [rampal-src-05, rampal-src-06]
+
+relationships: []
