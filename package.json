@@ -13,7 +13,10 @@
     "db:seed": "tsx scripts/seed.ts",
     "db:export": "tsx scripts/export.ts",
     "archive": "tsx scripts/archive.ts",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "prebuild": "tsx scripts/prebuild.ts",
+    "predev": "tsx scripts/prebuild.ts",
+    "pretypecheck": "tsx scripts/prebuild.ts"
   },
   "dependencies": {
     "@libsql/client": "^0.18.0",

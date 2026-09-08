@@ -171,3 +171,8 @@
   jurisdiction: IN
   note: Organisation-level record: sacrilege cases, Panchkula 2017 property attachment orders, Honeypreet Insan conviction status.
   status: to_triage
+- id: guruji-nirmal-singh-maharaj
+  name: Guruji (Nirmal Singh Maharaj, Bade Mandir, Chhatarpur, Delhi, d. 2007)
+  jurisdiction: IN
+  note: Requested by maintainer as "Guruji"; confirm identity. Check registers for the person and the trust running Bade Mandir; document neutral relationships (visits by public figures) with sources.
+  status: to_triage
