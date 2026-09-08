@@ -1,0 +1,163 @@
+id: premanand-maharaj
+type: person
+is_subject: true
+name_en: Premanand Ji Maharaj
+name_hi: प्रेमानंद जी महाराज
+aliases: [Premanand Maharaj, Sant Premanand Maharaj, Premanand Govind Sharan, Aniruddh Kumar Pandey]
+born: 1969
+died:
+base_location: Shri Hit Radha Keli Kunj Ashram, Varaha Ghat, Parikrama Marg, Vrindavan, Uttar Pradesh
+country: IN
+countries_of_operation: [IN]
+organisations: [Shri Hit Radha Keli Kunj Ashram]
+activity_status: active
+abap_2017_list: false
+summary_en: >
+  Premanand Ji Maharaj is a Vrindavan-based ascetic at the Shri Hit Radha Keli Kunj ashram, known
+  for daily satsang sessions attended by large numbers of devotees, including public figures. A
+  search of Indian Kanoon, of press reporting and of Uttar Pradesh police statements found no FIR,
+  chargesheet, court case or official action naming him as an accused. He has instead twice been
+  the target of publicised death threats on social media, in 2025, which police and courts have
+  acted on against the persons making the threats; Mathura police have also issued public
+  statements denying rumours about his health. He has separately drawn social-media criticism over
+  remarks about young women and about being seen in expensive cars, which have not led to any
+  official proceeding on the record.
+summary_hi: >
+  प्रेमानंद जी महाराज वृंदावन स्थित श्री हित राधा केली कुंज आश्रम के एक संत हैं, जो प्रतिदिन होने वाले
+  सत्संग के लिए जाने जाते हैं, जिसमें बड़ी संख्या में अनुयायी और सार्वजनिक हस्तियाँ शामिल होती हैं। इंडियन
+  कानून, प्रेस रिपोर्टिंग और उत्तर प्रदेश पुलिस के बयानों की खोज में उनके विरुद्ध अभियुक्त के रूप में कोई
+  एफआईआर, आरोप-पत्र, अदालती मामला या आधिकारिक कार्रवाई नहीं मिली। इसके बजाय 2025 में सोशल मीडिया पर दो बार
+  उन्हें मृत्यु की धमकियों का निशाना बनाया गया, जिन पर पुलिस और अदालतों ने धमकी देने वालों के विरुद्ध
+  कार्रवाई की; मथुरा पुलिस ने उनके स्वास्थ्य को लेकर अफ़वाहों का खंडन करते हुए भी सार्वजनिक बयान जारी किए
+  हैं। इसके अलावा युवतियों संबंधी टिप्पणियों और महँगी गाड़ियों में देखे जाने को लेकर उन्हें सोशल मीडिया पर
+  आलोचना का सामना करना पड़ा है, जिससे रिकॉर्ड पर कोई आधिकारिक कार्यवाही नहीं हुई।
+hi_reviewed: false
+
+registers_checked:
+  - register: Indian Kanoon (court judgments and orders)
+    checked_on: 2026-09-08
+    query: '"Premanand Ji Maharaj" and "Premanand Maharaj"'
+  - register: Uttar Pradesh Police / Mathura Police public statements and press releases
+    checked_on: 2026-09-08
+    query: Premanand Maharaj Mathura police FIR case
+  - register: Major-outlet news search (India TV, Tribune, Deccan Herald, Free Press Journal, ANI and others)
+    checked_on: 2026-09-08
+    query: Premanand Maharaj FIR court case controversy
+
+sources:
+  - id: pm-src-01
+    url: https://www.indiatvnews.com/lifestyle/spirituality/president-droupadi-murmu-sant-premanand-ji-maharaj-vrindavan-visit-2026-03-20-1034472
+    title: President Droupadi Murmu meets Sant Premanand Maharaj at Vrindavan ashram, holds spiritual talks
+    publisher: India TV News
+    type: major_outlet
+    published_at: 2026-03-20
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: President Murmu met Premanand Maharaj at Radha Keli Kunj Ashram on 20 March 2026, during his birthday week, for a spiritual conversation, and extended birthday wishes.
+  - id: pm-src-02
+    url: https://www.newsonair.gov.in/president-droupadi-murmu-visits-vrindavan-performs-aarti-at-temples
+    title: President Droupadi Murmu visits Vrindavan, performs aarti at temples
+    publisher: News On Air / All India Radio (Government of India)
+    type: official
+    published_at: 2026-03-19
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Official government press report on President Murmu's 19-21 March 2026 Uttar Pradesh visit, covering Ayodhya and Vrindavan, including Prem Mandir and ISKCON temple.
+  - id: pm-src-03
+    url: https://www.newsx.com/sports/virat-kohli-anushka-sharma-visit-premanand-maharaj-in-vrindavan-after-india-vs-england-odi-series-photos-go-viral-251091/
+    title: Virat Kohli-Anushka Sharma Visit Premanand Maharaj in Vrindavan After India vs England ODI Series, Photos Go Viral
+    publisher: NewsX
+    type: major_outlet
+    published_at: 2026-07-22
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Cricketer Virat Kohli and actor Anushka Sharma visited Radha Keli Kunj Ashram on 22 July 2026, their second visit within three months after an earlier April 2026 visit following Royal Challengers Bengaluru's IPL title win.
+  - id: pm-src-04
+    url: https://www.tribuneindia.com/news/uttar-pradesh/mathura-police-refutes-rumours-says-premanand-maharaj-in-good-health
+    title: Mathura police refutes rumours, says Premanand Maharaj in good health
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2025-01-08
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Mathura SSP publicly denied rumours of a health decline circulating among devotees and warned of action against anyone spreading misinformation; illustrates the absence of any adverse police record and the police's active engagement on his behalf.
+  - id: pm-src-05
+    url: https://www.deccanherald.com/india/uttar-pradesh/only-four-out-of-100-women-are-pure-premanand-maharajs-remarks-stoke-row-3654122
+    title: "'Only four out of 100 women are pure': Premanand Maharaj's remarks stoke row"
+    publisher: Deccan Herald
+    type: major_outlet
+    published_at: 2025-07-25
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Reports the social-media backlash to a purity-related remark about women; a social controversy, with no FIR or official proceeding reported.
+  - id: pm-src-06
+    url: https://www.freepressjournal.in/india/delhi-police-issue-notice-to-mp-resident-sunil-singh-in-premanand-maharaj-threat-case
+    title: Delhi Police Issue Notice To MP Resident Sunil Singh In Premanand Maharaj Threat Case
+    publisher: Free Press Journal
+    type: major_outlet
+    published_at: 2025-09-25
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Advocate Parikshit Sharma moved a complaint under BNSS s.175(3) seeking registration of an
+      FIR over an 1 August 2025 Facebook death threat against Premanand Maharaj by one Shatrughan
+      Singh; Delhi Police's Sadar Bazar/Subzi Mandi investigating officer issued notice to a
+      Madhya Pradesh resident, Sunil Singh, to join the investigation; hearing listed for 15
+      December 2025. Premanand Maharaj is the complainant/victim in this matter, not the accused.
+
+events:
+  - date: 2025-01-08
+    kind: other
+    label_en: Mathura police publicly deny rumours of a decline in Premanand Maharaj's health, after crowds gathered at his ashram
+    label_hi: मथुरा पुलिस ने अफ़वाहों का सार्वजनिक खंडन किया कि प्रेमानंद महाराज का स्वास्थ्य बिगड़ रहा है, जब उनके आश्रम पर भीड़ जमा हो गई
+    source_ids: [pm-src-04]
+  - date: 2025-07-25
+    kind: other
+    label_en: Remarks about the "purity" of young women, made during a discourse, draw widespread social-media criticism
+    label_hi: एक प्रवचन के दौरान युवतियों की "पवित्रता" संबंधी टिप्पणी पर सोशल मीडिया पर व्यापक आलोचना
+    source_ids: [pm-src-05]
+  - date: 2025-08-01
+    kind: other
+    label_en: A Facebook post by one Shatrughan Singh threatens to kill Premanand Maharaj; a complainant later moves Delhi Police for an FIR and police issue notice to a person to join the investigation
+    label_hi: शत्रुघ्न सिंह नामक व्यक्ति की एक फेसबुक पोस्ट में प्रेमानंद महाराज की हत्या की धमकी दी गई; बाद में एक शिकायतकर्ता ने दिल्ली पुलिस से एफआईआर की माँग की और पुलिस ने एक व्यक्ति को जाँच में शामिल होने का नोटिस जारी किया
+    source_ids: [pm-src-06]
+
+relationships:
+  - to_id: droupadi-murmu
+    type: visit
+    period_start: 2026-03-20
+    period_end: 2026-03-20
+    description_en: >
+      President Droupadi Murmu visited Radha Keli Kunj Ashram in Vrindavan on 20 March 2026, during
+      a three-day Uttar Pradesh tour, and held a spiritual conversation with Premanand Maharaj
+      during his birthday week.
+    description_hi: >
+      राष्ट्रपति द्रौपदी मुर्मू ने उत्तर प्रदेश के तीन-दिवसीय दौरे के दौरान 20 मार्च 2026 को वृंदावन के
+      राधा केली कुंज आश्रम का दौरा किया और प्रेमानंद महाराज के जन्मदिवस सप्ताह में उनसे आध्यात्मिक बातचीत
+      की।
+    source_ids: [pm-src-01, pm-src-02]
+  - to_id: virat-kohli
+    type: visit
+    period_start: 2026-04
+    period_end: 2026-07-22
+    description_en: >
+      Cricketer Virat Kohli and actor Anushka Sharma visited Premanand Maharaj at Radha Keli Kunj
+      Ashram twice within three months in 2026: once in April after Royal Challengers Bengaluru's
+      IPL title win, and again on 22 July 2026 after India's ODI series against England.
+    description_hi: >
+      क्रिकेटर विराट कोहली और अभिनेत्री अनुष्का शर्मा ने 2026 में तीन महीनों के भीतर दो बार राधा केली
+      कुंज आश्रम जाकर प्रेमानंद महाराज से भेंट की: एक बार अप्रैल में रॉयल चैलेंजर्स बेंगलुरु की आईपीएल
+      जीत के बाद, और दोबारा 22 जुलाई 2026 को भारत की इंग्लैंड के विरुद्ध वनडे शृंखला के बाद।
+    source_ids: [pm-src-03]
