@@ -176,13 +176,6 @@ claims:
     tier: convicted
     date: 2005-04-05
     source_ids: [premananda-src-01]
-  - id: premananda-claim-04
-    case_id: premananda-pudukkottai-rape-murder-1994
-    statement_en: Premananda died in custody at a private hospital in Chennai on 21 February 2011, while serving his sentence, after being admitted for treatment of liver failure.
-    statement_hi: सज़ा भुगतते हुए 21 फरवरी 2011 को चेन्नई के एक निजी अस्पताल में हिरासत के दौरान प्रेमानंद की मृत्यु हो गई, जहाँ उन्हें लिवर फेल होने के इलाज के लिए भर्ती कराया गया था।
-    tier: convicted
-    date: 2011-02-21
-    source_ids: [premananda-src-03]
 
 events:
   - date: 1997-08-20
