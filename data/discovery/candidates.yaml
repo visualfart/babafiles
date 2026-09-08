@@ -1,0 +1,173 @@
+# Discovery sweep. Every name found anywhere lands here first. status: to_triage | researching | entered | excluded
+# Nothing is silently dropped: an exclusion carries a reason so coverage can be audited.
+- id: sathya-sai-baba
+  name: Sathya Sai Baba (Sathya Narayana Raju, d. 2011)
+  jurisdiction: IN, international
+  note: Abuse allegations on record in major outlets and documentaries; never charged. 1993 Prasanthi Nilayam killings and the CBI/CID inquiry. Sathya Sai Central Trust matters.
+  status: to_triage
+- id: sathya-sai-central-trust
+  name: Sri Sathya Sai Central Trust, Puttaparthi
+  jurisdiction: IN
+  note: 2011 cash and gold discoveries at Yajur Mandir after the death; income-tax and police records; succession disputes.
+  status: to_triage
+- id: shri-saibaba-sansthan-trust-shirdi
+  name: Shri Saibaba Sansthan Trust, Shirdi
+  jurisdiction: IN
+  note: Bombay High Court oversight of trust management; CAG or state audit findings; any FIRs over donations.
+  status: to_triage
+- id: paramahamsa-vishwananda
+  name: Paramahamsa Vishwananda (Bhakti Marga, Springen, Germany)
+  jurisdiction: DE, CH, MU, IN
+  note: Requested by maintainer. Check German and Swiss court and press records for any on-record allegations; otherwise no_record_found with registers listed.
+  status: to_triage
+- id: madhusudan-sai
+  name: Madhusudan Sai (Sathya Sai Grama, Muddenahalli)
+  jurisdiction: IN
+  note: Requested by maintainer. Check for any official record; document institutional and political relationships (visits, awards, grants) neutrally with sources.
+  status: to_triage
+- id: virender-dev-dixit
+  name: Virender Dev Dixit (Adhyatmik Vishwavidyalaya)
+  jurisdiction: IN
+  note: CBI case; Delhi High Court; proclaimed offender.
+  status: to_triage
+- id: radhe-maa
+  name: Radhe Maa (Sukhvinder Kaur)
+  jurisdiction: IN
+  note: ABAP 2017 list; FIRs; verify status.
+  status: to_triage
+- id: nirmal-baba
+  name: Nirmal Baba (Nirmaljit Singh Narula)
+  jurisdiction: IN
+  note: ABAP 2017 list; fraud FIRs; verify status.
+  status: to_triage
+- id: daati-maharaj
+  name: Daati Maharaj (Madan Lal)
+  jurisdiction: IN
+  note: 2018 rape FIR, CBI; verify status.
+  status: to_triage
+- id: kalki-bhagwan
+  name: Kalki Bhagwan (Vijay Kumar Naidu), Oneness
+  jurisdiction: IN
+  note: 2019 income-tax searches; verify follow-up.
+  status: to_triage
+- id: swami-chinmayanand
+  name: Swami Chinmayanand
+  jurisdiction: IN
+  note: Acquitted 2023; to be entered as acquitted to demonstrate the tier system.
+  status: to_triage
+- id: baba-ramdev-patanjali
+  name: Baba Ramdev / Patanjali Ayurved
+  jurisdiction: IN
+  note: Supreme Court misleading-advertisement contempt proceedings 2024; strictly the court record.
+  status: to_triage
+- id: bikram-choudhury
+  name: Bikram Choudhury
+  jurisdiction: US
+  note: 2016 civil verdict, Los Angeles; fled.
+  status: to_triage
+- id: rajneesh-osho
+  name: Bhagwan Shree Rajneesh (Osho) and Rajneeshpuram
+  jurisdiction: US
+  note: 1985 immigration-fraud plea; followers convicted in the 1984 Dalles attack.
+  status: to_triage
+- id: iskcon-child-abuse
+  name: ISKCON (Turley v. ISKCON)
+  jurisdiction: US
+  note: 2005 bankruptcy settlement.
+  status: to_triage
+# --- Currently prominent figures requested by maintainer (to be entered as adverse, allegation, closed or no_record_found per the record) ---
+- id: dhirendra-krishna-shastri
+  name: Dhirendra Krishna Shastri (Bageshwar Dham, Chhatarpur, MP)
+  jurisdiction: IN
+  note: Requested by maintainer. Check Maharashtra Andhashraddha Nirmoolan Samiti complaint (Nagpur, 2023) and its outcome; Bihar and other FIR/complaint records; any court orders; document political visits and appearances neutrally with sources.
+  status: to_triage
+- id: premanand-maharaj
+  name: Premanand Ji Maharaj (Vrindavan)
+  jurisdiction: IN
+  note: Check registers; document visits by public figures neutrally.
+  status: to_triage
+- id: aniruddhacharya
+  name: Aniruddhacharya (Gauri Gopal Ashram, Vrindavan)
+  jurisdiction: IN
+  note: Check for any FIR or court record (2025 remarks controversies); otherwise no_record_found.
+  status: to_triage
+- id: jaggi-vasudev-isha
+  name: Jaggi Vasudev / Isha Foundation
+  jurisdiction: IN
+  note: 2024 Madras HC habeas petition closed by Supreme Court (tier closed); Tamil Nadu forest and land matters on official record; POCSO case against a doctor at the ashram (separate accused).
+  status: to_triage
+- id: ravi-shankar-art-of-living
+  name: Sri Sri Ravi Shankar / Art of Living
+  jurisdiction: IN
+  note: NGT 2017 Yamuna floodplain order and fine (regulatory_action); verify appeal status.
+  status: to_triage
+- id: mata-amritanandamayi
+  name: Mata Amritanandamayi (Amritapuri)
+  jurisdiction: IN, international
+  note: Check registers; on-record allegations in a 2013 memoir and related defamation litigation; enter per the record only.
+  status: to_triage
+- id: gurinder-singh-dhillon-rssb
+  name: Gurinder Singh Dhillon / Radha Soami Satsang Beas
+  jurisdiction: IN
+  note: Delhi High Court and SEBI/Fortis-Religare related litigation naming him; verify what the record says.
+  status: to_triage
+- id: baps-robbinsville
+  name: BAPS (Bochasanwasi Akshar Purushottam Swaminarayan Sanstha), Robbinsville NJ
+  jurisdiction: US
+  note: 2021 federal forced-labour lawsuit and FBI search; most plaintiffs withdrew in 2023; enter per the court docket.
+  status: to_triage
+- id: jayendra-saraswathi
+  name: Jayendra Saraswathi (Kanchi Shankaracharya, d. 2018)
+  jurisdiction: IN
+  note: Acquitted 2013 in the Sankararaman murder case; enter as acquitted.
+  status: to_triage
+- id: shiva-shankar-baba
+  name: Shiva Shankar Baba (Sushil Hari school, Chennai)
+  jurisdiction: IN
+  note: 2021 POCSO arrests; verify trial status.
+  status: to_triage
+- id: sarathi-baba
+  name: Sarathi Baba (Santosh Raul, Odisha)
+  jurisdiction: IN
+  note: 2015 arrest, fraud and rape cases; verify convictions.
+  status: to_triage
+- id: ichhadhari-bhimanand
+  name: Ichhadhari Bhimanand (Shiv Murat Dwivedi)
+  jurisdiction: IN
+  note: ABAP 2017 list; 2010 Delhi case; verify outcome.
+  status: to_triage
+- id: sachidanand-giri
+  name: Sachidanand Giri (Sachin Datta)
+  jurisdiction: IN
+  note: ABAP 2017 list; verify any record.
+  status: to_triage
+- id: om-baba
+  name: Om Baba (Vivekanand Jha)
+  jurisdiction: IN
+  note: ABAP 2017 list; verify any record.
+  status: to_triage
+- id: swami-om
+  name: Swami Om (Vinod Kumar Jha, d. 2021)
+  jurisdiction: IN
+  note: Cases on record; verify.
+  status: to_triage
+- id: chandraswami
+  name: Chandraswami (Nemi Chand Jain, d. 2017)
+  jurisdiction: IN
+  note: FERA and cheating cases; St Kitts forgery case; verify outcomes.
+  status: to_triage
+- id: premananda-tiruchi
+  name: Premananda (Prem Kumar, Tiruchirappalli, d. 2011)
+  jurisdiction: IN
+  note: 1997 conviction for rape and murder, double life sentence, upheld by Supreme Court 2005.
+  status: to_triage
+- id: sant-shri-asharam-trusts
+  name: Ashram trusts of Asaram (land and encroachment matters)
+  jurisdiction: IN
+  note: Official land records and court orders in Gujarat, MP and Rajasthan.
+  status: to_triage
+- id: dera-sacha-sauda
+  name: Dera Sacha Sauda (organisation)
+  jurisdiction: IN
+  note: Organisation-level record: sacrilege cases, Panchkula 2017 property attachment orders, Honeypreet Insan conviction status.
+  status: to_triage

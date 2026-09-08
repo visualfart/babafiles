@@ -38,6 +38,12 @@ hi_reviewed: false
 response_from_subject:          # optional; the subject's public reply
   text_en: "..."
   source_id: asaram-src-05
+image:                          # optional; file goes in public/images/entities/; must be licensed for reuse
+  file: asaram.jpg
+  source_url: https://commons.wikimedia.org/wiki/File:...
+  licence: CC BY-SA 4.0          # or "Public domain", "Official press release", "GODL-India"
+  credit: Photographer name / Wikimedia Commons
+  caption_en: optional
 registers_checked:              # required only for tier no_record_found (min 3)
   - register: Indian Kanoon
     checked_on: 2026-09-08
@@ -95,7 +101,10 @@ events:                                   # timeline points
 
 relationships:                            # documented links; each edge needs a source
   - to_id: some-politician-slug           # must exist as an entity file (can be a stub with is_subject: false)
-    type: shared_stage                    # endorsement | shared_stage | donation | land_grant | board_member | business_ownership | parole_timing | family | legal_representation | other
+    type: shared_stage                    # endorsement | shared_stage | donation | land_grant | board_member | business_ownership |
+                                          # parole_timing | family | legal_representation | visit | public_appearance | award |
+                                          # government_grant | affiliation | other
+                                          # visit/public_appearance/award are neutral facts: say who, when, where, per the source
     period_start: 2012
     period_end: 2013
     description_en: ...

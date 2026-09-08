@@ -1,0 +1,47 @@
+{
+  "site": { "name": "babafiles", "tagline": "What the record says." },
+  "nav": { "records": "Records", "temples": "Temples", "network": "Network", "methodology": "Methodology", "corrections": "Corrections", "about": "About" },
+  "home": {
+    "lead": "An open, sourced database of what courts, police, regulators and official inquiries have put on the record about religious leaders, their organisations and temple trusts.",
+    "search_placeholder": "Search a name, alias or organisation",
+    "recent": "Recently updated records",
+    "no_record_section": "Checked, no adverse record found",
+    "stats": "The record in numbers"
+  },
+  "tiers": {
+    "convicted": "Convicted",
+    "civil_judgment": "Civil judgment",
+    "wanted": "Wanted",
+    "charged": "Charged",
+    "under_investigation": "Under investigation",
+    "regulatory_action": "Regulatory action",
+    "allegation": "Allegation",
+    "acquitted": "Acquitted",
+    "discharged": "Discharged",
+    "closed": "Closed",
+    "no_record_found": "No adverse record found"
+  },
+  "entity": {
+    "summary": "Summary",
+    "cases": "Cases",
+    "claims": "Record",
+    "timeline": "Timeline",
+    "relationships": "Documented relationships",
+    "sources": "Sources",
+    "response": "Response from the subject",
+    "registers": "Registers checked",
+    "as_of": "as of",
+    "aliases": "Also known as",
+    "base": "Base",
+    "organisations": "Organisations",
+    "status": "Status",
+    "abap": "Named on the Akhil Bharatiya Akhara Parishad list, September 2017",
+    "unreviewed_hi": "Hindi text is a draft and has not been reviewed yet.",
+    "no_record_note": "This person or organisation was checked against the registers below on the dates shown. Nothing adverse was found. This page carries only neutral identity facts.",
+    "updated": "Updated"
+  },
+  "case": { "court": "Court", "number": "Case number", "filed": "Filed", "type": "Type", "statutes": "Statutes", "status": "Status", "verdict": "Verdict", "sentence": "Sentence or remedy", "appeal": "Appeal", "jurisdiction": "Jurisdiction", "subject": "Subject" },
+  "source": { "publisher": "Publisher", "type": "Type", "published": "Published", "archived": "Archived copy", "captured": "Captured", "hash": "SHA-256 of captured text", "not_archived": "Not yet archived", "cited_by": "Cited by", "original": "Original", "types": { "court": "Court record", "official": "Official record", "major_outlet": "Major outlet", "other": "Other" } },
+  "activity": { "active": "Active", "imprisoned": "Imprisoned", "absconding": "Absconding", "deceased": "Deceased", "inactive": "Inactive" },
+  "common": { "all": "All", "records": "records", "claims": "claims", "sources": "sources", "cases": "cases", "read": "Read", "back": "Back", "lang": "हिंदी", "none": "None on record" }
+}

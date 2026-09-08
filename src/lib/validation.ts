@@ -82,6 +82,15 @@ export const RegisterCheckSchema = z.object({
   query: optStr,
 });
 
+export const ImageSchema = z.object({
+  file: z.string().regex(/^[a-z0-9-]+\.(jpg|jpeg|png|webp)$/, "file must live in public/images/entities/"),
+  source_url: z.string().url(),
+  licence: z.string().min(1),          // e.g. "CC BY-SA 4.0", "Public domain", "Official press release"
+  credit: z.string().min(1),
+  caption_en: optStr,
+  caption_hi: optStr,
+});
+
 export const EntityFileSchema = z.object({
   id: slug,
   type: z.enum(ENTITY_TYPES),
@@ -105,6 +114,7 @@ export const EntityFileSchema = z.object({
     .optional()
     .nullable(),
   registers_checked: z.array(RegisterCheckSchema).default([]),
+  image: ImageSchema.optional().nullable(),
   sources: z.array(SourceSchema).default([]),
   cases: z.array(CaseSchema).default([]),
   claims: z.array(ClaimSchema).default([]),

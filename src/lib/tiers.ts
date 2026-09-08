@@ -73,5 +73,6 @@ export const EVENT_KINDS = [
 
 export const RELATIONSHIP_TYPES = [
   "endorsement", "shared_stage", "donation", "land_grant", "board_member",
-  "business_ownership", "parole_timing", "family", "legal_representation", "other",
+  "business_ownership", "parole_timing", "family", "legal_representation",
+  "visit", "public_appearance", "award", "government_grant", "affiliation", "other",
 ] as const;

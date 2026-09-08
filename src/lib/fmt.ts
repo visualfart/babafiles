@@ -1,0 +1,21 @@
+import type { Lang } from "@/i18n";
+
+const MONTHS_EN = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const MONTHS_HI = ["जन","फ़र","मार्च","अप्रैल","मई","जून","जुल","अग","सित","अक्टू","नव","दिस"];
+
+/** Formats YYYY, YYYY-MM or YYYY-MM-DD without pretending to more precision than the record has. */
+export function fmtDate(d: string | null | undefined, lang: Lang): string {
+  if (!d) return "";
+  const [y, m, day] = d.split("-");
+  const months = lang === "hi" ? MONTHS_HI : MONTHS_EN;
+  if (!m) return y;
+  if (!day) return `${months[+m - 1]} ${y}`;
+  return `${+day} ${months[+m - 1]} ${y}`;
+}
+
+export const COUNTRY: Record<string, string> = {
+  IN: "India", US: "United States", GB: "United Kingdom", CA: "Canada", AU: "Australia", NP: "Nepal",
+  DE: "Germany", CH: "Switzerland", MU: "Mauritius", BO: "Bolivia", PY: "Paraguay", EC: "Ecuador",
+  AE: "United Arab Emirates", SG: "Singapore", MY: "Malaysia", LK: "Sri Lanka", TT: "Trinidad and Tobago",
+};
+export const country = (c: string) => COUNTRY[c] ?? c;
