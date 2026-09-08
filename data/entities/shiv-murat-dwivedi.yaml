@@ -1,0 +1,160 @@
+id: shiv-murat-dwivedi
+type: person
+is_subject: true
+name_en: Shiv Murat Dwivedi
+name_hi: शिव मूरत द्विवेदी
+aliases: [Ichhadhari Bhimanand, Icchadhari Baba, Shiva]
+born:
+died:
+base_location: Khanpur, New Delhi
+country: IN
+countries_of_operation: [IN]
+organisations: []
+activity_status: active
+abap_2017_list: false
+summary_en: >
+  Shiv Murat Dwivedi, a self-styled godman known as Ichhadhari Bhimanand, was named with a
+  co-accused, Praveen Kumar, in FIRs 47/2010 and 54/2010 registered at Saket police station,
+  Delhi, alleging offences under the Immoral Traffic (Prevention) Act, 1956 in connection with
+  a prostitution racket allegedly run out of a rented flat in Humayunpur village, Delhi. The
+  Enforcement Directorate treated those as scheduled offences under the Prevention of Money
+  Laundering Act and, after provisionally attaching assets it said were proceeds of crime, filed
+  a money-laundering complaint (ECIR/53/DLZO/2010) in 2015; a Delhi trial court framed charges
+  against Dwivedi and Kumar under PMLA section 4 on 14 May 2016. On 19 November 2025 the
+  Additional Sessions Judge, Saket Courts, acquitted both accused, finding the Enforcement
+  Directorate's investigation had not established the alleged proceeds of crime or traced any
+  money trail. Dwivedi separately litigated the Enforcement Directorate's conduct of the case
+  before the Delhi High Court in 2025.
+summary_hi: >
+  शिव मूरत द्विवेदी, जो इच्छाधारी भीमानंद के नाम से स्वयंभू बाबा के रूप में जाने जाते हैं, को
+  सह-अभियुक्त प्रवीण कुमार के साथ दिल्ली के साकेत थाने में दर्ज एफआईआर 47/2010 और 54/2010 में नामित
+  किया गया, जिनमें अनैतिक व्यापार (निवारण) अधिनियम, 1956 के तहत आरोप थे कि दिल्ली के हुमायूँपुर गाँव
+  के एक किराए के फ्लैट से वेश्यावृत्ति रैकेट चलाया जा रहा था। प्रवर्तन निदेशालय ने इन्हें धन शोधन
+  निवारण अधिनियम के तहत अनुसूचित अपराध मानते हुए, अपराध की आय बताई गई संपत्तियों को अस्थायी रूप से
+  कुर्क करने के बाद, 2015 में एक धन शोधन शिकायत (ईसीआईआर/53/डीएलजेडओ/2010) दाखिल की; दिल्ली की एक
+  विचारण अदालत ने 14 मई 2016 को द्विवेदी और कुमार पर पीएमएलए धारा 4 के तहत आरोप तय किए। 19 नवंबर 2025
+  को साकेत कोर्ट्स के अतिरिक्त सत्र न्यायाधीश ने दोनों अभियुक्तों को यह पाते हुए बरी कर दिया कि
+  प्रवर्तन निदेशालय की जाँच न तो कथित अपराध की आय स्थापित कर सकी और न ही किसी धन के मार्ग का पता
+  लगा सकी। द्विवेदी ने अलग से 2025 में प्रवर्तन निदेशालय के मामले के संचालन को दिल्ली उच्च न्यायालय
+  में चुनौती दी।
+hi_reviewed: false
+
+sources:
+  - id: smdwivedi-src-01
+    url: https://indiankanoon.org/doc/125445442/
+    title: Enforcement Directorate vs Shiv Murat Diwedi Anr on 19 November, 2025
+    publisher: Delhi District Court (Saket) (via Indian Kanoon)
+    type: court
+    published_at: 2025-11-19
+    language: en
+    archive_url: https://web.archive.org/web/20260908154000/https://indiankanoon.org/doc/125445442/
+    captured_at: 2026-09-09
+    sha256:
+    note: >
+      SC No. 6594/2016, ECIR No. ECIR/53/DLZO/2010, Additional Sessions Judge Ravindra Kumar
+      Pandey, South District, Saket Courts. Records that ED alleged Dwivedi and co-accused
+      Praveen Kumar committed scheduled offences under ITPA ss.5, 6 and 8 (running a prostitution
+      racket, 2001-2010, Delhi) and laundered the proceeds (Rs 90,74,132 deposited by Dwivedi,
+      referencing FIR Nos. 47/2010 and 54/2010, PS Saket); charges under PMLA s.4 framed
+      14.05.2016; final order "Acquitted", holding the ED's investigating officer had not traced
+      any money trail, verified the bank or property records, or established the alleged proceeds
+      of crime.
+  - id: smdwivedi-src-02
+    url: https://indiankanoon.org/doc/134382792/
+    title: Shiv Murat Dwivedi vs Directorate Of Enforcement on 1 September, 2025
+    publisher: Delhi High Court (via Indian Kanoon)
+    type: court
+    published_at: 2025-09-01
+    language: en
+    archive_url: https://web.archive.org/web/20260908153837/https://indiankanoon.org/doc/134382792/
+    captured_at: 2026-09-09
+    sha256:
+    note: >
+      W.P.(C) 6616/2025 and CM Appl.30082/2025, Justice Sachin Datta. A short listing order in a
+      writ petition filed by Dwivedi against the Enforcement Directorate; confirms an active,
+      separate challenge by Dwivedi to ED's conduct of the matter pending before the Delhi High
+      Court in 2025.
+
+cases:
+  - id: shiv-murat-dwivedi-pmla-2010
+    title_en: Enforcement Directorate v. Shiv Murat Dwivedi and Praveen Kumar (money-laundering prosecution over an alleged prostitution racket)
+    title_hi: प्रवर्तन निदेशालय बनाम शिव मूरत द्विवेदी एवं प्रवीण कुमार (कथित वेश्यावृत्ति रैकेट पर धन शोधन अभियोजन)
+    jurisdiction_country: IN
+    jurisdiction_region: Delhi
+    court: Additional Sessions Judge-03, South District, Saket Courts, New Delhi (trial); Delhi High Court (writ proceedings)
+    case_number: SC No. 6594/2016; ECIR No. ECIR/53/DLZO/2010; predicate FIR Nos. 47/2010 and 54/2010, PS Saket
+    filed_year: 2010
+    case_type: criminal
+    statutes: ["PMLA 2002 s.4", "Immoral Traffic (Prevention) Act 1956 ss.5, 6, 8"]
+    status: acquitted
+    tier: acquitted
+    verdict_date: 2025-11-19
+    sentence_or_remedy: Acquitted
+    appeal_status: No appeal against the acquittal located.
+    summary_en: >
+      Delhi police registered FIR Nos. 47/2010 and 54/2010 at Saket police station alleging that
+      Shiv Murat Dwivedi and Praveen Kumar ran a prostitution racket out of a rented flat in
+      Humayunpur village, Delhi, between 2001 and 2010, invoking sections 5, 6 and 8 of the
+      Immoral Traffic (Prevention) Act, 1956. The Enforcement Directorate treated these as
+      scheduled offences under the Prevention of Money Laundering Act, 2002 and, after
+      provisionally attaching bank deposits, insurance policies, two cars and a house it said
+      were purchased with the proceeds of crime, filed a money-laundering complaint
+      (ECIR/53/DLZO/2010) in 2015; the trial court framed charges against both men under PMLA
+      section 4 on 14 May 2016. At trial the defence argued, and the court accepted, that the
+      Enforcement Directorate's investigating officer had not verified the bank records,
+      insurance documents or property valuation underlying the case, had not traced any money
+      trail, and had relied on unverified material; on 19 November 2025 the Additional Sessions
+      Judge, Saket Courts, acquitted both Dwivedi and Kumar. Dwivedi separately pursued a writ
+      petition against the Enforcement Directorate's conduct of the matter before the Delhi High
+      Court, which was still pending as of September 2025.
+    summary_hi: >
+      दिल्ली पुलिस ने साकेत थाने में एफआईआर संख्या 47/2010 और 54/2010 दर्ज कीं, जिनमें आरोप था कि
+      शिव मूरत द्विवेदी और प्रवीण कुमार ने 2001 से 2010 के बीच दिल्ली के हुमायूँपुर गाँव के एक किराए
+      के फ्लैट से वेश्यावृत्ति रैकेट चलाया, जिसमें अनैतिक व्यापार (निवारण) अधिनियम, 1956 की धारा 5,
+      6 और 8 लगाई गईं। प्रवर्तन निदेशालय ने इन्हें धन शोधन निवारण अधिनियम, 2002 के तहत अनुसूचित
+      अपराध मानते हुए, बैंक जमा, बीमा पॉलिसियों, दो कारों और एक मकान को अस्थायी रूप से कुर्क करने के
+      बाद, जिन्हें अपराध की आय से खरीदा गया बताया गया, 2015 में एक धन शोधन शिकायत
+      (ईसीआईआर/53/डीएलजेडओ/2010) दाखिल की; विचारण अदालत ने 14 मई 2016 को दोनों पर पीएमएलए धारा 4 के
+      तहत आरोप तय किए। विचारण में बचाव पक्ष ने तर्क दिया, जिसे अदालत ने स्वीकार किया, कि प्रवर्तन
+      निदेशालय के जाँच अधिकारी ने मामले के आधार बने बैंक रिकॉर्ड, बीमा दस्तावेज़ या संपत्ति मूल्यांकन
+      का सत्यापन नहीं किया था, धन का कोई मार्ग नहीं खोजा था, और असत्यापित सामग्री पर निर्भर रहे थे;
+      19 नवंबर 2025 को साकेत कोर्ट्स के अतिरिक्त सत्र न्यायाधीश ने द्विवेदी और कुमार दोनों को बरी कर
+      दिया। द्विवेदी ने अलग से प्रवर्तन निदेशालय के मामले के संचालन के विरुद्ध दिल्ली उच्च न्यायालय
+      में एक रिट याचिका दायर की, जो सितंबर 2025 तक लंबित थी।
+    source_ids: [smdwivedi-src-01, smdwivedi-src-02]
+
+claims:
+  - id: smdwivedi-claim-01
+    case_id: shiv-murat-dwivedi-pmla-2010
+    statement_en: A Delhi trial court framed charges against Shiv Murat Dwivedi and Praveen Kumar under section 4 of the Prevention of Money Laundering Act on 14 May 2016, in a case (ECIR/53/DLZO/2010) alleging they laundered proceeds of a prostitution racket run in Delhi between 2001 and 2010 under FIR Nos. 47/2010 and 54/2010, PS Saket.
+    statement_hi: दिल्ली की एक विचारण अदालत ने 14 मई 2016 को शिव मूरत द्विवेदी और प्रवीण कुमार पर धन शोधन निवारण अधिनियम की धारा 4 के तहत आरोप तय किए, एक ऐसे मामले (ईसीआईआर/53/डीएलजेडओ/2010) में जिसमें आरोप था कि उन्होंने साकेत थाने की एफआईआर संख्या 47/2010 और 54/2010 के तहत 2001 से 2010 के बीच दिल्ली में चलाए गए वेश्यावृत्ति रैकेट की आय को शोधित किया।
+    tier: charged
+    date: 2016-05-14
+    source_ids: [smdwivedi-src-01]
+  - id: smdwivedi-claim-02
+    case_id: shiv-murat-dwivedi-pmla-2010
+    statement_en: On 19 November 2025 the Additional Sessions Judge, Saket Courts, New Delhi acquitted Shiv Murat Dwivedi and co-accused Praveen Kumar of the money-laundering charge, holding that the Enforcement Directorate's investigating officer had not verified the underlying financial and property records or traced any money trail.
+    statement_hi: 19 नवंबर 2025 को साकेत कोर्ट्स, नई दिल्ली के अतिरिक्त सत्र न्यायाधीश ने शिव मूरत द्विवेदी और सह-अभियुक्त प्रवीण कुमार को धन शोधन के आरोप से बरी कर दिया, यह मानते हुए कि प्रवर्तन निदेशालय के जाँच अधिकारी ने अंतर्निहित वित्तीय और संपत्ति संबंधी रिकॉर्ड का सत्यापन नहीं किया था और न ही धन का कोई मार्ग खोजा था।
+    tier: acquitted
+    date: 2025-11-19
+    source_ids: [smdwivedi-src-01]
+
+events:
+  - date: 2015-04-01
+    kind: other
+    label_en: Enforcement Directorate files money-laundering complaint (ECIR/53/DLZO/2010)
+    label_hi: प्रवर्तन निदेशालय ने धन शोधन शिकायत (ईसीआईआर/53/डीएलजेडओ/2010) दाखिल की
+    case_id: shiv-murat-dwivedi-pmla-2010
+    source_ids: [smdwivedi-src-01]
+  - date: 2016-05-14
+    kind: chargesheet
+    label_en: Charges framed under PMLA section 4
+    label_hi: पीएमएलए धारा 4 के तहत आरोप तय
+    case_id: shiv-murat-dwivedi-pmla-2010
+    source_ids: [smdwivedi-src-01]
+  - date: 2025-11-19
+    kind: acquittal
+    label_en: Acquitted by the Saket Courts trial judge
+    label_hi: साकेत कोर्ट्स के विचारण न्यायाधीश द्वारा बरी
+    case_id: shiv-murat-dwivedi-pmla-2010
+    source_ids: [smdwivedi-src-01]
