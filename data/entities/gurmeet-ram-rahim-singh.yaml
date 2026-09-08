@@ -1,0 +1,997 @@
+id: gurmeet-ram-rahim-singh
+type: person
+is_subject: true
+name_en: Gurmeet Ram Rahim Singh
+name_hi: गुरमीत राम रहीम सिंह
+aliases: [Baba Gurmeet Singh, Maharaj Gurmeet Singh, Sant Gurmeet Ram Rahim Singh Insan, Gurmeet Ram Rahim Singh Insan, Dera chief, Sirsa Dera head]
+born: 1967-08-15
+died:
+base_location: Sirsa, Haryana
+country: IN
+countries_of_operation: [IN]
+organisations: [Dera Sacha Sauda]
+activity_status: imprisoned
+abap_2017_list: false
+summary_en: >
+  Gurmeet Ram Rahim Singh has headed the Sirsa-based Dera Sacha Sauda since 1990. On 25 August 2017
+  a Special CBI Court at Panchkula convicted him of raping two female disciples and sentenced him to
+  20 years' imprisonment; his appeal against that conviction is pending in the Punjab and Haryana High
+  Court and he is lodged in Sunaria jail, Rohtak. He was also convicted by the same court of conspiring
+  to murder journalist Ram Chander Chhatrapati (2019) and former Dera manager Ranjit Singh (2021), but
+  the High Court set aside both convictions on appeal (28 May 2024 and 7 March 2026); appeals against
+  both acquittals are pending in the Supreme Court. Charges have been framed against him in a CBI case
+  about the castration of followers, and he is an accused in three 2015 sacrilege cases in Punjab that
+  are on trial at Chandigarh. Since 2022 he has been released on parole or furlough repeatedly, several
+  times in the days before state elections, which drew opposition complaints and litigation.
+summary_hi: >
+  गुरमीत राम रहीम सिंह 1990 से सिरसा स्थित डेरा सच्चा सौदा के प्रमुख हैं। 25 अगस्त 2017 को पंचकूला की
+  विशेष सीबीआई अदालत ने उन्हें दो महिला अनुयायियों से बलात्कार का दोषी ठहराया और 20 साल कारावास की सज़ा
+  सुनाई; इस दोषसिद्धि के विरुद्ध उनकी अपील पंजाब एवं हरियाणा उच्च न्यायालय में लंबित है और वे रोहतक की
+  सुनारिया जेल में बंद हैं। इसी अदालत ने उन्हें पत्रकार राम चंदर छत्रपति (2019) और पूर्व डेरा प्रबंधक
+  रणजीत सिंह (2021) की हत्या की साज़िश का भी दोषी ठहराया था, लेकिन उच्च न्यायालय ने अपील पर दोनों
+  दोषसिद्धियाँ रद्द कर दीं (28 मई 2024 और 7 मार्च 2026); दोनों बरी किए जाने के विरुद्ध अपीलें सर्वोच्च
+  न्यायालय में लंबित हैं। अनुयायियों के बधियाकरण से जुड़े सीबीआई मामले में उन पर आरोप तय हो चुके हैं और
+  पंजाब के 2015 के तीन बेअदबी मामलों में वे अभियुक्त हैं, जिनकी सुनवाई चंडीगढ़ में चल रही है। 2022 से उन्हें
+  बार-बार पैरोल या फरलो पर रिहा किया गया है, कई बार राज्य चुनावों से ठीक पहले, जिस पर विपक्ष ने आपत्ति
+  जताई और मुकदमे हुए।
+hi_reviewed: false
+response_from_subject:
+  text_en: >
+    After the 7 March 2026 High Court acquittal in the Chhatrapati case, Dera spokesperson Jitender
+    Khurana said the sect had always maintained that Ram Rahim was innocent and that the allegations
+    against him were baseless. On the day of the 2017 rape conviction, Dera spokesperson Dilawar Insan
+    said: "I just want to request everyone to maintain peace at the moment. We will explore what legal
+    options are available to us."
+  text_hi: >
+    छत्रपति मामले में 7 मार्च 2026 को उच्च न्यायालय द्वारा बरी किए जाने के बाद डेरा प्रवक्ता जितेंद्र
+    खुराना ने कहा कि डेरा हमेशा से कहता रहा है कि राम रहीम निर्दोष हैं और उन पर लगे आरोप निराधार हैं।
+    2017 में बलात्कार मामले में दोषसिद्धि के दिन डेरा प्रवक्ता दिलावर इंसां ने कहा था कि वे सभी से
+    शांति बनाए रखने का अनुरोध करते हैं और उपलब्ध कानूनी विकल्पों पर विचार करेंगे।
+  source_id: grrs-src-06
+
+sources:
+  - id: grrs-src-01
+    url: https://www.verdictum.in/pdf_upload/baba-maharaj-gurmeet-ram-rahim-singh-v-central-bureau-of-investigation-1773268.pdf
+    title: Baba Gurmeet Singh @ Maharaj Gurmeet Singh @ Gurmeet Ram Rahim Singh v. Central Bureau of Investigation, CRA-D-240-D-2019 and connected appeals
+    publisher: Punjab and Haryana High Court (judgment copy hosted by Verdictum)
+    type: court
+    published_at: 2026-03-07
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      113-page judgment of Chief Justice Sheel Nagu and Justice Vikram Aggarwal. Recites the trial court's
+      judgment of conviction dated 11.01.2019 and order of sentence dated 17.01.2019 (life imprisonment and
+      Rs 50,000 fine under s.120-B read with s.302 IPC for A1), FIR No. 685 of 2002 PS City Sirsa, CBI case
+      RC10/3, the High Court's 10.11.2003 transfer of the investigation to the CBI, and that A1 "had been
+      convicted on 25.08.2017 in a rape case" (RC-5). Operative part at para 204 acquits A1 and dismisses the
+      appeals of Kuldeep Singh, Nirmal Singh and Krishan Lal (through legal representatives). Also refers to
+      the pending castration case. Indian Kanoon copy is at https://indiankanoon.org/doc/81005547/ (not
+      fetchable at time of research).
+  - id: grrs-src-02
+    url: https://www.verdictum.in/pdf_upload/gurmeet-ram-rahim-verdictum-1652400.pdf
+    title: Jagseer Singh v. Baba Gurmeet Singh @ Maharaj Gurmeet Singh @ Gurmeet Ram Rahim Singh & Ors., SLP (Crl.) Diary No. 33568/2024, Record of Proceedings
+    publisher: Supreme Court of India (order copy hosted by Verdictum)
+    type: court
+    published_at: 2024-09-09
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Bench of Justices Bela M. Trivedi and Satish Chandra Sharma granted permission to file the SLP and
+      issued notice, returnable after four weeks. The petition arises from the High Court's judgment dated
+      28-05-2024 in CRA-D Nos. 738, 725, 726, 728 and 715 of 2021.
+  - id: grrs-src-03
+    url: https://www.casemine.com/judgement/in/683858fd95341e6a5135fee7
+    title: Baba Gurmeet Singh @ Maharaj Gurmeet Singh @ Gurmeet Ram Rahim Singh v. Central Bureau of Investigation, CRA-D-726-2021 (O&M), 2024 PHHC 76537-DB
+    publisher: Punjab and Haryana High Court (order copy hosted by CaseMine)
+    type: court
+    published_at: 2024-05-28
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Short order of Justices Sureshwar Thakur and Lalit Batra dated 28.05.2024 (reserved 20.03.2024) in the
+      appellant's appeal, disposing it in terms of the detailed order of even date in CRA-D-738-2021 (Jasbir
+      Singh (deceased) through his LRs v. CBI). The detailed 163-page order was not fetched.
+  - id: grrs-src-04
+    url: https://www.verdictum.in/pdf_upload/shiromani-gurudwara-prabandhak-committee-v-state-of-haryanawatermark-1645101.pdf
+    title: Shiromani Gurudwara Prabandhak Committee v. State of Haryana and others, CWP-PIL-11 of 2023, 2024:PHHC:102640-DB
+    publisher: Punjab and Haryana High Court (judgment copy hosted by Verdictum)
+    type: court
+    published_at: 2024-08-09
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Chief Justice Sheel Nagu and Justice Anil Kshetarpal. Records that Haryana granted respondent No. 9
+      (Gurmeet Ram Rahim) parole by order dated 20.01.2023 for 40 days under the Haryana Good Conduct
+      Prisoners (Temporary Release) Act, 2022; holds the 2022 Act applicable; declines to examine later
+      releases as infructuous; directs that any future application "shall be considered strictly in accordance
+      with the provisions of the Act of 2022 without the competent authority indulging in arbitrariness or
+      favoritism or discrimination".
+  - id: grrs-src-05
+    url: https://www.tribuneindia.com/news/top-headlines/hc-acquits-ram-rahim-in-scribe-murder-as-bullet-evidence-comes-under-cloud/
+    title: HC acquits Ram Rahim in scribe murder as bullet evidence comes under cloud
+    publisher: The Tribune (Saurabh Malik)
+    type: major_outlet
+    published_at: 2026-03-08
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Bench, acquittal, dismissal of co-accused appeals, forensic-evidence reasoning, continued custody in the rape case.
+  - id: grrs-src-06
+    url: https://www.tribuneindia.com/news/haryana/gurmeet-ram-rahim-acquitted/
+    title: Seven years after life sentence, High Court acquits Dera chief Gurmeet Ram Rahim
+    publisher: The Tribune (Saurabh Malik)
+    type: major_outlet
+    published_at: 2026-03-07
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Includes Dera spokesperson Jitender Khurana's statement; notes co-accused Krishan Lal died on 18 June 2024.
+  - id: grrs-src-07
+    url: https://www.tribuneindia.com/news/haryana/ram-rahim-acquitted-revisiting-the-journalist-chhatrapati-murder-case/
+    title: "Ram Rahim acquitted: Revisiting the journalist Chhatrapati murder case"
+    publisher: The Tribune (Bhartesh Singh Thakur)
+    type: major_outlet
+    published_at: 2026-03-07
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Case chronology from the 30 May 2002 publication of the anonymous letter in Poora Sach to the 2026 acquittal.
+  - id: grrs-src-08
+    url: https://www.tribuneindia.com/news/haryana/gurmeet-ram-rahim-singh-inside-the-world-of-dera-sacha-sauda/
+    title: "Gurmeet Ram Rahim: Inside the world of Dera Sacha Sauda"
+    publisher: The Tribune (Anil Kakkar)
+    type: major_outlet
+    published_at: 2026-03-07
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Biographical facts (born 15 August 1967, Sri Gurusar Modia, Sri Ganganagar; named successor 23 September 1990).
+  - id: grrs-src-09
+    url: https://www.tribuneindia.com/news/archive/haryana/sirsa-dera-head-convicted-of-chhatrapati-murder-sentencing-on-jan-17-712152
+    title: Sirsa Dera head convicted of Chhatrapati murder, sentencing on Jan 17
+    publisher: The Tribune (Sanjay Bumbroo and Bhartesh Singh Thakur)
+    type: major_outlet
+    published_at: 2019-01-12
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: grrs-src-10
+    url: https://www.tribuneindia.com/news/haryana/dera-chief-gurmeet-ram-rahim-acquitted-in-ranjit-murder-case-625624
+    title: Punjab and Haryana High Court acquits Sirsa Dera chief Gurmeet Ram Rahim Singh, 4 others in Ranjit Singh murder case
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2024-05-28
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: grrs-src-11
+    url: https://www.tribuneindia.com/news/india/sketchy-probe-punjab-and-haryana-high-court-acquits-gurmeet-ram-rahim-singh-in-aides-murder-case-625699
+    title: "Sketchy probe: High Court acquits Gurmeet Ram Rahim Singh in aide's murder case"
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2024-05-29
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: grrs-src-12
+    url: https://www.tribuneindia.com/news/haryana/tight-security-outside-panchkula-court-as-quantum-of-punishment-against-dera-chief-in-murder-case-to-be-announced-323538
+    title: Tight security outside Panchkula court as quantum of punishment against Dera chief in murder case to be announced
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2021-10-12
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Conviction on 8 October 2021 under ss.302/120-B IPC; sentencing deferred to 18 October 2021.
+  - id: grrs-src-13
+    url: https://www.tribuneindia.com/news/haryana/2002-murder-sc-asks-sirsa-dera-chief-others-to-respond-to-cbi-plea-against-their-acquittal
+    title: "2002 murder: SC asks Sirsa Dera chief, others to respond to CBI plea against their acquittal"
+    publisher: The Tribune (Satya Prakash)
+    type: major_outlet
+    published_at: 2025-01-03
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: grrs-src-14
+    url: https://www.tribuneindia.com/news/haryana/sirsa-dera-head-gurmeet-ram-rahim-withdraws-sentence-suspension-plea
+    title: Sirsa Dera head Gurmeet Ram Rahim withdraws sentence suspension plea
+    publisher: The Tribune (Saurabh Malik)
+    type: major_outlet
+    published_at: 2025-07-23
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: 20 years' rigorous imprisonment in the 2017 rape case; suspension-of-sentence application withdrawn with liberty to revisit.
+  - id: grrs-src-15
+    url: https://www.tribuneindia.com/news/top-headlines/8-years-after-death-of-37-in-pkula-riots-no-conviction-yet
+    title: 8 years after death of 37 in P'kula riots, no conviction yet
+    publisher: The Tribune (Bhartesh Singh Thakur)
+    type: major_outlet
+    published_at: 2025-08-25
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: 37 killed in Panchkula on 25 August 2017; 177 cases registered; 132 of 152 cases ended in acquittal.
+  - id: grrs-src-16
+    url: https://www.tribuneindia.com/news/chandigarh/nhrc-shuts-case-of-death-of-32-people-during-2017-dera-violence-in-panchkula-213756
+    title: NHRC close case of death of 32 people during 2017 Dera violence in Panchkula
+    publisher: The Tribune (Sushil Manav)
+    type: major_outlet
+    published_at: 2021-02-17
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: NHRC cited 32 civilian deaths in police action on 25 August 2017; the figure differs from the 37 reported elsewhere.
+  - id: grrs-src-17
+    url: https://www.aljazeera.com/news/2017/8/25/ram-rahim-singhs-supporters-riot-after-rape-conviction
+    title: Ram Rahim Singh's supporters riot after rape conviction
+    publisher: Al Jazeera
+    type: major_outlet
+    published_at: 2017-08-25
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Same-day report of the conviction and violence; carries Dera spokesperson Dilawar Insan's statement.
+  - id: grrs-src-18
+    url: https://www.tribuneindia.com/news/haryana/after-election-panel-nod-dera-chief-gurmeet-ram-rahim-singh-all-set-for-20-day-parole
+    title: After election panel nod, Dera chief Gurmeet Ram Rahim Singh all set for 20-day parole
+    publisher: The Tribune (Geetanjali Gayatri)
+    type: major_outlet
+    published_at: 2024-10-01
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: 11th release since 2017; Election Commission conditions barring entry into Haryana and political activity.
+  - id: grrs-src-19
+    url: https://www.tribuneindia.com/news/20-day-parole-for-sirsa-dera-head
+    title: 20-day parole for Sirsa Dera head
+    publisher: The Tribune (Bhartesh Singh Thakur)
+    type: major_outlet
+    published_at: 2024-10-02
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Release on 2 October 2024, three days before the 5 October 2024 Haryana Assembly election; Chief Electoral Officer concurrence of 30 September.
+  - id: grrs-src-20
+    url: https://www.tribuneindia.com/news/haryana/ram-rahim-released-on-30-day-parole-ahead-of-delhi-elections
+    title: Ram Rahim released on 30-day parole ahead of Delhi elections
+    publisher: The Tribune (Sunit Dhawan)
+    type: major_outlet
+    published_at: 2025-01-29
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: grrs-src-21
+    url: https://www.tribuneindia.com/news/haryana/dera-sacha-sauda-head-gurmeet-ram-rahim-singh-released-from-rohtak-jail-on-40-day-parole-472449
+    title: Dera Sacha Sauda head Gurmeet Ram Rahim Singh released from Rohtak jail on 40-day parole
+    publisher: The Tribune (Sunit Dhawan)
+    type: major_outlet
+    published_at: 2023-01-22
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Also recaps a 40-day parole, a 21-day furlough and a one-month parole in 2022.
+  - id: grrs-src-22
+    url: https://www.tribuneindia.com/news/haryana/rape-convict-dera-chief-ram-rahim-gets-another-parole-this-time-for-40-days/
+    title: Rape convict Dera chief Ram Rahim gets another parole; this time for 40 days
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2025-08-05
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: 14th release since conviction.
+  - id: grrs-src-23
+    url: https://www.tribuneindia.com/news/haryana/dera-chief-gurmeet-ram-rahim-gets-21-day-furlough-17th-release-since-2017/
+    title: Dera chief Gurmeet Ram Rahim gets 21-day furlough, 17th release since 2017
+    publisher: The Tribune (Ravinder Saini)
+    type: major_outlet
+    published_at: 2026-08-25
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Third release of 2026 after a 40-day parole in January and a 30-day parole in May.
+  - id: grrs-src-24
+    url: https://www.tribuneindia.com/2014/20141014/haryana.htm
+    title: Dera Sacha Sauda extends support to BJP on all 90 seats (Haryana page, 14 October 2014 edition)
+    publisher: The Tribune (Sushil Manav)
+    type: major_outlet
+    published_at: 2014-10-13
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Political affairs wing spokesperson Jasbir Singh announced support for the BJP on all 90 Haryana Assembly seats.
+  - id: grrs-src-25
+    url: https://www.tribuneindia.com/news/archive/haryana/dera-had-an-important-role-in-forming-first-bjp-govt-in-haryana-456869
+    title: Dera had an important role in forming first BJP govt in Haryana
+    publisher: The Tribune (Vishal Joshi)
+    type: major_outlet
+    published_at: 2017-08-25
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: grrs-src-26
+    url: https://www.tribuneindia.com/news/bathinda/sirsa-dera-dissolves-its-political-wing-488098/
+    title: Sirsa-based Dera Sacha Sauda dissolves its political wing
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2023-03-15
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Recaps open support for Congress in the 2007 Punjab Assembly election and support for SAD candidates in 2017.
+  - id: grrs-src-27
+    url: https://www.epw.in/journal/2007/40/special-articles/dera-sacha-sauda-controversy-and-beyond.html
+    title: The Dera Sacha Sauda Controversy and Beyond
+    publisher: Economic and Political Weekly (Lionel Baixas)
+    type: other
+    published_at: 2007-10-06
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Academic article; records the Dera's support for Congress in the February 2007 Punjab election and the May 2007 controversy.
+  - id: grrs-src-28
+    url: https://www.tribuneindia.com/news/archive/features/after-years-of-animosity-premis-vote-for-sad-bjp-359642
+    title: After years of animosity, premis vote for SAD-BJP
+    publisher: The Tribune (Parvesh Sharma)
+    type: major_outlet
+    published_at: 2017-02-05
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Dera announced support for the SAD-BJP alliance on 31 January 2017 for the Punjab Assembly election.
+  - id: grrs-src-29
+    url: https://www.tribuneindia.com/news/india/supreme-court-paves-the-way-for-trial-in-sacrilege-cases-against-dera-chief-gurmeet-ram-rahim-singh
+    title: Supreme Court paves the way for trial in sacrilege cases against Dera chief Gurmeet Ram Rahim Singh
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2024-10-19
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: SC (Justices B.R. Gavai and K.V. Viswanathan) on 18 October 2024 lifted the High Court's 11 March 2024 stay on the trial.
+  - id: grrs-src-30
+    url: https://www.tribuneindia.com/news/chandigarh/trial-against-dera-chief-in-sacrilege-cases-begins-in-chandigarh-court/
+    title: Trial against Dera chief in sacrilege cases begins in Chandigarh court
+    publisher: The Tribune (Ramkrishan Upadhyay)
+    type: major_outlet
+    published_at: 2024-11-28
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: The three FIRs (1 June 2015 theft at Burj Jawahar Singh Wala; 25 September 2015 posters; 12 October 2015 torn pages at Bargari); Punjab sanction to prosecute.
+  - id: grrs-src-31
+    url: https://www.tribuneindia.com/news/punjab/bargari-sacrilege-sc-shifts-trial-against-gurmeet-ram-rahim-seven-others-from-faridkot-to-chandigarh-483912
+    title: "Bargari sacrilege: SC shifts trial against Gurmeet Ram Rahim, seven others from Faridkot to Chandigarh"
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2023-03-01
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: grrs-src-32
+    url: https://www.tribuneindia.com/news/archive/haryana/panchkula-court-frames-charges-against-dera-chief-in-castration-case-631517
+    title: Panchkula court frames charges against Dera chief in castration case
+    publisher: The Tribune (Rajinder S. Nagarkoti)
+    type: major_outlet
+    published_at: 2018-08-03
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Charges under ss.326, 417 and 506 IPC; High Court ordered CBI probe on 23 December 2014; CBI case registered 7 January 2015; chargesheet 1 February 2018.
+  - id: grrs-src-33
+    url: https://www.verdictum.in/court-updates/supreme-court/jagseer-singh-v-baba-gurmeet-singh-issues-notice-murder-of-manager-ranjit-singh-in-2002-1550971
+    title: SC Issues Notice In SLP Against Acquittal Of Baba Ram Rahim In 2002 Case For Murder Of Manager Ranjit Singh
+    publisher: Verdictum
+    type: other
+    published_at: 2024-09-11
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Legal-news summary of the High Court's reasoning and the co-accused; links the SC record of proceedings (grrs-src-02).
+  - id: grrs-src-34
+    url: https://www.verdictum.in/court-updates/supreme-court/supreme-court-dismisses-writ-petition-challenging-repeated-furlough-for-convicted-dera-chief-gurmeet-ram-rahim-singh-1509902
+    title: Supreme Court Dismisses Writ Petition Challenging Repeated Furlough For Convicted Dera Chief Gurmeet Ram Rahim Singh
+    publisher: Verdictum
+    type: other
+    published_at: 2023-12-16
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: grrs-src-35
+    url: https://www.verdictum.in/court-updates/supreme-court/gurmeet-ram-rahim-release-shiromani-gurdwara-parbandhak-committee-1569667
+    title: Supreme Court Refuses To Entertain Shiromani Gurdwara Parbandhak Committee's Plea Challenging Repeated Parole To Gurmeet Ram Rahim
+    publisher: Verdictum
+    type: other
+    published_at: 2025-02-28
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: grrs-src-36
+    url: https://news.webindia123.com/news/Articles/India/20260810/4485405.html
+    title: SC admits appeal against Dera Sacha Sauda chief Ram Rahim's acquittal in journalist murder case (ANI)
+    publisher: ANI via webindia123
+    type: other
+    published_at: 2026-08-10
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: The original ANI page (aninews.in) returned 403 at research time; this is a syndicated copy.
+  - id: grrs-src-37
+    url: https://www.outlookindia.com/national/supreme-court-to-review-acquittal-of-gurmeet-ram-rahim-in-2002-murder-case
+    title: Supreme Court To Review Acquittal Of Gurmeet Ram Rahim In 2002 Murder Case
+    publisher: Outlook India
+    type: major_outlet
+    published_at: 2025-01-03
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: grrs-src-38
+    url: https://www.verdictum.in/news/cbi-court-dera-sacha-sauda-gurmeet-ram-rahim-singh-ranjit-singh-1237725
+    title: Special CBI Court Convicts Gurmeet Ram Rahim Singh For The Murder Of Former Dera Manager
+    publisher: Verdictum
+    type: other
+    published_at: 2021-10-08
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+
+cases:
+  - id: grrs-panchkula-rape-2002
+    title_en: CBI v. Gurmeet Ram Rahim Singh (rape of two disciples, RC-5, Special Judge CBI Panchkula)
+    title_hi: सीबीआई बनाम गुरमीत राम रहीम सिंह (दो अनुयायियों से बलात्कार, आरसी-5, विशेष न्यायाधीश सीबीआई पंचकूला)
+    jurisdiction_country: IN
+    jurisdiction_region: Haryana
+    court: Special Judge (CBI), Haryana, Panchkula
+    case_number: CBI case RC-5 (2002); conviction of 25.08.2017
+    filed_year: 2002
+    case_type: criminal
+    statutes: [IPC 376, IPC 506]
+    status: convicted; appeal against conviction pending in Punjab and Haryana High Court
+    tier: convicted
+    verdict_date: 2017-08-25
+    sentence_or_remedy: 20 years' rigorous imprisonment (sentence pronounced 28 August 2017 at Sunaria jail, Rohtak)
+    appeal_status: Pending, Punjab and Haryana High Court; application for suspension of sentence withdrawn with liberty on 23 July 2025
+    summary_en: >
+      The Punjab and Haryana High Court took suo motu cognisance in 2002 of an anonymous letter, addressed
+      to the Prime Minister, alleging sexual exploitation of female disciples ("sadhvis") at the Dera, and by
+      order of 10 November 2003 entrusted the investigation to the CBI. On 25 August 2017 the Special CBI
+      Court at Panchkula convicted Gurmeet Ram Rahim Singh of raping two disciples; on 28 August 2017 he was
+      sentenced to 20 years' rigorous imprisonment. He is serving the sentence in Sunaria jail, Rohtak. His
+      appeal against the conviction is pending in the High Court; on 23 July 2025 his counsel withdrew an
+      application for suspension of sentence with liberty to revisit the court.
+    summary_hi: >
+      पंजाब एवं हरियाणा उच्च न्यायालय ने 2002 में प्रधानमंत्री को संबोधित एक गुमनाम पत्र पर स्वतः संज्ञान लिया,
+      जिसमें डेरे में महिला अनुयायियों ("साध्वियों") के यौन शोषण का आरोप था, और 10 नवंबर 2003 के आदेश से जाँच
+      सीबीआई को सौंपी। 25 अगस्त 2017 को पंचकूला की विशेष सीबीआई अदालत ने गुरमीत राम रहीम सिंह को दो
+      अनुयायियों से बलात्कार का दोषी ठहराया; 28 अगस्त 2017 को उन्हें 20 वर्ष के कठोर कारावास की सज़ा
+      सुनाई गई। वे रोहतक की सुनारिया जेल में सज़ा काट रहे हैं। दोषसिद्धि के विरुद्ध उनकी अपील उच्च न्यायालय
+      में लंबित है; 23 जुलाई 2025 को उनके वकील ने सज़ा निलंबन की अर्ज़ी वापस ले ली।
+    source_ids: [grrs-src-01, grrs-src-14, grrs-src-17, grrs-src-08]
+
+  - id: grrs-chhatrapati-murder-2002
+    title_en: CBI v. Gurmeet Ram Rahim Singh and others (murder of journalist Ram Chander Chhatrapati)
+    title_hi: सीबीआई बनाम गुरमीत राम रहीम सिंह व अन्य (पत्रकार राम चंदर छत्रपति की हत्या)
+    jurisdiction_country: IN
+    jurisdiction_region: Haryana
+    court: Special Judge (CBI), Haryana, Panchkula; Punjab and Haryana High Court on appeal
+    case_number: FIR No. 685 of 2002, PS City Sirsa; CBI RC10/3; CRA-D-240-D-2019
+    filed_year: 2002
+    case_type: criminal
+    statutes: [IPC 302, IPC 120-B, Arms Act s.25, Arms Act s.27]
+    status: convicted at trial (2019); acquitted by High Court on 7 March 2026; appeal against acquittal admitted by Supreme Court on 10 August 2026
+    tier: acquitted
+    verdict_date: 2026-03-07
+    sentence_or_remedy: Trial court sentence of life imprisonment and Rs 50,000 fine (17 January 2019) set aside on appeal
+    appeal_status: Supreme Court admitted the victim's son's appeal against the acquittal on 10 August 2026; final hearing listed for the week of 16 November 2026
+    summary_en: >
+      Ram Chander Chhatrapati, editor of the Sirsa evening daily Poora Sach, which had published the anonymous
+      letter alleging sexual exploitation at the Dera, was shot outside his house on 24 October 2002 and died on
+      21 November 2002. FIR No. 685 of 2002 was registered at PS City, Sirsa; the High Court transferred the
+      investigation to the CBI on 10 November 2003. On 11 January 2019 the Special CBI Court convicted Gurmeet
+      Ram Rahim Singh, Kuldeep Singh, Nirmal Singh and Krishan Lal, and on 17 January 2019 sentenced each to
+      life imprisonment with a fine of Rs 50,000. On 7 March 2026 a Division Bench of the High Court (Chief
+      Justice Sheel Nagu and Justice Vikram Aggarwal) allowed Ram Rahim's appeal, set aside his conviction and
+      acquitted him, while dismissing the appeals of the three co-accused. On 10 August 2026 the Supreme Court
+      admitted the appeal of the victim's son, Anshul Chhatrapati, against the acquittal.
+    summary_hi: >
+      सिरसा के सांध्य दैनिक "पूरा सच" के संपादक राम चंदर छत्रपति, जिन्होंने डेरे में यौन शोषण के आरोप वाला
+      गुमनाम पत्र छापा था, को 24 अक्टूबर 2002 को उनके घर के बाहर गोली मारी गई और 21 नवंबर 2002 को उनकी
+      मृत्यु हो गई। थाना सिटी सिरसा में एफआईआर संख्या 685/2002 दर्ज हुई; उच्च न्यायालय ने 10 नवंबर 2003 को
+      जाँच सीबीआई को सौंपी। 11 जनवरी 2019 को विशेष सीबीआई अदालत ने गुरमीत राम रहीम सिंह, कुलदीप सिंह,
+      निर्मल सिंह और कृष्ण लाल को दोषी ठहराया और 17 जनवरी 2019 को प्रत्येक को आजीवन कारावास और 50,000
+      रुपये जुर्माने की सज़ा सुनाई। 7 मार्च 2026 को उच्च न्यायालय की खंडपीठ (मुख्य न्यायाधीश शील नागू और
+      न्यायमूर्ति विक्रम अग्रवाल) ने राम रहीम की अपील स्वीकार कर उन्हें बरी किया, जबकि तीन सह-अभियुक्तों
+      की अपीलें खारिज कीं। 10 अगस्त 2026 को सर्वोच्च न्यायालय ने मृतक के पुत्र अंशुल छत्रपति की बरी किए
+      जाने के विरुद्ध अपील स्वीकार की।
+    source_ids: [grrs-src-01, grrs-src-05, grrs-src-07, grrs-src-09, grrs-src-36]
+
+  - id: grrs-ranjit-singh-murder-2002
+    title_en: CBI v. Gurmeet Ram Rahim Singh and others (murder of former Dera manager Ranjit Singh)
+    title_hi: सीबीआई बनाम गुरमीत राम रहीम सिंह व अन्य (पूर्व डेरा प्रबंधक रणजीत सिंह की हत्या)
+    jurisdiction_country: IN
+    jurisdiction_region: Haryana
+    court: Special Judge (CBI), Haryana, Panchkula; Punjab and Haryana High Court on appeal
+    case_number: CRA-D-726-2021 (with CRA-D-738, 725, 728 and 715 of 2021); 2024 PHHC 76537-DB
+    filed_year: 2002
+    case_type: criminal
+    statutes: [IPC 302, IPC 120-B, IPC 34]
+    status: convicted at trial (2021); acquitted by High Court on 28 May 2024; appeals against acquittal pending in Supreme Court
+    tier: acquitted
+    verdict_date: 2024-05-28
+    sentence_or_remedy: Trial court sentence of life imprisonment (18 October 2021) set aside on appeal
+    appeal_status: Supreme Court issued notice on the victim's father's SLP (9 September 2024) and on the CBI's SLP (3 January 2025); pending
+    summary_en: >
+      Ranjit Singh, a former Dera manager, was shot dead at Khanpur Kolian village, Kurukshetra, on 10 July
+      2002; the CBI alleged that Gurmeet Ram Rahim Singh suspected him of circulating the anonymous letter
+      about sexual exploitation at the Dera. On 8 October 2021 the Special CBI Court at Panchkula convicted him
+      and four others under sections 302 and 120-B IPC and on 18 October 2021 sentenced them to life
+      imprisonment. On 28 May 2024 a Division Bench of the High Court (Justices Sureshwar Thakur and Lalit
+      Batra) acquitted all five, describing the investigation as "tainted and sketchy" and noting that the car
+      and weapons allegedly used were never seized. The Supreme Court issued notice on the victim's father
+      Jagseer Singh's petition on 9 September 2024 and on the CBI's petition on 3 January 2025.
+    summary_hi: >
+      पूर्व डेरा प्रबंधक रणजीत सिंह की 10 जुलाई 2002 को कुरुक्षेत्र के खानपुर कोलियां गाँव में गोली मारकर
+      हत्या कर दी गई; सीबीआई का आरोप था कि गुरमीत राम रहीम सिंह को संदेह था कि उन्होंने डेरे में यौन शोषण
+      संबंधी गुमनाम पत्र प्रसारित किया। 8 अक्टूबर 2021 को पंचकूला की विशेष सीबीआई अदालत ने उन्हें और चार
+      अन्य को धारा 302 और 120-बी आईपीसी के तहत दोषी ठहराया और 18 अक्टूबर 2021 को आजीवन कारावास की सज़ा
+      सुनाई। 28 मई 2024 को उच्च न्यायालय की खंडपीठ (न्यायमूर्ति सुरेश्वर ठाकुर और ललित बत्रा) ने सभी पाँच
+      को बरी कर दिया और जाँच को "दूषित और अधूरी" बताया। सर्वोच्च न्यायालय ने 9 सितंबर 2024 को मृतक के पिता
+      जगसीर सिंह की याचिका पर और 3 जनवरी 2025 को सीबीआई की याचिका पर नोटिस जारी किया।
+    source_ids: [grrs-src-02, grrs-src-03, grrs-src-10, grrs-src-11, grrs-src-12, grrs-src-13]
+
+  - id: grrs-castration-cbi-2015
+    title_en: CBI v. Gurmeet Ram Rahim Singh and two doctors (castration of followers)
+    title_hi: सीबीआई बनाम गुरमीत राम रहीम सिंह व दो चिकित्सक (अनुयायियों का बधियाकरण)
+    jurisdiction_country: IN
+    jurisdiction_region: Haryana
+    court: Special CBI Court, Panchkula
+    case_number: CBI case registered 7 January 2015 (pursuant to High Court order of 23 December 2014)
+    filed_year: 2015
+    case_type: criminal
+    statutes: [IPC 326, IPC 417, IPC 506, IPC 120-B]
+    status: charges framed on 3 August 2018; trial pending
+    tier: charged
+    verdict_date:
+    sentence_or_remedy:
+    appeal_status:
+    summary_en: >
+      Acting on a 2012 petition by former follower Hans Raj Chauhan, the Punjab and Haryana High Court on
+      23 December 2014 ordered a CBI investigation into allegations that followers had been castrated at the
+      Dera. The CBI registered a case on 7 January 2015 and filed a chargesheet on 1 February 2018 against
+      Gurmeet Ram Rahim Singh and two doctors, Dr M.P. Singh and Dr Pankaj Garg. On 3 August 2018 the Special
+      CBI Court at Panchkula framed charges against him under sections 326, 417 and 506 IPC and against the
+      doctors under sections 326 and 120-B IPC. The High Court's March 2026 judgment in the Chhatrapati appeal
+      refers to the castration case as a separate pending prosecution. No verdict is on record.
+    summary_hi: >
+      पूर्व अनुयायी हंस राज चौहान की 2012 की याचिका पर पंजाब एवं हरियाणा उच्च न्यायालय ने 23 दिसंबर 2014
+      को डेरे में अनुयायियों के बधियाकरण के आरोपों की सीबीआई जाँच का आदेश दिया। सीबीआई ने 7 जनवरी 2015 को
+      मामला दर्ज किया और 1 फरवरी 2018 को गुरमीत राम रहीम सिंह तथा दो चिकित्सकों, डॉ. एम.पी. सिंह और डॉ.
+      पंकज गर्ग के विरुद्ध आरोपपत्र दाखिल किया। 3 अगस्त 2018 को पंचकूला की विशेष सीबीआई अदालत ने उन पर धारा
+      326, 417 और 506 आईपीसी तथा चिकित्सकों पर धारा 326 और 120-बी के तहत आरोप तय किए। कोई निर्णय अभिलेख पर
+      नहीं है।
+    source_ids: [grrs-src-32, grrs-src-01, grrs-src-08]
+
+  - id: grrs-bargari-sacrilege-2015
+    title_en: State of Punjab v. Gurmeet Ram Rahim Singh and others (2015 sacrilege cases, Faridkot)
+    title_hi: पंजाब राज्य बनाम गुरमीत राम रहीम सिंह व अन्य (2015 बेअदबी मामले, फरीदकोट)
+    jurisdiction_country: IN
+    jurisdiction_region: Punjab
+    court: Trial court at Chandigarh (transferred from Faridkot by the Supreme Court on 28 February 2023)
+    case_number: Three FIRs of 2015 at PS Bajakhana, Faridkot (Burj Jawahar Singh Wala theft, posters, Bargari torn pages)
+    filed_year: 2015
+    case_type: criminal
+    statutes: []
+    status: accused named by Punjab Police SIT; trial resumed at Chandigarh on 28 November 2024 after the Supreme Court lifted a High Court stay on 18 October 2024
+    tier: allegation
+    verdict_date:
+    sentence_or_remedy:
+    appeal_status:
+    summary_en: >
+      Three linked incidents in Faridkot district in 2015 (theft of a copy of the Guru Granth Sahib from Burj
+      Jawahar Singh Wala on 1 June 2015, objectionable posters on 25 September 2015, and torn pages found near
+      Bargari on 12 October 2015) were investigated by a Punjab Police Special Investigation Team, which named
+      Gurmeet Ram Rahim Singh as the main conspirator; the Punjab government granted sanction to prosecute him.
+      On 28 February 2023 the Supreme Court transferred the trial of Ram Rahim and seven Dera followers from
+      Faridkot to Chandigarh after an accused, Pardeep Singh Kataria, was shot dead. The High Court stayed the
+      trial on 11 March 2024; the Supreme Court (Justices B.R. Gavai and K.V. Viswanathan) lifted the stay on
+      18 October 2024 and the trial resumed at Chandigarh on 28 November 2024. The record here rests on major
+      outlet reporting; no court or official copy of the chargesheet, sanction or Supreme Court orders was
+      fetched, so the case is shown at the allegation tier pending such a source.
+    summary_hi: >
+      2015 में फरीदकोट ज़िले की तीन जुड़ी घटनाओं (1 जून 2015 को बुर्ज जवाहर सिंह वाला से गुरु ग्रंथ साहिब
+      की बीड़ की चोरी, 25 सितंबर 2015 को आपत्तिजनक पोस्टर, और 12 अक्टूबर 2015 को बरगाड़ी के पास फटे पन्ने
+      मिलना) की जाँच पंजाब पुलिस की विशेष जाँच टीम ने की, जिसने गुरमीत राम रहीम सिंह को मुख्य साज़िशकर्ता
+      बताया; पंजाब सरकार ने अभियोजन की मंज़ूरी दी। 28 फरवरी 2023 को सर्वोच्च न्यायालय ने एक अभियुक्त प्रदीप
+      सिंह कटारिया की हत्या के बाद मुकदमा फरीदकोट से चंडीगढ़ स्थानांतरित किया। उच्च न्यायालय ने 11 मार्च 2024
+      को सुनवाई पर रोक लगाई; सर्वोच्च न्यायालय ने 18 अक्टूबर 2024 को रोक हटाई और 28 नवंबर 2024 को चंडीगढ़
+      में सुनवाई फिर शुरू हुई। यहाँ अभिलेख प्रमुख समाचार माध्यमों की रिपोर्टिंग पर आधारित है।
+    source_ids: [grrs-src-29, grrs-src-30, grrs-src-31]
+
+claims:
+  - id: grrs-claim-01
+    case_id: grrs-panchkula-rape-2002
+    statement_en: On 25 August 2017 the Special Judge (CBI), Panchkula convicted Gurmeet Ram Rahim Singh in CBI case RC-5 of raping two female disciples of the Dera.
+    statement_hi: 25 अगस्त 2017 को विशेष न्यायाधीश (सीबीआई), पंचकूला ने सीबीआई मामले आरसी-5 में गुरमीत राम रहीम सिंह को डेरे की दो महिला अनुयायियों से बलात्कार का दोषी ठहराया।
+    tier: convicted
+    date: 2017-08-25
+    source_ids: [grrs-src-01, grrs-src-17]
+  - id: grrs-claim-02
+    case_id: grrs-panchkula-rape-2002
+    statement_en: On 28 August 2017 the Special CBI Court sentenced him to 20 years' rigorous imprisonment in the rape case, and he has since been lodged in Sunaria jail, Rohtak.
+    statement_hi: 28 अगस्त 2017 को विशेष सीबीआई अदालत ने बलात्कार मामले में उन्हें 20 वर्ष के कठोर कारावास की सज़ा सुनाई, और तब से वे रोहतक की सुनारिया जेल में बंद हैं।
+    tier: convicted
+    date: 2017-08-28
+    source_ids: [grrs-src-14, grrs-src-08, grrs-src-01]
+  - id: grrs-claim-03
+    case_id: grrs-panchkula-rape-2002
+    statement_en: His appeal against the 2017 rape conviction remains pending in the Punjab and Haryana High Court; on 23 July 2025 his counsel withdrew an application for suspension of sentence with liberty to revisit the court.
+    statement_hi: 2017 की बलात्कार दोषसिद्धि के विरुद्ध उनकी अपील पंजाब एवं हरियाणा उच्च न्यायालय में लंबित है; 23 जुलाई 2025 को उनके वकील ने सज़ा निलंबन की अर्ज़ी पुनः दाखिल करने की छूट के साथ वापस ले ली।
+    tier: convicted
+    date: 2025-07-23
+    source_ids: [grrs-src-14, grrs-src-01]
+  - id: grrs-claim-04
+    case_id: grrs-chhatrapati-murder-2002
+    statement_en: On 11 January 2019 the Special Judge (CBI), Panchkula convicted Gurmeet Ram Rahim Singh under section 120-B read with section 302 IPC for the murder of journalist Ram Chander Chhatrapati, and on 17 January 2019 sentenced him to life imprisonment with a fine of Rs 50,000.
+    statement_hi: 11 जनवरी 2019 को विशेष न्यायाधीश (सीबीआई), पंचकूला ने पत्रकार राम चंदर छत्रपति की हत्या के लिए गुरमीत राम रहीम सिंह को धारा 120-बी सहपठित धारा 302 आईपीसी के तहत दोषी ठहराया और 17 जनवरी 2019 को आजीवन कारावास तथा 50,000 रुपये जुर्माने की सज़ा सुनाई।
+    tier: acquitted
+    date: 2019-01-17
+    source_ids: [grrs-src-01, grrs-src-09]
+  - id: grrs-claim-05
+    case_id: grrs-chhatrapati-murder-2002
+    statement_en: On 7 March 2026 the Punjab and Haryana High Court (Chief Justice Sheel Nagu and Justice Vikram Aggarwal) allowed CRA-D-240-D-2019, set aside his conviction and acquitted him of the Chhatrapati murder charge, while dismissing the appeals of co-accused Kuldeep Singh, Nirmal Singh and Krishan Lal.
+    statement_hi: 7 मार्च 2026 को पंजाब एवं हरियाणा उच्च न्यायालय (मुख्य न्यायाधीश शील नागू और न्यायमूर्ति विक्रम अग्रवाल) ने CRA-D-240-D-2019 स्वीकार करते हुए उनकी दोषसिद्धि रद्द की और छत्रपति हत्या के आरोप से बरी किया, जबकि सह-अभियुक्त कुलदीप सिंह, निर्मल सिंह और कृष्ण लाल की अपीलें खारिज कीं।
+    tier: acquitted
+    date: 2026-03-07
+    source_ids: [grrs-src-01, grrs-src-05]
+  - id: grrs-claim-06
+    case_id: grrs-chhatrapati-murder-2002
+    statement_en: On 10 August 2026 a Supreme Court bench headed by Chief Justice Surya Kant admitted Anshul Chhatrapati's appeal against the High Court acquittal and listed it for final hearing in the week beginning 16 November 2026.
+    statement_hi: 10 अगस्त 2026 को मुख्य न्यायाधीश सूर्य कांत की अध्यक्षता वाली सर्वोच्च न्यायालय की पीठ ने उच्च न्यायालय द्वारा बरी किए जाने के विरुद्ध अंशुल छत्रपति की अपील स्वीकार की और उसे 16 नवंबर 2026 से शुरू होने वाले सप्ताह में अंतिम सुनवाई के लिए सूचीबद्ध किया।
+    tier: acquitted
+    date: 2026-08-10
+    source_ids: [grrs-src-36]
+  - id: grrs-claim-07
+    case_id: grrs-ranjit-singh-murder-2002
+    statement_en: On 8 October 2021 the Special CBI Court at Panchkula convicted Gurmeet Ram Rahim Singh and four others under sections 302 and 120-B IPC for the 10 July 2002 murder of Ranjit Singh, and on 18 October 2021 sentenced them to life imprisonment.
+    statement_hi: 8 अक्टूबर 2021 को पंचकूला की विशेष सीबीआई अदालत ने 10 जुलाई 2002 को रणजीत सिंह की हत्या के लिए गुरमीत राम रहीम सिंह और चार अन्य को धारा 302 और 120-बी आईपीसी के तहत दोषी ठहराया और 18 अक्टूबर 2021 को आजीवन कारावास की सज़ा सुनाई।
+    tier: acquitted
+    date: 2021-10-18
+    source_ids: [grrs-src-12, grrs-src-13, grrs-src-38]
+  - id: grrs-claim-08
+    case_id: grrs-ranjit-singh-murder-2002
+    statement_en: On 28 May 2024 a Division Bench of the Punjab and Haryana High Court (Justices Sureshwar Thakur and Lalit Batra) acquitted him and four co-accused in the Ranjit Singh murder case, holding the CBI investigation to have been "tainted and sketchy".
+    statement_hi: 28 मई 2024 को पंजाब एवं हरियाणा उच्च न्यायालय की खंडपीठ (न्यायमूर्ति सुरेश्वर ठाकुर और ललित बत्रा) ने रणजीत सिंह हत्याकांड में उन्हें और चार सह-अभियुक्तों को बरी किया और सीबीआई जाँच को "दूषित और अधूरी" बताया।
+    tier: acquitted
+    date: 2024-05-28
+    source_ids: [grrs-src-03, grrs-src-02, grrs-src-10, grrs-src-11]
+  - id: grrs-claim-09
+    case_id: grrs-ranjit-singh-murder-2002
+    statement_en: The Supreme Court issued notice on 9 September 2024 on the special leave petition of the victim's father, Jagseer Singh, and on 3 January 2025 on the CBI's petition, against the 28 May 2024 acquittal; both remain pending.
+    statement_hi: सर्वोच्च न्यायालय ने 28 मई 2024 के बरी आदेश के विरुद्ध 9 सितंबर 2024 को मृतक के पिता जगसीर सिंह की विशेष अनुमति याचिका पर और 3 जनवरी 2025 को सीबीआई की याचिका पर नोटिस जारी किया; दोनों लंबित हैं।
+    tier: acquitted
+    date: 2025-01-03
+    source_ids: [grrs-src-02, grrs-src-13, grrs-src-37]
+  - id: grrs-claim-10
+    case_id: grrs-castration-cbi-2015
+    statement_en: On 3 August 2018 the Special CBI Court at Panchkula framed charges against him under sections 326, 417 and 506 IPC in the CBI case concerning the castration of Dera followers, on a chargesheet filed on 1 February 2018.
+    statement_hi: 3 अगस्त 2018 को पंचकूला की विशेष सीबीआई अदालत ने डेरा अनुयायियों के बधियाकरण से जुड़े सीबीआई मामले में 1 फरवरी 2018 को दाखिल आरोपपत्र पर उन पर धारा 326, 417 और 506 आईपीसी के तहत आरोप तय किए।
+    tier: charged
+    date: 2018-08-03
+    source_ids: [grrs-src-32, grrs-src-01]
+  - id: grrs-claim-11
+    case_id: grrs-bargari-sacrilege-2015
+    statement_en: A Punjab Police Special Investigation Team named him as the main conspirator in the three 2015 Faridkot sacrilege cases, and the Punjab government granted sanction to prosecute him; the trial resumed at Chandigarh on 28 November 2024.
+    statement_hi: पंजाब पुलिस की विशेष जाँच टीम ने 2015 के फरीदकोट के तीन बेअदबी मामलों में उन्हें मुख्य साज़िशकर्ता बताया और पंजाब सरकार ने अभियोजन की मंज़ूरी दी; 28 नवंबर 2024 को चंडीगढ़ में सुनवाई फिर शुरू हुई।
+    tier: allegation
+    date: 2024-11-28
+    source_ids: [grrs-src-30, grrs-src-29]
+  - id: grrs-claim-12
+    case_id: grrs-bargari-sacrilege-2015
+    statement_en: On 28 February 2023 the Supreme Court transferred the trial of the three sacrilege cases against him and seven Dera followers from Faridkot to Chandigarh, and on 18 October 2024 it lifted the High Court's 11 March 2024 stay on that trial.
+    statement_hi: 28 फरवरी 2023 को सर्वोच्च न्यायालय ने उनके और सात डेरा अनुयायियों के विरुद्ध तीन बेअदबी मामलों की सुनवाई फरीदकोट से चंडीगढ़ स्थानांतरित की, और 18 अक्टूबर 2024 को उच्च न्यायालय की 11 मार्च 2024 की रोक हटाई।
+    tier: allegation
+    date: 2024-10-18
+    source_ids: [grrs-src-31, grrs-src-29]
+  - id: grrs-claim-13
+    case_id:
+    statement_en: On 9 August 2024 the Punjab and Haryana High Court, disposing of an SGPC public-interest petition against the 40-day parole granted to him on 20 January 2023, directed that any future application by him for temporary release be considered strictly under the Haryana Good Conduct Prisoners (Temporary Release) Act, 2022 "without the competent authority indulging in arbitrariness or favoritism or discrimination".
+    statement_hi: 9 अगस्त 2024 को पंजाब एवं हरियाणा उच्च न्यायालय ने 20 जनवरी 2023 को दी गई 40 दिन की पैरोल के विरुद्ध एसजीपीसी की जनहित याचिका निपटाते हुए निर्देश दिया कि अस्थायी रिहाई के लिए उनका कोई भी भावी आवेदन हरियाणा सदाचार बंदी (अस्थायी रिहाई) अधिनियम, 2022 के अनुसार "मनमानी, पक्षपात या भेदभाव के बिना" कड़ाई से विचारित किया जाए।
+    tier: regulatory_action
+    date: 2024-08-09
+    source_ids: [grrs-src-04, grrs-src-35]
+  - id: grrs-claim-14
+    case_id: grrs-panchkula-rape-2002
+    statement_en: On 2 October 2024, three days before the Haryana Assembly election of 5 October 2024, he was released on a 20-day parole after the Chief Electoral Officer's concurrence, on conditions that he not enter Haryana, make public speeches or take part in political activity.
+    statement_hi: 2 अक्टूबर 2024 को, 5 अक्टूबर 2024 के हरियाणा विधानसभा चुनाव से तीन दिन पहले, मुख्य निर्वाचन अधिकारी की सहमति के बाद उन्हें 20 दिन की पैरोल पर इस शर्त के साथ रिहा किया गया कि वे हरियाणा में प्रवेश नहीं करेंगे, सार्वजनिक भाषण नहीं देंगे और राजनीतिक गतिविधि में भाग नहीं लेंगे।
+    tier: convicted
+    date: 2024-10-02
+    source_ids: [grrs-src-19, grrs-src-18, grrs-src-04]
+  - id: grrs-claim-15
+    case_id: grrs-panchkula-rape-2002
+    statement_en: By 25 August 2026 he had been released from Sunaria jail on parole or furlough 17 times since his 2017 conviction, including a 40-day parole in January 2026, a 30-day parole in May 2026 and a 21-day furlough from 25 August 2026.
+    statement_hi: 25 अगस्त 2026 तक उन्हें 2017 की दोषसिद्धि के बाद 17 बार पैरोल या फरलो पर सुनारिया जेल से रिहा किया जा चुका था, जिसमें जनवरी 2026 की 40 दिन की पैरोल, मई 2026 की 30 दिन की पैरोल और 25 अगस्त 2026 से 21 दिन की फरलो शामिल है।
+    tier: convicted
+    date: 2026-08-25
+    source_ids: [grrs-src-23, grrs-src-22, grrs-src-04]
+
+events:
+  - date: 2002-05-30
+    kind: other
+    label_en: Poora Sach publishes the anonymous letter alleging sexual exploitation of disciples at the Dera
+    label_hi: '"पूरा सच" ने डेरे में अनुयायियों के यौन शोषण का आरोप लगाने वाला गुमनाम पत्र प्रकाशित किया'
+    case_id: grrs-chhatrapati-murder-2002
+    source_ids: [grrs-src-07, grrs-src-01]
+  - date: 2002-07-10
+    kind: incident
+    label_en: Former Dera manager Ranjit Singh shot dead at Khanpur Kolian, Kurukshetra
+    label_hi: पूर्व डेरा प्रबंधक रणजीत सिंह की खानपुर कोलियां, कुरुक्षेत्र में गोली मारकर हत्या
+    case_id: grrs-ranjit-singh-murder-2002
+    source_ids: [grrs-src-10, grrs-src-33]
+  - date: 2002-10-24
+    kind: incident
+    label_en: Journalist Ram Chander Chhatrapati shot outside his Sirsa home; FIR No. 685/2002 registered at PS City Sirsa
+    label_hi: पत्रकार राम चंदर छत्रपति को सिरसा में उनके घर के बाहर गोली मारी गई; थाना सिटी सिरसा में एफआईआर 685/2002 दर्ज
+    case_id: grrs-chhatrapati-murder-2002
+    source_ids: [grrs-src-01, grrs-src-07]
+  - date: 2003-11-10
+    kind: other
+    label_en: Punjab and Haryana High Court transfers the Chhatrapati and Ranjit Singh murder investigations and the sadhvi complaint to the CBI
+    label_hi: पंजाब एवं हरियाणा उच्च न्यायालय ने छत्रपति और रणजीत सिंह हत्या जाँच तथा साध्वी शिकायत सीबीआई को सौंपी
+    case_id: grrs-chhatrapati-murder-2002
+    source_ids: [grrs-src-01, grrs-src-07]
+  - date: 2007-02
+    kind: other
+    label_en: Dera Sacha Sauda openly backs Congress in the Punjab Assembly election
+    label_hi: डेरा सच्चा सौदा ने पंजाब विधानसभा चुनाव में खुलकर कांग्रेस का समर्थन किया
+    source_ids: [grrs-src-26, grrs-src-27]
+  - date: 2014-10-13
+    kind: other
+    label_en: Dera's political affairs wing announces support for the BJP on all 90 Haryana Assembly seats
+    label_hi: डेरे की राजनीतिक मामलों की शाखा ने हरियाणा विधानसभा की सभी 90 सीटों पर भाजपा के समर्थन की घोषणा की
+    source_ids: [grrs-src-24, grrs-src-25]
+  - date: 2014-12-23
+    kind: other
+    label_en: High Court orders CBI probe into alleged castration of Dera followers
+    label_hi: उच्च न्यायालय ने डेरा अनुयायियों के कथित बधियाकरण की सीबीआई जाँच का आदेश दिया
+    case_id: grrs-castration-cbi-2015
+    source_ids: [grrs-src-32]
+  - date: 2017-08-25
+    kind: verdict
+    label_en: Special CBI Court, Panchkula convicts him of raping two disciples; he is taken into custody
+    label_hi: पंचकूला की विशेष सीबीआई अदालत ने उन्हें दो अनुयायियों से बलात्कार का दोषी ठहराया; हिरासत में लिया गया
+    case_id: grrs-panchkula-rape-2002
+    source_ids: [grrs-src-01, grrs-src-17]
+  - date: 2017-08-25
+    kind: incident
+    label_en: Violence by Dera followers in Panchkula after the verdict; 37 people killed in Panchkula (NHRC later cited 32 civilian deaths in police action), with further deaths in Sirsa and Panipat
+    label_hi: फैसले के बाद पंचकूला में डेरा अनुयायियों की हिंसा; पंचकूला में 37 लोग मारे गए (एनएचआरसी ने बाद में पुलिस कार्रवाई में 32 नागरिक मौतें दर्ज कीं), सिरसा और पानीपत में और मौतें
+    source_ids: [grrs-src-15, grrs-src-16, grrs-src-17]
+  - date: 2017-08-28
+    kind: sentence
+    label_en: Sentenced to 20 years' rigorous imprisonment in the rape case
+    label_hi: बलात्कार मामले में 20 वर्ष के कठोर कारावास की सज़ा
+    case_id: grrs-panchkula-rape-2002
+    source_ids: [grrs-src-14, grrs-src-08]
+  - date: 2018-02-01
+    kind: chargesheet
+    label_en: CBI files chargesheet in the castration case against him and two doctors
+    label_hi: सीबीआई ने बधियाकरण मामले में उनके और दो चिकित्सकों के विरुद्ध आरोपपत्र दाखिल किया
+    case_id: grrs-castration-cbi-2015
+    source_ids: [grrs-src-32]
+  - date: 2018-08-03
+    kind: other
+    label_en: Special CBI Court frames charges in the castration case (ss.326, 417, 506 IPC)
+    label_hi: विशेष सीबीआई अदालत ने बधियाकरण मामले में आरोप तय किए (धारा 326, 417, 506 आईपीसी)
+    case_id: grrs-castration-cbi-2015
+    source_ids: [grrs-src-32]
+  - date: 2019-01-11
+    kind: verdict
+    label_en: Convicted of conspiracy to murder journalist Ram Chander Chhatrapati
+    label_hi: पत्रकार राम चंदर छत्रपति की हत्या की साज़िश का दोषी ठहराया गया
+    case_id: grrs-chhatrapati-murder-2002
+    source_ids: [grrs-src-01, grrs-src-09]
+  - date: 2019-01-17
+    kind: sentence
+    label_en: Sentenced to life imprisonment and Rs 50,000 fine in the Chhatrapati case
+    label_hi: छत्रपति मामले में आजीवन कारावास और 50,000 रुपये जुर्माने की सज़ा
+    case_id: grrs-chhatrapati-murder-2002
+    source_ids: [grrs-src-01]
+  - date: 2021-10-08
+    kind: verdict
+    label_en: Convicted of the murder of Ranjit Singh
+    label_hi: रणजीत सिंह की हत्या का दोषी ठहराया गया
+    case_id: grrs-ranjit-singh-murder-2002
+    source_ids: [grrs-src-12, grrs-src-38]
+  - date: 2021-10-18
+    kind: sentence
+    label_en: Sentenced to life imprisonment in the Ranjit Singh case
+    label_hi: रणजीत सिंह मामले में आजीवन कारावास की सज़ा
+    case_id: grrs-ranjit-singh-murder-2002
+    source_ids: [grrs-src-13, grrs-src-37]
+  - date: 2023-01-21
+    kind: parole
+    label_en: Released on a 40-day parole (order of 20 January 2023) after a 40-day parole, a 21-day furlough and a one-month parole in 2022
+    label_hi: 2022 में 40 दिन की पैरोल, 21 दिन की फरलो और एक माह की पैरोल के बाद 40 दिन की पैरोल (20 जनवरी 2023 का आदेश) पर रिहा
+    case_id: grrs-panchkula-rape-2002
+    source_ids: [grrs-src-21, grrs-src-04]
+  - date: 2023-02-28
+    kind: other
+    label_en: Supreme Court transfers the sacrilege trials from Faridkot to Chandigarh
+    label_hi: सर्वोच्च न्यायालय ने बेअदबी मामलों की सुनवाई फरीदकोट से चंडीगढ़ स्थानांतरित की
+    case_id: grrs-bargari-sacrilege-2015
+    source_ids: [grrs-src-31]
+  - date: 2023-03-15
+    kind: other
+    label_en: Dera Sacha Sauda dissolves its 45-member political affairs wing
+    label_hi: डेरा सच्चा सौदा ने अपनी 45 सदस्यीय राजनीतिक मामलों की शाखा भंग की
+    source_ids: [grrs-src-26]
+  - date: 2023-12-16
+    kind: other
+    label_en: Supreme Court declines to entertain a writ petition against his repeated furloughs, directing the petitioner to the High Court
+    label_hi: सर्वोच्च न्यायालय ने उनकी बार-बार फरलो के विरुद्ध रिट याचिका पर विचार से इनकार किया और याचिकाकर्ता को उच्च न्यायालय जाने को कहा
+    source_ids: [grrs-src-34]
+  - date: 2024-05-28
+    kind: acquittal
+    label_en: High Court acquits him and four others in the Ranjit Singh murder case
+    label_hi: उच्च न्यायालय ने रणजीत सिंह हत्याकांड में उन्हें और चार अन्य को बरी किया
+    case_id: grrs-ranjit-singh-murder-2002
+    source_ids: [grrs-src-03, grrs-src-10]
+  - date: 2024-08-09
+    kind: other
+    label_en: High Court disposes of SGPC's PIL on his parole, directing strict compliance with the 2022 Act in any future release
+    label_hi: उच्च न्यायालय ने उनकी पैरोल पर एसजीपीसी की जनहित याचिका निपटाई, भावी रिहाई में 2022 अधिनियम के कड़े पालन का निर्देश
+    source_ids: [grrs-src-04]
+  - date: 2024-09-09
+    kind: appeal
+    label_en: Supreme Court issues notice on the victim's father's petition against the Ranjit Singh acquittal
+    label_hi: सर्वोच्च न्यायालय ने रणजीत सिंह मामले में बरी किए जाने के विरुद्ध मृतक के पिता की याचिका पर नोटिस जारी किया
+    case_id: grrs-ranjit-singh-murder-2002
+    source_ids: [grrs-src-02, grrs-src-33]
+  - date: 2024-10-02
+    kind: parole
+    label_en: Released on 20-day parole three days before the Haryana Assembly election, with Election Commission conditions
+    label_hi: हरियाणा विधानसभा चुनाव से तीन दिन पहले निर्वाचन आयोग की शर्तों के साथ 20 दिन की पैरोल पर रिहा
+    case_id: grrs-panchkula-rape-2002
+    source_ids: [grrs-src-19, grrs-src-18]
+  - date: 2024-10-18
+    kind: other
+    label_en: Supreme Court lifts the High Court's stay on the sacrilege trials
+    label_hi: सर्वोच्च न्यायालय ने बेअदबी मामलों की सुनवाई पर उच्च न्यायालय की रोक हटाई
+    case_id: grrs-bargari-sacrilege-2015
+    source_ids: [grrs-src-29]
+  - date: 2025-01-03
+    kind: appeal
+    label_en: Supreme Court issues notice on the CBI's petition against the Ranjit Singh acquittal
+    label_hi: सर्वोच्च न्यायालय ने रणजीत सिंह मामले में बरी किए जाने के विरुद्ध सीबीआई की याचिका पर नोटिस जारी किया
+    case_id: grrs-ranjit-singh-murder-2002
+    source_ids: [grrs-src-13, grrs-src-37]
+  - date: 2025-01-29
+    kind: parole
+    label_en: Released on 30-day parole ahead of the Delhi Assembly election; permitted to stay at the Sirsa Dera for the first time since his arrest
+    label_hi: दिल्ली विधानसभा चुनाव से पहले 30 दिन की पैरोल पर रिहा; गिरफ्तारी के बाद पहली बार सिरसा डेरे में रहने की अनुमति
+    case_id: grrs-panchkula-rape-2002
+    source_ids: [grrs-src-20]
+  - date: 2025-07-23
+    kind: appeal
+    label_en: Withdraws application for suspension of sentence in the rape appeal, with liberty to revisit the High Court
+    label_hi: बलात्कार अपील में सज़ा निलंबन की अर्ज़ी उच्च न्यायालय में पुनः दाखिल करने की छूट के साथ वापस ली
+    case_id: grrs-panchkula-rape-2002
+    source_ids: [grrs-src-14]
+  - date: 2026-03-07
+    kind: acquittal
+    label_en: High Court acquits him in the Chhatrapati murder case; co-accused convictions upheld
+    label_hi: उच्च न्यायालय ने छत्रपति हत्याकांड में उन्हें बरी किया; सह-अभियुक्तों की दोषसिद्धि बरकरार
+    case_id: grrs-chhatrapati-murder-2002
+    source_ids: [grrs-src-01, grrs-src-05]
+  - date: 2026-08-10
+    kind: appeal
+    label_en: Supreme Court admits Anshul Chhatrapati's appeal against the acquittal; final hearing listed for the week of 16 November 2026
+    label_hi: सर्वोच्च न्यायालय ने बरी किए जाने के विरुद्ध अंशुल छत्रपति की अपील स्वीकार की; अंतिम सुनवाई 16 नवंबर 2026 के सप्ताह में
+    case_id: grrs-chhatrapati-murder-2002
+    source_ids: [grrs-src-36]
+  - date: 2026-08-25
+    kind: parole
+    label_en: Released on a 21-day furlough, his 17th temporary release since 2017
+    label_hi: 21 दिन की फरलो पर रिहा, 2017 के बाद 17वीं अस्थायी रिहाई
+    case_id: grrs-panchkula-rape-2002
+    source_ids: [grrs-src-23]
+
+relationships:
+  - to_id: indian-national-congress
+    type: endorsement
+    period_start: 2007-02
+    period_end: 2007-02
+    description_en: >
+      The Dera openly backed the Congress in the February 2007 Punjab Assembly election; The Tribune reports its
+      following in about 40 Malwa constituencies was a factor in the Congress winning 37 seats in the region, and
+      the EPW records that this support shaped the May 2007 confrontation with Sikh bodies.
+    description_hi: >
+      डेरे ने फरवरी 2007 के पंजाब विधानसभा चुनाव में खुलकर कांग्रेस का समर्थन किया; द ट्रिब्यून के अनुसार मालवा
+      के लगभग 40 क्षेत्रों में उसके अनुयायी कांग्रेस की 37 सीटों की जीत में एक कारक थे।
+    source_ids: [grrs-src-26, grrs-src-27]
+  - to_id: bharatiya-janata-party
+    type: endorsement
+    period_start: 2014-10-13
+    period_end: 2014-10-15
+    description_en: >
+      On 13 October 2014 the Dera's political affairs wing, through spokesperson Jasbir Singh, announced support
+      for the BJP on all 90 seats in the Haryana Assembly election of 15 October 2014; The Tribune later reported
+      that senior BJP functionaries had visited Sirsa for the Dera head's "blessings" and that the Dera's vote
+      contributed to the BJP's first government in Haryana.
+    description_hi: >
+      13 अक्टूबर 2014 को डेरे की राजनीतिक मामलों की शाखा ने प्रवक्ता जसबीर सिंह के माध्यम से 15 अक्टूबर 2014 के
+      हरियाणा विधानसभा चुनाव में सभी 90 सीटों पर भाजपा के समर्थन की घोषणा की; द ट्रिब्यून ने बाद में बताया कि
+      वरिष्ठ भाजपा पदाधिकारी डेरा प्रमुख के "आशीर्वाद" के लिए सिरसा गए थे।
+    source_ids: [grrs-src-24, grrs-src-25]
+  - to_id: shiromani-akali-dal
+    type: endorsement
+    period_start: 2017-01-31
+    period_end: 2017-02-04
+    description_en: >
+      On 31 January 2017 the Dera announced support for the SAD-BJP alliance in the Punjab Assembly election,
+      reversing its earlier hostility to the Akali Dal after the 2007 confrontation; The Tribune reported that
+      most followers voted accordingly, though some village committees dissented.
+    description_hi: >
+      31 जनवरी 2017 को डेरे ने पंजाब विधानसभा चुनाव में शिअद-भाजपा गठबंधन के समर्थन की घोषणा की, जो 2007 के
+      टकराव के बाद अकाली दल से उसकी पुरानी दूरी का उलट था।
+    source_ids: [grrs-src-28, grrs-src-26]
+  - to_id: bharatiya-janata-party
+    type: parole_timing
+    period_start: 2024-10-02
+    period_end: 2025-01-29
+    description_en: >
+      The BJP-led Haryana government released him on a 20-day parole on 2 October 2024, three days before the
+      Haryana Assembly election, after the Chief Electoral Officer's concurrence and on conditions barring entry
+      into Haryana and any political activity; on 29 January 2025 he was released on a 30-day parole ahead of the
+      Delhi Assembly election. The Tribune reported that these releases drew objections that they were driven by
+      political considerations. The High Court's 9 August 2024 order had already directed that his release
+      applications be decided without "arbitrariness or favoritism or discrimination".
+    description_hi: >
+      भाजपा नीत हरियाणा सरकार ने 2 अक्टूबर 2024 को, हरियाणा विधानसभा चुनाव से तीन दिन पहले, मुख्य निर्वाचन
+      अधिकारी की सहमति और हरियाणा में प्रवेश व राजनीतिक गतिविधि पर रोक की शर्तों के साथ उन्हें 20 दिन की पैरोल
+      पर रिहा किया; 29 जनवरी 2025 को दिल्ली विधानसभा चुनाव से पहले 30 दिन की पैरोल दी गई। द ट्रिब्यून ने बताया
+      कि इन रिहाइयों पर राजनीतिक विचारों से प्रेरित होने की आपत्तियाँ उठीं।
+    source_ids: [grrs-src-19, grrs-src-18, grrs-src-20, grrs-src-04]

@@ -148,3 +148,11 @@ Other free primary sources for Indian judgments: livelaw.in and barandbench.com 
 judgment PDFs), verdictum.in, casemine.com, the Supreme Court's digiscr.sci.gov.in, and High
 Court websites. A LiveLaw or Bar & Bench article that quotes and attaches the order counts as
 `major_outlet`; the attached PDF or the court's own page counts as `court`.
+
+## Image sidecars
+
+Instead of editing an entity file, an image can be supplied as `data/images/<entity-id>.yaml`
+containing only the image block (file, source_url, licence, credit, caption_en, caption_hi).
+The file itself goes in `public/images/entities/`. Only images licensed for reuse
+(Wikimedia Commons CC/PD, GODL-India, official press releases) are acceptable; record the
+exact licence and the author credit as Commons shows them.

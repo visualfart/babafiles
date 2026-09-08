@@ -1,0 +1,736 @@
+id: travancore-devaswom-board
+type: temple_trust
+is_subject: true
+name_en: Travancore Devaswom Board
+name_hi: त्रावणकोर देवस्वम बोर्ड
+aliases: [TDB, Thiruvithamkoor Devaswom Board]
+base_location: Thiruvananthapuram, Kerala
+country: IN
+countries_of_operation: [IN]
+organisations: [Sabarimala Sree Dharma Sastha Temple]
+activity_status: active
+abap_2017_list: false
+summary_en: >
+  The Travancore Devaswom Board is the statutory body that administers the Sabarimala
+  Ayyappa temple and other temples in southern Kerala. In September 2025 the Kerala High
+  Court, acting suo motu on a report of the Sabarimala Special Commissioner, found that
+  gold-clad copper coverings of the Dwarapalaka idols had been removed and sent to a
+  Chennai firm without prior intimation, and that records from 2019 showed an unexplained
+  weight reduction of 4.541 kg in gold-clad plates described in board records as "copper
+  plates". On 6 October 2025 the court constituted a Special Investigation Team, which
+  registered two crimes (Dwarapalaka idols and Sreekovil door frames) and has arrested the
+  sponsor, former board officials, three former board presidents, a board member and the
+  chief priest. The Enforcement Directorate registered a money-laundering case in January
+  2026. As of September 2026 no final report had been filed; the High Court has directed the
+  door-frame chargesheet to be filed by 25 September 2026.
+summary_hi: >
+  त्रावणकोर देवस्वम बोर्ड केरल का वह वैधानिक निकाय है जो सबरीमला अय्यप्पा मंदिर और दक्षिणी
+  केरल के अन्य मंदिरों का प्रशासन करता है। सितंबर 2025 में केरल उच्च न्यायालय ने सबरीमला विशेष
+  आयुक्त की रिपोर्ट पर स्वतः संज्ञान लेते हुए पाया कि द्वारपालक मूर्तियों के स्वर्ण-जड़ित तांबे के
+  आवरण बिना पूर्व सूचना के हटाकर चेन्नई की एक फर्म को भेजे गए, और 2019 के अभिलेखों में
+  "तांबे की प्लेटें" बताई गई स्वर्ण-जड़ित प्लेटों के वज़न में 4.541 किलोग्राम की अस्पष्ट कमी दर्ज
+  थी। 6 अक्टूबर 2025 को न्यायालय ने विशेष जांच दल (SIT) गठित किया, जिसने दो अपराध (द्वारपालक
+  मूर्तियाँ और श्रीकोविल के दरवाज़े की चौखटें) दर्ज किए और प्रायोजक, बोर्ड के पूर्व अधिकारियों, तीन
+  पूर्व बोर्ड अध्यक्षों, एक सदस्य और मुख्य पुजारी को गिरफ्तार किया। प्रवर्तन निदेशालय ने जनवरी 2026
+  में धन-शोधन का मामला दर्ज किया। सितंबर 2026 तक कोई अंतिम रिपोर्ट दाखिल नहीं हुई थी; उच्च
+  न्यायालय ने दरवाज़े की चौखट मामले का आरोप-पत्र 25 सितंबर 2026 तक दाखिल करने का निर्देश दिया है।
+hi_reviewed: false
+response_from_subject:
+  text_en: >
+    The board's standing counsel asked the High Court on 6 October 2025 to take up the matter
+    because "vital information" had been received by its Chief Vigilance and Security Officer,
+    whose inquiry the court later described as "creditable work to bring out the
+    irregularities". On 14 October 2025 the board suspended an assistant engineer for
+    recording the gold plating as copper and decided to issue notices to retired employees
+    arraigned in the SIT case; press reports of 16 October 2025 said two officials had been
+    suspended and notices served on retired employees named by investigators.
+  text_hi: >
+    बोर्ड के स्थायी वकील ने 6 अक्टूबर 2025 को उच्च न्यायालय से मामला लेने का अनुरोध किया क्योंकि
+    इसके मुख्य सतर्कता एवं सुरक्षा अधिकारी को "महत्वपूर्ण जानकारी" मिली थी; न्यायालय ने बाद में
+    उनकी जांच को "अनियमितताएँ उजागर करने का सराहनीय कार्य" बताया। 14 अक्टूबर 2025 को बोर्ड ने
+    स्वर्ण-लेपन को तांबा दर्ज करने के आरोप में एक सहायक अभियंता को निलंबित किया और SIT मामले में
+    आरोपित सेवानिवृत्त कर्मचारियों को नोटिस देने का निर्णय लिया।
+  source_id: tdb-src-08
+
+sources:
+  - id: tdb-src-01
+    url: https://images.assettype.com/barandbench/2025-10-08/0v0d0j6i/Suo_Motu_v_State_of_Kerala___ors.pdf
+    title: Suo Motu v. State of Kerala & Ors., SSCR No. 23 of 2025, order dated 6 October 2025
+    publisher: High Court of Kerala (copy hosted by Bar & Bench)
+    type: court
+    published_at: 2025-10-06
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Division Bench (Raja Vijayaraghavan V and K.V. Jayakumar JJ). Recites the orders of
+      10, 12, 15, 17 and 29 September 2025; records the 2019 mahazar weights (42.800 kg
+      entrusted, 38.258 kg received at Smart Creations, reduction of 4.541 kg), the UB Group
+      letter showing 1,564.190 g of gold used on the Dwarapalakas in 1998-99, Potty's e-mail
+      of 9 December 2019 about "gold balance", and constitutes the SIT under ADGP H.
+      Venkitesh with S. Sasidharan IPS as investigating officer.
+  - id: tdb-src-02
+    url: https://www.livelaw.in/pdf_upload/2026/06/18/sabarimala-680938.pdf
+    title: Suo Motu v. State of Kerala & Ors., WP(C) No. 40608 of 2025, order dated 18 June 2026
+    publisher: High Court of Kerala (copy hosted by LiveLaw)
+    type: court
+    published_at: 2026-06-18
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Names Crime Nos. 3700 and 3701/CB/CU-IV/TVPM/D/2025; grants SIT a final opportunity to report by 29 June 2026.
+  - id: tdb-src-03
+    url: https://www.livelaw.in/pdf_upload/2026/06/29/sabarimala-gold-theft-682977.pdf
+    title: Suo Motu v. State of Kerala & Ors., WP(C) No. 40608 of 2025, order dated 29 June 2026
+    publisher: High Court of Kerala (copy hosted by LiveLaw)
+    type: court
+    published_at: 2026-06-29
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Records the SIT report that "overwhelming materials" establish the role of seven named
+      persons, the BNS sections invoked, the persons whose role is still being probed, and that
+      investigation in Crime No. 3701 is complete except for filing the final report.
+  - id: tdb-src-04
+    url: https://www.livelaw.in/pdf_upload/2026/07/20/sabarimala-688072.pdf
+    title: Suo Motu v. State of Kerala & Ors., WP(C) No. 40608 of 2025, order dated 20 July 2026
+    publisher: High Court of Kerala (copy hosted by LiveLaw)
+    type: court
+    published_at: 2026-07-20
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Records receipt of the CSIR-NML final report on 6 July 2026 and the SIT's undertaking to file the door-frame final report within 30 days; posts the matter to 3 September 2026.
+  - id: tdb-src-05
+    url: https://enforcementdirectorate.gov.in/media/press-release-documents/8524333f-04b4-4cac-b5b1-8fb532e576be_Press%20release%2021.01.2026%20sabarimala%202%20(1).pdf
+    title: ED Kochi Zonal Office press release dated 21 January 2026 on searches in the Sabarimala temple gold matter
+    publisher: Directorate of Enforcement
+    type: official
+    published_at: 2026-01-21
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Searches at 21 premises on 20 January 2026; eight immovable properties of the prime accused (about Rs 1.3 crore) frozen under s.17(1A) PMLA; 100 g gold bar seized at Smart Creations, Chennai.
+  - id: tdb-src-06
+    url: https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-gold-plated-dwarapalaka-idols-sannidhanam-chennai-repair-303494
+    title: Kerala High Court Directs Travancore Devaswom Board To Bring Back Gold-Plated "Dwarapalaka Idols" To Sabarimala's Sannidhanam
+    publisher: LiveLaw (K. Salma Jennath)
+    type: major_outlet
+    published_at: 2025-09-10
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-07
+    url: https://www.barandbench.com/amp/story/news/kerala-high-court-orders-probe-into-alleged-loss-of-gold-from-sabarimala-dwarapalaka-idols
+    title: Kerala High Court orders probe into alleged loss of gold from Sabarimala Dwarapalaka idols
+    publisher: Bar & Bench (Praisy Thomas)
+    type: major_outlet
+    published_at: 2025-09-17
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-08
+    url: https://www.deccanherald.com/india/kerala/sabarimala-gold-missing-row-one-more-employee-of-travancore-devaswom-board-suspended-3764311
+    title: "Sabarimala gold missing row: One more employee of Travancore Devaswom Board suspended"
+    publisher: Deccan Herald (DHNS)
+    type: major_outlet
+    published_at: 2025-10-14
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-09
+    url: https://www.deccanherald.com/india/kerala/sabarimala-gold-missing-row-sit-arrests-prime-accused-unnikrishnan-potty-3767186
+    title: "Sabarimala gold missing row: SIT arrests prime accused Unnikrishnan Potty"
+    publisher: Deccan Herald (PTI)
+    type: major_outlet
+    published_at: 2025-10-17
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-10
+    url: https://www.newsonair.gov.in/first-arrest-made-in-sabarimala-gold-plate-theft-case
+    title: First arrest made in Sabarimala gold plate theft case
+    publisher: Akashvani News (News On AIR)
+    type: major_outlet
+    published_at: 2025-10-17
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-11
+    url: https://gulfnews.com/world/asia/india/sabarimala-gold-plating-scam-sit-arrests-former-administrative-officer-murari-babu-1.500317997
+    title: "Sabarimala gold-plating scam: SIT arrests former administrative officer Murari Babu"
+    publisher: Gulf News (Balaram Menon / ANI)
+    type: major_outlet
+    published_at: 2025-10-23
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-12
+    url: https://newsonair.gov.in/sit-arrests-ex-sabarimala-officer-murari-babu-over-gold-plating-scam/
+    title: SIT arrests ex-Sabarimala officer Murari Babu over gold-plating scam
+    publisher: Akashvani News (News On AIR)
+    type: major_outlet
+    published_at: 2025-10-23
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-13
+    url: https://www.deccanherald.com/india/kerala/sabarimala-gold-missing-row-unnikrishnan-potty-held-in-another-case-3784947
+    title: "Sabarimala gold missing row: Unnikrishnan Potty held in another case"
+    publisher: Deccan Herald (DH Web Desk, with agency inputs)
+    type: major_outlet
+    published_at: 2025-11-03
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-14
+    url: https://www.deccanherald.com/india/kerala/sabarimala-gold-heist-kerala-high-court-permits-sit-to-conduct-scientific-tests-3797193
+    title: "Sabarimala gold heist: Kerala High Court permits SIT to conduct scientific tests"
+    publisher: Deccan Herald (PTI)
+    type: major_outlet
+    published_at: 2025-11-13
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-15
+    url: https://www.prokerala.com/news/articles/a1716470.html
+    title: "Sabarimala gold heist: Temple tantri arrested by SIT, ED registers PMLA case"
+    publisher: IANS (via Prokerala)
+    type: other
+    published_at: 2026-01-09
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Agency copy; used only for the date of the tantri's arrest, which Akashvani News (tdb-src-19) places in January 2026.
+  - id: tdb-src-16
+    url: https://www.outlookindia.com/national/ed-questions-former-tdb-officer-in-sabarimala-gold-loss-money-laundering-probe
+    title: ED Questions Former TDB Officer in Sabarimala Gold "Loss" Money-Laundering Probe
+    publisher: Outlook India (PTI)
+    type: major_outlet
+    published_at: 2026-02-03
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Gives 9 January 2026 as the date the ED registered its PMLA case on the basis of the Kerala Police FIRs.
+  - id: tdb-src-17
+    url: https://www.livelaw.in/amp/news-updates/kerala-kollam-vigilance-court-sabarimala-gold-theft-unnikrishnan-potty-521989
+    title: "Sabarimala Gold Theft: Kerala Court Grants Statutory Bail To Prime Accused Unnikrishnan Potty"
+    publisher: LiveLaw (K. Salma Jennath)
+    type: major_outlet
+    published_at: 2026-02-05
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Court of the Enquiry Commissioner and Special Judge, Kollam, Crl.MP 82/2026; earlier statutory bail of 21 January 2026 in the Dwarapalaka case.
+  - id: tdb-src-18
+    url: https://www.newsonair.gov.in/vigilance-court-in-kerala-granted-bail-to-unnikrishnan-potti-in-sabarimala-gold-case
+    title: Vigilance Court in Kerala granted bail to Unnikrishnan Potti in Sabarimala gold case
+    publisher: Akashvani News (News On AIR)
+    type: major_outlet
+    published_at: 2026-02-05
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-19
+    url: https://newsonair.gov.in/kollam-vigilance-court-grants-bail-to-head-priest-thantri-kandararu-rajeevaru-in-sabarimala-gold-misappropriation-cases/
+    title: Kollam Vigilance Court grants bail to Head Priest Thantri Kandararu Rajeevaru in Sabarimala gold misappropriation cases
+    publisher: Akashvani News (News On AIR)
+    type: major_outlet
+    published_at: 2026-02-18
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-20
+    url: https://newsonair.gov.in/former-travancore-devaswom-board-president-a-padmakumar-released-on-bail-in-sabarimala-investigation/
+    title: Former Travancore Devaswom Board president A. Padmakumar released on bail in Sabarimala investigation
+    publisher: Akashvani News (News On AIR)
+    type: major_outlet
+    published_at: 2026-03-04
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-21
+    url: https://www.livelaw.in/high-court/kerala-high-court/kerala-high-court-sabarimala-gold-theft-539232
+    title: "Sabarimala Gold Theft: SIT Informs Kerala High Court About Completion Of Probe On 'Doorframes', Seeks Time To Investigate On Dwarapalakas"
+    publisher: LiveLaw (K. Salma Jennath)
+    type: major_outlet
+    published_at: 2026-06-29
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-22
+    url: https://www.onmanorama.com/news/kerala/2026/07/27/sabarimala-gold-theft-case-sit-to-seek-custody-of-ps-prasanth-ajikumar.html
+    title: "Sabarimala gold theft case: SIT to seek custody of PS Prasanth, Ajikumar"
+    publisher: Onmanorama
+    type: major_outlet
+    published_at: 2026-07-27
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Arrests of 23 July 2026; 14-day remand by Kollam Vigilance Court; notes Prasanth is the third former TDB president arrested after N. Vasu and A. Padmakumar.
+  - id: tdb-src-23
+    url: https://newsonair.gov.in/sabrimala-gold-heist-sit-arrests-former-tdb-president-p-s-prasanth/
+    title: "Sabarimala Gold Heist: SIT arrests former TDB President P S Prasanth"
+    publisher: Akashvani News (News On AIR)
+    type: major_outlet
+    published_at: 2026-07-23
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-24
+    url: https://www.onmanorama.com/news/kerala/2026/09/04/sabarimala-gold-cases-hc-asks-sit-to-file-doorframe-charge-sheet-by-september-25-expedite-dwarapalaka-probe.html
+    title: "Sabarimala gold cases: HC asks SIT to file doorframe charge sheet by Sep 25, expedite Dwarapalaka probe"
+    publisher: Onmanorama
+    type: major_outlet
+    published_at: 2026-09-04
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-25
+    url: https://newsonair.gov.in/sabarimala-gold-misappropriation-case-former-devaswom-board-president-prasanth-gets-bail-on-medical-grounds/
+    title: "Sabarimala Gold Misappropriation Case: Former Devaswom Board President Prasanth gets bail on medical grounds"
+    publisher: Akashvani News (News On AIR)
+    type: major_outlet
+    published_at: 2026-09-03
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+  - id: tdb-src-26
+    url: https://www.thenewsminute.com/kerala/explained-the-controversy-over-missing-gold-at-sabarimala-temple
+    title: "Explained: The controversy over missing gold at Sabarimala temple"
+    publisher: The News Minute (Jisha Surya)
+    type: major_outlet
+    published_at: 2025-10-07
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+
+cases:
+  - id: tdb-sabarimala-dwarapalaka-gold-2025
+    title_en: Suo Motu v. State of Kerala (Sabarimala Dwarapalaka gold), Kerala High Court
+    title_hi: स्वतः संज्ञान बनाम केरल राज्य (सबरीमला द्वारपालक स्वर्ण), केरल उच्च न्यायालय
+    jurisdiction_country: IN
+    jurisdiction_region: Kerala
+    court: High Court of Kerala, Ernakulam (Division Bench)
+    case_number: SSCR No. 23 of 2025; WP(C) No. 40608 of 2025
+    filed_year: 2025
+    case_type: inquiry
+    statutes: [BNS 2023 s.316(2), BNS 2023 s.316(5), BNS 2023 s.336(2), BNS 2023 s.61(2) r/w s.3(5)]
+    status: pending; court-monitored SIT investigation, final reports not yet filed
+    tier: under_investigation
+    verdict_date:
+    sentence_or_remedy:
+    appeal_status:
+    summary_en: >
+      Court-monitored proceedings begun on the Sabarimala Special Commissioner's report of
+      September 2025 that gold-clad copper coverings of the Dwarapalaka idols had been removed
+      and sent to Smart Creations, Chennai, without intimation. The court found from seized
+      registers that in July 2019 the plates and pedestals (42.800 kg) were entrusted to sponsor
+      Unnikrishnan Potty and described in the mahazar as "copper plates", that they weighed
+      38.258 kg on receipt at Smart Creations (a 4.541 kg reduction), and that a 1998-99 sponsor's
+      letter showed 1,564.190 g of gold had been used on the Dwarapalakas. On 6 October 2025 it
+      constituted an SIT under ADGP H. Venkitesh; the SIT registered Crime No.
+      3700/CB/CU-IV/TVPM/D/2025 (Dwarapalakas) and 3701 (door frames). On 29 June 2026 the court
+      recorded the SIT's finding that "overwhelming materials" established the role of seven
+      persons, including former TDB president P.S. Prashanth, board member A. Ajikumar and the
+      Thantri. On 20 July 2026 the CSIR-NML report was noted as received; the door-frame case was
+      said to be substantially complete. On 3 September 2026 the court directed the door-frame
+      final report to be filed by 25 September 2026 and posted the matter to 7 October 2026.
+    summary_hi: >
+      सितंबर 2025 में सबरीमला विशेष आयुक्त की रिपोर्ट पर शुरू हुई न्यायालय-निगरानी वाली
+      कार्यवाही कि द्वारपालक मूर्तियों के स्वर्ण-जड़ित तांबे के आवरण बिना सूचना के हटाकर चेन्नई की
+      स्मार्ट क्रिएशन्स को भेजे गए। न्यायालय ने जब्त रजिस्टरों से पाया कि जुलाई 2019 में प्लेटें और
+      पीठ (42.800 किग्रा) प्रायोजक उन्निकृष्णन पोट्टी को सौंपी गईं और महज़र में "तांबे की प्लेटें"
+      लिखी गईं; स्मार्ट क्रिएशन्स में इनका वज़न 38.258 किग्रा (4.541 किग्रा कम) था; 1998-99 के
+      प्रायोजक पत्र के अनुसार द्वारपालकों पर 1,564.190 ग्राम सोना लगा था। 6 अक्टूबर 2025 को
+      न्यायालय ने ADGP एच. वेंकिटेश के नेतृत्व में SIT गठित की; SIT ने अपराध संख्या
+      3700/CB/CU-IV/TVPM/D/2025 (द्वारपालक) और 3701 (दरवाज़े की चौखटें) दर्ज कीं। 29 जून 2026 को
+      न्यायालय ने SIT का निष्कर्ष दर्ज किया कि सात व्यक्तियों, जिनमें पूर्व TDB अध्यक्ष पी.एस. प्रशांत,
+      सदस्य ए. अजिकुमार और तंत्री शामिल हैं, की भूमिका के "प्रचुर साक्ष्य" हैं। 3 सितंबर 2026 को
+      न्यायालय ने चौखट मामले की अंतिम रिपोर्ट 25 सितंबर 2026 तक दाखिल करने का निर्देश दिया।
+    source_ids: [tdb-src-01, tdb-src-02, tdb-src-03, tdb-src-04, tdb-src-21, tdb-src-24]
+  - id: tdb-sabarimala-gold-ed-pmla-2026
+    title_en: Enforcement Directorate PMLA investigation, Sabarimala temple gold
+    title_hi: प्रवर्तन निदेशालय की PMLA जांच, सबरीमला मंदिर स्वर्ण
+    jurisdiction_country: IN
+    jurisdiction_region: Kerala
+    court: Directorate of Enforcement, Kochi Zonal Office
+    case_number:
+    filed_year: 2026
+    case_type: criminal
+    statutes: [PMLA 2002 s.17(1A)]
+    status: investigation in progress
+    tier: under_investigation
+    verdict_date:
+    sentence_or_remedy:
+    appeal_status:
+    summary_en: >
+      The ED's Kochi Zonal Office opened a money-laundering investigation on the basis of the two
+      Kerala Police Crime Branch FIRs (PTI reported the case was registered on 9 January 2026).
+      On 20 January 2026 it searched 21 premises in Kerala, Tamil Nadu and Karnataka, froze eight
+      immovable properties of the prime accused worth about Rs 1.3 crore under s.17(1A) PMLA and
+      seized a 100-gram gold bar at Smart Creations, Chennai. The ED's stated preliminary finding
+      is that gold-clad artefacts, including Dwarapalaka components, peedams and door-frame
+      panels, were "deliberately misrepresented in official records as mere 'copper plates'" and
+      removed during 2019-2025, with gold extracted at Smart Creations and Roddam Jewellers. The ED
+      said the conspiracy involved "senior officials of the Travancore Devaswom Board (TDB), former
+      temple administrators, private sponsors and jewellers". Further investigation is in progress.
+    summary_hi: >
+      ED के कोच्चि क्षेत्रीय कार्यालय ने केरल पुलिस क्राइम ब्रांच की दो FIR के आधार पर धन-शोधन जांच
+      शुरू की (PTI के अनुसार मामला 9 जनवरी 2026 को दर्ज हुआ)। 20 जनवरी 2026 को केरल, तमिलनाडु और
+      कर्नाटक में 21 परिसरों की तलाशी ली, मुख्य आरोपी की लगभग 1.3 करोड़ रुपये की आठ अचल संपत्तियाँ
+      PMLA की धारा 17(1A) के तहत फ्रीज़ कीं और चेन्नई की स्मार्ट क्रिएशन्स से 100 ग्राम का सोने का
+      बार जब्त किया। ED का प्रारंभिक निष्कर्ष है कि स्वर्ण-जड़ित कलाकृतियों को अभिलेखों में
+      "जानबूझकर मात्र 'तांबे की प्लेटें' बताया गया" और 2019-2025 के दौरान हटाया गया। आगे की जांच जारी है।
+    source_ids: [tdb-src-05, tdb-src-16]
+
+claims:
+  - id: tdb-claim-01
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    statement_en: >
+      On 10 September 2025 the Kerala High Court, acting suo motu on the Sabarimala Special
+      Commissioner's report, held that the board's detaching of the gold-clad copper coverings of
+      the Dwarapalaka idols without prior intimation was "an unwarranted and irregular exercise of
+      authority", ordered the repair work at Smart Creations, Chennai, to stop and the coverings
+      to be brought back to Sannidhanam, and directed the Devaswom Commissioner, the Executive
+      Officer and the Thiruvabharanam Commissioner to show cause.
+    statement_hi: >
+      10 सितंबर 2025 को केरल उच्च न्यायालय ने सबरीमला विशेष आयुक्त की रिपोर्ट पर स्वतः संज्ञान लेते
+      हुए कहा कि बिना पूर्व सूचना के द्वारपालक मूर्तियों के स्वर्ण-जड़ित आवरण हटाना "अधिकार का
+      अनुचित और अनियमित प्रयोग" था, चेन्नई की स्मार्ट क्रिएशन्स में मरम्मत कार्य रोकने और आवरण
+      सन्निधानम वापस लाने का आदेश दिया, तथा देवस्वम आयुक्त, कार्यकारी अधिकारी और तिरुवाभरणम
+      आयुक्त को कारण बताओ नोटिस दिया।
+    tier: regulatory_action
+    date: 2025-09-10
+    source_ids: [tdb-src-01, tdb-src-06]
+  - id: tdb-claim-02
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    statement_en: >
+      On 17 September 2025 the High Court recorded from seized mahazars that twelve "copper
+      plates" (25.400 kg) and two peedams (17.400 kg), a combined 42.800 kg, were entrusted to
+      Unnikrishnan Potty on 19-20 July 2019, that they weighed only 38.258 kg when produced at
+      Smart Creations on 29 August 2019 — "an unexplained reduction of 4.541 kilograms" — and
+      that the weight was not recorded at all at refixation on 11 September 2019; it directed the
+      board's Chief Vigilance and Security Officer to investigate and report within three weeks.
+    statement_hi: >
+      17 सितंबर 2025 को उच्च न्यायालय ने जब्त महज़रों से दर्ज किया कि बारह "तांबे की प्लेटें"
+      (25.400 किग्रा) और दो पीठ (17.400 किग्रा), कुल 42.800 किग्रा, 19-20 जुलाई 2019 को उन्निकृष्णन
+      पोट्टी को सौंपे गए; 29 अगस्त 2019 को स्मार्ट क्रिएशन्स में इनका वज़न केवल 38.258 किग्रा था —
+      "4.541 किलोग्राम की अस्पष्ट कमी" — और 11 सितंबर 2019 को पुनः स्थापना के समय वज़न दर्ज ही नहीं
+      किया गया; न्यायालय ने बोर्ड के मुख्य सतर्कता एवं सुरक्षा अधिकारी को तीन सप्ताह में जांच रिपोर्ट
+      देने का निर्देश दिया।
+    tier: regulatory_action
+    date: 2025-09-17
+    source_ids: [tdb-src-01, tdb-src-07]
+  - id: tdb-claim-03
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    statement_en: >
+      On 6 October 2025 the High Court found from a United Breweries Group letter endorsed by
+      board officers that 1,564.190 g of gold had been used to clad the two Dwarapalakas in
+      1998-99, held that the items handed to Potty in 2019 "were therefore not mere 'copper
+      plates'" as described in the mahazar, and observed that the responsibility "extends also to
+      certain officers of the Travancore Devaswom Board" who "were privy to the transactions".
+    statement_hi: >
+      6 अक्टूबर 2025 को उच्च न्यायालय ने बोर्ड अधिकारियों द्वारा अनुमोदित यूनाइटेड ब्रुअरीज़ समूह के
+      पत्र से पाया कि 1998-99 में दोनों द्वारपालकों पर 1,564.190 ग्राम सोना लगाया गया था, कहा कि
+      2019 में पोट्टी को सौंपी गई वस्तुएँ "इसलिए मात्र 'तांबे की प्लेटें' नहीं थीं" जैसा महज़र में लिखा
+      था, और टिप्पणी की कि ज़िम्मेदारी "त्रावणकोर देवस्वम बोर्ड के कुछ अधिकारियों तक भी फैली है" जो
+      "लेन-देन से अवगत थे"।
+    tier: regulatory_action
+    date: 2025-10-06
+    source_ids: [tdb-src-01]
+  - id: tdb-claim-04
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    statement_en: >
+      On 6 October 2025 the High Court held that the vigilance findings "prima facie disclose the
+      commission of several offences under the Bharatiya Nyaya Sanhita, 2023" and constituted a
+      Special Investigation Team headed by H. Venkitesh, ADGP (Law and Order), with S. Sasidharan
+      IPS as investigating officer, directing it to register a crime, report directly to the court
+      and complete the investigation within six weeks.
+    statement_hi: >
+      6 अक्टूबर 2025 को उच्च न्यायालय ने कहा कि सतर्कता निष्कर्ष "प्रथम दृष्टया भारतीय न्याय संहिता,
+      2023 के तहत कई अपराधों का खुलासा करते हैं" और ADGP (कानून-व्यवस्था) एच. वेंकिटेश के नेतृत्व
+      में, एस. शशिधरन IPS को जांच अधिकारी बनाते हुए, विशेष जांच दल गठित किया, जिसे अपराध दर्ज
+      करने, सीधे न्यायालय को रिपोर्ट करने और छह सप्ताह में जांच पूरी करने का निर्देश दिया।
+    tier: under_investigation
+    date: 2025-10-06
+    source_ids: [tdb-src-01, tdb-src-26]
+  - id: tdb-claim-05
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    statement_en: >
+      The SIT registered two crimes, No. 3700/CB/CU-IV/TVPM/D/2025 concerning the Dwarapalaka
+      idols and No. 3701/CB/CU-IV/TVPM/D/2025 concerning the Sreekovil door frames, both of which
+      were before the High Court in WP(C) No. 40608 of 2025.
+    statement_hi: >
+      SIT ने दो अपराध दर्ज किए: द्वारपालक मूर्तियों से संबंधित संख्या 3700/CB/CU-IV/TVPM/D/2025 और
+      श्रीकोविल के दरवाज़े की चौखटों से संबंधित संख्या 3701/CB/CU-IV/TVPM/D/2025; दोनों उच्च न्यायालय
+      में WP(C) संख्या 40608/2025 में विचाराधीन थे।
+    tier: under_investigation
+    date: 2025-10
+    source_ids: [tdb-src-02, tdb-src-13]
+  - id: tdb-claim-06
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    statement_en: >
+      The SIT arrested the sponsor Unnikrishnan Potty on 17 October 2025 in the Dwarapalaka case
+      and again on 3 November 2025 in the door-frame case, when the Judicial First Class
+      Magistrate Court, Ranni, granted the SIT his custody for ten days.
+    statement_hi: >
+      SIT ने प्रायोजक उन्निकृष्णन पोट्टी को 17 अक्टूबर 2025 को द्वारपालक मामले में और फिर 3 नवंबर
+      2025 को चौखट मामले में गिरफ्तार किया; रन्नी की प्रथम श्रेणी न्यायिक मजिस्ट्रेट अदालत ने SIT
+      को दस दिन की हिरासत दी।
+    tier: under_investigation
+    date: 2025-10-17
+    source_ids: [tdb-src-09, tdb-src-10, tdb-src-13, tdb-src-01]
+  - id: tdb-claim-07
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    statement_en: >
+      On 23 October 2025 the SIT arrested B. Murari Babu, the board's former Administrative
+      Officer at Sabarimala in 2019, naming him as an accused in both FIRs; Murari Babu said the
+      "copper" description came from the chief priest's letter and that higher board authorities
+      took the final decisions.
+    statement_hi: >
+      23 अक्टूबर 2025 को SIT ने 2019 में सबरीमला में बोर्ड के प्रशासनिक अधिकारी रहे बी. मुरारी बाबू को
+      दोनों FIR में आरोपी बनाते हुए गिरफ्तार किया; मुरारी बाबू ने कहा कि "तांबा" विवरण मुख्य पुजारी
+      के पत्र से आया और अंतिम निर्णय बोर्ड के उच्च अधिकारियों ने लिए।
+    tier: under_investigation
+    date: 2025-10-23
+    source_ids: [tdb-src-11, tdb-src-12, tdb-src-03]
+  - id: tdb-claim-08
+    case_id: tdb-sabarimala-gold-ed-pmla-2026
+    statement_en: >
+      On 20 January 2026 the Enforcement Directorate, Kochi Zonal Office, searched 21 premises in
+      Kerala, Tamil Nadu and Karnataka under the PMLA in connection with the Sabarimala temple
+      gold matter, froze eight immovable properties of the prime accused valued at about Rs 1.3
+      crore under section 17(1A), and seized a 100-gram gold bar from Smart Creations, Chennai.
+    statement_hi: >
+      20 जनवरी 2026 को प्रवर्तन निदेशालय, कोच्चि क्षेत्रीय कार्यालय ने सबरीमला मंदिर स्वर्ण मामले में
+      PMLA के तहत केरल, तमिलनाडु और कर्नाटक में 21 परिसरों की तलाशी ली, मुख्य आरोपी की लगभग 1.3
+      करोड़ रुपये की आठ अचल संपत्तियाँ धारा 17(1A) के तहत फ्रीज़ कीं और चेन्नई की स्मार्ट क्रिएशन्स से
+      100 ग्राम का सोने का बार जब्त किया।
+    tier: under_investigation
+    date: 2026-01-20
+    source_ids: [tdb-src-05, tdb-src-16]
+  - id: tdb-claim-09
+    case_id: tdb-sabarimala-gold-ed-pmla-2026
+    statement_en: >
+      The ED stated on 21 January 2026 that its preliminary investigation revealed that gold-clad
+      artefacts including Dwarapalaka components, peedams and door-frame panels "were deliberately
+      misrepresented in official records as mere 'copper plates' and unauthorisedly removed" during
+      2019-2025, and that its investigation "revealed a well-planned criminal conspiracy involving
+      senior officials of the Travancore Devaswom Board (TDB), former temple administrators, private
+      sponsors and jewellers".
+    statement_hi: >
+      ED ने 21 जनवरी 2026 को कहा कि उसकी प्रारंभिक जांच से पता चला कि द्वारपालक घटकों, पीठों और
+      चौखट पैनलों सहित स्वर्ण-जड़ित कलाकृतियों को "आधिकारिक अभिलेखों में जानबूझकर मात्र 'तांबे की
+      प्लेटें' बताया गया और अनधिकृत रूप से हटाया गया" (2019-2025), और जांच में "त्रावणकोर देवस्वम
+      बोर्ड के वरिष्ठ अधिकारियों, पूर्व मंदिर प्रशासकों, निजी प्रायोजकों और जौहरियों से जुड़ी सुनियोजित
+      आपराधिक साज़िश" सामने आई।
+    tier: under_investigation
+    date: 2026-01-21
+    source_ids: [tdb-src-05]
+  - id: tdb-claim-10
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    statement_en: >
+      On 29 June 2026 the High Court recorded the SIT's report that "overwhelming materials" had
+      been collected establishing the role of seven persons — Murari Babu (Executive Officer),
+      Unnikrishnan Potty (sponsor), Pankaj Bhandari (Smart Creations), P.S. Prashanth (President,
+      TDB), Adv. A. Ajikumar (Member, TDB), Kandararu Rajeevaru (Thantri) and Rejilal
+      (Thiruvabharanam Commissioner) — in offences of criminal breach of trust, forgery and
+      criminal conspiracy under sections 316(2), 316(5), 336(2) and 61(2) read with 3(5) of the
+      BNS, and that the role of eleven further board officers, members and others was being probed.
+    statement_hi: >
+      29 जून 2026 को उच्च न्यायालय ने SIT की रिपोर्ट दर्ज की कि सात व्यक्तियों — मुरारी बाबू
+      (कार्यकारी अधिकारी), उन्निकृष्णन पोट्टी (प्रायोजक), पंकज भंडारी (स्मार्ट क्रिएशन्स), पी.एस. प्रशांत
+      (अध्यक्ष, TDB), अधिवक्ता ए. अजिकुमार (सदस्य, TDB), कंडरारु राजीवरु (तंत्री) और रेजिलाल
+      (तिरुवाभरणम आयुक्त) — की भूमिका स्थापित करने वाले "प्रचुर साक्ष्य" एकत्र हुए हैं, जो BNS की धारा
+      316(2), 316(5), 336(2) और 61(2) सहपठित 3(5) के तहत आपराधिक विश्वासघात, जालसाज़ी और आपराधिक
+      साज़िश के अपराध हैं, और ग्यारह अन्य बोर्ड अधिकारियों, सदस्यों व अन्य की भूमिका की जांच जारी है।
+    tier: under_investigation
+    date: 2026-06-29
+    source_ids: [tdb-src-03, tdb-src-21]
+  - id: tdb-claim-11
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    statement_en: >
+      On 23 July 2026 the SIT arrested former TDB president P.S. Prasanth and former board member
+      A. Ajikumar in the Dwarapalaka case; the Kollam Vigilance Court remanded them to judicial
+      custody for 14 days. Prasanth was the third former board president arrested, after N. Vasu and
+      A. Padmakumar; the Kollam Vigilance Court granted Padmakumar statutory bail on 20 February
+      and 4 March 2026 and Prasanth bail on medical grounds on 3 September 2026.
+    statement_hi: >
+      23 जुलाई 2026 को SIT ने पूर्व TDB अध्यक्ष पी.एस. प्रशांत और पूर्व बोर्ड सदस्य ए. अजिकुमार को
+      द्वारपालक मामले में गिरफ्तार किया; कोल्लम सतर्कता अदालत ने उन्हें 14 दिन की न्यायिक हिरासत में
+      भेजा। एन. वासु और ए. पद्मकुमार के बाद प्रशांत गिरफ्तार होने वाले तीसरे पूर्व बोर्ड अध्यक्ष थे;
+      कोल्लम सतर्कता अदालत ने पद्मकुमार को 20 फरवरी और 4 मार्च 2026 को वैधानिक ज़मानत और प्रशांत को
+      3 सितंबर 2026 को चिकित्सीय आधार पर ज़मानत दी।
+    tier: under_investigation
+    date: 2026-07-23
+    source_ids: [tdb-src-22, tdb-src-23, tdb-src-20, tdb-src-25, tdb-src-03]
+  - id: tdb-claim-12
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    statement_en: >
+      On 20 July 2026 the High Court recorded that the CSIR National Metallurgical Laboratory's
+      final report had been received on 6 July 2026, that investigation in the door-frame crime
+      (No. 3701) was substantially complete with the final report to be filed within thirty days,
+      and that the alleged pilfering of gold in September 2025 had been clubbed with the
+      Dwarapalaka crime (No. 3700); it directed the SIT to file the final report in that crime
+      "at the earliest".
+    statement_hi: >
+      20 जुलाई 2026 को उच्च न्यायालय ने दर्ज किया कि CSIR राष्ट्रीय धातुकर्म प्रयोगशाला की अंतिम
+      रिपोर्ट 6 जुलाई 2026 को प्राप्त हुई, चौखट अपराध (संख्या 3701) की जांच लगभग पूरी है और अंतिम
+      रिपोर्ट तीस दिन में दाखिल होगी, तथा सितंबर 2025 में कथित स्वर्ण चोरी को द्वारपालक अपराध
+      (संख्या 3700) के साथ जोड़ा गया है; न्यायालय ने SIT को उस अपराध में अंतिम रिपोर्ट "यथाशीघ्र"
+      दाखिल करने का निर्देश दिया।
+    tier: under_investigation
+    date: 2026-07-20
+    source_ids: [tdb-src-04]
+
+events:
+  - date: 2019-07-19
+    kind: incident
+    label_en: Gold-clad Dwarapalaka plates and peedams (42.800 kg) entrusted to sponsor Unnikrishnan Potty, recorded as "copper plates"
+    label_hi: स्वर्ण-जड़ित द्वारपालक प्लेटें और पीठ (42.800 किग्रा) प्रायोजक उन्निकृष्णन पोट्टी को सौंपे गए, "तांबे की प्लेटें" दर्ज
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-01]
+  - date: 2025-09-10
+    kind: other
+    label_en: Kerala High Court suo motu order to stop repair in Chennai, return the coverings and show cause
+    label_hi: "केरल उच्च न्यायालय का स्वतः संज्ञान आदेश: चेन्नई में मरम्मत रोकें, आवरण लौटाएँ, कारण बताएँ"
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-01, tdb-src-06]
+  - date: 2025-09-17
+    kind: other
+    label_en: High Court records 4.541 kg weight reduction in 2019 records; orders vigilance inquiry
+    label_hi: उच्च न्यायालय ने 2019 अभिलेखों में 4.541 किग्रा वज़न कमी दर्ज की; सतर्कता जांच का आदेश
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-01, tdb-src-07]
+  - date: 2025-09-27
+    kind: raid
+    label_en: Gold-plated peedams seized from the house of Potty's sister, as recorded by the High Court
+    label_hi: पोट्टी की बहन के घर से स्वर्ण-लेपित पीठ जब्त, जैसा उच्च न्यायालय ने दर्ज किया
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-01]
+  - date: 2025-10-06
+    kind: other
+    label_en: High Court constitutes SIT under ADGP H. Venkitesh; directs registration of crime
+    label_hi: उच्च न्यायालय ने ADGP एच. वेंकिटेश के नेतृत्व में SIT गठित की; अपराध दर्ज करने का निर्देश
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-01]
+  - date: 2025-10-14
+    kind: notice
+    label_en: TDB suspends an assistant engineer and decides to issue notices to retired employees named by the SIT
+    label_hi: TDB ने एक सहायक अभियंता को निलंबित किया और SIT द्वारा नामित सेवानिवृत्त कर्मचारियों को नोटिस देने का निर्णय लिया
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-08]
+  - date: 2025-10-17
+    kind: arrest
+    label_en: SIT arrests sponsor Unnikrishnan Potty (Dwarapalaka case)
+    label_hi: SIT ने प्रायोजक उन्निकृष्णन पोट्टी को गिरफ्तार किया (द्वारपालक मामला)
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-09, tdb-src-10]
+  - date: 2025-10-23
+    kind: arrest
+    label_en: SIT arrests former Administrative Officer B. Murari Babu
+    label_hi: SIT ने पूर्व प्रशासनिक अधिकारी बी. मुरारी बाबू को गिरफ्तार किया
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-11, tdb-src-12]
+  - date: 2025-11-03
+    kind: arrest
+    label_en: Potty arrested in the Sreekovil door-frame case; JFCM Ranni grants SIT ten days' custody
+    label_hi: पोट्टी श्रीकोविल चौखट मामले में गिरफ्तार; JFCM रन्नी ने SIT को दस दिन की हिरासत दी
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-13]
+  - date: 2025-11-13
+    kind: other
+    label_en: High Court permits SIT to conduct scientific tests on the Dwarapalaka plates on 17 November 2025
+    label_hi: उच्च न्यायालय ने SIT को 17 नवंबर 2025 को द्वारपालक प्लेटों की वैज्ञानिक जांच की अनुमति दी
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-14]
+  - date: 2026-01-09
+    kind: arrest
+    label_en: SIT arrests Sabarimala Thantri Kandararu Rajeevaru; ED registers PMLA case (PTI gives 9 January 2026)
+    label_hi: SIT ने सबरीमला तंत्री कंडरारु राजीवरु को गिरफ्तार किया; ED ने PMLA मामला दर्ज किया
+    case_id: tdb-sabarimala-gold-ed-pmla-2026
+    source_ids: [tdb-src-15, tdb-src-16, tdb-src-19]
+  - date: 2026-01-20
+    kind: raid
+    label_en: ED searches 21 premises in Kerala, Tamil Nadu and Karnataka; freezes eight properties (about Rs 1.3 crore)
+    label_hi: ED ने केरल, तमिलनाडु और कर्नाटक में 21 परिसरों की तलाशी ली; आठ संपत्तियाँ (लगभग 1.3 करोड़ रुपये) फ्रीज़
+    case_id: tdb-sabarimala-gold-ed-pmla-2026
+    source_ids: [tdb-src-05]
+  - date: 2026-01-21
+    kind: bail
+    label_en: Kollam Special Judge (Vigilance) grants Potty statutory bail in the Dwarapalaka case, no chargesheet within 90 days
+    label_hi: कोल्लम विशेष न्यायाधीश (सतर्कता) ने द्वारपालक मामले में पोट्टी को वैधानिक ज़मानत दी, 90 दिन में आरोप-पत्र नहीं
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-17]
+  - date: 2026-02-05
+    kind: bail
+    label_en: Kollam Special Judge (Vigilance) grants Potty statutory bail in the door-frame case (Crl.MP 82/2026)
+    label_hi: कोल्लम विशेष न्यायाधीश (सतर्कता) ने चौखट मामले में पोट्टी को वैधानिक ज़मानत दी (Crl.MP 82/2026)
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-17, tdb-src-18]
+  - date: 2026-02-18
+    kind: bail
+    label_en: Kollam Vigilance Court grants bail to Thantri Kandararu Rajeevaru in both cases
+    label_hi: कोल्लम सतर्कता अदालत ने दोनों मामलों में तंत्री कंडरारु राजीवरु को ज़मानत दी
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-19]
+  - date: 2026-03-04
+    kind: bail
+    label_en: Former TDB president A. Padmakumar granted statutory bail in the second case (first case bail on 20 February 2026)
+    label_hi: पूर्व TDB अध्यक्ष ए. पद्मकुमार को दूसरे मामले में वैधानिक ज़मानत (पहले मामले में 20 फरवरी 2026 को)
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-20]
+  - date: 2026-06-29
+    kind: other
+    label_en: High Court records SIT finding of "overwhelming materials" against seven persons including former TDB president and a board member
+    label_hi: उच्च न्यायालय ने पूर्व TDB अध्यक्ष और एक बोर्ड सदस्य सहित सात व्यक्तियों के विरुद्ध "प्रचुर साक्ष्य" का SIT निष्कर्ष दर्ज किया
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-03]
+  - date: 2026-07-20
+    kind: other
+    label_en: High Court notes CSIR-NML final report received on 6 July 2026; door-frame investigation substantially complete
+    label_hi: उच्च न्यायालय ने CSIR-NML की अंतिम रिपोर्ट 6 जुलाई 2026 को प्राप्त होना दर्ज किया; चौखट जांच लगभग पूरी
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-04]
+  - date: 2026-07-23
+    kind: arrest
+    label_en: SIT arrests former TDB president P.S. Prasanth and former member A. Ajikumar; 14-day remand
+    label_hi: SIT ने पूर्व TDB अध्यक्ष पी.एस. प्रशांत और पूर्व सदस्य ए. अजिकुमार को गिरफ्तार किया; 14 दिन का रिमांड
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-22, tdb-src-23]
+  - date: 2026-09-03
+    kind: bail
+    label_en: Kollam Vigilance Court grants P.S. Prasanth bail on medical grounds; High Court directs door-frame final report by 25 September 2026, next hearing 7 October 2026
+    label_hi: कोल्लम सतर्कता अदालत ने पी.एस. प्रशांत को चिकित्सीय आधार पर ज़मानत दी; उच्च न्यायालय ने चौखट अंतिम रिपोर्ट 25 सितंबर 2026 तक दाखिल करने का निर्देश दिया, अगली सुनवाई 7 अक्टूबर 2026
+    case_id: tdb-sabarimala-dwarapalaka-gold-2025
+    source_ids: [tdb-src-24, tdb-src-25]
+
+relationships: []

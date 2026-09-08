@@ -651,8 +651,8 @@ claims:
     date: 2025-10-08
     source_ids: [rampal-src-19]
   - id: rampal-claim-16
-    statement_en: On 10 September 2017 the Akhil Bharatiya Akhara Parishad released a list of names it described as "fake babas" that included Rampal, then in Hisar jail awaiting trial.
-    statement_hi: 10 सितंबर 2017 को अखिल भारतीय अखाड़ा परिषद ने नामों की एक सूची जारी की, जिसे उसने "फ़र्ज़ी बाबाओं" की सूची कहा, और जिसमें उस समय हिसार जेल में विचाराधीन रामपाल का नाम शामिल था।
+    statement_en: On 10 September 2017 the Akhil Bharatiya Akhara Parishad, the apex body of Hindu akharas, released a list of 14 religious figures it asked governments to act against, and Rampal, then in Hisar jail awaiting trial, was among the names.
+    statement_hi: 10 सितंबर 2017 को हिंदू अखाड़ों की शीर्ष संस्था अखिल भारतीय अखाड़ा परिषद ने 14 धार्मिक व्यक्तियों की एक सूची जारी की जिनके विरुद्ध उसने सरकारों से कार्रवाई की माँग की, और उस समय हिसार जेल में विचाराधीन रामपाल का नाम उनमें शामिल था।
     tier: allegation
     date: 2017-09-10
     source_ids: [rampal-src-08]
