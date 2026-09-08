@@ -5,7 +5,8 @@ import { getDict, isLang, pick, type Lang } from "@/i18n";
 import { getEntityFull } from "@/lib/queries";
 import { TierBadge } from "@/components/TierBadge";
 import { SourceRefs } from "@/components/SourceRef";
-import { fmtDate, country } from "@/lib/fmt";
+import { OverviewStrip } from "@/components/OverviewStrip";
+import { fmtDate, fmtDayMonth, groupByYear, country } from "@/lib/fmt";
 
 type Props = { params: Promise<{ lang: string; slug: string }> };
 
@@ -62,6 +63,8 @@ export default async function Record({ params }: Props) {
         {(e.born || e.died) && <><dt>{lang === "hi" ? "जन्म / मृत्यु" : "Born / died"}</dt><dd className="tnum">{fmtDate(e.born, lang)}{e.died ? ` – ${fmtDate(e.died, lang)}` : ""}</dd></>}
         <dt>{t.entity.updated}</dt><dd className="tnum">{fmtDate(e.updatedAt.slice(0, 10), lang)}</dd>
       </dl>
+
+      <OverviewStrip cases={cases} sourcesTotal={sources.length} sourcesArchived={sources.filter((s) => s.archiveUrl).length} lang={lang} t={t} />
 
       {isNoRecord && (
         <section className="mt-12">
@@ -139,12 +142,17 @@ export default async function Record({ params }: Props) {
         <section className="mt-12">
           <h2>{t.entity.timeline}</h2>
           <div className="mt-4">
-            {events.map((ev) => (
-              <div key={ev.id} className="row text-[13px]">
-                <div className="tnum muted">{fmtDate(ev.date, lang)}</div>
-                <div>
-                  {pick(lang, ev.labelEn, ev.labelHi)}{" "}
-                  <SourceRefs ids={d.eventSources.get(ev.id) ?? []} index={index} lang={lang} />
+            {groupByYear(events.map((ev) => ({ ...ev, date: ev.date }))).map(([year, evs]) => (
+              <div key={year} className="row text-[13px]">
+                <div className="tnum muted">{year}</div>
+                <div className="space-y-1.5">
+                  {evs.map((ev) => (
+                    <div key={ev.id}>
+                      {fmtDayMonth(ev.date, lang) && <span className="faint tnum mr-2">{fmtDayMonth(ev.date, lang)}</span>}
+                      {pick(lang, ev.labelEn, ev.labelHi)}{" "}
+                      <SourceRefs ids={d.eventSources.get(ev.id) ?? []} index={index} lang={lang} />
+                    </div>
+                  ))}
                 </div>
               </div>
             ))}

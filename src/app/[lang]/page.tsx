@@ -3,7 +3,9 @@ import { getDict, isLang, type Lang } from "@/i18n";
 import { listSubjects, stats } from "@/lib/queries";
 import { SearchBox } from "@/components/SearchBox";
 import { EntityRow } from "@/components/EntityRow";
+import { CountBars } from "@/components/CountBars";
 import { ADVERSE_TIERS } from "@/lib/tiers";
+import { country } from "@/lib/fmt";
 
 export default async function Home({ params }: { params: Promise<{ lang: string }> }) {
   const { lang: l } = await params;
@@ -11,6 +13,15 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
   const t = getDict(lang);
   const [adverse, noRecord, s] = await Promise.all([listSubjects({ adverse: true }), listSubjects({ adverse: false }), stats()]);
   const adverseCount = ADVERSE_TIERS.reduce((n, tier) => n + (s.byTier[tier] ?? 0), 0);
+
+  const tierRows = ADVERSE_TIERS.map((tier) => ({
+    key: tier, label: (t.tiers as Record<string, string>)[tier], n: s.byTier[tier] ?? 0, href: `/${lang}/records?tier=${tier}`,
+  }));
+  const countryRows = s.countries
+    .filter((c) => c.n > 0)
+    .sort((a, b) => b.n - a.n)
+    .slice(0, 8)
+    .map((c) => ({ key: c.country, label: country(c.country), n: c.n }));
 
   return (
     <div>
@@ -21,13 +32,26 @@ export default async function Home({ params }: { params: Promise<{ lang: string 
 
       <section className="grid grid-cols-2 md:grid-cols-4 gap-y-8 py-8 rule">
         {[
-          [adverseCount, t.common.records], [s.cases, t.common.cases], [s.claims, t.common.claims], [`${s.archived}/${s.sources}`, t.common.sources + (lang === "en" ? " archived" : " संग्रहीत")],
+          [adverseCount, t.common.records], [s.cases, t.common.cases], [s.claims, t.common.claims], [`${s.archived}/${s.sources}`, t.home.sources_archived],
         ].map(([n, label]) => (
           <div key={String(label)}>
             <div className="text-[28px] tnum leading-none">{n}</div>
             <div className="label mt-2">{label}</div>
           </div>
         ))}
+      </section>
+
+      <section className="mt-12 grid gap-x-16 gap-y-10 md:grid-cols-2">
+        <div>
+          <h2>{t.home.stats}</h2>
+          <CountBars rows={tierRows} />
+        </div>
+        {countryRows.length > 1 && (
+          <div>
+            <h2>{t.home.jurisdictions}</h2>
+            <CountBars rows={countryRows} />
+          </div>
+        )}
       </section>
 
       <section className="mt-14">

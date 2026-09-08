@@ -1,0 +1,211 @@
+id: premananda-tiruchi
+type: person
+is_subject: true
+name_en: Premananda
+name_hi: प्रेमानंद
+aliases: [Swami Premananda, Prem Kumar, Premananda alias Prem Kumar alias Ravi, Trichy Sai Baba]
+born: 1951-11-17
+died: 2011-02-21
+base_location: Fathima Nagar, Tiruchirappalli, Tamil Nadu
+country: IN
+countries_of_operation: [IN, LK]
+organisations: [Premananda Ashram (Boopalakrishna Ashram)]
+activity_status: deceased
+abap_2017_list: false
+summary_en: >
+  Premananda (Prem Kumar), a Sri Lanka-born ashram head who ran the Premananda Ashram at
+  Fathima Nagar near Tiruchirappalli, was tried before the Sessions Court, Pudukkottai in
+  S.C. No.7 of 1996 on charges of raping thirteen ashram girls between 1990 and 1994 and of
+  murdering a disciple, Ravi, in April 1991. In 1997 the trial court convicted him and
+  sentenced him to two consecutive terms of life imprisonment along with lesser sentences on
+  related counts. The Madras High Court dismissed his appeal on 12 December 2002 and the
+  Supreme Court of India dismissed his final appeal on 5 April 2005, confirming the
+  conviction and directing that no future remission or amnesty order apply to his sentence.
+  He died in custody at a private hospital in Chennai on 21 February 2011 while serving the
+  sentence, having been admitted for treatment of liver failure.
+summary_hi: >
+  श्रीलंका में जन्मे प्रेमानंद (प्रेम कुमार), जो तिरुचिरापल्ली के निकट फातिमा नगर स्थित प्रेमानंद
+  आश्रम के प्रमुख थे, पर पुदुक्कोट्टई सत्र न्यायालय में एस.सी. संख्या 7/1996 के तहत 1990 से 1994 के
+  बीच आश्रम की तेरह लड़कियों के बलात्कार और अप्रैल 1991 में अनुयायी रवि की हत्या के आरोप में मुकदमा
+  चला। 1997 में विचारण न्यायालय ने उन्हें दोषी ठहराया और दो लगातार आजीवन कारावास की सज़ा के साथ अन्य
+  संबंधित आरोपों में भी सज़ा सुनाई। मद्रास उच्च न्यायालय ने 12 दिसंबर 2002 को उनकी अपील खारिज की और
+  भारत के सर्वोच्च न्यायालय ने 5 अप्रैल 2005 को अंतिम अपील खारिज कर दोषसिद्धि की पुष्टि की तथा निर्देश
+  दिया कि भविष्य में कोई छूट या क्षमा आदेश उनकी सज़ा पर लागू नहीं होगा। सज़ा भुगतते हुए 21 फरवरी 2011 को
+  चेन्नई के एक निजी अस्पताल में हिरासत के दौरान उनकी मृत्यु हो गई, जहाँ उन्हें लिवर फेल होने के इलाज के
+  लिए भर्ती कराया गया था।
+hi_reviewed: false
+
+sources:
+  - id: premananda-src-01
+    url: https://indiankanoon.org/doc/192852/
+    title: Kamalanantha And Ors vs State Of Tamil Nadu on 5 April, 2005
+    publisher: Supreme Court of India (via Indian Kanoon)
+    type: court
+    published_at: 2005-04-05
+    language: en
+    archive_url: http://web.archive.org/web/20230623165749/https://indiankanoon.org/doc/192852/
+    captured_at: 2026-09-09
+    sha256:
+    note: >
+      Bench of B.N. Agrawal and H.K. Sema JJ. Appeal (Crl.) 611-612 of 2003 by A-1 (Premananda)
+      and others against concurrent conviction by the Sessions Court and Madras High Court for
+      rape of 13 ashram girls (IPC 376(2)(c), 12 counts, life imprisonment on each count) and
+      the murder of disciple Ravi (IPC 302, life imprisonment), among other counts; dismisses
+      the appeals and directs that no remission or amnesty order apply to the sentences.
+  - id: premananda-src-02
+    url: https://indiankanoon.org/doc/183158209/
+    title: Chandradevi, Kamalanantha, Balan @ ... vs State Of Tamil Nadu By Inspector Of ... on 12 December, 2002
+    publisher: Madras High Court (via Indian Kanoon)
+    type: court
+    published_at: 2002-12-12
+    language: en
+    archive_url: https://web.archive.org/web/20260908142159/https://indiankanoon.org/doc/183158209/
+    captured_at: 2026-09-09
+    sha256:
+    note: >
+      Criminal Appeal Nos. 895, 896 and 897 of 1997, against the judgment of the Sessions
+      Court, Pudukkottai Division, in S.C. No.7 of 1996. Sets out the Sessions Court's
+      conviction of Premananda (A-1) and co-accused under IPC 376(2)(c), 302, 120-B, 343, 354,
+      420, 506(II), 312 and 201, and the sentences of life imprisonment; dismisses the appeals.
+  - id: premananda-src-03
+    url: https://www.thehindu.com/news/national/tamil-nadu/Premananda-passes-away/article15453590.ece
+    title: Premananda passes away
+    publisher: The Hindu (PTI)
+    type: major_outlet
+    published_at: 2011-02-21
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Reports that Premananda, "convicted for rape and murder", serving a double life term,
+      died at a private hospital in Chennai on 21 February 2011 after being admitted for a
+      liver transplant.
+  - id: premananda-src-04
+    url: https://www.outlookindia.com/national/from-holiness-to-horror-arrests-and-life-sentences-for-spiritual-gurus-accused-of-rape-and-murder-news-287482
+    title: "From Holiness To Horror: Arrests And Life Sentences for Spiritual Gurus Accused Of Rape and Murder"
+    publisher: Outlook India
+    type: major_outlet
+    published_at: 2023-05-18
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      States that Premananda received two consecutive life sentences in 1997, upheld by the
+      Madras (Chennai) High Court in 2002 and the Supreme Court in 2005.
+
+cases:
+  - id: premananda-pudukkottai-rape-murder-1994
+    title_en: State v. Premananda and others (Pudukkottai, rape of 13 ashram girls and murder of disciple Ravi)
+    title_hi: राज्य बनाम प्रेमानंद एवं अन्य (पुदुक्कोट्टई, तेरह आश्रम लड़कियों का बलात्कार और अनुयायी रवि की हत्या)
+    jurisdiction_country: IN
+    jurisdiction_region: Tamil Nadu
+    court: Sessions Court, Pudukkottai (trial); Madras High Court (first appeal); Supreme Court of India (final appeal)
+    case_number: S.C. No.7 of 1996 (Sessions Court); Criminal Appeal No. 897 of 1997 (Madras High Court, A-1); Criminal Appeal (Crl.) 611-612 of 2003 (Supreme Court)
+    filed_year: 1994
+    case_type: criminal
+    statutes: ["IPC 376(2)(c)", "IPC 302", "IPC 120-B", "IPC 343", "IPC 354", "IPC 420", "IPC 506(II)", "IPC 312", "IPC 201"]
+    status: convicted; upheld by the Madras High Court in 2002 and the Supreme Court in 2005; Premananda died in custody in 2011
+    tier: convicted
+    verdict_date: 1997-08-20
+    sentence_or_remedy: >
+      Two consecutive terms of life imprisonment (for the 12 counts of rape and for the murder),
+      with cumulative fines reported at about Rs 67.3 lakh and further rigorous imprisonment in
+      default of payment, plus lesser concurrent sentences on the remaining counts; the trial
+      court directed that no remission or amnesty apply to the sentence, a direction the Supreme
+      Court expressly maintained.
+    appeal_status: >
+      Conviction and sentence upheld by the Madras High Court on 12 December 2002 (Crl.A. Nos.
+      895, 896 and 897 of 1997) and by the Supreme Court of India on 5 April 2005 (Crl.A. 611-612
+      of 2003), which was the final appeal; no further appeal is on record. Premananda died in
+      custody on 21 February 2011.
+    summary_en: >
+      A news report in The Indian Express of 15 November 1994 followed by a complaint from a
+      former ashram inmate, Sureshkumari, led to the registration of a case against Premananda,
+      the head of the Premananda Ashram at Fathima Nagar near Tiruchirappalli, and six associates.
+      The prosecution's case, tried as S.C. No.7 of 1996 before the Sessions Court, Pudukkottai,
+      was that between 1990 and 1994 Premananda raped 13 girls resident in the ashram, most of
+      them orphans he had brought from Sri Lanka as children, and that in April 1991 he and
+      co-accused beat and then confined a disciple, Ravi, without food or water after Ravi
+      accused Premananda of the rapes; Ravi died of his injuries and was buried in the ashram
+      without the death being reported. In 1997 the Sessions Court convicted Premananda under
+      IPC 376(2)(c) (12 counts), 302, 120-B and other sections and sentenced him to two
+      consecutive terms of life imprisonment. The Madras High Court dismissed his appeal on 12
+      December 2002, and the Supreme Court dismissed his final appeal on 5 April 2005, holding
+      that a DNA test on a foetus aborted by one victim had established Premananda's paternity
+      "beyond reasonable doubt" and that the concurrent findings of the two courts below did not
+      warrant interference. He died in custody at a private hospital in Chennai on 21 February
+      2011, while serving the sentence.
+    summary_hi: >
+      15 नवंबर 1994 को द इंडियन एक्सप्रेस में छपी एक रिपोर्ट और उसके बाद पूर्व आश्रम निवासी सुरेशकुमारी
+      की शिकायत के आधार पर तिरुचिरापल्ली के निकट फातिमा नगर स्थित प्रेमानंद आश्रम के प्रमुख प्रेमानंद
+      और छह सहयोगियों के विरुद्ध मामला दर्ज हुआ। पुदुक्कोट्टई सत्र न्यायालय में एस.सी. संख्या 7/1996 के
+      रूप में चले इस मुकदमे में अभियोजन पक्ष का मामला था कि 1990 से 1994 के बीच प्रेमानंद ने आश्रम में
+      रहने वाली 13 लड़कियों के साथ बलात्कार किया, जिनमें से अधिकांश श्रीलंका से लाए गए अनाथ थे, और अप्रैल
+      1991 में उन्होंने और सह-अभियुक्तों ने अनुयायी रवि को पीटा और भोजन-पानी के बिना बंद रखा, क्योंकि रवि
+      ने प्रेमानंद पर बलात्कार का आरोप लगाया था; रवि की चोटों से मृत्यु हो गई और उसे बिना सूचना दिए आश्रम
+      में ही दफना दिया गया। 1997 में सत्र न्यायालय ने प्रेमानंद को आईपीसी 376(2)(सी) (12 मामले), 302,
+      120-बी और अन्य धाराओं में दोषी ठहराया और दो लगातार आजीवन कारावास की सज़ा सुनाई। मद्रास उच्च
+      न्यायालय ने 12 दिसंबर 2002 को उनकी अपील खारिज की, और सर्वोच्च न्यायालय ने 5 अप्रैल 2005 को अंतिम
+      अपील खारिज करते हुए कहा कि एक पीड़िता के गर्भपात किए गए भ्रूण की डीएनए जांच से प्रेमानंद का पितृत्व
+      "संदेह से परे" सिद्ध हो चुका है और दोनों निचली अदालतों के समवर्ती निष्कर्षों में हस्तक्षेप की
+      आवश्यकता नहीं। सज़ा भुगतते हुए 21 फरवरी 2011 को चेन्नई के एक निजी अस्पताल में हिरासत के दौरान
+      उनकी मृत्यु हो गई।
+    source_ids: [premananda-src-01, premananda-src-02, premananda-src-03, premananda-src-04]
+
+claims:
+  - id: premananda-claim-01
+    case_id: premananda-pudukkottai-rape-murder-1994
+    statement_en: In 1997 the Sessions Court, Pudukkottai convicted Premananda under IPC 376(2)(c) on 12 counts of rape and under IPC 302 for the murder of disciple Ravi, and sentenced him to two consecutive terms of life imprisonment with cumulative fines reported at about Rs 67.3 lakh.
+    statement_hi: 1997 में पुदुक्कोट्टई सत्र न्यायालय ने प्रेमानंद को आईपीसी 376(2)(सी) के तहत बलात्कार के 12 मामलों और आईपीसी 302 के तहत अनुयायी रवि की हत्या के लिए दोषी ठहराया, और दो लगातार आजीवन कारावास की सज़ा सुनाई जिसके साथ कुल मिलाकर लगभग 67.3 लाख रुपये जुर्माना भी लगाया गया।
+    tier: convicted
+    date: 1997-08-20
+    source_ids: [premananda-src-02, premananda-src-01, premananda-src-04]
+  - id: premananda-claim-02
+    case_id: premananda-pudukkottai-rape-murder-1994
+    statement_en: On 12 December 2002 the Madras High Court, in Criminal Appeal Nos. 895, 896 and 897 of 1997, dismissed Premananda's and his co-accused's appeals and upheld the Sessions Court's conviction and sentence.
+    statement_hi: 12 दिसंबर 2002 को मद्रास उच्च न्यायालय ने आपराधिक अपील संख्या 895, 896 और 897/1997 में प्रेमानंद और सह-अभियुक्तों की अपीलें खारिज कर सत्र न्यायालय की दोषसिद्धि और सज़ा को बरकरार रखा।
+    tier: convicted
+    date: 2002-12-12
+    source_ids: [premananda-src-02]
+  - id: premananda-claim-03
+    case_id: premananda-pudukkottai-rape-murder-1994
+    statement_en: On 5 April 2005 the Supreme Court of India, in Criminal Appeal (Crl.) 611-612 of 2003, dismissed Premananda's final appeal, holding that the concurrent findings of the trial court and the Madras High Court did not warrant interference, and directed that no remission of sentence or amnesty announced by the Central or State Government apply to his imprisonment.
+    statement_hi: 5 अप्रैल 2005 को भारत के सर्वोच्च न्यायालय ने आपराधिक अपील (सीआरएल.) 611-612/2003 में प्रेमानंद की अंतिम अपील खारिज करते हुए कहा कि विचारण न्यायालय और मद्रास उच्च न्यायालय के समवर्ती निष्कर्षों में हस्तक्षेप की आवश्यकता नहीं है, और निर्देश दिया कि केंद्र या राज्य सरकार द्वारा घोषित कोई भी छूट या क्षमा उनकी सज़ा पर लागू नहीं होगी।
+    tier: convicted
+    date: 2005-04-05
+    source_ids: [premananda-src-01]
+  - id: premananda-claim-04
+    case_id: premananda-pudukkottai-rape-murder-1994
+    statement_en: Premananda died in custody at a private hospital in Chennai on 21 February 2011, while serving his sentence, after being admitted for treatment of liver failure.
+    statement_hi: सज़ा भुगतते हुए 21 फरवरी 2011 को चेन्नई के एक निजी अस्पताल में हिरासत के दौरान प्रेमानंद की मृत्यु हो गई, जहाँ उन्हें लिवर फेल होने के इलाज के लिए भर्ती कराया गया था।
+    tier: convicted
+    date: 2011-02-21
+    source_ids: [premananda-src-03]
+
+events:
+  - date: 1997-08-20
+    kind: verdict
+    label_en: Convicted by the Sessions Court, Pudukkottai and sentenced to two consecutive life terms
+    label_hi: पुदुक्कोट्टई सत्र न्यायालय द्वारा दोषी ठहराए गए और दो लगातार आजीवन कारावास की सज़ा
+    case_id: premananda-pudukkottai-rape-murder-1994
+    source_ids: [premananda-src-02, premananda-src-04]
+  - date: 2002-12-12
+    kind: appeal
+    label_en: Madras High Court dismisses appeal and upholds conviction
+    label_hi: मद्रास उच्च न्यायालय ने अपील खारिज कर दोषसिद्धि बरकरार रखी
+    case_id: premananda-pudukkottai-rape-murder-1994
+    source_ids: [premananda-src-02]
+  - date: 2005-04-05
+    kind: appeal
+    label_en: Supreme Court of India dismisses final appeal and upholds conviction
+    label_hi: भारत के सर्वोच्च न्यायालय ने अंतिम अपील खारिज कर दोषसिद्धि बरकरार रखी
+    case_id: premananda-pudukkottai-rape-murder-1994
+    source_ids: [premananda-src-01]
+  - date: 2011-02-21
+    kind: death
+    label_en: Dies in custody at a private hospital in Chennai
+    label_hi: चेन्नई के एक निजी अस्पताल में हिरासत के दौरान मृत्यु
+    case_id: premananda-pudukkottai-rape-murder-1994
+    source_ids: [premananda-src-03]

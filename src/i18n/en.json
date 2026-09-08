@@ -6,7 +6,9 @@
     "search_placeholder": "Search a name, alias or organisation",
     "recent": "Recently updated records",
     "no_record_section": "Checked, no adverse record found",
-    "stats": "The record in numbers"
+    "stats": "The record in numbers",
+    "jurisdictions": "Jurisdictions",
+    "sources_archived": "Sources archived"
   },
   "tiers": {
     "convicted": "Convicted",

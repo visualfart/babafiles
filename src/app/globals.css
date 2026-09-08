@@ -32,7 +32,14 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoratio
 .muted { color: var(--ink-2); }
 .faint { color: var(--ink-3); }
 .measure { max-width: var(--measure); }
-.tnum { font-variant-numeric: tabular-nums; }
+.tnum { font-variant-numeric: tabular-nums; font-family: var(--font-mono), ui-monospace, monospace; }
+
+/* Hindi pages: a real Devanagari typeface instead of the mono font's fallback glyphs.
+   Numerals, the brand mark and citation numbers stay on the mono face via .tnum/.brand. */
+[lang="hi"] {
+  font-family: var(--font-deva), "Noto Sans Devanagari", "Nirmala UI", system-ui, sans-serif;
+}
+.brand { font-family: var(--font-mono), ui-monospace, monospace; }
 
 h1 { font-size: 28px; line-height: 1.2; font-weight: 500; letter-spacing: -0.01em; }
 h2 { font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 500; color: var(--ink-2); }
