@@ -1,0 +1,286 @@
+id: shri-saibaba-sansthan-trust
+type: temple_trust
+is_subject: true
+name_en: Shri Saibaba Sansthan Trust, Shirdi
+name_hi: श्री साईंबाबा संस्थान ट्रस्ट, शिरडी
+aliases: [Shirdi Sai Baba Sansthan Trust, Shree Sai Baba Sansthan Trust]
+base_location: Shirdi, Ahmednagar district, Maharashtra
+country: IN
+countries_of_operation: [IN]
+organisations: []
+activity_status: active
+abap_2017_list: false
+summary_en: >
+  The Shri Saibaba Sansthan Trust administers the Sai Baba temple at Shirdi, Maharashtra,
+  under the Shri Saibaba Sansthan Trust (Shirdi) Act. Its management committee has repeatedly
+  come under the Bombay High Court's Aurangabad Bench's supervision after successive state
+  governments appointed committees seen as politically constituted: the court itself
+  constituted an interim committee of the Ahmednagar principal district judge, the district
+  collector and the trust's CEO in 2012 and empowered it to administer the trust on 9 October
+  2019; it restrained a September 2021 state-appointed committee headed by an NCP legislator
+  from taking policy decisions; and on 13 September 2022 it quashed that committee's
+  appointment and directed the state to constitute a fresh one within eight weeks, holding
+  that trustee appointments serve the public interest of devotees and not the ruling party.
+  Litigation over the committee's composition, filed by petitioner Uttamrao Rambhaji Shelke,
+  has continued in the same proceeding in subsequent years. Separately, the Bombay High Court
+  upheld, on 8 October 2024, an Income Tax Appellate Tribunal ruling that the trust is exempt
+  from tax on Rs 159.12 crore in anonymous ("hundi") donations because it is both a religious
+  and a charitable institution. No CAG or state audit report, and no FIR relating to donations
+  or contracts with a confirmed legal outcome, could be verified on the record available.
+summary_hi: >
+  श्री साईंबाबा संस्थान ट्रस्ट श्री साईंबाबा संस्थान ट्रस्ट (शिरडी) अधिनियम के तहत महाराष्ट्र के
+  शिरडी स्थित साईं बाबा मंदिर का प्रशासन करता है। इसकी प्रबंध समिति बार-बार बॉम्बे उच्च न्यायालय
+  की औरंगाबाद खंडपीठ की निगरानी में आई है, क्योंकि राज्य की क्रमिक सरकारों ने ऐसी समितियाँ नियुक्त
+  कीं जिन्हें राजनीतिक रूप से गठित माना गया: न्यायालय ने स्वयं 2012 में अहमदनगर के प्रधान ज़िला
+  न्यायाधीश, ज़िला कलेक्टर और ट्रस्ट के सीईओ की एक अंतरिम समिति गठित की और 9 अक्टूबर 2019 को उसे
+  ट्रस्ट का प्रशासन करने हेतु सशक्त किया; सितंबर 2021 में राज्य द्वारा नियुक्त एक एनसीपी विधायक के
+  नेतृत्व वाली समिति को नीतिगत निर्णय लेने से रोका; और 13 सितंबर 2022 को उस समिति की नियुक्ति रद्द
+  कर राज्य को आठ हफ्तों में नई समिति गठित करने का निर्देश दिया, यह कहते हुए कि न्यासी नियुक्तियाँ
+  भक्तों के जनहित के लिए हैं, सत्तारूढ़ पार्टी के लिए नहीं। याचिकाकर्ता उत्तमराव रामभाजी शेल्के द्वारा
+  दायर समिति की संरचना संबंधी मुकदमेबाज़ी उसी कार्यवाही में आगे के वर्षों में भी जारी रही। इससे अलग,
+  बॉम्बे उच्च न्यायालय ने 8 अक्टूबर 2024 को आयकर अपीलीय अधिकरण के उस निर्णय को बरकरार रखा जिसमें
+  ट्रस्ट को 159.12 करोड़ रुपये की गुमनाम ("हुंडी") दान राशि पर कर छूट दी गई थी क्योंकि यह एक धार्मिक
+  और धर्मार्थ दोनों संस्था है। उपलब्ध अभिलेख में कोई कैग या राज्य लेखा-परीक्षा रिपोर्ट, और दान या
+  ठेकों से जुड़ी किसी पुष्ट परिणाम वाली एफआईआर की पुष्टि नहीं हो सकी।
+hi_reviewed: false
+
+sources:
+  - id: ssst-src-01
+    url: https://www.mid-day.com/mumbai/mumbai-news/article/Aurangabad-bench-to-hear-PIL-against-Shirdi-Trust-s-new-panel-17496199
+    title: Aurangabad bench to hear PIL against Shirdi Trust's new panel
+    publisher: Mid-Day
+    type: major_outlet
+    published_at: 2016-08-04
+    language: en
+    archive_url: https://web.archive.org/web/20260908153004/https://www.mid-day.com/mumbai/mumbai-news/article/Aurangabad-bench-to-hear-PIL-against-Shirdi-Trust-s-new-panel-17496199
+    captured_at: 2026-09-09
+    sha256:
+    note: >
+      Bombay High Court (bench headed by Justice V.M. Kanade) transferred to its Aurangabad
+      bench a PIL challenging the state government's appointment of a new managing committee
+      to run the Shirdi Sai Baba Trust, alleging appointees had political affiliations and
+      criminal antecedents; clubbed with a similar pending matter at Aurangabad.
+  - id: ssst-src-02
+    url: https://www.freepressjournal.in/mumbai/mumbai-hc-restrains-new-committee-of-shirdi-temple-trust-from-taking-policy-decisions
+    title: "Mumbai: HC restrains new committee of Shirdi temple trust from taking policy decisions"
+    publisher: The Free Press Journal
+    type: major_outlet
+    published_at: 2021-09-23
+    language: en
+    archive_url: http://web.archive.org/web/20221005055420/https://www.freepressjournal.in/mumbai/mumbai-hc-restrains-new-committee-of-shirdi-temple-trust-from-taking-policy-decisions
+    captured_at: 2026-09-09
+    sha256:
+    note: >
+      Agencies. Aurangabad Bench (Justices R.V. Ghuge and S.G. Mehare) restrained the
+      Maharashtra government's 16 September 2021 committee, headed by NCP MLA Ashutosh Kale,
+      from taking policy decisions, sanctioning expenditure or making appointments. Records
+      that a committee of the Ahmednagar principal district judge, district collector and
+      Sansthan CEO had been appointed by the court in 2012, and that on 9 October 2019 the
+      court had "empowered the Committee to administer the Sansthan"; petitioner Uttamrao
+      Shelke's PIL on the trust's functioning is described as filed roughly ten years earlier.
+  - id: ssst-src-03
+    url: https://www.barandbench.com/news/litigation/sai-baba-sansthan-trust-appointment-of-trustees-for-public-interest-of-devotees-not-private-interest-of-ruling-party-bombay-high-court
+    title: "[Sai Baba Sansthan Trust] Appointment of trustees for public interest of devotees, not private interest of ruling party: Bombay High Court"
+    publisher: Bar & Bench
+    type: major_outlet
+    published_at: 2022-09-13
+    language: en
+    archive_url: https://web.archive.org/web/20260908153111/https://www.barandbench.com/news/litigation/sai-baba-sansthan-trust-appointment-of-trustees-for-public-interest-of-devotees-not-private-interest-of-ruling-party-bombay-high-court
+    captured_at: 2026-09-09
+    sha256:
+    note: >
+      By Neha Joshi. Uttamrao Rambhaji Shelke & Ors. v. State of Maharashtra & Ors. and
+      connected pleas; the Aurangabad Bench (Justices R.D. Dhanuka and S.G. Mehare) cancelled
+      the September 2021 committee's appointment and directed the state to constitute a new
+      committee within 8 weeks, holding that trustee appointments serve the public interest of
+      devotees, not the ruling government's political interest.
+  - id: ssst-src-04
+    url: https://indiankanoon.org/search/?formInput=Uttamrao%20Rambhaji%20Shelke
+    title: "Search results: Uttamrao Rambhaji Shelke vs The State Of Maharashtra And Others"
+    publisher: Bombay High Court (indexed by Indian Kanoon)
+    type: court
+    published_at: 2022-09-13
+    language: en
+    archive_url: https://web.archive.org/web/20260908145833/https://indiankanoon.org/search/?formInput=Uttamrao%20Rambhaji%20Shelke
+    captured_at: 2026-09-09
+    sha256:
+    note: >
+      Indian Kanoon's index confirms the judgment "Uttamrao Rambhaji Shelke vs The State Of
+      Maharashtra And Others on 13 September, 2022" (author R.D. Dhanuka; bench R.D. Dhanuka
+      and S.G. Mehare; "ALONG WITH CIVIL APPLICATION NO.11973 OF 2021"), along with the same
+      petitioner's earlier PIL No. 98 of 2021 (14 October 2021 order, bench Ghuge and Mehare)
+      and PIL No. 120 of 2019 (9 October 2019 order, bench Varale and Gharote), corroborating
+      the Bar & Bench and Free Press Journal reporting. The full text of the 13 September 2022
+      order could not be retrieved (Indian Kanoon's document view did not return the correct
+      document on repeated attempts); this citation rests on the search index's excerpted text
+      of the judgment together with the news reporting above.
+  - id: ssst-src-05
+    url: https://www.barandbench.com/news/bombay-high-court-rules-sai-baba-sansthan-trust-eligible-income-tax-exemption-anonymous-donations
+    title: Bombay High Court rules Sai Baba Sansthan Trust eligible for Income Tax exemption on anonymous donations
+    publisher: Bar & Bench
+    type: major_outlet
+    published_at: 2024-10-09
+    language: en
+    archive_url: https://web.archive.org/web/20260908153136/https://www.barandbench.com/news/bombay-high-court-rules-sai-baba-sansthan-trust-eligible-income-tax-exemption-anonymous-donations
+    captured_at: 2026-09-09
+    sha256:
+    note: >
+      By Sahyaja MS. Commissioner of Income Tax v. Shree Sai Baba Sansthan Trust. The Bombay
+      High Court (Justices G.S. Kulkarni and Somasekhar Sundaresan) upheld an ITAT order (25
+      October 2023) that Rs 159.12 crore in anonymous "hundi" donations received across
+      assessment years 2015-16, 2017-18 and 2018-19 is exempt from tax under section
+      115BBC(2)(b) of the Income Tax Act, holding the trust is both a religious and a
+      charitable institution.
+
+cases:
+  - id: shirdi-saibaba-sansthan-management-committee-pil
+    title_en: Uttamrao Rambhaji Shelke v. State of Maharashtra and others (PIL on the trust's management committee)
+    title_hi: उत्तमराव रामभाजी शेल्के बनाम महाराष्ट्र राज्य एवं अन्य (ट्रस्ट की प्रबंध समिति संबंधी जनहित याचिका)
+    jurisdiction_country: IN
+    jurisdiction_region: Maharashtra
+    court: Bombay High Court, Aurangabad Bench
+    case_number: Public Interest Litigation No. 98 of 2021, with Civil Application No. 11973 of 2021 (earlier proceedings from PIL No. 120 of 2019 and a committee constituted by the court in 2012)
+    filed_year: 2021
+    case_type: charity_regulator
+    statutes: [Shri Saibaba Sansthan Trust (Shirdi) Act]
+    status: 13 September 2022 order quashed the state's September 2021 committee appointment and directed a fresh committee within 8 weeks; litigation over the committee's composition continued in the same proceeding in later years
+    tier: closed
+    verdict_date: 2022-09-13
+    sentence_or_remedy: >
+      Cancelled the September 2021 committee's appointment; directed the State of Maharashtra
+      to constitute a new managing committee within eight weeks; held that appointment of
+      trustees to a religious trust serves the public interest of devotees, not the private
+      interest of the ruling government to accommodate party workers or politicians.
+    appeal_status: >
+      No appeal against the 13 September 2022 order was found; the same PIL (No. 98 of 2021)
+      continued to generate further orders on the committee's composition in subsequent years
+      (matters listed as recently as July 2025), the details of which were not verified for
+      this record.
+    summary_en: >
+      Petitioner Uttamrao Rambhaji Shelke has pursued public interest litigation over the
+      Shirdi trust's management committee for over a decade. The Bombay High Court had itself
+      constituted an interim committee, of the Ahmednagar principal district judge, the
+      district collector and the trust's CEO, in 2012, and on 9 October 2019 (PIL No. 120 of
+      2019) empowered that committee to administer the trust. After the Maharashtra government
+      appointed a new committee headed by an NCP legislator on 16 September 2021 without the
+      court's approval, the Aurangabad Bench restrained it, on 21 September 2021, from taking
+      policy decisions, sanctioning expenditure or making appointments. On 13 September 2022, a
+      Division Bench of Justices R.D. Dhanuka and S.G. Mehare (in PIL No. 98 of 2021, with
+      Civil Application No. 11973 of 2021) quashed that committee's appointment altogether and
+      directed the state to constitute a fresh committee within eight weeks, holding that
+      trustee appointments to a religious trust are for the public interest of devotees and not
+      to reward political workers.
+    summary_hi: >
+      याचिकाकर्ता उत्तमराव रामभाजी शेल्के एक दशक से अधिक समय से शिरडी ट्रस्ट की प्रबंध समिति को
+      लेकर जनहित याचिका चला रहे हैं। बॉम्बे उच्च न्यायालय ने स्वयं 2012 में अहमदनगर के प्रधान
+      ज़िला न्यायाधीश, ज़िला कलेक्टर और ट्रस्ट के सीईओ की एक अंतरिम समिति गठित की थी, और 9 अक्टूबर
+      2019 (जनहित याचिका संख्या 120/2019) को उस समिति को ट्रस्ट का प्रशासन करने हेतु सशक्त किया।
+      महाराष्ट्र सरकार द्वारा 16 सितंबर 2021 को न्यायालय की अनुमति के बिना एक एनसीपी विधायक के
+      नेतृत्व वाली नई समिति नियुक्त किए जाने के बाद, औरंगाबाद खंडपीठ ने 21 सितंबर 2021 को उसे
+      नीतिगत निर्णय लेने, व्यय स्वीकृत करने या नियुक्तियाँ करने से रोका। 13 सितंबर 2022 को
+      न्यायमूर्ति आर.डी. धनुका और एस.जी. मेहरे की खंडपीठ ने (जनहित याचिका संख्या 98/2021 में,
+      सिविल आवेदन संख्या 11973/2021 सहित) उस समिति की नियुक्ति पूरी तरह रद्द कर राज्य को आठ हफ्तों
+      में नई समिति गठित करने का निर्देश दिया, यह कहते हुए कि धार्मिक ट्रस्ट में न्यासी नियुक्तियाँ
+      भक्तों के जनहित के लिए हैं, राजनीतिक कार्यकर्ताओं को पुरस्कृत करने के लिए नहीं।
+    source_ids: [ssst-src-01, ssst-src-02, ssst-src-03, ssst-src-04]
+
+  - id: shirdi-saibaba-sansthan-income-tax-anonymous-donations
+    title_en: Commissioner of Income Tax v. Shree Sai Baba Sansthan Trust (tax exemption on anonymous donations)
+    title_hi: आयकर आयुक्त बनाम श्री साईं बाबा संस्थान ट्रस्ट (गुमनाम दान पर कर छूट)
+    jurisdiction_country: IN
+    jurisdiction_region: Maharashtra
+    court: Bombay High Court
+    case_number: Not on record (appeal from ITAT order of 25 October 2023)
+    filed_year: 2023
+    case_type: charity_regulator
+    statutes: ["Income Tax Act 1961, s.115BBC(2)(b)"]
+    status: Income Tax Department's appeal dismissed; ITAT's exemption order upheld
+    tier: closed
+    verdict_date: 2024-10-08
+    sentence_or_remedy: Upheld the trust's tax exemption on Rs 159.12 crore in anonymous donations for assessment years 2015-16, 2017-18 and 2018-19
+    appeal_status: Not on record
+    summary_en: >
+      The Income Tax Department challenged an Income Tax Appellate Tribunal order of 25 October
+      2023 that had held the trust exempt, under section 115BBC(2)(b) of the Income Tax Act,
+      from tax on Rs 159.12 crore in anonymous ("hundi") donations received across assessment
+      years 2015-16, 2017-18 and 2018-19. On 8 October 2024 a Bombay High Court bench of
+      Justices G.S. Kulkarni and Somasekhar Sundaresan dismissed the department's appeal,
+      holding that the trust is both a religious and a charitable institution and so entitled
+      to the exemption.
+    summary_hi: >
+      आयकर विभाग ने आयकर अपीलीय अधिकरण के 25 अक्टूबर 2023 के उस आदेश को चुनौती दी थी जिसमें ट्रस्ट
+      को आयकर अधिनियम की धारा 115बीबीसी(2)(बी) के तहत आकलन वर्ष 2015-16, 2017-18 और 2018-19 में
+      प्राप्त 159.12 करोड़ रुपये की गुमनाम ("हुंडी") दान राशि पर कर से छूट दी गई थी। 8 अक्टूबर 2024
+      को बॉम्बे उच्च न्यायालय के न्यायमूर्ति जी.एस. कुलकर्णी और सोमशेखर सुंदरेशन की पीठ ने विभाग की
+      अपील खारिज कर दी, यह मानते हुए कि ट्रस्ट एक धार्मिक और धर्मार्थ दोनों संस्था है और इसलिए छूट
+      का हक़दार है।
+    source_ids: [ssst-src-05]
+
+claims:
+  - id: ssst-claim-01
+    case_id: shirdi-saibaba-sansthan-management-committee-pil
+    statement_en: In 2012 the Bombay High Court constituted an interim committee, of the Ahmednagar principal district judge, the district collector and the trust's CEO, to administer the Shirdi Saibaba Sansthan Trust, and on 9 October 2019 it empowered that committee to administer the trust.
+    statement_hi: 2012 में बॉम्बे उच्च न्यायालय ने अहमदनगर के प्रधान ज़िला न्यायाधीश, ज़िला कलेक्टर और ट्रस्ट के सीईओ की एक अंतरिम समिति शिरडी साईंबाबा संस्थान ट्रस्ट के प्रशासन हेतु गठित की, और 9 अक्टूबर 2019 को उस समिति को ट्रस्ट का प्रशासन करने हेतु सशक्त किया।
+    tier: closed
+    date: 2019-10-09
+    source_ids: [ssst-src-02, ssst-src-04]
+  - id: ssst-claim-02
+    case_id: shirdi-saibaba-sansthan-management-committee-pil
+    statement_en: On 16 September 2021 the Maharashtra government appointed a new managing committee for the trust, headed by NCP legislator Ashutosh Kale, without the Bombay High Court's approval; a PIL alleged the appointees had political affiliations and criminal antecedents.
+    statement_hi: 16 सितंबर 2021 को महाराष्ट्र सरकार ने बॉम्बे उच्च न्यायालय की अनुमति के बिना ट्रस्ट के लिए एनसीपी विधायक आशुतोष काले के नेतृत्व वाली एक नई प्रबंध समिति नियुक्त की; एक जनहित याचिका में आरोप लगाया गया कि नियुक्त सदस्यों की राजनीतिक संबद्धता और आपराधिक पृष्ठभूमि थी।
+    tier: closed
+    date: 2021-09-16
+    source_ids: [ssst-src-02]
+  - id: ssst-claim-03
+    case_id: shirdi-saibaba-sansthan-management-committee-pil
+    statement_en: On 21 September 2021 the Bombay High Court's Aurangabad Bench (Justices R.V. Ghuge and S.G. Mehare) restrained the newly appointed committee from taking any policy decision, sanctioning expenditure or making appointments until further orders.
+    statement_hi: 21 सितंबर 2021 को बॉम्बे उच्च न्यायालय की औरंगाबाद खंडपीठ (न्यायमूर्ति आर.वी. घुगे और एस.जी. मेहरे) ने नवनियुक्त समिति को अगले आदेश तक कोई नीतिगत निर्णय लेने, व्यय स्वीकृत करने या नियुक्तियाँ करने से रोका।
+    tier: closed
+    date: 2021-09-21
+    source_ids: [ssst-src-02]
+  - id: ssst-claim-04
+    case_id: shirdi-saibaba-sansthan-management-committee-pil
+    statement_en: On 13 September 2022 a Division Bench of the Bombay High Court's Aurangabad Bench quashed the September 2021 committee's appointment and directed the Maharashtra government to constitute a fresh committee within eight weeks, holding that trustee appointments to a religious trust are for the public interest of devotees, not the ruling government's private interest.
+    statement_hi: 13 सितंबर 2022 को बॉम्बे उच्च न्यायालय की औरंगाबाद खंडपीठ ने सितंबर 2021 की समिति की नियुक्ति रद्द कर महाराष्ट्र सरकार को आठ हफ्तों में नई समिति गठित करने का निर्देश दिया, यह मानते हुए कि धार्मिक ट्रस्ट में न्यासी नियुक्तियाँ भक्तों के जनहित के लिए हैं, सत्तारूढ़ सरकार के निजी हित के लिए नहीं।
+    tier: closed
+    date: 2022-09-13
+    source_ids: [ssst-src-03, ssst-src-04]
+  - id: ssst-claim-05
+    case_id: shirdi-saibaba-sansthan-income-tax-anonymous-donations
+    statement_en: On 8 October 2024 the Bombay High Court upheld an Income Tax Appellate Tribunal ruling that the trust is exempt from tax on Rs 159.12 crore in anonymous donations received across three assessment years, because it is both a religious and a charitable institution.
+    statement_hi: 8 अक्टूबर 2024 को बॉम्बे उच्च न्यायालय ने आयकर अपीलीय अधिकरण के उस निर्णय को बरकरार रखा जिसमें ट्रस्ट को तीन आकलन वर्षों में प्राप्त 159.12 करोड़ रुपये की गुमनाम दान राशि पर कर से छूट दी गई थी, क्योंकि यह एक धार्मिक और धर्मार्थ दोनों संस्था है।
+    tier: closed
+    date: 2024-10-08
+    source_ids: [ssst-src-05]
+
+events:
+  - date: 2016-08-04
+    kind: other
+    label_en: Bombay High Court transfers PIL on the trust's managing committee to its Aurangabad Bench
+    label_hi: बॉम्बे उच्च न्यायालय ने ट्रस्ट की प्रबंध समिति संबंधी जनहित याचिका औरंगाबाद खंडपीठ को स्थानांतरित की
+    case_id: shirdi-saibaba-sansthan-management-committee-pil
+    source_ids: [ssst-src-01]
+  - date: 2019-10-09
+    kind: other
+    label_en: Court empowers its 2012-constituted committee to administer the trust
+    label_hi: न्यायालय ने अपनी 2012 में गठित समिति को ट्रस्ट का प्रशासन करने हेतु सशक्त किया
+    case_id: shirdi-saibaba-sansthan-management-committee-pil
+    source_ids: [ssst-src-02, ssst-src-04]
+  - date: 2021-09-21
+    kind: other
+    label_en: Aurangabad Bench restrains the state's newly appointed committee from taking policy decisions
+    label_hi: औरंगाबाद खंडपीठ ने राज्य की नवनियुक्त समिति को नीतिगत निर्णय लेने से रोका
+    case_id: shirdi-saibaba-sansthan-management-committee-pil
+    source_ids: [ssst-src-02]
+  - date: 2022-09-13
+    kind: verdict
+    label_en: High Court quashes the 2021 committee and orders a fresh one within eight weeks
+    label_hi: उच्च न्यायालय ने 2021 की समिति रद्द कर आठ हफ्तों में नई समिति गठित करने का आदेश दिया
+    case_id: shirdi-saibaba-sansthan-management-committee-pil
+    source_ids: [ssst-src-03, ssst-src-04]
+  - date: 2024-10-08
+    kind: verdict
+    label_en: Bombay High Court upholds the trust's income-tax exemption on anonymous donations
+    label_hi: बॉम्बे उच्च न्यायालय ने गुमनाम दान पर ट्रस्ट की आयकर छूट को बरकरार रखा
+    case_id: shirdi-saibaba-sansthan-income-tax-anonymous-donations
+    source_ids: [ssst-src-05]

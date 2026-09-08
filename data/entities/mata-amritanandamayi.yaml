@@ -1,0 +1,473 @@
+id: mata-amritanandamayi
+type: person
+is_subject: true
+name_en: Mata Amritanandamayi
+name_hi: माता अमृतानंदमयी
+aliases:
+  - Amma
+  - Mata Amritanandamayi Devi
+  - Sudhamani Idamannel
+  - The Hugging Saint
+born: 1953
+died:
+base_location: Amritapuri, Parayakadavu, Alappad, Kollam district, Kerala
+country: IN
+countries_of_operation: [IN]
+organisations:
+  - Mata Amritanandamayi Math
+activity_status: active
+abap_2017_list: false
+summary_en: >-
+  Mata Amritanandamayi heads the Mata Amritanandamayi Math at Amritapuri in Kollam district,
+  Kerala. In 2013 Gail Tredwell, an Australian who had lived at the ashram and served as her
+  personal attendant for about twenty years, published a memoir, "Holy Hell", making serious
+  allegations against Amritanandamayi and the Math; a Malayalam translation followed in April 2014
+  and the book was widely reported in the Indian press. The Math and Amritanandamayi rejected the
+  allegations. Nothing in the memoir reached an official record as a charge, first information
+  report, inquiry or judicial finding against Amritanandamayi or the Math on any record found
+  here. The criminal processes that followed ran the other way: a case was registered in Kochi
+  against the author and five news organisations on a devotee's private complaint, a private
+  defamation complaint was filed against two Reporter Channel editors, and two disciples sued
+  D.C. Books and Kairali TV to restrain a related book. On 19 July 2024 the Kerala High Court
+  quashed the defamation proceedings against the Reporter Channel editors, holding that discussing
+  a book already in the public domain is fair comment, and recorded that it was not clear whether
+  the Math had ever complained against the author of "Holy Hell". The only other official record
+  found naming the Math is a 2025 Kerala High Court judgment in which it was one of many
+  petitioners who succeeded in having a wetland-conversion building fee declared ultra vires.
+summary_hi: >-
+  माता अमृतानंदमयी केरल के कोल्लम ज़िले में अमृतपुरी स्थित माता अमृतानंदमयी मठ की प्रमुख हैं। 2013
+  में गेल ट्रेडवेल नामक एक ऑस्ट्रेलियाई महिला ने, जो आश्रम में रहकर लगभग बीस वर्ष तक उनकी निजी
+  परिचारिका रहीं, "होली हेल" नाम से एक संस्मरण प्रकाशित किया जिसमें अमृतानंदमयी और मठ पर गंभीर आरोप
+  लगाए गए; अप्रैल 2014 में उसका मलयालम अनुवाद आया और भारतीय प्रेस में इसकी व्यापक रिपोर्टिंग हुई।
+  मठ और अमृतानंदमयी ने आरोपों को अस्वीकार किया। यहाँ प्राप्त किसी भी अभिलेख के अनुसार संस्मरण की
+  कोई बात अमृतानंदमयी या मठ के विरुद्ध आरोप, प्रथम सूचना रिपोर्ट, जांच या न्यायिक निष्कर्ष के रूप
+  में किसी आधिकारिक अभिलेख तक नहीं पहुँची। इसके बाद की आपराधिक प्रक्रियाएँ विपरीत दिशा में चलीं: एक
+  भक्त की निजी शिकायत पर कोच्चि में लेखिका और पाँच समाचार संस्थानों के विरुद्ध मामला दर्ज हुआ, दो
+  रिपोर्टर चैनल संपादकों के विरुद्ध निजी मानहानि शिकायत दायर हुई, और दो शिष्यों ने एक संबंधित पुस्तक
+  को रोकने के लिए डी.सी. बुक्स और कैराली टीवी पर वाद दायर किया। 19 जुलाई 2024 को केरल उच्च न्यायालय
+  ने रिपोर्टर चैनल के संपादकों के विरुद्ध मानहानि की कार्यवाही रद्द कर दी, यह मानते हुए कि
+  सार्वजनिक रूप से उपलब्ध पुस्तक की विषय-वस्तु पर चर्चा उचित टिप्पणी है, और दर्ज किया कि यह स्पष्ट
+  नहीं है कि मठ ने कभी "होली हेल" की लेखिका के विरुद्ध शिकायत की थी या नहीं। मठ का नाम लेने वाला
+  एकमात्र अन्य आधिकारिक अभिलेख 2025 का केरल उच्च न्यायालय का वह निर्णय है जिसमें वह उन अनेक
+  याचिकाकर्ताओं में से एक थी जो आर्द्रभूमि-परिवर्तन भवन शुल्क को अधिकारातीत घोषित कराने में सफल रहे।
+hi_reviewed: false
+
+registers_checked:
+  - register: Indian Kanoon (Indian judgments and orders)
+    checked_on: 2026-09-09
+    query: '"Amritanandamayi"'
+  - register: Indian Kanoon (Indian judgments and orders)
+    checked_on: 2026-09-09
+    query: 'Gail Tredwell'
+  - register: Indian Kanoon (Indian judgments and orders)
+    checked_on: 2026-09-09
+    query: 'Satnam Singh Amritanandamayi'
+  - register: Indian Kanoon (Indian judgments and orders)
+    checked_on: 2026-09-09
+    query: 'Sreeni Pattathanam'
+
+sources:
+  - id: ama-src-01
+    url: https://indiankanoon.org/doc/135965675/
+    title: "Prakash and another v. Vandana and State of Kerala, Crl.M.C. No. 415 of 2015"
+    publisher: High Court of Kerala via Indian Kanoon
+    type: court
+    published_at: 2024-07-19
+    language: en
+    archive_url: https://web.archive.org/web/20260908143317/https://indiankanoon.org/doc/135965675/
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      Order of Justice P.V. Kunhikrishnan quashing C.C. No. 1618 of 2014 on the file of the
+      Judicial First Class Magistrate I, Karunagappally, a private complaint under IPC 499 and 500
+      by Vandana, a devotee, against the executive editor and the director and chief editor of
+      Reporter Channel over the programme "Big Story" aired on 18 February 2014. The Court examined
+      the English and Malayalam editions of the book, recording that Gail Tredwell published "Holy
+      Hell" in 2013 through Wattle Tree Press, Maui, Hawaii, that the Malayalam translation
+      "Vishudha Narakam" was published by Mythri Books, Thiruvananthapuram, in April 2014, that
+      "there are serious allegations against Mata Amritanandamayi and the Math" in the book, and
+      that "it is not clear whether any complaint is filed by Mata Amritanandamayi Math against the
+      author of the book 'Holy Hell'". Held that discussing a book already in the public domain is
+      "fair comment or criticisms which is part of their freedom of speech".
+  - id: ama-src-02
+    url: https://indiankanoon.org/doc/41522153/
+    title: "Dr. Sreejith Krishnan and another v. Ravi D.C. and others, O.P.(C) No. 1038 of 2014"
+    publisher: High Court of Kerala via Indian Kanoon
+    type: court
+    published_at: 2014-06-24
+    language: en
+    archive_url: https://web.archive.org/web/20260908143452/https://indiankanoon.org/doc/41522153/
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      Judgment of Justice V. Chitambaresh. Two petitioners describing themselves as disciples had
+      sued in the Sub Court, Thiruvalla for a permanent prohibitory injunction restraining D.C.
+      Books, its group companies and John Brittas of Malayala Communication Ltd (Kairali and People
+      TV) "from publishing, selling, circulating or distributing the book - Amruthananda Matdom -
+      The revelations of a saintly lady - through out Kerala"; the Amruthanandamayi Math,
+      Paryakadavu, is the sixth respondent. The High Court set aside the Sub Court's order of 2
+      April 2014 on court-fee valuation, directed the suit to be numbered and the temporary
+      injunction application to be heard within a month, and directed that the interim order of 8
+      April 2014 "will govern the field" until then. The outcome of the suit is not on any record
+      found. Indian Kanoon labels this document 2 April 2014; the judgment itself is dated 24 June
+      2014.
+  - id: ama-src-03
+    url: https://indiankanoon.org/doc/124597923/
+    title: "Abad Builders Private Limited and connected cases v. State of Kerala, W.P.(C) No. 2785 of 2021 and connected cases (including W.P.(C) No. 2505 of 2024, Mata Amritanandamayi Math), Neutral Citation 2025:KER:999"
+    publisher: High Court of Kerala via Indian Kanoon
+    type: court
+    published_at: 2025-01-09
+    language: en
+    archive_url: https://web.archive.org/web/20260908143718/https://indiankanoon.org/doc/124597923/
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      Judgment of Justice Mohammed Nias C.P. in a batch of about 110 writ petitions. The Mata
+      Amritanandamayi Math, represented by its general secretary Sreevalsan K. of Amritapuri P.O.,
+      Parayakadavu, Alappad, Kollam, is the petitioner in W.P.(C) No. 2505 of 2024. The Court
+      declared "that Note 1 to Rule 12(9) is ultra vires the Kerala Conservation of Paddy Land and
+      Wetland Act, 2008 and Rules and the Amendment Act, 2018 to the extent it imposes a levy of fee
+      of Rs.100/- per sq. feet exceeding 3000 sq. ft.", directed that no such demand be made against
+      the petitioners and that amounts collected be refunded within four months, and allowed the
+      writ petitions.
+  - id: ama-src-04
+    url: http://www.hindu.com/2004/01/28/stories/2004012805950400.htm
+    title: Rationalist association leader to be prosecuted
+    publisher: The Hindu (Our Staff Reporter, Kollam)
+    type: major_outlet
+    published_at: 2004-01-28
+    language: en
+    archive_url: https://web.archive.org/web/20040218183723/http://www.hindu.com/2004/01/28/stories/2004012805950400.htm
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      Reports that the Kerala government sanctioned the prosecution of Sreeni Pattathanam, general
+      secretary of the Bharatiya Rationalists Association, and two others over the book "Mata
+      Amritanandamayi: Divyakathakalum Yatharthyangalum", by an order of the Home Department under
+      G.O. number 211/04 dated 20 January 2004, sent to Pattathanam, P.S. Kumar, owner of the
+      publishing company, and S. Saji, the printer.
+  - id: ama-src-05
+    url: http://www.hindu.com/2004/01/29/stories/2004012902660300.htm
+    title: Move to prosecute rationalist leader criticised
+    publisher: The Hindu (Our Staff Reporter, Kollam)
+    type: major_outlet
+    published_at: 2004-01-29
+    language: en
+    archive_url: https://web.archive.org/web/20040604114355/http://www.hindu.com/2004/01/29/stories/2004012902660300.htm
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      Records that the sanction "followed directions from the High Court to the Home Department for
+      considering an application by an inmate of the Mata Amritanandamayi Ashramam, T.K. Ajan, to
+      prosecute the three", and carries the protest of the CPI leader Thengamam Balakrishnan.
+  - id: ama-src-06
+    url: https://indiankanoon.org/search/?formInput=Gail%20Tredwell
+    title: Indian Kanoon search for "Gail Tredwell"
+    publisher: Indian Kanoon
+    type: court
+    published_at: 2026-09-09
+    language: en
+    archive_url: https://web.archive.org/web/20260908142937/https://indiankanoon.org/search/?formInput=Gail%20Tredwell
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      Two documents only: the Kerala High Court order of 19 July 2024 quashing the Reporter Channel
+      defamation complaint, and the Kerala High Court judgment in O.P.(C) 1038 of 2014.
+  - id: ama-src-07
+    url: https://indiankanoon.org/search/?formInput=%22Amritanandamayi%22
+    title: Indian Kanoon search for "Amritanandamayi"
+    publisher: Indian Kanoon
+    type: court
+    published_at: 2026-09-09
+    language: en
+    archive_url: https://web.archive.org/web/20260908143659/https://indiankanoon.org/search/?formInput=%22Amritanandamayi%22
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      The first page of results consists of the connected Kerala High Court writ petitions decided
+      on 9 January 2025 in which the Mata Amritanandamayi Math is a petitioner. No criminal
+      proceeding against Amritanandamayi or the Math appears.
+  - id: ama-src-08
+    url: https://indiankanoon.org/search/?formInput=Sreeni%20Pattathanam
+    title: Indian Kanoon search for "Sreeni Pattathanam"
+    publisher: Indian Kanoon
+    type: court
+    published_at: 2026-09-09
+    language: en
+    archive_url: https://web.archive.org/web/20260908143203/https://indiankanoon.org/search/?formInput=Sreeni%20Pattathanam
+    captured_at: 2026-09-09
+    sha256:
+    note: >-
+      Five results. The only Pattathanam matter is a 2011 Kerala High Court writ petition about the
+      Makarajyothi at Sabarimala, unrelated to the Math. No judgment in the prosecution sanctioned in
+      2004 appears on the site.
+  - id: ama-src-09
+    url: https://indiankanoon.org/search/?formInput=Satnam%20Singh%20Amritanandamayi
+    title: Indian Kanoon search for "Satnam Singh Amritanandamayi"
+    publisher: Indian Kanoon
+    type: court
+    published_at: 2026-09-09
+    language: en
+    archive_url: https://web.archive.org/web/20260908143726/https://indiankanoon.org/search/?formInput=Satnam%20Singh%20Amritanandamayi
+    captured_at: 2026-09-09
+    sha256:
+    note: No matching results.
+
+cases:
+  - id: amritanandamayi-reporter-channel-defamation-2014
+    title_en: Vandana v. Rishi Kumar and Reporter Channel editors, C.C. 1618 of 2014, quashed by the Kerala High Court
+    title_hi: वंदना बनाम ऋषि कुमार और रिपोर्टर चैनल के संपादक, सी.सी. 1618/2014, केरल उच्च न्यायालय द्वारा रद्द
+    jurisdiction_country: IN
+    jurisdiction_region: Kerala
+    court: Judicial First Class Magistrate I, Karunagappally; High Court of Kerala at Ernakulam
+    case_number: C.C. No. 1618 of 2014; Crl.M.C. No. 415 of 2015
+    filed_year: 2014
+    case_type: criminal
+    statutes: [IPC 499, IPC 500, CrPC 199]
+    status: Proceedings against the two Reporter Channel editors quashed on 19 July 2024.
+    tier: closed
+    verdict_date: 2024-07-19
+    sentence_or_remedy: Complaint and all proceedings against the petitioners quashed.
+    appeal_status:
+    summary_en: >-
+      A private defamation complaint by Vandana, who described herself as an ardent devotee of Mata
+      Amritanandamayi, against a participant in and the two editors of a Reporter Channel programme
+      "Big Story" aired on 18 February 2014 discussing Gail Tredwell's book. The Kerala High Court
+      held that a devotee can be a person aggrieved for the purposes of section 199 of the Code of
+      Criminal Procedure, but quashed the proceedings against the two editors on the ground that
+      discussing the contents of a book already in the public domain is fair comment forming part of
+      the freedom of speech. The Court also recorded that the complainant did not appear before it,
+      and that it was not clear whether the Mata Amritanandamayi Math had ever filed any complaint
+      against the author of the book. The allegations against the first accused were expressly not
+      considered.
+    summary_hi: >-
+      वंदना नामक महिला, जिन्होंने स्वयं को माता अमृतानंदमयी की निष्ठावान भक्त बताया, द्वारा दायर निजी
+      मानहानि शिकायत, जो 18 फरवरी 2014 को प्रसारित रिपोर्टर चैनल के कार्यक्रम "बिग स्टोरी" में गेल
+      ट्रेडवेल की पुस्तक पर चर्चा को लेकर एक प्रतिभागी तथा चैनल के दो संपादकों के विरुद्ध थी। केरल
+      उच्च न्यायालय ने माना कि दंड प्रक्रिया संहिता की धारा 199 के प्रयोजन से एक भक्त पीड़ित व्यक्ति
+      हो सकता है, किंतु दोनों संपादकों के विरुद्ध कार्यवाही इस आधार पर रद्द कर दी कि सार्वजनिक रूप से
+      उपलब्ध पुस्तक की विषय-वस्तु पर चर्चा उचित टिप्पणी है जो अभिव्यक्ति की स्वतंत्रता का भाग है।
+      न्यायालय ने यह भी दर्ज किया कि शिकायतकर्ता उसके समक्ष उपस्थित नहीं हुईं, और यह स्पष्ट नहीं है
+      कि माता अमृतानंदमयी मठ ने कभी पुस्तक की लेखिका के विरुद्ध कोई शिकायत दायर की थी या नहीं। प्रथम
+      अभियुक्त के विरुद्ध आरोपों पर न्यायालय ने विचार नहीं किया।
+    source_ids: [ama-src-01]
+  - id: amritanandamayi-dc-books-injunction-2014
+    title_en: Dr. Sreejith Krishnan v. Ravi D.C. — suit to restrain publication of "Amruthananda Matdom", Kerala High Court O.P.(C) 1038 of 2014
+    title_hi: डॉ. श्रीजित कृष्णन बनाम रवि डी.सी. — "अमृतानंद मठम्" के प्रकाशन पर रोक का वाद, केरल उच्च न्यायालय ओ.पी.(सी) 1038/2014
+    jurisdiction_country: IN
+    jurisdiction_region: Kerala
+    court: Sub Court, Thiruvalla; High Court of Kerala at Ernakulam
+    case_number: O.P.(C) No. 1038 of 2014
+    filed_year: 2014
+    case_type: civil
+    statutes: [Kerala Court Fees and Suits Valuation Act 1959 s. 27(c), Constitution of India Article 227]
+    status: >-
+      Original Petition allowed on 24 June 2014; the Sub Court's order was set aside, the suit was
+      to be numbered and the temporary injunction application decided within a month, with the
+      interim order of 8 April 2014 governing until then. The final outcome of the suit is not on
+      any record found.
+    tier: closed
+    verdict_date: 2014-06-24
+    sentence_or_remedy: Order of the Sub Court set aside; interim order of 8 April 2014 to govern until the temporary injunction application was decided.
+    appeal_status:
+    summary_en: >-
+      Two petitioners describing themselves as disciples sued in the Sub Court at Thiruvalla for a
+      permanent prohibitory injunction restraining D.C. Books, its group companies and John Brittas
+      of Malayala Communication Ltd, which runs Kairali and People TV, from publishing, selling,
+      circulating or distributing the book "Amruthananda Matdom — The revelations of a saintly lady"
+      throughout Kerala. The Mata Amritanandamayi Math was the sixth respondent. The Kerala High
+      Court set aside the Sub Court's order on court-fee valuation and directed the suit to be
+      numbered and the injunction application heard. This suit concerned that book and not Gail
+      Tredwell's "Holy Hell", which the Kerala High Court recorded in 2024 as being on sale in both
+      its English and Malayalam editions.
+    summary_hi: >-
+      स्वयं को शिष्य बताने वाले दो याचिकाकर्ताओं ने तिरुवल्ला के अवर न्यायालय में स्थायी निषेधात्मक
+      व्यादेश का वाद दायर किया, जिसमें डी.सी. बुक्स, उसकी समूह कंपनियों तथा कैराली और पीपुल्स टीवी
+      चलाने वाली मलयाला कम्युनिकेशन लिमिटेड के जॉन ब्रिटास को पूरे केरल में "अमृतानंद मठम् — एक साध्वी
+      के रहस्योद्घाटन" पुस्तक के प्रकाशन, विक्रय, प्रसार या वितरण से रोकने की मांग की गई थी। माता
+      अमृतानंदमयी मठ छठा प्रतिवादी था। केरल उच्च न्यायालय ने न्यायालय-शुल्क मूल्यांकन पर अवर न्यायालय
+      का आदेश रद्द किया और वाद को क्रमांकित कर व्यादेश आवेदन सुनने का निर्देश दिया। यह वाद उसी पुस्तक
+      से संबंधित था, गेल ट्रेडवेल की "होली हेल" से नहीं, जिसके अंग्रेजी और मलयालम दोनों संस्करण
+      बाज़ार में उपलब्ध होने की बात केरल उच्च न्यायालय ने 2024 में दर्ज की।
+    source_ids: [ama-src-02, ama-src-01]
+  - id: amritanandamayi-math-wetland-levy-2025
+    title_en: Mata Amritanandamayi Math among petitioners in the Kerala wetland building-fee challenge, W.P.(C) 2505 of 2024
+    title_hi: केरल आर्द्रभूमि भवन शुल्क चुनौती में याचिकाकर्ताओं में माता अमृतानंदमयी मठ, डब्ल्यू.पी.(सी) 2505/2024
+    jurisdiction_country: IN
+    jurisdiction_region: Kerala
+    court: High Court of Kerala at Ernakulam
+    case_number: W.P.(C) No. 2505 of 2024, decided with W.P.(C) No. 2785 of 2021 and connected cases
+    filed_year: 2024
+    case_type: regulatory
+    statutes:
+      - Kerala Conservation of Paddy Land and Wetland Act 2008
+      - Note 1 to Rule 12(9), Kerala Conservation of Paddy Land and Wetland Rules
+      - Constitution of India Articles 265 and 300A
+    status: Writ petitions allowed on 9 January 2025; the levy declared ultra vires and refunds directed.
+    tier: closed
+    verdict_date: 2025-01-09
+    sentence_or_remedy: Levy declared ultra vires; no demand to be made against the petitioners; amounts collected to be refunded within four months.
+    appeal_status:
+    summary_en: >-
+      The Mata Amritanandamayi Math, represented by its general secretary, was one of about 110
+      petitioners in a batch of writ petitions challenging a fee of Rs 100 per square foot on
+      buildings exceeding 3,000 square feet on land converted under the Kerala Conservation of Paddy
+      Land and Wetland Act. Justice Mohammed Nias C.P. declared Note 1 to Rule 12(9) of the Rules
+      ultra vires the parent Act to that extent, directed that no such demand be made against the
+      petitioners and that amounts already collected be refunded. This is a challenge by the Math to
+      a state levy, not an enforcement action against it.
+    summary_hi: >-
+      माता अमृतानंदमयी मठ, अपने महासचिव द्वारा प्रतिनिधित्व करते हुए, केरल धान भूमि एवं आर्द्रभूमि
+      संरक्षण अधिनियम के तहत परिवर्तित भूमि पर 3,000 वर्ग फुट से अधिक के भवनों पर 100 रुपये प्रति
+      वर्ग फुट शुल्क को चुनौती देने वाली लगभग 110 रिट याचिकाओं के समूह में एक याचिकाकर्ता था।
+      न्यायमूर्ति मोहम्मद नियास सी.पी. ने नियमों के नियम 12(9) की टिप्पणी 1 को उस सीमा तक मूल
+      अधिनियम के अधिकारातीत घोषित किया, निर्देश दिया कि याचिकाकर्ताओं से ऐसी कोई मांग न की जाए और
+      पहले वसूली गई राशि लौटाई जाए। यह मठ द्वारा राज्य के शुल्क को दी गई चुनौती है, उसके विरुद्ध कोई
+      प्रवर्तन कार्रवाई नहीं।
+    source_ids: [ama-src-03]
+
+claims:
+  - id: ama-claim-01
+    statement_en: >-
+      In 2013 Gail Tredwell, who had lived at the Mata Amritanandamayi Math and served as
+      Amritanandamayi's personal attendant, published a memoir, "Holy Hell", through Wattle Tree
+      Press, Maui, Hawaii; the Kerala High Court, having examined the English and Malayalam editions
+      in 2024, recorded that "there are serious allegations against Mata Amritanandamayi and the
+      Math" in it.
+    statement_hi: >-
+      2013 में गेल ट्रेडवेल ने, जो माता अमृतानंदमयी मठ में रहीं और अमृतानंदमयी की निजी परिचारिका रहीं,
+      वॉटल ट्री प्रेस, माउई, हवाई के माध्यम से "होली हेल" नामक संस्मरण प्रकाशित किया; केरल उच्च
+      न्यायालय ने 2024 में अंग्रेजी और मलयालम दोनों संस्करणों का परिशीलन कर दर्ज किया कि उसमें "माता
+      अमृतानंदमयी और मठ के विरुद्ध गंभीर आरोप हैं"।
+    tier: allegation
+    date: 2013
+    source_ids: [ama-src-01]
+  - id: ama-claim-02
+    statement_en: >-
+      The Malayalam translation of "Holy Hell", titled "Vishudha Narakam", was published by Mythri
+      Books, Thiruvananthapuram, in a first edition in April 2014, and the Kerala High Court
+      recorded in July 2024 that both editions were available in the market.
+    statement_hi: >-
+      "होली हेल" का मलयालम अनुवाद "विशुद्ध नरकम्" शीर्षक से मैत्री बुक्स, तिरुवनंतपुरम द्वारा अप्रैल
+      2014 में प्रथम संस्करण के रूप में प्रकाशित हुआ, और केरल उच्च न्यायालय ने जुलाई 2024 में दर्ज
+      किया कि दोनों संस्करण बाज़ार में उपलब्ध हैं।
+    tier: allegation
+    date: 2014-04
+    source_ids: [ama-src-01]
+  - id: ama-claim-03
+    case_id: amritanandamayi-reporter-channel-defamation-2014
+    statement_en: >-
+      On 19 July 2024 the Kerala High Court quashed the private defamation complaint and all
+      proceedings in C.C. No. 1618 of 2014 against the executive editor and the director and chief
+      editor of Reporter Channel, holding that by discussing the contents of a book in the public
+      domain they were engaging in fair comment forming part of their freedom of speech.
+    statement_hi: >-
+      19 जुलाई 2024 को केरल उच्च न्यायालय ने रिपोर्टर चैनल के कार्यकारी संपादक तथा निदेशक एवं मुख्य
+      संपादक के विरुद्ध सी.सी. संख्या 1618/2014 की निजी मानहानि शिकायत और समस्त कार्यवाही यह मानते
+      हुए रद्द कर दी कि सार्वजनिक रूप से उपलब्ध पुस्तक की विषय-वस्तु पर चर्चा करके वे उचित टिप्पणी
+      कर रहे थे, जो उनकी अभिव्यक्ति की स्वतंत्रता का भाग है।
+    tier: closed
+    date: 2024-07-19
+    source_ids: [ama-src-01]
+  - id: ama-claim-04
+    case_id: amritanandamayi-reporter-channel-defamation-2014
+    statement_en: >-
+      In the same order the Kerala High Court recorded that "it is not clear whether any complaint
+      is filed by Mata Amritanandamayi Math against the author of the book 'Holy Hell'", and that
+      the Math either decided to neglect the book or decided not to proceed against the author.
+    statement_hi: >-
+      उसी आदेश में केरल उच्च न्यायालय ने दर्ज किया कि "यह स्पष्ट नहीं है कि माता अमृतानंदमयी मठ ने
+      'होली हेल' पुस्तक की लेखिका के विरुद्ध कोई शिकायत दायर की है या नहीं", और यह कि मठ ने या तो
+      पुस्तक की उपेक्षा करने का निर्णय लिया या लेखिका के विरुद्ध कार्रवाई न करने का।
+    tier: closed
+    date: 2024-07-19
+    source_ids: [ama-src-01]
+  - id: ama-claim-05
+    case_id: amritanandamayi-dc-books-injunction-2014
+    statement_en: >-
+      On 24 June 2014 the Kerala High Court set aside the Thiruvalla Sub Court's order and directed
+      it to number a suit by two self-described disciples seeking a permanent injunction restraining
+      D.C. Books and Kairali TV's parent company from publishing, selling, circulating or
+      distributing the book "Amruthananda Matdom" throughout Kerala, in which the Mata
+      Amritanandamayi Math was the sixth respondent.
+    statement_hi: >-
+      24 जून 2014 को केरल उच्च न्यायालय ने तिरुवल्ला अवर न्यायालय का आदेश रद्द कर उसे स्वयं को शिष्य
+      बताने वाले दो व्यक्तियों के उस वाद को क्रमांकित करने का निर्देश दिया जिसमें डी.सी. बुक्स और
+      कैराली टीवी की मूल कंपनी को पूरे केरल में "अमृतानंद मठम्" पुस्तक के प्रकाशन, विक्रय, प्रसार या
+      वितरण से रोकने का स्थायी व्यादेश मांगा गया था और जिसमें माता अमृतानंदमयी मठ छठा प्रतिवादी था।
+    tier: closed
+    date: 2014-06-24
+    source_ids: [ama-src-02]
+  - id: ama-claim-06
+    statement_en: >-
+      On 20 January 2004 the Kerala Home Department, by G.O. number 211/04, sanctioned the
+      prosecution of Sreeni Pattathanam, general secretary of the Bharatiya Rationalists
+      Association, together with the publisher P.S. Kumar and the printer S. Saji, over the book
+      "Mata Amritanandamayi: Divyakathakalum Yatharthyangalum"; the sanction followed a High Court
+      direction to the Home Department to consider an application by T.K. Ajan, an inmate of the
+      Mata Amritanandamayi Ashram.
+    statement_hi: >-
+      20 जनवरी 2004 को केरल गृह विभाग ने जी.ओ. संख्या 211/04 द्वारा भारतीय बुद्धिवादी संघ के महासचिव
+      श्रीनी पट्टत्तानम, प्रकाशक पी.एस. कुमार और मुद्रक एस. साजी के विरुद्ध "माता अमृतानंदमयी:
+      दिव्यकथकलुम यथार्थ्यंगलुम" पुस्तक को लेकर अभियोजन की मंजूरी दी; यह मंजूरी उच्च न्यायालय के उस
+      निर्देश के बाद दी गई जिसमें गृह विभाग को माता अमृतानंदमयी आश्रम के एक निवासी टी.के. अजन के आवेदन
+      पर विचार करने को कहा गया था।
+    tier: allegation
+    date: 2004-01-20
+    source_ids: [ama-src-04, ama-src-05]
+  - id: ama-claim-07
+    statement_en: >-
+      Searches of Indian Kanoon on 9 September 2026 for "Amritanandamayi", "Gail Tredwell" and
+      "Satnam Singh Amritanandamayi" returned no first information report, charge sheet, inquiry or
+      judicial finding against Mata Amritanandamayi or the Mata Amritanandamayi Math arising from
+      the allegations in the 2013 memoir.
+    statement_hi: >-
+      9 सितंबर 2026 को इंडियन कानून पर "अमृतानंदमयी", "गेल ट्रेडवेल" और "सतनाम सिंह अमृतानंदमयी" की
+      खोज में 2013 के संस्मरण के आरोपों से उत्पन्न माता अमृतानंदमयी या माता अमृतानंदमयी मठ के विरुद्ध
+      कोई प्रथम सूचना रिपोर्ट, आरोप पत्र, जांच या न्यायिक निष्कर्ष नहीं मिला।
+    tier: no_record_found
+    date: 2026-09-09
+    source_ids: [ama-src-06, ama-src-07, ama-src-09]
+  - id: ama-claim-08
+    case_id: amritanandamayi-math-wetland-levy-2025
+    statement_en: >-
+      On 9 January 2025 the Kerala High Court allowed a batch of writ petitions in which the Mata
+      Amritanandamayi Math was a petitioner, declaring Note 1 to Rule 12(9) of the Kerala
+      Conservation of Paddy Land and Wetland Rules ultra vires the parent Act to the extent it
+      imposed a fee of Rs 100 per square foot on buildings exceeding 3,000 square feet, and
+      directing refunds within four months.
+    statement_hi: >-
+      9 जनवरी 2025 को केरल उच्च न्यायालय ने उन रिट याचिकाओं के समूह को स्वीकार किया जिनमें माता
+      अमृतानंदमयी मठ एक याचिकाकर्ता था, और केरल धान भूमि एवं आर्द्रभूमि संरक्षण नियमों के नियम 12(9)
+      की टिप्पणी 1 को, जहाँ तक वह 3,000 वर्ग फुट से अधिक के भवनों पर 100 रुपये प्रति वर्ग फुट शुल्क
+      लगाती है, मूल अधिनियम के अधिकारातीत घोषित किया तथा चार माह में धनवापसी का निर्देश दिया।
+    tier: closed
+    date: 2025-01-09
+    source_ids: [ama-src-03]
+
+events:
+  - date: 2004-01-20
+    kind: notice
+    label_en: Kerala Home Department sanctions prosecution over a book about the Math
+    label_hi: केरल गृह विभाग ने मठ पर लिखी पुस्तक को लेकर अभियोजन की मंजूरी दी
+    source_ids: [ama-src-04, ama-src-05]
+  - date: 2014-06-24
+    kind: other
+    label_en: Kerala High Court directs the Thiruvalla suit against D.C. Books to be numbered
+    label_hi: केरल उच्च न्यायालय ने डी.सी. बुक्स के विरुद्ध तिरुवल्ला वाद को क्रमांकित करने का निर्देश दिया
+    case_id: amritanandamayi-dc-books-injunction-2014
+    source_ids: [ama-src-02]
+  - date: 2024-07-19
+    kind: other
+    label_en: Kerala High Court quashes the defamation case against the Reporter Channel editors
+    label_hi: केरल उच्च न्यायालय ने रिपोर्टर चैनल के संपादकों के विरुद्ध मानहानि मामला रद्द किया
+    case_id: amritanandamayi-reporter-channel-defamation-2014
+    source_ids: [ama-src-01]
+  - date: 2025-01-09
+    kind: verdict
+    label_en: Kerala High Court allows the wetland building-fee petitions in which the Math was a petitioner
+    label_hi: केरल उच्च न्यायालय ने आर्द्रभूमि भवन शुल्क याचिकाएँ स्वीकार कीं, जिनमें मठ याचिकाकर्ता था
+    case_id: amritanandamayi-math-wetland-levy-2025
+    source_ids: [ama-src-03]
+
+relationships: []

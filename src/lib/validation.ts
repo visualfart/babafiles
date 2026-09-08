@@ -132,6 +132,9 @@ export interface ValidationIssue {
 }
 
 const BANNED_OWN_VOICE = /\b(fake|fraudster|conman|con-man|charlatan)\b/i;
+// Quoting a source that used one of these words ("fake babas") is the whole point of rule 3
+// in EDITORIAL_POLICY.md ("quote the record"); only the site's own unquoted voice is banned.
+const QUOTED = /["“”'‘’][^"“”'‘’]*["“”'‘’]/g;
 
 /**
  * Cross-file rules from EDITORIAL_POLICY.md. `strict` makes missing archive_url an error
@@ -182,9 +185,10 @@ export function checkRules(
   };
 
   const ownVoice = (text: string | null | undefined, file: string, path: string) => {
-    if (text && BANNED_OWN_VOICE.test(text)) {
+    const unquoted = text?.replace(QUOTED, "");
+    if (unquoted && BANNED_OWN_VOICE.test(unquoted)) {
       issues.push({ file, path, level: "error",
-        message: `own-voice text uses a banned word (${text.match(BANNED_OWN_VOICE)![0]}); quote the record instead` });
+        message: `own-voice text uses a banned word (${unquoted.match(BANNED_OWN_VOICE)![0]}) outside quotation marks; quote the record instead` });
     }
   };
 

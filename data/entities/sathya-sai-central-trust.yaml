@@ -72,8 +72,8 @@ sources:
     type: major_outlet
     published_at: 2011-06-18
     language: en
-    archive_url:
-    captured_at:
+    archive_url: https://web.archive.org/web/20260908152255/https://timesofindia.indiatimes.com/india/Rs-11-56cr-cash-98kg-gold-at-Sai-Babas-abode/articleshow/8896405.cms
+    captured_at: 2026-09-09
     sha256:
     note: >
       Reports that a 36-hour accounting since Yajur Mandir was opened on 16 June 2011 yielded
@@ -89,8 +89,8 @@ sources:
     type: major_outlet
     published_at: 2011-06-17
     language: en
-    archive_url:
-    captured_at:
+    archive_url: http://web.archive.org/web/20260831082412/https://www.deccanherald.com/content/169535/huge-amount-gold-silver-cash.html
+    captured_at: 2026-09-09
     sha256:
     note: Corroborates the 98 kg gold / 307 kg silver / Rs 11.56 crore cash figures from Yajur Mandir, opened the previous day.
   - id: sst-src-03
@@ -100,8 +100,8 @@ sources:
     type: major_outlet
     published_at: 2011-06-16
     language: en
-    archive_url:
-    captured_at:
+    archive_url: https://web.archive.org/web/20260908152614/https://www.hindustantimes.com/india/sai-baba-s-personal-chamber-opened/story-wZw9pJEzSD0nEEOoEqLZZP.html
+    captured_at: 2026-09-09
     sha256:
     note: Same-day report that the Sathya Sai Central Trust opened Yajur Mandir, Sai Baba's personal chamber at Prasanthi Nilayam, on 16 June 2011.
   - id: sst-src-04
@@ -111,8 +111,8 @@ sources:
     type: major_outlet
     published_at: 2011-07-03
     language: en
-    archive_url:
-    captured_at:
+    archive_url: http://web.archive.org/web/20260830220055/https://timesofindia.indiatimes.com/india/Assets-worth-Rs77L-seized-at-Sai-ashram/articleshow/9081602.cms
+    captured_at: 2026-09-09
     sha256:
     note: >
       A follow-up inspection by Anantapur district authorities of four further rooms in Yajur
@@ -129,8 +129,8 @@ sources:
     type: major_outlet
     published_at: 2011-07-21
     language: en
-    archive_url:
-    captured_at:
+    archive_url: https://web.archive.org/web/20251104062631/https://timesofindia.indiatimes.com/city/bangalore/Three-day-count-at-Babas-ashram-yields-treasure/articleshow/9305840.cms
+    captured_at: 2026-09-09
     sha256:
     note: >
       Reports the final inventory at Brindavan (the trust's Bangalore ashram, Whitefield): 6.09
@@ -146,8 +146,8 @@ sources:
     type: major_outlet
     published_at: 2011-06-22
     language: en
-    archive_url:
-    captured_at:
+    archive_url: https://web.archive.org/web/20260908152855/https://www.siliconindia.com/news/general/seizure-of-cash-sai-babas-nephew-to-be-questioned-nid-85064-cid-1.html
+    captured_at: 2026-09-09
     sha256:
     note: >
       PTI wire report. A vehicle carrying Rs 35.5 lakh in cash, said to belong to the Sai

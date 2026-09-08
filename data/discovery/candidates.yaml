@@ -19,7 +19,7 @@
   name: Paramahamsa Vishwananda (Bhakti Marga, Springen, Germany)
   jurisdiction: DE, CH, MU, IN
   note: Requested by maintainer. Check German and Swiss court and press records for any on-record allegations; otherwise no_record_found with registers listed.
-  status: to_triage
+  status: entered
 - id: madhusudan-sai
   name: Madhusudan Sai (Sathya Sai Grama, Muddenahalli)
   jurisdiction: IN
@@ -105,17 +105,17 @@
   name: Mata Amritanandamayi (Amritapuri)
   jurisdiction: IN, international
   note: Check registers; on-record allegations in a 2013 memoir and related defamation litigation; enter per the record only.
-  status: to_triage
+  status: entered
 - id: gurinder-singh-dhillon-rssb
   name: Gurinder Singh Dhillon / Radha Soami Satsang Beas
   jurisdiction: IN
   note: Delhi High Court and SEBI/Fortis-Religare related litigation naming him; verify what the record says.
-  status: to_triage
+  status: entered
 - id: baps-robbinsville
   name: BAPS (Bochasanwasi Akshar Purushottam Swaminarayan Sanstha), Robbinsville NJ
   jurisdiction: US
   note: 2021 federal forced-labour lawsuit and FBI search; most plaintiffs withdrew in 2023; enter per the court docket.
-  status: to_triage
+  status: entered
 - id: jayendra-saraswathi
   name: Jayendra Saraswathi (Kanchi Shankaracharya, d. 2018)
   jurisdiction: IN

@@ -1,0 +1,59 @@
+id: akhil-bharatiya-akhara-parishad
+type: organisation
+is_subject: false
+name_en: Akhil Bharatiya Akhara Parishad
+name_hi: अखिल भारतीय अखाड़ा परिषद
+aliases: [ABAP, Akhara Parishad]
+country: IN
+countries_of_operation: [IN]
+summary_en: >
+  The Akhil Bharatiya Akhara Parishad is an apex council of the Hindu monastic akharas that
+  trace their lineage to the eighth-century philosopher Adi Shankara. On 10 September 2017,
+  days after a CBI court convicted Dera Sacha Sauda chief Gurmeet Ram Rahim Singh of rape, the
+  Parishad's then president, Swami Narendra Giri, released a list of 14 people it described as
+  "fake babas" and called for legislation against "rootless cult leaders"; the list included
+  Gurmeet Ram Rahim Singh, Asaram, Asaram's son Narayan Sai and Rampal. The Parishad released a
+  second, expanded list of self-styled godmen later in December 2017. This entry is a stub for
+  other entities' relationship records and carries no claims of its own.
+summary_hi: >
+  अखिल भारतीय अखाड़ा परिषद हिंदू मठवासी अखाड़ों की एक शीर्ष परिषद है, जो अपनी परंपरा आठवीं सदी के
+  दार्शनिक आदि शंकराचार्य से जोड़ते हैं। 10 सितंबर 2017 को, डेरा सच्चा सौदा प्रमुख गुरमीत राम रहीम
+  सिंह को सीबीआई अदालत द्वारा बलात्कार का दोषी ठहराए जाने के कुछ ही दिनों बाद, परिषद के तत्कालीन
+  अध्यक्ष स्वामी नरेंद्र गिरि ने 14 लोगों की एक सूची जारी की जिन्हें उन्होंने "फर्जी बाबा" बताया और
+  "जड़विहीन पंथ नेताओं" के विरुद्ध कानून बनाने की मांग की; इस सूची में गुरमीत राम रहीम सिंह, आसाराम,
+  आसाराम के पुत्र नारायण साईं और रामपाल शामिल थे। परिषद ने दिसंबर 2017 के अंत में स्वयंभू गुरुओं की एक
+  दूसरी, विस्तृत सूची जारी की। यह प्रविष्टि अन्य प्रविष्टियों के संबंध-अभिलेखों के लिए एक स्टब है और
+  इसका अपना कोई दावा (claim) नहीं है।
+hi_reviewed: false
+
+sources:
+  - id: abap-src-01
+    url: https://www.firstpost.com/india/akhil-bharatiya-akhara-parishad-releases-list-of-fake-babas-demands-legislation-against-these-cult-leaders-4029057.html
+    title: Akhil Bharatiya Akhara Parishad releases list of 'fake babas', demands legislation against 'cult leaders'
+    publisher: Firstpost (PTI)
+    type: major_outlet
+    published_at: 2017-09-10
+    language: en
+    archive_url: https://web.archive.org/web/20170910162035/http://www.firstpost.com/india/akhil-bharatiya-akhara-parishad-releases-list-of-fake-babas-demands-legislation-against-these-cult-leaders-4029057.html
+    captured_at: 2026-09-09
+    sha256:
+    note: >
+      Reports that the Parishad's president, Swami Narendra Giri, released a list of 14 "fake
+      babas" in Allahabad on Sunday 10 September 2017, naming Gurmeet Ram Rahim Singh, Rampal,
+      Asaram and Narayan Sai among them, and sought legislation against "rootless cult leaders".
+  - id: abap-src-02
+    url: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUV81by1UYU5pWkVOZklTNm9jTEE2LWh1R3UtSFV4UlVscDlvM21JUVdJVDFXMG1PVHd5YVVrUEJtTzFqZzRRWXRiM2RmZTFFQXJETEM0d3RSc3otQmNkbkRmSFQ1Qk03bkViYnhwalRyVXoxRWJoemxKQzBYVVVkX1ZpS3RlSFVGaGl5akVsZWtjZkxWUkVqX3lSWDBwdy1GbjBmczJXbk5NYk03SAbABQVVfeXFMUE1CeENkUU85dEJhSzlRajJyNlZVM0RkVnQ5TzQ1U3lBUlp6R0RjRFZuMzI0T3pBMzVNRlFMdHRPazFLazVpMW4xNzExWHV5anZFcmdlb1g1SVZjWlJjc0ZsT25zUnE4cnNDZzdNLU9FbnBiV3R4OU1WZEJYUXRweG1qY08xTE5JVHh1eWc0aDN4NkJJR0s3N01MUkhSc2RkZzdpV0hTU3BrX3lMVC0xdEo?oc=5
+    title: "Beware, India has 17 'fake babas': Akhada Parishad issues 2nd list"
+    publisher: Zee News
+    type: major_outlet
+    published_at: 2017-12-31
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Reports the Parishad's second, expanded list of self-styled godmen, released in late
+      December 2017 (also reported the same week by Firstpost, the Times of India, Financial
+      Express and India.com). Accessed via its Google News syndication link, whose full text
+      could not be independently re-fetched this session (zeenews.india.com blocks direct
+      requests); the headline, outlet and date are as indexed by Google News.
