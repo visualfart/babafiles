@@ -50,9 +50,9 @@ sources:
     type: major_outlet
     published_at: 2011-02-21
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260103131917/https://www.thehindu.com/news/national/tamil-nadu/Premananda-passes-away/article15453590.ece
+    captured_at: 2026-09-08
+    sha256: eeb57ab37e5bae665731c1b6bba2b6ab93992145a02551fbe2053dcc2659495c
     note: >
       Reports that Premananda, "convicted for rape and murder", serving a double life term, died at a private hospital in Chennai on 21 February 2011 after being admitted for a liver transplant.
   - id: premananda-src-04

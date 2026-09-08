@@ -65,9 +65,9 @@ sources:
     type: major_outlet
     published_at: 2026-08-22
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260824010131/https://www.india.com/news/india/gurudev-sri-sri-ravi-shankar-art-of-living-world-cultural-festival-national-green-tribunal-ngt-supreme-court-yamuna-floodplains-vyakti-vikas-kendra-india-dda-spiritual-leader-ngo-8507727/
+    captured_at: 2026-09-08
+    sha256: a68dcb16bd49e0cd3b58cc6210bf3094ce7d4724fd258f7689acced72be17955
     note: Quotes Sri Sri Ravi Shankar's reaction to the judgment.
   - id: sri-sri-ravi-shankar-src-05
     url: https://www.tribuneindia.com/news/archive/nation/art-of-living-responsible-for-damaging-yamuna-floodplains-ngt-509626

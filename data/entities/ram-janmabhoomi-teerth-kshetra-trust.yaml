@@ -214,9 +214,9 @@ sources:
     type: major_outlet
     published_at: 2026-06-26
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260627045847/https://www.thequint.com/news/breaking-news/eight-arrested-ayodhya-ram-mandir-donation-case
+    captured_at: 2026-09-08
+    sha256: 4458992f55baa347d483d4807f673e40fda19fc7fceee845ec755ed8b9c63d5f
   - id: rjtk-src-18
     url: https://www.tribuneindia.com/news/uttar-pradesh/donation-row-ayodhya-ram-temple-committee-chairman-welcomes-move-to-constitute-sit/amp/
     title: Ram temple donation row - Construction committee chairman welcomes UP Govt move to constitute SIT
@@ -246,9 +246,9 @@ sources:
     type: major_outlet
     published_at: 2026-07-07
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260810155957/https://www.businesstoday.in/india/story/ram-mandir-donation-row-did-every-rupee-reach-the-right-place-sit-audits-rs124-crore-spent-by-trust-541362-2026-07-07
+    captured_at: 2026-09-08
+    sha256: a34d0af34752a0a3d9b7890c1aec30d30ba63b42bcc6dc6622733e19482c1c9c
     note: Byline Samarth Srivastava. Figures are the outlet's; the trust told the outlet all valuables are accounted for.
   - id: rjtk-src-21
     url: https://thefederal.com/category/states/north/uttar-pradesh/sit-details-lapses-ayodhya-ram-temple-donation-scandal-rs80-lakh-recovered-6-of-8-accused-248248
@@ -279,9 +279,9 @@ sources:
     type: major_outlet
     published_at: 2026-07-10
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260720064401/https://www.livelaw.in/amp/top-stories/ayodhya-ram-mandir-donation-theft-supreme-court-to-hear-pleas-seeking-cbi-probe-on-july-13-540658
+    captured_at: 2026-09-08
+    sha256: 07ff2b8b69987dc1f72702f75faa7db420ed3800d0f40b7fb2641de69e3b521e
     note: Case titles and numbers - WP(C) 790/2026, WP(Crl) 241/2026, WP(Crl) 256/2026.
   - id: rjtk-src-24
     url: https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-refuses-pils-judicial-commission-sit-probe-ayodhya-ram-mandir-donations-540665
@@ -290,9 +290,9 @@ sources:
     type: major_outlet
     published_at: 2026-07-10
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260715112746/https://www.livelaw.in/high-court/allahabad-high-court/allahabad-hc-refuses-pils-judicial-commission-sit-probe-ayodhya-ram-mandir-donations-540665
+    captured_at: 2026-09-08
+    sha256: 2467b56e5921ba37490b24b9de9ec953e2b1d08e88c5661ef495c8067b26ba31
     note: Orders of 7 July 2026 by Justices Rajan Roy and Manjive Shukla (Lucknow bench) in Gandhivadi Adhivakta Vichar Manch v. State of U.P. and Moti Lal Yadav v. Union of India; 2026 LiveLaw (AB) 380 and 381.
   - id: rjtk-src-25
     url: https://lawbeat.in/news-updates/ram-mandir-donations-row-allahabad-high-court-disposes-of-pil-seeking-cbi-probe-1609393
@@ -375,9 +375,9 @@ sources:
     type: major_outlet
     published_at: 2026-08-18
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260827224527/https://www.outlookindia.com/national/ayodhya-ram-temple-donation-case-sit-gives-clean-chit-to-former-trust-secretary-champat-rai
+    captured_at: 2026-09-08
+    sha256: 6532da86943bb90f85bc941c1077df886cd049916ca8e560f73728ee6b52e884
     note: Final report routed through the UP Home Department to the trust; FIR under BNS and s.13(1)(a) Prevention of Corruption Act.
   - id: rjtk-src-33
     url: https://www.indiatvnews.com/uttar-pradesh/sit-completes-probe-into-ram-temple-donation-theft-case-submits-final-report-to-trust-2026-08-18-1051662
@@ -498,9 +498,9 @@ sources:
     type: other
     published_at: 2026-07-07
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260708202619/https://organiser.org/2026/07/07/368683/bharat/ayodhya-ram-mandir-donation-row-trust-accepts-resignations-promises-greater-transparency-sit-submits-interim-report/
+    captured_at: 2026-09-08
+    sha256: 96027cbfc7760913c69c4d8e4f8f5fbe4eeafc09594b1c938e6cb2a481cd02a0
     note: Trust's own figures - Rs 3,264 crore received, about Rs 2,370 crore construction spend, Rs 582 crore offerings to 31 March 2026, Rs 311 crore operating expenses.
   - id: rjtk-src-44
     url: https://www.newslaundry.com/2021/06/30/not-consulted-on-ayodhya-land-deals-ram-temple-trustees-say

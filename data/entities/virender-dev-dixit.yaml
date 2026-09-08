@@ -44,8 +44,8 @@ sources:
     type: major_outlet
     published_at: 2025-09-30
     language: en
-    archive_url:
-    captured_at:
+    archive_url: https://web.archive.org/web/20250930075538/https://kashmirobserver.net/2025/09/30/on-the-run-rapist-preacher-virender-dixit-dead-cbi-ends-pursuit/
+    captured_at: 2026-09-08
     sha256:
     note: >
       PTI wire report. CBI's Hyderabad unit learned in January 2025, confirmed "recently" (around 29 September 2025), that Dixit died in 2023 in his early eighties; CBI informed a special court and will seek abatement of trial. Recites: Delhi HC order of 20 December 2017; CBI took over 3 FIRs at Vijay Vihar PS (two rape/criminal intimidation against Dixit, one against unidentified persons over obstruction of a 19 December 2017 committee visit); Look Out Circulars of 22 January 2018 and 22 February 2019; Interpol Blue Notice of 26 March 2018; Rs 5 lakh reward.
@@ -57,9 +57,9 @@ sources:
     type: major_outlet
     published_at: 2023-05-31
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20230531115745/https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-arrest-absconding-self-styled-godman-rohini-based-ashram-cbi-229808
+    captured_at: 2026-09-08
+    sha256: 0dd9af9f2c42a86b8e7e3695c89051c9d2ea31bfae88a98db67c7ebe27bf2649
     note: >
       Division Bench of Chief Justice Satish Chandra Sharma and Justice Subramonium Prasad. Directs CBI to take "all possible appropriate measures" to arrest Dixit, including initiating letters of request under CrPC s.166A to the UK and Nepal; notes he had been uploading videos on six YouTube channels since March 2018 despite being absconding and a proclaimed offender.
   - id: v-dixit-src-04

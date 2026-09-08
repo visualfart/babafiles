@@ -291,10 +291,11 @@ sources:
     type: major_outlet
     published_at: 2025-10-07
     language: en
-    archive_url:
-    captured_at:
+    archive_url: https://web.archive.org/web/20260409110501/https://www.thenewsminute.com/kerala/explained-the-controversy-over-missing-gold-at-sabarimala-temple
+    captured_at: 2026-09-08
     sha256:
 
+      26b5f33c43a48fc2bc93902ebfcb71ca20e0dab2fb2543d407c6ec8408a50883
 cases:
   - id: tdb-sabarimala-dwarapalaka-gold-2025
     title_en: Suo Motu v. State of Kerala (Sabarimala Dwarapalaka gold), Kerala High Court

@@ -409,9 +409,9 @@ sources:
     type: major_outlet
     published_at:
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260908203602/https://gulfnews.com/world/asia/india/political-conspiracy-to-defame-me-asaram-bapu-1.1225426
+    captured_at: 2026-09-08
+    sha256: 857ed22f8c3f9dca79d5f4bfce2887a0bb4835c5f3c8400d9c19932d1c26070a
     note: Page shows only a "last updated" date; content concerns Asaram's statements to the media in late August 2013 after he was served a police notice at his Indore ashram.
   - id: asaram-src-38
     url: https://www.hrw.org/news/2018/04/27/asaram-case-highlights-need-witness-and-victim-protection-india

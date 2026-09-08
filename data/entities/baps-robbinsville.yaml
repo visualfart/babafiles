@@ -99,9 +99,9 @@ sources:
     type: major_outlet
     published_at: 2021-05-11
     language: en
-    archive_url:
-    captured_at: 2026-09-09
-    sha256:
+    archive_url: https://web.archive.org/web/20260904154504/https://www.nbcnews.com/news/us-news/hindu-temple-new-jersey-accused-shocking-violations-forced-labor-lawsuit-n1267041
+    captured_at: 2026-09-08
+    sha256: 61c32f053f3c75085c8dec549ca8ae27fcabb7860c9c8a75ccfdaf176f5d42e3
     note: >-
       Reports the FBI's "court-authorized law enforcement activity" statement and that Homeland Security Investigations declined to comment.
   - id: baps-src-07
@@ -135,9 +135,9 @@ sources:
     type: major_outlet
     published_at: 2025-10-11
     language: en
-    archive_url:
-    captured_at: 2026-09-09
-    sha256:
+    archive_url: https://web.archive.org/web/20260117002532/https://m.thewire.in/article/rights/rights-groups-justice-baps-nj-temple-workers-doj-case
+    captured_at: 2026-09-08
+    sha256: e40191210d32648a4b802ac14745354d8abef415446ccc7864ca0f9f92d8c3ba
     note: >-
       Reports the court filing in which BAPS's lawyer said government attorneys had informed him that the "DOJ has closed its investigation of BAPS and the other entities and individuals named as defendants in this lawsuit", and records that the Dalit Solidarity Forum and other groups under the Savera umbrella called for a full investigation into BAPS's recruitment and contracting practices.
 

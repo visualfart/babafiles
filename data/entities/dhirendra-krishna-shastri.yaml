@@ -44,9 +44,9 @@ sources:
     type: major_outlet
     published_at: 2023-01-25
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20251107070051/https://www.tribuneindia.com/news/nation/nagpur-police-give-clean-chit-to-bageshwar-dham-chief-dhirendra-shastri-in-complaint-lodged-by-anti-superstition-crusader-473693/
+    captured_at: 2026-09-08
+    sha256: 0838d57be2420720bc1881559d8c41f36f5c7cfc2791485e32f0dfc8553e75bf
     note: Corroborates the Nagpur police finding of no offence.
   - id: dks-src-03
     url: https://indiankanoon.org/doc/134611126/

@@ -316,9 +316,9 @@ sources:
     type: other
     published_at: 2007-10-06
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20251206143924/https://www.epw.in/journal/2007/40/special-articles/dera-sacha-sauda-controversy-and-beyond.html
+    captured_at: 2026-09-08
+    sha256: 086ba97204374f224f1ef244c3320177a6db40e436d89b0ffce34e9f50e41a2d
     note: Academic article; records the Dera's support for Congress in the February 2007 Punjab election and the May 2007 controversy.
   - id: grrs-src-28
     url: https://www.tribuneindia.com/news/archive/features/after-years-of-animosity-premis-vote-for-sad-bjp-359642
@@ -423,9 +423,9 @@ sources:
     type: major_outlet
     published_at: 2025-01-03
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20251017234806/https://www.outlookindia.com/national/supreme-court-to-review-acquittal-of-gurmeet-ram-rahim-in-2002-murder-case
+    captured_at: 2026-09-08
+    sha256: 4d93300a599e8c08b406d4dda581ddd2f04e6d1b4791d205773660e40b6e9e3c
   - id: grrs-src-38
     url: https://www.verdictum.in/news/cbi-court-dera-sacha-sauda-gurmeet-ram-rahim-singh-ranjit-singh-1237725
     title: Special CBI Court Convicts Gurmeet Ram Rahim Singh For The Murder Of Former Dera Manager

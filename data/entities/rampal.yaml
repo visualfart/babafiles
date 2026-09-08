@@ -275,9 +275,9 @@ sources:
     publisher: Satlok Ashram (organisation website)
     type: other
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20231221105130/https://satlokashram.org/what-type-of-murder-cases-is-sant-rampal-ji-maharaj-accused-of/
+    captured_at: 2026-09-08
+    sha256: f66f85708738c4b4314a3b4753b4837e4ed6837e7fadd2d7fa19fca9b20af1a2
     note: The organisation's own account of the 2014 deaths; used only for the subject's response.
   - id: rampal-src-24
     url: https://news.jagatgururampalji.org/sant-rampal-ji-maharaj-granted-bail-in-sedition-case/

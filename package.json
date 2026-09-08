@@ -14,7 +14,7 @@
     "db:export": "tsx scripts/export.ts",
     "archive": "tsx scripts/archive.ts",
     "typecheck": "tsc --noEmit",
-    "prebuild": "tsx scripts/prebuild.ts",
+    "prebuild": "tsx scripts/prebuild.ts && tsx scripts/export.ts",
     "predev": "tsx scripts/prebuild.ts",
     "pretypecheck": "tsx scripts/prebuild.ts",
     "dev:vinext": "vinext dev --port 3001",

@@ -209,9 +209,9 @@ sources:
     type: major_outlet
     published_at: 2023-02-02
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20250406063011/https://www.tribuneindia.com/news/jalandhar/rs-2-cr-seized-in-raids-on-pastors-475721/
+    captured_at: 2026-09-08
+    sha256: 0bd02de41cff7864bdfe81a636334b7e5e657efc5b5b20203e9965c5ce3a0a23
     note: >
       Income Tax searches of 1 February 2023 at six or seven premises in Jalandhar, Amritsar and New Chandigarh, running 6 am to 10 pm; officials quoted on unaccounted cash of about Rs 2 crore and on lines of inquiry into donations, offshore centres and foreign funding.
   - id: bajinder-singh-src-17
