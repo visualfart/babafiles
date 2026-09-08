@@ -3,68 +3,24 @@ type: person
 is_subject: true
 name_en: Baba Ramdev
 name_hi: बाबा रामदेव
-aliases: [Ramdev, Swami Ramdev, Ramkrishna Yadav, Acharya Ramdev]
+aliases: [ Ramdev, Swami Ramdev, Ramkrishna Yadav, Acharya Ramdev ]
 born: 1965
 died:
 base_location: Patanjali Yogpeeth, Haridwar, Uttarakhand
 country: IN
-countries_of_operation: [IN]
-organisations: [Patanjali Ayurved, Patanjali Yogpeeth]
+countries_of_operation: [ IN ]
+organisations: [ Patanjali Ayurved, Patanjali Yogpeeth ]
 activity_status: active
 summary_en: >
-  Baba Ramdev, born Ramkrishna Yadav, is a yoga teacher and, with Acharya Balkrishna, the
-  co-founder of Patanjali Ayurved Limited and the Patanjali Yogpeeth trust at Haridwar,
-  Uttarakhand. In a petition brought by the Indian Medical Association, the Supreme Court
-  issued suo motu contempt notices in 2024 to Patanjali, Balkrishna and Ramdev over
-  advertisements and public statements it found to be in breach of an undertaking not to
-  claim medicinal cures for diseases listed under the Drugs and Magic Remedies Act; after
-  Uttarakhand's drug licensing authority suspended the manufacturing licences of 14
-  Patanjali products in April 2024 and the company published court-ordered public
-  apologies, the Court closed the contempt proceedings on 13 August 2024, accepting an
-  unconditional apology while warning against repetition. In 2020 the Madras High Court
-  restrained Patanjali from using the "Coronil" trademark for its Covid-era product, a
-  ruling a Division Bench set aside on appeal in 2021. Since 2025 the Delhi High Court has
-  issued interim orders restraining Patanjali advertisements it found disparaging of Dabur
-  Chyawanprash, and separately over a video in which Ramdev described a rival's rose-syrup
-  brand in communal terms, remarks the court called "indefensible".
+  Baba Ramdev, born Ramkrishna Yadav, is a yoga teacher and, with Acharya Balkrishna, the co-founder of Patanjali Ayurved Limited and the Patanjali Yogpeeth trust at Haridwar, Uttarakhand. In a petition brought by the Indian Medical Association, the Supreme Court issued suo motu contempt notices in 2024 to Patanjali, Balkrishna and Ramdev over advertisements and public statements it found to be in breach of an undertaking not to claim medicinal cures for diseases listed under the Drugs and Magic Remedies Act; after Uttarakhand's drug licensing authority suspended the manufacturing licences of 14 Patanjali products in April 2024 and the company published court-ordered public apologies, the Court closed the contempt proceedings on 13 August 2024, accepting an unconditional apology while warning against repetition. In 2020 the Madras High Court restrained Patanjali from using the "Coronil" trademark for its Covid-era product, a ruling a Division Bench set aside on appeal in 2021. Since 2025 the Delhi High Court has issued interim orders restraining Patanjali advertisements it found disparaging of Dabur Chyawanprash, and separately over a video in which Ramdev described a rival's rose-syrup brand in communal terms, remarks the court called "indefensible".
 summary_hi: >
-  बाबा रामदेव, जिनका मूल नाम रामकृष्ण यादव है, योग शिक्षक हैं और आचार्य बालकृष्ण के साथ हरिद्वार,
-  उत्तराखंड स्थित पतंजलि आयुर्वेद लिमिटेड तथा पतंजलि योगपीठ ट्रस्ट के सह-संस्थापक हैं। इंडियन मेडिकल
-  एसोसिएशन की याचिका पर सर्वोच्च न्यायालय ने 2024 में पतंजलि, बालकृष्ण और रामदेव को उन विज्ञापनों और
-  सार्वजनिक बयानों के लिए स्वतः संज्ञान अवमानना नोटिस जारी किए, जो न्यायालय की दृष्टि में ड्रग्स एंड
-  मैजिक रेमेडीज़ अधिनियम के तहत सूचीबद्ध रोगों के औषधीय इलाज का दावा न करने के वचन का उल्लंघन थे;
-  अप्रैल 2024 में उत्तराखंड के औषधि लाइसेंसिंग प्राधिकरण द्वारा पतंजलि के 14 उत्पादों के निर्माण
-  लाइसेंस निलंबित किए जाने और कंपनी द्वारा न्यायालय के आदेश पर सार्वजनिक क्षमा-याचना प्रकाशित किए
-  जाने के बाद, न्यायालय ने 13 अगस्त 2024 को बिना शर्त माफी स्वीकार करते हुए अवमानना कार्यवाही बंद कर
-  दी, साथ ही पुनरावृत्ति को लेकर चेतावनी भी दी। 2020 में मद्रास उच्च न्यायालय ने पतंजलि को उसके कोविड
-  दौर के उत्पाद के लिए "कोरोनिल" ट्रेडमार्क के प्रयोग से रोका था, जिसे 2021 में अपील पर खंडपीठ ने रद्द कर
-  दिया। 2025 से दिल्ली उच्च न्यायालय ने पतंजलि के उन विज्ञापनों पर अंतरिम रोक के आदेश दिए हैं जिन्हें
-  उसने डाबर च्यवनप्राश को अपमानित करने वाला पाया, और अलग से उस वीडियो पर भी जिसमें रामदेव ने एक
-  प्रतिद्वंद्वी के गुलाब शरबत ब्रांड का सांप्रदायिक शब्दों में उल्लेख किया था, जिसे अदालत ने "अक्षम्य"
-  करार दिया।
+  बाबा रामदेव, जिनका मूल नाम रामकृष्ण यादव है, योग शिक्षक हैं और आचार्य बालकृष्ण के साथ हरिद्वार, उत्तराखंड स्थित पतंजलि आयुर्वेद लिमिटेड तथा पतंजलि योगपीठ ट्रस्ट के सह-संस्थापक हैं। इंडियन मेडिकल एसोसिएशन की याचिका पर सर्वोच्च न्यायालय ने 2024 में पतंजलि, बालकृष्ण और रामदेव को उन विज्ञापनों और सार्वजनिक बयानों के लिए स्वतः संज्ञान अवमानना नोटिस जारी किए, जो न्यायालय की दृष्टि में ड्रग्स एंड मैजिक रेमेडीज़ अधिनियम के तहत सूचीबद्ध रोगों के औषधीय इलाज का दावा न करने के वचन का उल्लंघन थे; अप्रैल 2024 में उत्तराखंड के औषधि लाइसेंसिंग प्राधिकरण द्वारा पतंजलि के 14 उत्पादों के निर्माण लाइसेंस निलंबित किए जाने और कंपनी द्वारा न्यायालय के आदेश पर सार्वजनिक क्षमा-याचना प्रकाशित किए जाने के बाद, न्यायालय ने 13 अगस्त 2024 को बिना शर्त माफी स्वीकार करते हुए अवमानना कार्यवाही बंद कर दी, साथ ही पुनरावृत्ति को लेकर चेतावनी भी दी। 2020 में मद्रास उच्च न्यायालय ने पतंजलि को उसके कोविड दौर के उत्पाद के लिए "कोरोनिल" ट्रेडमार्क के प्रयोग से रोका था, जिसे 2021 में अपील पर खंडपीठ ने रद्द कर दिया। 2025 से दिल्ली उच्च न्यायालय ने पतंजलि के उन विज्ञापनों पर अंतरिम रोक के आदेश दिए हैं जिन्हें उसने डाबर च्यवनप्राश को अपमानित करने वाला पाया, और अलग से उस वीडियो पर भी जिसमें रामदेव ने एक प्रतिद्वंद्वी के गुलाब शरबत ब्रांड का सांप्रदायिक शब्दों में उल्लेख किया था, जिसे अदालत ने "अक्षम्य" करार दिया।
 hi_reviewed: false
 response_from_subject:
   text_en: >
-    In the Supreme Court contempt proceedings, Patanjali Ayurved Limited published the
-    following apology in national and regional newspapers on 22 April 2024, as recorded in
-    the Court's judgment of 13 August 2024: "Patanjali Ayurved Limited fully respects the
-    dignity of the Hon'ble Supreme Court. We sincerely apologize for the mistake of
-    publishing advertisements and holding a press conference even after our advocates made
-    a statement in the apex court. We are committed to not let such a mistake be repeated
-    ever in future. We reassure you that we shall remain committed to uphold the
-    constitution and dignity of the Hon'ble Supreme Court. Patanjali Ayurved Limited,
-    Haridwar, Uttarakhand." Acharya Balkrishna and Ramdev separately affirmed on affidavit
-    that they "never had any intention to violate orders of this Hon'ble Court."
+    In the Supreme Court contempt proceedings, Patanjali Ayurved Limited published the following apology in national and regional newspapers on 22 April 2024, as recorded in the Court's judgment of 13 August 2024: "Patanjali Ayurved Limited fully respects the dignity of the Hon'ble Supreme Court. We sincerely apologize for the mistake of publishing advertisements and holding a press conference even after our advocates made a statement in the apex court. We are committed to not let such a mistake be repeated ever in future. We reassure you that we shall remain committed to uphold the constitution and dignity of the Hon'ble Supreme Court. Patanjali Ayurved Limited, Haridwar, Uttarakhand." Acharya Balkrishna and Ramdev separately affirmed on affidavit that they "never had any intention to violate orders of this Hon'ble Court."
   text_hi: >
-    सर्वोच्च न्यायालय की अवमानना कार्यवाही में पतंजलि आयुर्वेद लिमिटेड ने 22 अप्रैल 2024 को राष्ट्रीय
-    और क्षेत्रीय समाचार-पत्रों में यह क्षमा-याचना प्रकाशित की, जिसे न्यायालय के 13 अगस्त 2024 के निर्णय
-    में दर्ज किया गया: "पतंजलि आयुर्वेद लिमिटेड माननीय सर्वोच्च न्यायालय की गरिमा का पूर्ण सम्मान करता
-    है। हमारे अधिवक्ताओं द्वारा शीर्ष अदालत में बयान दिए जाने के बावजूद विज्ञापन प्रकाशित करने और प्रेस
-    सम्मेलन आयोजित करने की गलती के लिए हम हार्दिक क्षमा माँगते हैं। हम प्रतिबद्ध हैं कि भविष्य में ऐसी
-    गलती कभी न दोहराई जाए। हम आपको आश्वस्त करते हैं कि हम माननीय सर्वोच्च न्यायालय के संविधान और
-    गरिमा को बनाए रखने हेतु प्रतिबद्ध रहेंगे। पतंजलि आयुर्वेद लिमिटेड, हरिद्वार, उत्तराखंड।" आचार्य
-    बालकृष्ण और रामदेव ने अलग-अलग हलफनामों में पुष्टि की कि उनका "इस माननीय न्यायालय के आदेशों का
-    उल्लंघन करने का कभी कोई इरादा नहीं था।"
+    सर्वोच्च न्यायालय की अवमानना कार्यवाही में पतंजलि आयुर्वेद लिमिटेड ने 22 अप्रैल 2024 को राष्ट्रीय और क्षेत्रीय समाचार-पत्रों में यह क्षमा-याचना प्रकाशित की, जिसे न्यायालय के 13 अगस्त 2024 के निर्णय में दर्ज किया गया: "पतंजलि आयुर्वेद लिमिटेड माननीय सर्वोच्च न्यायालय की गरिमा का पूर्ण सम्मान करता है। हमारे अधिवक्ताओं द्वारा शीर्ष अदालत में बयान दिए जाने के बावजूद विज्ञापन प्रकाशित करने और प्रेस सम्मेलन आयोजित करने की गलती के लिए हम हार्दिक क्षमा माँगते हैं। हम प्रतिबद्ध हैं कि भविष्य में ऐसी गलती कभी न दोहराई जाए। हम आपको आश्वस्त करते हैं कि हम माननीय सर्वोच्च न्यायालय के संविधान और गरिमा को बनाए रखने हेतु प्रतिबद्ध रहेंगे। पतंजलि आयुर्वेद लिमिटेड, हरिद्वार, उत्तराखंड।" आचार्य बालकृष्ण और रामदेव ने अलग-अलग हलफनामों में पुष्टि की कि उनका "इस माननीय न्यायालय के आदेशों का उल्लंघन करने का कभी कोई इरादा नहीं था।"
   source_id: baba-ramdev-src-01
 
 sources:
@@ -75,18 +31,11 @@ sources:
     type: court
     published_at: 2024-08-13
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260510044535/https://api.sci.gov.in/supremecourt/2024/35078/35078_2024_9_1501_54748_Judgement_13-Aug-2024.pdf
+    captured_at: 2026-09-08
+    sha256: 6b7253f745e6235bb0b8dfa9acb1631a2b385d8857a10309a9ee4403833b537c
     note: >
-      Judgment of Hima Kohli J. (for the Bench with Ahsanuddin Amanullah J.) disposing of the suo motu
-      contempt petition against Patanjali, Acharya Balkrishna and Baba Ramdev. Sets out the full history:
-      the 21.11.2023 undertaking, the 27.02.2024 and 19.03.2024 contempt notices, the rejected qualified
-      apology of 20.03.2024, the 10.04.2024 order on the mismatched travel documents, the unconditional
-      apologies of 06.04.2024 and in person on 16.04.2024, the 22.04.2024 fine-print public apology
-      rejected as "lip service", the corrected 24.04.2024 published apology (text reproduced in full), the
-      16.05.2024 affidavit on the Uttarakhand licence suspension and product withdrawal, and the closure
-      of proceedings on 13.08.2024.
+      Judgment of Hima Kohli J. (for the Bench with Ahsanuddin Amanullah J.) disposing of the suo motu contempt petition against Patanjali, Acharya Balkrishna and Baba Ramdev. Sets out the full history: the 21.11.2023 undertaking, the 27.02.2024 and 19.03.2024 contempt notices, the rejected qualified apology of 20.03.2024, the 10.04.2024 order on the mismatched travel documents, the unconditional apologies of 06.04.2024 and in person on 16.04.2024, the 22.04.2024 fine-print public apology rejected as "lip service", the corrected 24.04.2024 published apology (text reproduced in full), the 16.05.2024 affidavit on the Uttarakhand licence suspension and product withdrawal, and the closure of proceedings on 13.08.2024.
   - id: baba-ramdev-src-02
     url: https://indiankanoon.org/doc/197422946/
     title: Indian Medical Association vs Union Of India on 27 February, 2024 (W.P.(C) No. 645/2022)
@@ -98,10 +47,7 @@ sources:
     captured_at: 2026-09-09
     sha256:
     note: >
-      Record of proceedings before Hima Kohli and Ahsanuddin Amanullah JJ. Issues notice to Patanjali
-      Ayurved Limited and Acharya Balkrishna as to why contempt proceedings should not be initiated over
-      advertisements and a 22.11.2023 press conference; restrains Patanjali from advertising products for
-      the diseases listed in the 1954 Act and 1955 Rules pending further orders.
+      Record of proceedings before Hima Kohli and Ahsanuddin Amanullah JJ. Issues notice to Patanjali Ayurved Limited and Acharya Balkrishna as to why contempt proceedings should not be initiated over advertisements and a 22.11.2023 press conference; restrains Patanjali from advertising products for the diseases listed in the 1954 Act and 1955 Rules pending further orders.
   - id: baba-ramdev-src-03
     url: https://www.tribuneindia.com/news/misleading-advertisements-case-supreme-court-closes-contempt-proceedings-against-ramdev-patanjali-ayurved/
     title: Supreme Court closes contempt case against Patanjali Ayurved, Baba Ramdev and Acharya Balkrishna
@@ -120,9 +66,9 @@ sources:
     type: major_outlet
     published_at: 2024-08-13
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20250831212153/https://www.livelaw.in/top-stories/supreme-court-patanjali-ayurved-baba-ramdev-contempt-proceedings-closed-266590
+    captured_at: 2026-09-08
+    sha256: fc2c84d9153417518ac0b95c24ad29150c6a8854677fbfd4dd54b2553d5020ef
     note: Reports the 13 August 2024 closure and the Bench's caution that the "sword of contempt" could be revived.
   - id: baba-ramdev-src-05
     url: https://www.scconline.com/blog/post/2024/08/13/patanjali-misleading-adscase-supreme-court-drops-contempt-of-court-charges-against-baba-ramdev-acharya-balkrishna/
@@ -131,9 +77,9 @@ sources:
     type: major_outlet
     published_at: 2024-08-13
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260610175956/https://www.scconline.com/blog/post/2024/08/13/patanjali-misleading-adscase-supreme-court-drops-contempt-of-court-charges-against-baba-ramdev-acharya-balkrishna/
+    captured_at: 2026-09-08
+    sha256: 8d78db4c4e98ac705af6fcd913fc9561a7b03c2203a0a30fd2015049d53f7277
     note: Summarises the judgment's reasoning on qualified versus unconditional apology.
   - id: baba-ramdev-src-06
     url: https://www.business-standard.com/companies/news/sc-asks-uttarakhand-govt-to-decide-on-suspension-of-14-patanjali-products-124073100496_1.html
@@ -142,13 +88,11 @@ sources:
     type: major_outlet
     published_at: 2024-07-31
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20250617011305/https://www.business-standard.com/companies/news/sc-asks-uttarakhand-govt-to-decide-on-suspension-of-14-patanjali-products-124073100496_1.html
+    captured_at: 2026-09-08
+    sha256: 3c379da82a64dd9671696a5fe4a6103662afee37193594ec439af08f277956e8
     note: >
-      Bench of Hima Kohli and Sandeep Mehta JJ, hearing on 30 July 2024, directs the Uttarakhand
-      government to decide within two weeks on the suspension of the 14 products; records that the state
-      had cancelled the suspension order on 1 July 2024 after a panel report, and lists the 14 products.
+      Bench of Hima Kohli and Sandeep Mehta JJ, hearing on 30 July 2024, directs the Uttarakhand government to decide within two weeks on the suspension of the 14 products; records that the state had cancelled the suspension order on 1 July 2024 after a panel report, and lists the 14 products.
   - id: baba-ramdev-src-07
     url: https://www.tribuneindia.com/news/uttarakhand/uttarakhand-suspends-licences-of-14-products-made-by-ramdevs-pharmaceutical-companies-616042
     title: Uttarakhand suspends licences of 14 products made by Ramdev's pharmaceutical companies
@@ -156,13 +100,11 @@ sources:
     type: major_outlet
     published_at: 2024-04-16
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20250807233535/https://www.tribuneindia.com/news/uttarakhand/uttarakhand-suspends-licences-of-14-products-made-by-ramdevs-pharmaceutical-companies-616042/
+    captured_at: 2026-09-08
+    sha256: 641ed302c370a6f19e08374cacd8683e9843989d55bb5840665155bbebba255a
     note: >
-      Reports the 15 April 2024 order of the State Drug Licensing Authority (Ayurvedic and Unani
-      Services), Dehradun, suspending the manufacturing licences of 14 Patanjali/Divya Pharmacy products
-      over misleading advertising of their efficacy.
+      Reports the 15 April 2024 order of the State Drug Licensing Authority (Ayurvedic and Unani Services), Dehradun, suspending the manufacturing licences of 14 Patanjali/Divya Pharmacy products over misleading advertising of their efficacy.
   - id: baba-ramdev-src-08
     url: https://www.afaqs.com/news/advertising/patanjali-issued-a-public-apology-in-newspapers-following-supreme-court-scrutiny
     title: Patanjali issued a public apology in newspapers following Supreme Court scrutiny
@@ -170,9 +112,9 @@ sources:
     type: major_outlet
     published_at: 2024-04-24
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20251208040205/https://www.afaqs.com/news/advertising/patanjali-issued-a-public-apology-in-newspapers-following-supreme-court-scrutiny
+    captured_at: 2026-09-08
+    sha256: 81be4658df40cd0060d6418d4a37823d91934898619faac67f02afd110419bee
     note: Reports the 24 April 2024 corrected apology published in larger, legible print after the Court rejected the fine-print version.
   - id: baba-ramdev-src-09
     url: https://www.livelaw.in/top-stories/baba-ramdev-acharya-balkrishna-personally-apologise-to-supreme-court-patanjali-ltd-agrees-to-publish-public-apology-255207
@@ -181,9 +123,9 @@ sources:
     type: major_outlet
     published_at: 2024-04-16
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260521194122/https://www.livelaw.in/top-stories/baba-ramdev-acharya-balkrishna-personally-apologise-to-supreme-court-patanjali-ltd-agrees-to-publish-public-apology-255207
+    captured_at: 2026-09-08
+    sha256: f268ddf73d7ee92c04a7ef035c998445d327e8e19143130e1a375c66fbfe0681
     note: Reports the 16 April 2024 hearing at which both personally tendered an apology in court.
   - id: baba-ramdev-src-10
     url: https://indiankanoon.org/doc/64698338/
@@ -196,12 +138,7 @@ sources:
     captured_at: 2026-09-09
     sha256:
     note: >
-      Judgment of Mini Pushkarna J. on interim applications in Dabur's suit alleging that Patanjali's
-      television and print advertisements for "Patanjali Special Chyawanprash" disparaged "Dabur
-      Chyawanprash" and Chyawanprash generally by calling rival products "ordinary". Finds a strong prima
-      facie case of disparagement and directs Patanjali to delete the specified disparaging lines from the
-      TVC and print advertisements; other issues (use of "special", "51 precious herbs", mercury claims)
-      left to trial.
+      Judgment of Mini Pushkarna J. on interim applications in Dabur's suit alleging that Patanjali's television and print advertisements for "Patanjali Special Chyawanprash" disparaged "Dabur Chyawanprash" and Chyawanprash generally by calling rival products "ordinary". Finds a strong prima facie case of disparagement and directs Patanjali to delete the specified disparaging lines from the TVC and print advertisements; other issues (use of "special", "51 precious herbs", mercury claims) left to trial.
   - id: baba-ramdev-src-11
     url: https://www.scconline.com/blog/post/2025/07/08/dhc-restrains-patanjali-from-airing-ads-disparaging-dabur/
     title: Delhi High Court restrains Patanjali from airing advertisements disparaging Dabur Chyawanprash
@@ -209,9 +146,9 @@ sources:
     type: major_outlet
     published_at: 2025-07-08
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260420224448/https://www.scconline.com/blog/post/2025/07/08/dhc-restrains-patanjali-from-airing-ads-disparaging-dabur/
+    captured_at: 2026-09-08
+    sha256: 7fb92b0bd71e28aca01672a2df8637afd243384d2c34174d790019b74fe934ef
     note: Reports the 3 July 2025 interim order.
   - id: baba-ramdev-src-12
     url: https://lawbeat.in/news-updates/patanjali-moves-delhi-hc-against-order-restraining-it-from-airing-ads-disparaging-dabur-chyawanprash-1518968
@@ -220,9 +157,9 @@ sources:
     type: major_outlet
     published_at: 2025-09-19
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20251213111326/https://lawbeat.in/news-updates/patanjali-moves-delhi-hc-against-order-restraining-it-from-airing-ads-disparaging-dabur-chyawanprash-1518968
+    captured_at: 2026-09-08
+    sha256: 7973ebc609145964b6c1ebdc743ddc8767a709db2f31a65b71307308e500cfca
     note: Reports Patanjali's intra-court appeal against the 3 July 2025 single-judge order; appeal status not further confirmed.
   - id: baba-ramdev-src-13
     url: https://www.scconline.com/blog/post/2025/11/12/del-hc-grants-interim-relief-in-dabur-patanjali-chyawanprash-case/
@@ -231,9 +168,9 @@ sources:
     type: major_outlet
     published_at: 2025-11-12
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260515165321/https://www.scconline.com/blog/post/2025/11/12/del-hc-grants-interim-relief-in-dabur-patanjali-chyawanprash-case/
+    captured_at: 2026-09-08
+    sha256: d3f20cfe995f2b1a1155547f356d945a4f84fd2ed6c901410272afcf74b005fe
     note: Reports a further interim order restraining a Star Plus advertisement in which Patanjali called other Chyawanprash "dhoka" (deception).
   - id: baba-ramdev-src-14
     url: https://www.medianama.com/2025/04/223-delhi-hc-orders-patanjali-ramdev-sharbat-jihad-ad-pulled-down/
@@ -242,13 +179,11 @@ sources:
     type: major_outlet
     published_at: 2025-04-23
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20251117134531/https://www.medianama.com/2025/04/223-delhi-hc-orders-patanjali-ramdev-sharbat-jihad-ad-pulled-down/
+    captured_at: 2026-09-08
+    sha256: ae0bf45bb5fd9e4f8c52b00969617205e057c3f8553e4936b9fe2066258cbc63
     note: >
-      Reports the 22 April 2025 hearing before Amit Bansal J. in Hamdard National Foundation India v.
-      Patanjali Foods Limited, CS(COMM) 356/2025, over a video in which Ramdev used the phrase "sharbat
-      jihad" against Hamdard's Rooh Afza while promoting Patanjali's Gulab Sharbat; the video was taken down.
+      Reports the 22 April 2025 hearing before Amit Bansal J. in Hamdard National Foundation India v. Patanjali Foods Limited, CS(COMM) 356/2025, over a video in which Ramdev used the phrase "sharbat jihad" against Hamdard's Rooh Afza while promoting Patanjali's Gulab Sharbat; the video was taken down.
   - id: baba-ramdev-src-15
     url: https://www.medianama.com/2025/05/223-sharbat-jihad-row-delhi-high-court-contempt-notice-baba-ramdev/
     title: "'Sharbat Jihad': Delhi HC Mulls Contempt Notice For Baba Ramdev"
@@ -256,9 +191,9 @@ sources:
     type: major_outlet
     published_at: 2025-05-09
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20251101032824/https://www.medianama.com/2025/05/223-sharbat-jihad-row-delhi-high-court-contempt-notice-baba-ramdev/
+    captured_at: 2026-09-08
+    sha256: af44d1e2d31bc52b6ceae1df8bf4fc3f62f6fdc08d11f52a1893c07b77f2bd8d
     note: Records the court's remark that the video "shocks the conscience of the court" and its warning that it would consider contempt if disparaging videos continued.
   - id: baba-ramdev-src-16
     url: https://lawbeat.in/news-updates/delhi-hc-disposes-suit-against-baba-ramdev-over-sharbat-jihad-remark-1400559
@@ -267,9 +202,9 @@ sources:
     type: major_outlet
     published_at: 2025-05-09
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20250520221430/https://lawbeat.in/news-updates/delhi-hc-disposes-suit-against-baba-ramdev-over-sharbat-jihad-remark-1400559
+    captured_at: 2026-09-08
+    sha256: 49227b0353ac468f2a02f85192abaf91101d45a3f6e039f0bd59bcb2d2fc8591
     note: Reports Amit Bansal J.'s disposal of CS(COMM) 356/2025 on 9 May 2025 after Patanjali affirmed on affidavit that the video had been permanently taken down.
   - id: baba-ramdev-src-17
     url: https://www.livelaw.in/news-updates/madras-hc-restrains-patanjali-from-using-coronil-trademark-read-order-160198
@@ -278,13 +213,11 @@ sources:
     type: major_outlet
     published_at: 2020-07-20
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20231203112822/https://www.livelaw.in/news-updates/madras-hc-restrains-patanjali-from-using-coronil-trademark-read-order-160198
+    captured_at: 2026-09-08
+    sha256: aad6f9cdd4856f7412da3d4371362e47f7ce05900d8eb728c6740781f95703ee
     note: >
-      Reports the ex-parte interim injunction of 17 July 2020 by C.V. Karthikeyan J. in O.A. No. 258 of
-      2020 (Arudra Engineers Pvt Ltd v Patanjali Ayurved Ltd), restraining use of "Coronil" on the ground
-      that the mark 'CORONIL-92 B' was registered by the plaintiff since 1993.
+      Reports the ex-parte interim injunction of 17 July 2020 by C.V. Karthikeyan J. in O.A. No. 258 of 2020 (Arudra Engineers Pvt Ltd v Patanjali Ayurved Ltd), restraining use of "Coronil" on the ground that the mark 'CORONIL-92 B' was registered by the plaintiff since 1993.
   - id: baba-ramdev-src-18
     url: https://www.thenewsminute.com/article/patanjali-exploited-public-fear-says-madras-hc-imposes-rs-10-lakh-fine-130196
     title: Patanjali exploited public fear says Madras HC, imposes Rs 10 lakh fine
@@ -292,14 +225,11 @@ sources:
     type: major_outlet
     published_at: 2020-08-06
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260313194013/https://www.thenewsminute.com/article/patanjali-exploited-public-fear-says-madras-hc-imposes-rs-10-lakh-fine-130196
+    captured_at: 2026-09-08
+    sha256: a76321cf1b3131608e23ed6af732b6eee131401ad7a1b3c0b553000bd3da87e6
     note: >
-      Reports the 6 August 2020 order making the interim injunction in O.A. No. 258 of 2020 absolute and
-      imposing a Rs 10 lakh cost, the judge remarking that Patanjali was "exploiting the fear and panic
-      among the general public" by projecting Coronil as a cure rather than an immunity booster; cost
-      ordered split between the Adyar Cancer Institute and a government naturopathy hospital.
+      Reports the 6 August 2020 order making the interim injunction in O.A. No. 258 of 2020 absolute and imposing a Rs 10 lakh cost, the judge remarking that Patanjali was "exploiting the fear and panic among the general public" by projecting Coronil as a cure rather than an immunity booster; cost ordered split between the Adyar Cancer Institute and a government naturopathy hospital.
   - id: baba-ramdev-src-19
     url: https://www.barandbench.com/news/litigation/madras-high-court-lifts-injunction-on-patanjali-ayurved-coronil-trademark
     title: "[CORONIL case] Registration of trademark does not confer monopoly over part of it: Madras High Court lifts injunction on Patanjali Ayurved"
@@ -311,9 +241,7 @@ sources:
     captured_at:
     sha256:
     note: >
-      Reports the Division Bench's order in O.S.A. No. 169 of 2020 setting aside the single judge's
-      injunction, holding that no prima facie case of trademark infringement was made out against
-      Patanjali and that registration of a composite mark does not confer a monopoly over each component.
+      Reports the Division Bench's order in O.S.A. No. 169 of 2020 setting aside the single judge's injunction, holding that no prima facie case of trademark infringement was made out against Patanjali and that registration of a composite mark does not confer a monopoly over each component.
   - id: baba-ramdev-src-20
     url: https://www.mondaq.com/india/trademark/1050892/madras-high-court-sets-aside-injunction-order-against-patanjali-ayurved
     title: Madras High Court Sets Aside Injunction Order Against Patanjali Ayurved
@@ -332,9 +260,9 @@ sources:
     type: major_outlet
     published_at: 2020-07-01
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20200923112621/https://www.tribuneindia.com/news/nation/govt-allows-ramdev-to-market-patanjalis-coronil-as-immunity-booster-not-authorised-for-covid-19-therapy-107156
+    captured_at: 2026-09-08
+    sha256: c320998e3d8f8e59937e2ec64cb6c0fb5784bc77108aaab687111e55fa082bac
     note: Reports the Ministry of AYUSH's position that Coronil is licensed only as an immunity booster and not authorised as a Covid-19 treatment; used only as background for the events list, not as an adverse claim.
   - id: baba-ramdev-src-22
     url: https://delhihighcourt.nic.in/app/showlogo/145729751745414240048_89367_3562025.pdf/2025
@@ -343,15 +271,11 @@ sources:
     type: court
     published_at: 2025-04-22
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20251101064603/https://delhihighcourt.nic.in/app/showlogo/145729751745414240048_89367_3562025.pdf/2025
+    captured_at: 2026-09-08
+    sha256: 585b37b4d5e652987ba317d0870fab94c850fab11c3b1c734ab688bdbe9f791c
     note: >
-      Official order of Amit Bansal J. Records, at para 17, defendants' counsel submitting on instructions
-      that "the impugned advertisements in the video format shall be immediately taken down" and that
-      print advertisements would be altered or removed, with a compliance affidavit due in five days; at
-      para 18, directs both defendants to file affidavits that they will not issue similar disparaging
-      statements, social media posts or videos against competitors' products in future.
+      Official order of Amit Bansal J. Records, at para 17, defendants' counsel submitting on instructions that "the impugned advertisements in the video format shall be immediately taken down" and that print advertisements would be altered or removed, with a compliance affidavit due in five days; at para 18, directs both defendants to file affidavits that they will not issue similar disparaging statements, social media posts or videos against competitors' products in future.
   - id: baba-ramdev-src-23
     url: https://www.casemine.com/judgement/in/5f333f2ab338d15c2e2abe16
     title: Arudra Engineers Private Limited v. Patanjali Ayurved Limited, O.A. No. 258 of 2020 in C.S. No. 163 of 2020 (order of 6 August 2020)
@@ -363,10 +287,7 @@ sources:
     captured_at:
     sha256:
     note: >
-      Judgment of C.V. Karthikeyan J. dismissing Patanjali's applications (A. Nos. 1532 and 1533 of 2020) to
-      suspend and vacate the 17 July 2020 ex-parte interim injunction; restrains Patanjali from using the
-      mark "Coronil" or any deceptive variation pending disposal of the suit and orders costs paid jointly
-      to specified charitable institutions.
+      Judgment of C.V. Karthikeyan J. dismissing Patanjali's applications (A. Nos. 1532 and 1533 of 2020) to suspend and vacate the 17 July 2020 ex-parte interim injunction; restrains Patanjali from using the mark "Coronil" or any deceptive variation pending disposal of the suit and orders costs paid jointly to specified charitable institutions.
   - id: baba-ramdev-src-24
     url: https://indiankanoon.org/doc/82537300/
     title: Indian Medical Association vs Union Of India on 27 August, 2024 (W.P.(C) No. 645/2022)
@@ -378,10 +299,7 @@ sources:
     captured_at: 2026-09-09
     sha256:
     note: >
-      Record of proceedings before Hima Kohli and Sandeep Mehta JJ recording that only 10 States/UTs,
-      including Uttarakhand, had complied with the Court's order of 30 July 2024 on advertising
-      self-certification and the Ministry of AYUSH's complaint dashboard; confirms the existence and
-      substance of the 30 July 2024 order.
+      Record of proceedings before Hima Kohli and Sandeep Mehta JJ recording that only 10 States/UTs, including Uttarakhand, had complied with the Court's order of 30 July 2024 on advertising self-certification and the Ministry of AYUSH's complaint dashboard; confirms the existence and substance of the 30 July 2024 order.
 
 cases:
   - id: baba-ramdev-ima-contempt-2024
@@ -393,43 +311,17 @@ cases:
     case_number: Suo Motu Contempt Petition (Civil) No. 4 of 2024 in Writ Petition (Civil) No. 645 of 2022
     filed_year: 2024
     case_type: regulatory
-    statutes: [Contempt of Courts Act 1971, "Drugs and Magic Remedies (Objectionable Advertisements) Act 1954"]
+    statutes: [ Contempt of Courts Act 1971, "Drugs and Magic Remedies (Objectionable Advertisements) Act 1954" ]
     status: closed; contempt notice discharged after apology accepted
     tier: closed
     verdict_date: 2024-08-13
     sentence_or_remedy: Notice discharged on acceptance of unconditional apology; proposed contemnors cautioned that future violations would be viewed strictly
     appeal_status: Not applicable; underlying writ petition (IMA's grievance against Patanjali's advertising) continues separately
     summary_en: >
-      In the writ petition filed by the Indian Medical Association against Patanjali's advertising and
-      public statements disparaging modern medicine, Patanjali gave an undertaking on 21 November 2023
-      not to violate advertising laws or make casual claims of medicinal efficacy. On 27 February 2024,
-      after IMA showed the Supreme Court a newspaper advertisement and a 22 November 2023 press
-      conference by Ramdev and Acharya Balkrishna repeating cure claims for diseases listed under the
-      Drugs and Magic Remedies Act, the Court issued a contempt notice to Patanjali and Balkrishna; a
-      similar notice followed against Ramdev on 19 March 2024. Over the following months the Court
-      rejected a "qualified" apology (20 March 2024), noted evident discrepancies in travel documents
-      filed to seek exemption from a court appearance (10 April 2024), heard both men apologise in
-      person (16 April 2024), and rejected a public apology published in illegibly fine print (22 April
-      2024) before a corrected, prominent apology was published on 24 April 2024. On 13 August 2024 the
-      Court accepted the unconditional apology and closed the proceedings, holding that the "sword of
-      contempt" would be "flourished as swiftly as these proceedings were originally initiated" if the
-      undertaking were breached again.
+      In the writ petition filed by the Indian Medical Association against Patanjali's advertising and public statements disparaging modern medicine, Patanjali gave an undertaking on 21 November 2023 not to violate advertising laws or make casual claims of medicinal efficacy. On 27 February 2024, after IMA showed the Supreme Court a newspaper advertisement and a 22 November 2023 press conference by Ramdev and Acharya Balkrishna repeating cure claims for diseases listed under the Drugs and Magic Remedies Act, the Court issued a contempt notice to Patanjali and Balkrishna; a similar notice followed against Ramdev on 19 March 2024. Over the following months the Court rejected a "qualified" apology (20 March 2024), noted evident discrepancies in travel documents filed to seek exemption from a court appearance (10 April 2024), heard both men apologise in person (16 April 2024), and rejected a public apology published in illegibly fine print (22 April 2024) before a corrected, prominent apology was published on 24 April 2024. On 13 August 2024 the Court accepted the unconditional apology and closed the proceedings, holding that the "sword of contempt" would be "flourished as swiftly as these proceedings were originally initiated" if the undertaking were breached again.
     summary_hi: >
-      इंडियन मेडिकल एसोसिएशन द्वारा पतंजलि के विज्ञापनों और आधुनिक चिकित्सा को अपमानित करने वाले
-      सार्वजनिक बयानों के विरुद्ध दाखिल रिट याचिका में, पतंजलि ने 21 नवंबर 2023 को वचन दिया था कि वह
-      विज्ञापन कानूनों का उल्लंघन नहीं करेगा और औषधीय प्रभावकारिता के आकस्मिक दावे नहीं करेगा। 27 फरवरी
-      2024 को, जब आईएमए ने सर्वोच्च न्यायालय को एक समाचार-पत्र विज्ञापन और रामदेव व आचार्य बालकृष्ण द्वारा
-      22 नवंबर 2023 के प्रेस सम्मेलन में ड्रग्स एंड मैजिक रेमेडीज़ अधिनियम के तहत सूचीबद्ध रोगों के इलाज के
-      दावे दोहराए जाने को दिखाया, तो न्यायालय ने पतंजलि और बालकृष्ण को अवमानना नोटिस जारी किया; 19 मार्च
-      2024 को रामदेव को भी ऐसा ही नोटिस जारी हुआ। अगले महीनों में न्यायालय ने एक "सशर्त" माफी को अस्वीकार
-      किया (20 मार्च 2024), अदालत में उपस्थिति से छूट माँगने हेतु दाखिल यात्रा दस्तावेज़ों में स्पष्ट
-      विसंगतियाँ नोट कीं (10 अप्रैल 2024), दोनों को व्यक्तिगत रूप से माफी माँगते सुना (16 अप्रैल 2024), और
-      एक ऐसी सार्वजनिक माफी को अस्वीकार किया जो अत्यंत छोटे अक्षरों में प्रकाशित होने से अपठनीय थी (22
-      अप्रैल 2024), जिसके बाद 24 अप्रैल 2024 को एक सुधरी हुई, स्पष्ट माफी प्रकाशित हुई। 13 अगस्त 2024 को
-      न्यायालय ने बिना शर्त माफी स्वीकार करते हुए कार्यवाही बंद कर दी, यह कहते हुए कि यदि वचन का पुनः
-      उल्लंघन हुआ तो "अवमानना की तलवार" उतनी ही तेज़ी से चलाई जाएगी जितनी तेज़ी से यह कार्यवाही मूलतः
-      प्रारंभ की गई थी।
-    source_ids: [baba-ramdev-src-01, baba-ramdev-src-02, baba-ramdev-src-03, baba-ramdev-src-04, baba-ramdev-src-05]
+      इंडियन मेडिकल एसोसिएशन द्वारा पतंजलि के विज्ञापनों और आधुनिक चिकित्सा को अपमानित करने वाले सार्वजनिक बयानों के विरुद्ध दाखिल रिट याचिका में, पतंजलि ने 21 नवंबर 2023 को वचन दिया था कि वह विज्ञापन कानूनों का उल्लंघन नहीं करेगा और औषधीय प्रभावकारिता के आकस्मिक दावे नहीं करेगा। 27 फरवरी 2024 को, जब आईएमए ने सर्वोच्च न्यायालय को एक समाचार-पत्र विज्ञापन और रामदेव व आचार्य बालकृष्ण द्वारा 22 नवंबर 2023 के प्रेस सम्मेलन में ड्रग्स एंड मैजिक रेमेडीज़ अधिनियम के तहत सूचीबद्ध रोगों के इलाज के दावे दोहराए जाने को दिखाया, तो न्यायालय ने पतंजलि और बालकृष्ण को अवमानना नोटिस जारी किया; 19 मार्च 2024 को रामदेव को भी ऐसा ही नोटिस जारी हुआ। अगले महीनों में न्यायालय ने एक "सशर्त" माफी को अस्वीकार किया (20 मार्च 2024), अदालत में उपस्थिति से छूट माँगने हेतु दाखिल यात्रा दस्तावेज़ों में स्पष्ट विसंगतियाँ नोट कीं (10 अप्रैल 2024), दोनों को व्यक्तिगत रूप से माफी माँगते सुना (16 अप्रैल 2024), और एक ऐसी सार्वजनिक माफी को अस्वीकार किया जो अत्यंत छोटे अक्षरों में प्रकाशित होने से अपठनीय थी (22 अप्रैल 2024), जिसके बाद 24 अप्रैल 2024 को एक सुधरी हुई, स्पष्ट माफी प्रकाशित हुई। 13 अगस्त 2024 को न्यायालय ने बिना शर्त माफी स्वीकार करते हुए कार्यवाही बंद कर दी, यह कहते हुए कि यदि वचन का पुनः उल्लंघन हुआ तो "अवमानना की तलवार" उतनी ही तेज़ी से चलाई जाएगी जितनी तेज़ी से यह कार्यवाही मूलतः प्रारंभ की गई थी।
+    source_ids: [ baba-ramdev-src-01, baba-ramdev-src-02, baba-ramdev-src-03, baba-ramdev-src-04, baba-ramdev-src-05 ]
 
   - id: baba-ramdev-uttarakhand-licence-suspension-2024
     title_en: Suspension of manufacturing licences of 14 Patanjali/Divya Pharmacy Ayurvedic products by the State of Uttarakhand
@@ -440,33 +332,17 @@ cases:
     case_number: Order dated 15.04.2024 (licensing authority); referenced in Suo Motu Contempt Petition (Civil) No. 4 of 2024
     filed_year: 2024
     case_type: regulatory
-    statutes: [Drugs and Cosmetics Act 1940]
+    statutes: [ Drugs and Cosmetics Act 1940 ]
     status: closed; suspension order cancelled by the state government
     tier: closed
     verdict_date: 2024-07-01
     sentence_or_remedy: Manufacturing licences of 14 named products suspended, then the suspension order itself cancelled by the state government
     appeal_status: Not applicable; Supreme Court directed the state to take a fresh decision, outcome not further confirmed
     summary_en: >
-      On 15 April 2024 the State Drug Licensing Authority (Ayurvedic and Unani Services), Dehradun,
-      suspended the manufacturing licences of 14 Ayurvedic products made by Patanjali and its associate
-      Divya Pharmacy - including Swasari Gold, Mukta Vati Extra Power, Lipidom and Patanjali Drishti Eye
-      Drop - over misleading advertising of their efficacy, in the course of the Supreme Court contempt
-      proceedings. Patanjali told the Supreme Court it had stopped online sales of the products by 9 May
-      2024 and issued withdrawal instructions to its stockists, franchises and advertising agencies. On 1
-      July 2024 the Uttarakhand government cancelled its own suspension order after considering a panel
-      report, prompting the Supreme Court on 30 July 2024 to direct the state to take a fresh decision
-      within two weeks.
+      On 15 April 2024 the State Drug Licensing Authority (Ayurvedic and Unani Services), Dehradun, suspended the manufacturing licences of 14 Ayurvedic products made by Patanjali and its associate Divya Pharmacy - including Swasari Gold, Mukta Vati Extra Power, Lipidom and Patanjali Drishti Eye Drop - over misleading advertising of their efficacy, in the course of the Supreme Court contempt proceedings. Patanjali told the Supreme Court it had stopped online sales of the products by 9 May 2024 and issued withdrawal instructions to its stockists, franchises and advertising agencies. On 1 July 2024 the Uttarakhand government cancelled its own suspension order after considering a panel report, prompting the Supreme Court on 30 July 2024 to direct the state to take a fresh decision within two weeks.
     summary_hi: >
-      15 अप्रैल 2024 को राज्य औषधि लाइसेंसिंग प्राधिकरण (आयुर्वेद एवं यूनानी सेवाएँ), देहरादून ने पतंजलि
-      और उसकी सहयोगी दिव्य फार्मेसी द्वारा निर्मित 14 आयुर्वेदिक उत्पादों — जिनमें स्वसारि गोल्ड, मुक्ता
-      वटी एक्स्ट्रा पावर, लिपिडोम और पतंजलि दृष्टि आई ड्रॉप शामिल हैं — के निर्माण लाइसेंस को उनकी
-      प्रभावकारिता के भ्रामक विज्ञापन के आरोप में सर्वोच्च न्यायालय की अवमानना कार्यवाही के दौरान निलंबित
-      कर दिया। पतंजलि ने सर्वोच्च न्यायालय को बताया कि उसने 9 मई 2024 तक इन उत्पादों की ऑनलाइन बिक्री
-      रोक दी और अपने स्टॉकिस्टों, फ्रेंचाइज़ी व विज्ञापन एजेंसियों को वापसी के निर्देश जारी किए। 1 जुलाई
-      2024 को उत्तराखंड सरकार ने एक समिति की रिपोर्ट पर विचार करने के बाद अपना निलंबन आदेश रद्द कर दिया,
-      जिस पर सर्वोच्च न्यायालय ने 30 जुलाई 2024 को राज्य को दो सप्ताह के भीतर नया निर्णय लेने का निर्देश
-      दिया।
-    source_ids: [baba-ramdev-src-01, baba-ramdev-src-06, baba-ramdev-src-07]
+      15 अप्रैल 2024 को राज्य औषधि लाइसेंसिंग प्राधिकरण (आयुर्वेद एवं यूनानी सेवाएँ), देहरादून ने पतंजलि और उसकी सहयोगी दिव्य फार्मेसी द्वारा निर्मित 14 आयुर्वेदिक उत्पादों — जिनमें स्वसारि गोल्ड, मुक्ता वटी एक्स्ट्रा पावर, लिपिडोम और पतंजलि दृष्टि आई ड्रॉप शामिल हैं — के निर्माण लाइसेंस को उनकी प्रभावकारिता के भ्रामक विज्ञापन के आरोप में सर्वोच्च न्यायालय की अवमानना कार्यवाही के दौरान निलंबित कर दिया। पतंजलि ने सर्वोच्च न्यायालय को बताया कि उसने 9 मई 2024 तक इन उत्पादों की ऑनलाइन बिक्री रोक दी और अपने स्टॉकिस्टों, फ्रेंचाइज़ी व विज्ञापन एजेंसियों को वापसी के निर्देश जारी किए। 1 जुलाई 2024 को उत्तराखंड सरकार ने एक समिति की रिपोर्ट पर विचार करने के बाद अपना निलंबन आदेश रद्द कर दिया, जिस पर सर्वोच्च न्यायालय ने 30 जुलाई 2024 को राज्य को दो सप्ताह के भीतर नया निर्णय लेने का निर्देश दिया।
+    source_ids: [ baba-ramdev-src-01, baba-ramdev-src-06, baba-ramdev-src-07 ]
 
   - id: baba-ramdev-dabur-chyawanprash-2025
     title_en: Dabur India Limited v. Patanjali Ayurved Limited and Anr. (Chyawanprash disparagement)
@@ -477,37 +353,17 @@ cases:
     case_number: CS(COMM) 1195/2024, I.A. 49744/2024 and I.A. 419/2025
     filed_year: 2024
     case_type: civil
-    statutes: [Trade Marks Act 1999, "law of disparagement/malicious falsehood"]
+    statutes: [ Trade Marks Act 1999, "law of disparagement/malicious falsehood" ]
     status: interim relief granted; suit and appeal pending; further interim order in a related dispute in November 2025
     tier: regulatory_action
     verdict_date:
     sentence_or_remedy: Patanjali directed to delete specified disparaging lines from its television and print advertisements for Patanjali Special Chyawanprash
     appeal_status: Patanjali filed an intra-court appeal against the 3 July 2025 order (reported 19 September 2025); outcome not further confirmed
     summary_en: >
-      Dabur sued Patanjali seeking a permanent injunction over advertisements for "Patanjali Special
-      Chyawanprash" that it said disparaged "Dabur Chyawanprash" - the market leader with about 61.6%
-      share - and Chyawanprash generally, by describing rival products as "ordinary" and asserting that
-      only Patanjali had the traditional knowledge to prepare genuine Chyawanprash. On 3 July 2025 Mini
-      Pushkarna J. held that, as Chyawanprash is a classical Ayurvedic medicine regulated under the Drugs
-      and Cosmetics Act, disparagement had to be judged by a stricter threshold; she found a strong prima
-      facie case and directed Patanjali to delete the impugned lines from its Hindi and English television
-      commercial and print advertisements, leaving other disputed claims (use of "special", "51 precious
-      herbs", presence of mercury) to trial. Patanjali appealed the order. In November 2025 the Court
-      granted further interim relief after Dabur complained of a Star Plus advertisement calling other
-      Chyawanprash "dhoka" (deception).
+      Dabur sued Patanjali seeking a permanent injunction over advertisements for "Patanjali Special Chyawanprash" that it said disparaged "Dabur Chyawanprash" - the market leader with about 61.6% share - and Chyawanprash generally, by describing rival products as "ordinary" and asserting that only Patanjali had the traditional knowledge to prepare genuine Chyawanprash. On 3 July 2025 Mini Pushkarna J. held that, as Chyawanprash is a classical Ayurvedic medicine regulated under the Drugs and Cosmetics Act, disparagement had to be judged by a stricter threshold; she found a strong prima facie case and directed Patanjali to delete the impugned lines from its Hindi and English television commercial and print advertisements, leaving other disputed claims (use of "special", "51 precious herbs", presence of mercury) to trial. Patanjali appealed the order. In November 2025 the Court granted further interim relief after Dabur complained of a Star Plus advertisement calling other Chyawanprash "dhoka" (deception).
     summary_hi: >
-      डाबर ने पतंजलि के विरुद्ध स्थायी निषेधाज्ञा की माँग करते हुए मुकदमा दायर किया, जिसमें कहा गया कि
-      "पतंजलि स्पेशल च्यवनप्राश" के विज्ञापन "डाबर च्यवनप्राश" — जिसकी बाज़ार में लगभग 61.6% हिस्सेदारी है
-      — और सामान्यतः च्यवनप्राश को प्रतिद्वंद्वी उत्पादों को "साधारण" बताकर तथा यह दावा कर अपमानित करते
-      हैं कि केवल पतंजलि के पास असली च्यवनप्राश बनाने का पारंपरिक ज्ञान है। 3 जुलाई 2025 को न्यायमूर्ति
-      मिनी पुष्करणा ने कहा कि च्यवनप्राश एक शास्त्रीय आयुर्वेदिक औषधि है जो ड्रग्स एंड कॉस्मेटिक्स
-      अधिनियम के तहत विनियमित है, इसलिए अपमानजनकता की परख कड़े मानदंड पर होनी चाहिए; उन्होंने प्रथम
-      दृष्टया मज़बूत मामला पाते हुए पतंजलि को अपने हिंदी व अंग्रेज़ी टीवी विज्ञापन और प्रिंट विज्ञापनों से
-      आपत्तिजनक पंक्तियाँ हटाने का निर्देश दिया, जबकि अन्य विवादित दावे (जैसे "स्पेशल" शब्द का प्रयोग, "51
-      बहुमूल्य जड़ी-बूटियाँ", पारे की उपस्थिति) विचारण के लिए छोड़ दिए। पतंजलि ने इस आदेश के विरुद्ध अपील
-      की। नवंबर 2025 में न्यायालय ने डाबर की उस शिकायत पर और अंतरिम राहत दी जिसमें स्टार प्लस पर प्रसारित
-      एक विज्ञापन में पतंजलि द्वारा अन्य च्यवनप्राश को "धोखा" कहे जाने का आरोप था।
-    source_ids: [baba-ramdev-src-10, baba-ramdev-src-11, baba-ramdev-src-12, baba-ramdev-src-13]
+      डाबर ने पतंजलि के विरुद्ध स्थायी निषेधाज्ञा की माँग करते हुए मुकदमा दायर किया, जिसमें कहा गया कि "पतंजलि स्पेशल च्यवनप्राश" के विज्ञापन "डाबर च्यवनप्राश" — जिसकी बाज़ार में लगभग 61.6% हिस्सेदारी है — और सामान्यतः च्यवनप्राश को प्रतिद्वंद्वी उत्पादों को "साधारण" बताकर तथा यह दावा कर अपमानित करते हैं कि केवल पतंजलि के पास असली च्यवनप्राश बनाने का पारंपरिक ज्ञान है। 3 जुलाई 2025 को न्यायमूर्ति मिनी पुष्करणा ने कहा कि च्यवनप्राश एक शास्त्रीय आयुर्वेदिक औषधि है जो ड्रग्स एंड कॉस्मेटिक्स अधिनियम के तहत विनियमित है, इसलिए अपमानजनकता की परख कड़े मानदंड पर होनी चाहिए; उन्होंने प्रथम दृष्टया मज़बूत मामला पाते हुए पतंजलि को अपने हिंदी व अंग्रेज़ी टीवी विज्ञापन और प्रिंट विज्ञापनों से आपत्तिजनक पंक्तियाँ हटाने का निर्देश दिया, जबकि अन्य विवादित दावे (जैसे "स्पेशल" शब्द का प्रयोग, "51 बहुमूल्य जड़ी-बूटियाँ", पारे की उपस्थिति) विचारण के लिए छोड़ दिए। पतंजलि ने इस आदेश के विरुद्ध अपील की। नवंबर 2025 में न्यायालय ने डाबर की उस शिकायत पर और अंतरिम राहत दी जिसमें स्टार प्लस पर प्रसारित एक विज्ञापन में पतंजलि द्वारा अन्य च्यवनप्राश को "धोखा" कहे जाने का आरोप था।
+    source_ids: [ baba-ramdev-src-10, baba-ramdev-src-11, baba-ramdev-src-12, baba-ramdev-src-13 ]
 
   - id: baba-ramdev-hamdard-sharbat-jihad-2025
     title_en: Hamdard National Foundation India v. Patanjali Foods Limited (the "sharbat jihad" video)
@@ -518,34 +374,17 @@ cases:
     case_number: CS(COMM) 356/2025
     filed_year: 2025
     case_type: civil
-    statutes: ["law of disparagement/defamation"]
+    statutes: [ "law of disparagement/defamation" ]
     status: disposed of
     tier: closed
     verdict_date: 2025-05-09
     sentence_or_remedy: Suit disposed of after the defendants confirmed on affidavit that the impugned video had been permanently removed
     appeal_status: Not applicable
     summary_en: >
-      Hamdard National Foundation India sued Patanjali Foods Limited over a video Ramdev posted while
-      promoting Patanjali's new Gulab Sharbat, in which he used the phrase "sharbat jihad" and suggested
-      profits from Hamdard's Rooh Afza funded madrasas and mosques. At a hearing on 22 April 2025, Amit
-      Bansal J. said the remarks "shocked the conscience of the court" and were "indefensible", warned
-      Patanjali's counsel to obtain clear instructions, and directed removal of the video, distinguishing
-      between merely making it private and permanently deleting it; Patanjali complied. When the matter
-      returned in May 2025 the Court noted it would consider issuing a contempt notice if disparaging,
-      communally framed videos against Hamdard continued. On 9 May 2025 the Court disposed of the suit
-      after Patanjali confirmed on affidavit that the video had been permanently taken down.
+      Hamdard National Foundation India sued Patanjali Foods Limited over a video Ramdev posted while promoting Patanjali's new Gulab Sharbat, in which he used the phrase "sharbat jihad" and suggested profits from Hamdard's Rooh Afza funded madrasas and mosques. At a hearing on 22 April 2025, Amit Bansal J. said the remarks "shocked the conscience of the court" and were "indefensible", warned Patanjali's counsel to obtain clear instructions, and directed removal of the video, distinguishing between merely making it private and permanently deleting it; Patanjali complied. When the matter returned in May 2025 the Court noted it would consider issuing a contempt notice if disparaging, communally framed videos against Hamdard continued. On 9 May 2025 the Court disposed of the suit after Patanjali confirmed on affidavit that the video had been permanently taken down.
     summary_hi: >
-      हमदर्द नेशनल फाउंडेशन इंडिया ने पतंजलि फूड्स लिमिटेड के विरुद्ध उस वीडियो को लेकर मुकदमा दायर किया
-      जो रामदेव ने पतंजलि के नए गुलाब शरबत के प्रचार के दौरान पोस्ट किया था, जिसमें उन्होंने "शरबत जिहाद"
-      शब्द का प्रयोग किया और यह संकेत दिया कि हमदर्द के रूह अफ़ज़ा से होने वाला मुनाफ़ा मदरसों और मस्जिदों
-      को वित्तपोषित करता है। 22 अप्रैल 2025 की सुनवाई में न्यायमूर्ति अमित बंसल ने कहा कि ये टिप्पणियाँ
-      "न्यायालय की अंतरात्मा को झकझोरने वाली" और "अक्षम्य" हैं, पतंजलि के वकील को स्पष्ट निर्देश लेने की
-      चेतावनी दी, और वीडियो हटाने का आदेश दिया, यह स्पष्ट करते हुए कि इसे केवल निजी करना पर्याप्त नहीं,
-      स्थायी रूप से हटाना आवश्यक है; पतंजलि ने अनुपालन किया। मई 2025 में मामला पुनः सूचीबद्ध होने पर
-      न्यायालय ने कहा कि यदि हमदर्द के विरुद्ध अपमानजनक, सांप्रदायिक रंग वाले वीडियो जारी रहे तो वह
-      अवमानना नोटिस पर विचार करेगा। 9 मई 2025 को पतंजलि द्वारा हलफनामे पर यह पुष्टि करने के बाद कि वीडियो
-      स्थायी रूप से हटा दिया गया है, न्यायालय ने मुकदमा निपटा दिया।
-    source_ids: [baba-ramdev-src-14, baba-ramdev-src-15, baba-ramdev-src-16]
+      हमदर्द नेशनल फाउंडेशन इंडिया ने पतंजलि फूड्स लिमिटेड के विरुद्ध उस वीडियो को लेकर मुकदमा दायर किया जो रामदेव ने पतंजलि के नए गुलाब शरबत के प्रचार के दौरान पोस्ट किया था, जिसमें उन्होंने "शरबत जिहाद" शब्द का प्रयोग किया और यह संकेत दिया कि हमदर्द के रूह अफ़ज़ा से होने वाला मुनाफ़ा मदरसों और मस्जिदों को वित्तपोषित करता है। 22 अप्रैल 2025 की सुनवाई में न्यायमूर्ति अमित बंसल ने कहा कि ये टिप्पणियाँ "न्यायालय की अंतरात्मा को झकझोरने वाली" और "अक्षम्य" हैं, पतंजलि के वकील को स्पष्ट निर्देश लेने की चेतावनी दी, और वीडियो हटाने का आदेश दिया, यह स्पष्ट करते हुए कि इसे केवल निजी करना पर्याप्त नहीं, स्थायी रूप से हटाना आवश्यक है; पतंजलि ने अनुपालन किया। मई 2025 में मामला पुनः सूचीबद्ध होने पर न्यायालय ने कहा कि यदि हमदर्द के विरुद्ध अपमानजनक, सांप्रदायिक रंग वाले वीडियो जारी रहे तो वह अवमानना नोटिस पर विचार करेगा। 9 मई 2025 को पतंजलि द्वारा हलफनामे पर यह पुष्टि करने के बाद कि वीडियो स्थायी रूप से हटा दिया गया है, न्यायालय ने मुकदमा निपटा दिया।
+    source_ids: [ baba-ramdev-src-14, baba-ramdev-src-15, baba-ramdev-src-16 ]
 
   - id: baba-ramdev-coronil-trademark-2020
     title_en: Arudra Engineers Private Limited v. Patanjali Ayurved Limited (the "Coronil" trademark)
@@ -556,36 +395,17 @@ cases:
     case_number: O.A. No. 258 of 2020 in C.S. No. 163 of 2020; appeal O.S.A. No. 169 of 2020
     filed_year: 2020
     case_type: civil
-    statutes: [Trade Marks Act 1999]
+    statutes: [ Trade Marks Act 1999 ]
     status: closed; injunction set aside on appeal
     tier: closed
     verdict_date: 2021-02-02
     sentence_or_remedy: Interim injunction restraining use of "Coronil" and a Rs 10 lakh cost, both later set aside on appeal
     appeal_status: Division Bench allowed Patanjali's appeal (O.S.A. No. 169 of 2020) on 2 February 2021
     summary_en: >
-      A Chennai company, Arudra Engineers, which had held the registered trademark "CORONIL-92 B" for an
-      industrial acid inhibitor since 1993, sued Patanjali over its "Coronil" tablet, launched in June
-      2020 and initially described as a cure for Covid-19 before the Ministry of AYUSH said it was
-      licensed only as an immunity booster. On 17 July 2020 C.V. Karthikeyan J. granted an ex-parte
-      interim injunction restraining Patanjali from using the mark; on 6 August 2020 he made the
-      injunction absolute and imposed a Rs 10 lakh cost, split between the Adyar Cancer Institute and a
-      government naturopathy hospital, remarking that Patanjali was "exploiting the fear and panic among
-      the general public" by projecting Coronil as a cure. On 2 February 2021 a Division Bench allowed
-      Patanjali's appeal (O.S.A. No. 169 of 2020), holding that registration of a composite mark does not
-      confer a monopoly over each of its components and that no prima facie case of infringement was made out.
+      A Chennai company, Arudra Engineers, which had held the registered trademark "CORONIL-92 B" for an industrial acid inhibitor since 1993, sued Patanjali over its "Coronil" tablet, launched in June 2020 and initially described as a cure for Covid-19 before the Ministry of AYUSH said it was licensed only as an immunity booster. On 17 July 2020 C.V. Karthikeyan J. granted an ex-parte interim injunction restraining Patanjali from using the mark; on 6 August 2020 he made the injunction absolute and imposed a Rs 10 lakh cost, split between the Adyar Cancer Institute and a government naturopathy hospital, remarking that Patanjali was "exploiting the fear and panic among the general public" by projecting Coronil as a cure. On 2 February 2021 a Division Bench allowed Patanjali's appeal (O.S.A. No. 169 of 2020), holding that registration of a composite mark does not confer a monopoly over each of its components and that no prima facie case of infringement was made out.
     summary_hi: >
-      चेन्नई की एक कंपनी अरुद्र इंजीनियर्स, जिसके पास 1993 से एक औद्योगिक एसिड इनहिबिटर के लिए
-      "CORONIL-92 B" पंजीकृत ट्रेडमार्क था, ने पतंजलि की "कोरोनिल" टैबलेट को लेकर मुकदमा किया, जो जून
-      2020 में लॉन्च हुई थी और शुरुआत में कोविड-19 के इलाज के रूप में बताई गई थी, जब तक कि आयुष मंत्रालय
-      ने स्पष्ट नहीं किया कि यह केवल इम्युनिटी बूस्टर के रूप में लाइसेंस प्राप्त है। 17 जुलाई 2020 को
-      न्यायमूर्ति सी.वी. कार्तिकेयन ने पतंजलि को यह चिह्न उपयोग करने से रोकते हुए एकपक्षीय अंतरिम
-      निषेधाज्ञा दी; 6 अगस्त 2020 को उन्होंने इस निषेधाज्ञा को स्थायी बनाया और 10 लाख रुपये का हर्जाना
-      लगाया, जिसे अड्यार कैंसर इंस्टिट्यूट और एक सरकारी नेचुरोपैथी अस्पताल के बीच बाँटा जाना था, यह
-      टिप्पणी करते हुए कि पतंजलि कोरोनिल को इलाज के रूप में प्रस्तुत कर "आम जनता में भय और दहशत का लाभ
-      उठा" रहा है। 2 फरवरी 2021 को खंडपीठ ने पतंजलि की अपील (O.S.A. No. 169/2020) स्वीकार करते हुए कहा कि
-      किसी संयुक्त चिह्न का पंजीकरण उसके प्रत्येक घटक पर एकाधिकार नहीं देता और अतिक्रमण का प्रथम दृष्टया
-      कोई मामला नहीं बनता।
-    source_ids: [baba-ramdev-src-17, baba-ramdev-src-18, baba-ramdev-src-19, baba-ramdev-src-20]
+      चेन्नई की एक कंपनी अरुद्र इंजीनियर्स, जिसके पास 1993 से एक औद्योगिक एसिड इनहिबिटर के लिए "CORONIL-92 B" पंजीकृत ट्रेडमार्क था, ने पतंजलि की "कोरोनिल" टैबलेट को लेकर मुकदमा किया, जो जून 2020 में लॉन्च हुई थी और शुरुआत में कोविड-19 के इलाज के रूप में बताई गई थी, जब तक कि आयुष मंत्रालय ने स्पष्ट नहीं किया कि यह केवल इम्युनिटी बूस्टर के रूप में लाइसेंस प्राप्त है। 17 जुलाई 2020 को न्यायमूर्ति सी.वी. कार्तिकेयन ने पतंजलि को यह चिह्न उपयोग करने से रोकते हुए एकपक्षीय अंतरिम निषेधाज्ञा दी; 6 अगस्त 2020 को उन्होंने इस निषेधाज्ञा को स्थायी बनाया और 10 लाख रुपये का हर्जाना लगाया, जिसे अड्यार कैंसर इंस्टिट्यूट और एक सरकारी नेचुरोपैथी अस्पताल के बीच बाँटा जाना था, यह टिप्पणी करते हुए कि पतंजलि कोरोनिल को इलाज के रूप में प्रस्तुत कर "आम जनता में भय और दहशत का लाभ उठा" रहा है। 2 फरवरी 2021 को खंडपीठ ने पतंजलि की अपील (O.S.A. No. 169/2020) स्वीकार करते हुए कहा कि किसी संयुक्त चिह्न का पंजीकरण उसके प्रत्येक घटक पर एकाधिकार नहीं देता और अतिक्रमण का प्रथम दृष्टया कोई मामला नहीं बनता।
+    source_ids: [ baba-ramdev-src-17, baba-ramdev-src-18, baba-ramdev-src-19, baba-ramdev-src-20 ]
 
 claims:
   - id: baba-ramdev-claim-01
@@ -594,77 +414,77 @@ claims:
     statement_hi: 27 फरवरी 2024 को सर्वोच्च न्यायालय ने पतंजलि आयुर्वेद लिमिटेड और उसके प्रबंध निदेशक आचार्य बालकृष्ण को यह कारण बताओ नोटिस जारी किया कि उनके विरुद्ध अवमानना कार्यवाही क्यों न शुरू की जाए, क्योंकि रामदेव और बालकृष्ण द्वारा जारी विज्ञापनों और आयोजित प्रेस सम्मेलन ने न्यायालय की दृष्टि में 21 नवंबर 2023 के उस वचन का उल्लंघन किया जिसमें औषधीय प्रभावकारिता के विज्ञापन दावों से बचने की बात कही गई थी।
     tier: regulatory_action
     date: 2024-02-27
-    source_ids: [baba-ramdev-src-01, baba-ramdev-src-02]
+    source_ids: [ baba-ramdev-src-01, baba-ramdev-src-02 ]
   - id: baba-ramdev-claim-02
     case_id: baba-ramdev-ima-contempt-2024
     statement_en: On 19 March 2024 the Supreme Court issued a similar contempt notice to Baba Ramdev individually, finding that he too had violated the provisions of law by participating in the press conference and advertisements.
     statement_hi: 19 मार्च 2024 को सर्वोच्च न्यायालय ने बाबा रामदेव को व्यक्तिगत रूप से भी ऐसा ही अवमानना नोटिस जारी किया, यह पाते हुए कि उन्होंने भी प्रेस सम्मेलन और विज्ञापनों में भाग लेकर कानून के प्रावधानों का उल्लंघन किया।
     tier: regulatory_action
     date: 2024-03-19
-    source_ids: [baba-ramdev-src-01]
+    source_ids: [ baba-ramdev-src-01 ]
   - id: baba-ramdev-claim-03
     case_id: baba-ramdev-ima-contempt-2024
     statement_en: On 13 August 2024 a Division Bench of the Supreme Court (Hima Kohli and Ahsanuddin Amanullah JJ) closed the suo motu contempt proceedings against Patanjali, Balkrishna and Ramdev, accepting their unconditional apology and the steps taken to publicise it, while cautioning that "any future intransigence" would be viewed strictly and could revive the contempt proceedings.
     statement_hi: 13 अगस्त 2024 को सर्वोच्च न्यायालय की खंडपीठ (न्यायमूर्ति हिमा कोहली और अहसानुद्दीन अमानुल्लाह) ने पतंजलि, बालकृष्ण और रामदेव के विरुद्ध स्वतः संज्ञान अवमानना कार्यवाही बंद कर दी, उनकी बिना शर्त माफी और उसे सार्वजनिक करने हेतु उठाए गए कदमों को स्वीकार करते हुए, साथ ही यह चेतावनी दी कि "भविष्य में कोई भी हठधर्मिता" गंभीरता से देखी जाएगी और अवमानना कार्यवाही पुनः शुरू हो सकती है।
     tier: closed
     date: 2024-08-13
-    source_ids: [baba-ramdev-src-01, baba-ramdev-src-03, baba-ramdev-src-04, baba-ramdev-src-05]
+    source_ids: [ baba-ramdev-src-01, baba-ramdev-src-03, baba-ramdev-src-04, baba-ramdev-src-05 ]
   - id: baba-ramdev-claim-04
     case_id: baba-ramdev-uttarakhand-licence-suspension-2024
     statement_en: On 15 April 2024 the State Drug Licensing Authority (Ayurvedic and Unani Services), Dehradun, Uttarakhand, suspended the manufacturing licences of 14 Ayurvedic products made by Patanjali and its associate Divya Pharmacy, over misleading advertising of their efficacy.
     statement_hi: 15 अप्रैल 2024 को उत्तराखंड के राज्य औषधि लाइसेंसिंग प्राधिकरण (आयुर्वेद एवं यूनानी सेवाएँ), देहरादून ने पतंजलि और उसकी सहयोगी दिव्य फार्मेसी द्वारा निर्मित 14 आयुर्वेदिक उत्पादों के निर्माण लाइसेंस को उनकी प्रभावकारिता के भ्रामक विज्ञापन के आरोप में निलंबित कर दिया।
     tier: regulatory_action
     date: 2024-04-15
-    source_ids: [baba-ramdev-src-01, baba-ramdev-src-07]
+    source_ids: [ baba-ramdev-src-01, baba-ramdev-src-07 ]
   - id: baba-ramdev-claim-05
     case_id: baba-ramdev-uttarakhand-licence-suspension-2024
     statement_en: On 1 July 2024 the Uttarakhand government cancelled its own 15 April 2024 order suspending the 14 product licences, after considering the report of a panel it had constituted to examine the matter.
     statement_hi: 1 जुलाई 2024 को उत्तराखंड सरकार ने 14 उत्पाद लाइसेंसों को निलंबित करने वाले अपने 15 अप्रैल 2024 के आदेश को, इस विषय की जाँच हेतु गठित एक समिति की रिपोर्ट पर विचार करने के बाद, स्वयं रद्द कर दिया।
     tier: closed
     date: 2024-07-01
-    source_ids: [baba-ramdev-src-06]
+    source_ids: [ baba-ramdev-src-06 ]
   - id: baba-ramdev-claim-06
     case_id: baba-ramdev-uttarakhand-licence-suspension-2024
     statement_en: On 30 July 2024, in the course of the contempt proceedings, a Supreme Court bench of Hima Kohli and Sandeep Mehta JJ directed the Uttarakhand government to take a fresh decision on the licence suspension within two weeks and to file a report, after IMA's counsel pointed out that the 14 medicines remained available over the counter despite the cancelled suspension.
     statement_hi: 30 जुलाई 2024 को, अवमानना कार्यवाही के दौरान, सर्वोच्च न्यायालय की न्यायमूर्ति हिमा कोहली और संदीप मेहता की पीठ ने उत्तराखंड सरकार को दो सप्ताह के भीतर लाइसेंस निलंबन पर नया निर्णय लेने और रिपोर्ट दाखिल करने का निर्देश दिया, यह देखते हुए कि आईएमए के वकील ने बताया था कि निलंबन रद्द होने के बावजूद 14 दवाएँ खुले बाज़ार में उपलब्ध हैं।
     tier: regulatory_action
     date: 2024-07-30
-    source_ids: [baba-ramdev-src-06, baba-ramdev-src-24]
+    source_ids: [ baba-ramdev-src-06, baba-ramdev-src-24 ]
   - id: baba-ramdev-claim-07
     case_id: baba-ramdev-dabur-chyawanprash-2025
     statement_en: On 3 July 2025 the Delhi High Court (Mini Pushkarna J.) held that Patanjali's television and print advertisements for "Patanjali Special Chyawanprash" made out a strong prima facie case of disparagement of "Dabur Chyawanprash" and Chyawanprash generally, and directed Patanjali to delete the specific lines describing rival products as "ordinary" and claiming only Patanjali knew the correct tradition for preparing Chyawanprash.
     statement_hi: 3 जुलाई 2025 को दिल्ली उच्च न्यायालय (न्यायमूर्ति मिनी पुष्करणा) ने कहा कि "पतंजलि स्पेशल च्यवनप्राश" के टीवी और प्रिंट विज्ञापन "डाबर च्यवनप्राश" तथा सामान्यतः च्यवनप्राश को अपमानित करने का प्रथम दृष्टया मज़बूत मामला बनाते हैं, और पतंजलि को उन विशिष्ट पंक्तियों को हटाने का निर्देश दिया जिनमें प्रतिद्वंद्वी उत्पादों को "साधारण" बताया गया था और यह दावा किया गया था कि केवल पतंजलि को च्यवनप्राश बनाने की सही परंपरा का ज्ञान है।
     tier: regulatory_action
     date: 2025-07-03
-    source_ids: [baba-ramdev-src-10, baba-ramdev-src-11]
+    source_ids: [ baba-ramdev-src-10, baba-ramdev-src-11 ]
   - id: baba-ramdev-claim-08
     case_id: baba-ramdev-hamdard-sharbat-jihad-2025
     statement_en: At a hearing on 22 April 2025 in Hamdard National Foundation India v. Patanjali Foods Limited, the Delhi High Court (Amit Bansal J.) described a video in which Ramdev used the phrase "sharbat jihad" against Hamdard's Rooh Afza as content that "shocks the conscience of the court" and "indefensible", and directed the video's permanent removal.
     statement_hi: हमदर्द नेशनल फाउंडेशन इंडिया बनाम पतंजलि फूड्स लिमिटेड मामले में 22 अप्रैल 2025 की सुनवाई में दिल्ली उच्च न्यायालय (न्यायमूर्ति अमित बंसल) ने उस वीडियो को, जिसमें रामदेव ने हमदर्द के रूह अफ़ज़ा के विरुद्ध "शरबत जिहाद" शब्द का प्रयोग किया था, "न्यायालय की अंतरात्मा को झकझोरने वाली" और "अक्षम्य" सामग्री बताया, और वीडियो को स्थायी रूप से हटाने का निर्देश दिया।
     tier: regulatory_action
     date: 2025-04-22
-    source_ids: [baba-ramdev-src-22, baba-ramdev-src-14, baba-ramdev-src-15]
+    source_ids: [ baba-ramdev-src-22, baba-ramdev-src-14, baba-ramdev-src-15 ]
   - id: baba-ramdev-claim-09
     case_id: baba-ramdev-hamdard-sharbat-jihad-2025
     statement_en: On 9 May 2025 the Delhi High Court disposed of the Hamdard suit after Patanjali Foods confirmed on affidavit that the "sharbat jihad" video had been permanently taken down, the Court having earlier indicated it would consider a contempt notice if such videos continued.
     statement_hi: 9 मई 2025 को दिल्ली उच्च न्यायालय ने हमदर्द के मुकदमे को पतंजलि फूड्स द्वारा हलफनामे पर यह पुष्टि किए जाने के बाद निपटा दिया कि "शरबत जिहाद" वीडियो स्थायी रूप से हटा दिया गया है; न्यायालय ने पहले संकेत दिया था कि यदि ऐसे वीडियो जारी रहे तो वह अवमानना नोटिस पर विचार करेगा।
     tier: closed
     date: 2025-05-09
-    source_ids: [baba-ramdev-src-15, baba-ramdev-src-16]
+    source_ids: [ baba-ramdev-src-15, baba-ramdev-src-16 ]
   - id: baba-ramdev-claim-10
     case_id: baba-ramdev-coronil-trademark-2020
     statement_en: On 6 August 2020 the Madras High Court (C.V. Karthikeyan J.) made absolute an injunction restraining Patanjali from using the "Coronil" trademark and imposed a Rs 10 lakh cost, remarking that Patanjali was "exploiting the fear and panic among the general public" by describing the tablet as a cure rather than an immunity booster.
     statement_hi: 6 अगस्त 2020 को मद्रास उच्च न्यायालय (न्यायमूर्ति सी.वी. कार्तिकेयन) ने पतंजलि को "कोरोनिल" ट्रेडमार्क के प्रयोग से रोकने वाली निषेधाज्ञा को स्थायी बनाया और 10 लाख रुपये का हर्जाना लगाया, यह टिप्पणी करते हुए कि पतंजलि टैबलेट को इम्युनिटी बूस्टर के बजाय इलाज बताकर "आम जनता में भय और दहशत का लाभ उठा" रहा है।
     tier: regulatory_action
     date: 2020-08-06
-    source_ids: [baba-ramdev-src-23, baba-ramdev-src-17, baba-ramdev-src-18]
+    source_ids: [ baba-ramdev-src-23, baba-ramdev-src-17, baba-ramdev-src-18 ]
   - id: baba-ramdev-claim-11
     case_id: baba-ramdev-coronil-trademark-2020
     statement_en: On 2 February 2021 a Division Bench of the Madras High Court allowed Patanjali's appeal (O.S.A. No. 169 of 2020) and set aside the injunction, holding that registration of the composite mark "CORONIL-92 B" did not confer a monopoly over the word "Coronil" alone and that no prima facie case of infringement was made out against Patanjali.
     statement_hi: 2 फरवरी 2021 को मद्रास उच्च न्यायालय की खंडपीठ ने पतंजलि की अपील (O.S.A. No. 169/2020) स्वीकार करते हुए निषेधाज्ञा को रद्द कर दिया, यह कहते हुए कि संयुक्त चिह्न "CORONIL-92 B" के पंजीकरण से अकेले "कोरोनिल" शब्द पर एकाधिकार नहीं मिलता और पतंजलि के विरुद्ध अतिक्रमण का कोई प्रथम दृष्टया मामला नहीं बनता।
     tier: closed
     date: 2021-02-02
-    source_ids: [baba-ramdev-src-19, baba-ramdev-src-20]
+    source_ids: [ baba-ramdev-src-19, baba-ramdev-src-20 ]
 
 events:
   - date: 2022-08-23
@@ -672,88 +492,88 @@ events:
     label_en: Supreme Court issues notice on the Indian Medical Association's writ petition against Patanjali's advertising campaign
     label_hi: सर्वोच्च न्यायालय ने पतंजलि के विज्ञापन अभियान के विरुद्ध इंडियन मेडिकल एसोसिएशन की रिट याचिका पर नोटिस जारी किया
     case_id: baba-ramdev-ima-contempt-2024
-    source_ids: [baba-ramdev-src-01]
+    source_ids: [ baba-ramdev-src-01 ]
   - date: 2020-07-01
     kind: notice
     label_en: Ministry of AYUSH states Patanjali's Coronil tablet is licensed only as an immunity booster and is not authorised as a Covid-19 treatment
     label_hi: आयुष मंत्रालय ने कहा कि पतंजलि की कोरोनिल टैबलेट केवल इम्युनिटी बूस्टर के रूप में लाइसेंस प्राप्त है, कोविड-19 उपचार के रूप में नहीं
-    source_ids: [baba-ramdev-src-21]
+    source_ids: [ baba-ramdev-src-21 ]
   - date: 2020-07-17
     kind: notice
     label_en: Madras High Court grants ex-parte interim injunction restraining Patanjali from using the "Coronil" trademark
     label_hi: मद्रास उच्च न्यायालय ने पतंजलि को "कोरोनिल" ट्रेडमार्क के प्रयोग से रोकते हुए एकपक्षीय अंतरिम निषेधाज्ञा दी
     case_id: baba-ramdev-coronil-trademark-2020
-    source_ids: [baba-ramdev-src-17]
+    source_ids: [ baba-ramdev-src-17 ]
   - date: 2023-11-21
     kind: other
     label_en: Patanjali gives undertaking to the Supreme Court not to violate advertising laws or make casual claims of medicinal efficacy
     label_hi: पतंजलि ने सर्वोच्च न्यायालय को वचन दिया कि वह विज्ञापन कानूनों का उल्लंघन नहीं करेगा और औषधीय प्रभावकारिता के आकस्मिक दावे नहीं करेगा
     case_id: baba-ramdev-ima-contempt-2024
-    source_ids: [baba-ramdev-src-01]
+    source_ids: [ baba-ramdev-src-01 ]
   - date: 2023-11-22
     kind: other
     label_en: Ramdev and Balkrishna hold a press conference reiterating cure claims, the day after the undertaking was recorded
     label_hi: वचन दर्ज होने के अगले ही दिन रामदेव और बालकृष्ण ने प्रेस सम्मेलन कर इलाज के दावे दोहराए
     case_id: baba-ramdev-ima-contempt-2024
-    source_ids: [baba-ramdev-src-01]
+    source_ids: [ baba-ramdev-src-01 ]
   - date: 2024-03-20
     kind: notice
     label_en: Supreme Court rejects a "qualified" apology filed by Acharya Balkrishna as impermissible because it combined an apology with a justification
     label_hi: सर्वोच्च न्यायालय ने आचार्य बालकृष्ण द्वारा दाखिल "सशर्त" माफी को अस्वीकार्य बताया क्योंकि इसमें माफी के साथ सफाई भी दी गई थी
     case_id: baba-ramdev-ima-contempt-2024
-    source_ids: [baba-ramdev-src-01]
+    source_ids: [ baba-ramdev-src-01 ]
   - date: 2024-04-10
     kind: notice
     label_en: Supreme Court notes evident discrepancy between the dates on affidavits seeking exemption from appearance and the travel tickets annexed to them, calling the attempt to avoid appearing "most unacceptable"
     label_hi: सर्वोच्च न्यायालय ने उपस्थिति से छूट माँगने वाले हलफनामों की तारीख़ों और उनके साथ लगे यात्रा टिकटों में स्पष्ट विसंगति नोट की, तथा उपस्थिति से बचने के प्रयास को "अत्यंत अस्वीकार्य" बताया
     case_id: baba-ramdev-ima-contempt-2024
-    source_ids: [baba-ramdev-src-01]
+    source_ids: [ baba-ramdev-src-01 ]
   - date: 2024-04-16
     kind: other
     label_en: Ramdev and Balkrishna personally appear and tender an oral apology in the Supreme Court
     label_hi: रामदेव और बालकृष्ण व्यक्तिगत रूप से सर्वोच्च न्यायालय में उपस्थित होकर मौखिक माफी माँगते हैं
     case_id: baba-ramdev-ima-contempt-2024
-    source_ids: [baba-ramdev-src-01, baba-ramdev-src-09]
+    source_ids: [ baba-ramdev-src-01, baba-ramdev-src-09 ]
   - date: 2024-04-22
     kind: notice
     label_en: Supreme Court rejects Patanjali's first published public apology as "meaningless and a mere lip service" because it appeared in illegibly fine print
     label_hi: सर्वोच्च न्यायालय ने पतंजलि की पहली प्रकाशित सार्वजनिक माफी को "अर्थहीन और मात्र दिखावटी" बताते हुए अस्वीकार किया क्योंकि यह अत्यंत छोटे, अपठनीय अक्षरों में छपी थी
     case_id: baba-ramdev-ima-contempt-2024
-    source_ids: [baba-ramdev-src-01]
+    source_ids: [ baba-ramdev-src-01 ]
   - date: 2024-04-24
     kind: other
     label_en: Corrected public apology published prominently in national and regional newspapers
     label_hi: सुधरी हुई सार्वजनिक माफी राष्ट्रीय और क्षेत्रीय समाचार-पत्रों में प्रमुखता से प्रकाशित
     case_id: baba-ramdev-ima-contempt-2024
-    source_ids: [baba-ramdev-src-01, baba-ramdev-src-08]
+    source_ids: [ baba-ramdev-src-01, baba-ramdev-src-08 ]
   - date: 2024-05-09
     kind: other
     label_en: Patanjali stops online sale of the 14 suspended products and issues withdrawal instructions to stockists, franchises and advertising agencies
     label_hi: पतंजलि ने 14 निलंबित उत्पादों की ऑनलाइन बिक्री रोकी और स्टॉकिस्टों, फ्रेंचाइज़ी व विज्ञापन एजेंसियों को वापसी के निर्देश जारी किए
     case_id: baba-ramdev-uttarakhand-licence-suspension-2024
-    source_ids: [baba-ramdev-src-01]
+    source_ids: [ baba-ramdev-src-01 ]
   - date: 2021-07
     kind: other
     label_en: Ministry of AYUSH gives Coronil formal Ayush licence recognition as a measure supporting management of Covid-19, alongside continuing WHO clarifications that it had not certified any traditional medicine for the disease
     label_hi: आयुष मंत्रालय ने कोविड-19 प्रबंधन में सहायक उपाय के रूप में कोरोनिल को औपचारिक आयुष लाइसेंस मान्यता दी, जबकि डब्ल्यूएचओ यह स्पष्ट करता रहा कि उसने इस रोग के लिए किसी पारंपरिक औषधि को प्रमाणित नहीं किया है
-    source_ids: [baba-ramdev-src-21]
+    source_ids: [ baba-ramdev-src-21 ]
   - date: 2025-04-23
     kind: other
     label_en: Patanjali removes the "sharbat jihad" video from its social media accounts after the Delhi High Court's warning
     label_hi: दिल्ली उच्च न्यायालय की चेतावनी के बाद पतंजलि ने "शरबत जिहाद" वीडियो को अपने सोशल मीडिया खातों से हटाया
     case_id: baba-ramdev-hamdard-sharbat-jihad-2025
-    source_ids: [baba-ramdev-src-14]
+    source_ids: [ baba-ramdev-src-14 ]
   - date: 2025-09-19
     kind: appeal
     label_en: Patanjali files an intra-court appeal against the 3 July 2025 order restraining its Chyawanprash advertisements
     label_hi: पतंजलि ने अपने च्यवनप्राश विज्ञापनों पर रोक लगाने वाले 3 जुलाई 2025 के आदेश के विरुद्ध इंट्रा-कोर्ट अपील दाखिल की
     case_id: baba-ramdev-dabur-chyawanprash-2025
-    source_ids: [baba-ramdev-src-12]
+    source_ids: [ baba-ramdev-src-12 ]
   - date: 2025-11-12
     kind: other
     label_en: Delhi High Court grants further interim relief to Dabur after Patanjali calls other Chyawanprash "dhoka" (deception) in a Star Plus advertisement
     label_hi: पतंजलि द्वारा स्टार प्लस पर एक विज्ञापन में अन्य च्यवनप्राश को "धोखा" कहे जाने के बाद दिल्ली उच्च न्यायालय ने डाबर को और अंतरिम राहत दी
     case_id: baba-ramdev-dabur-chyawanprash-2025
-    source_ids: [baba-ramdev-src-13]
+    source_ids: [ baba-ramdev-src-13 ]
 
 relationships: []

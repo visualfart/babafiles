@@ -3,98 +3,23 @@ type: temple_trust
 is_subject: true
 name_en: Tirumala Tirupati Devasthanams
 name_hi: तिरुमला तिरुपति देवस्थानम्
-aliases: [TTD]
+aliases: [ TTD ]
 base_location: Tirupati, Andhra Pradesh
 country: IN
-countries_of_operation: [IN]
-organisations: [Sri Venkateswara Temple, Tirumala]
+countries_of_operation: [ IN ]
+organisations: [ Sri Venkateswara Temple, Tirumala ]
 activity_status: active
 abap_2017_list: false
 summary_en: >
-  Tirumala Tirupati Devasthanams (TTD) is the statutory trust that administers the Sri
-  Venkateswara Temple at Tirumala and the laddu prasadam distributed to its devotees. In
-  September 2024 Andhra Pradesh chief minister N. Chandrababu Naidu publicly alleged,
-  citing a report from the NDDB's CALF laboratory in Anand, Gujarat, that ghee used in the
-  laddus under the previous YSR Congress Party government contained animal fat, including
-  tallow and lard; the report had found abnormally low S-values in ghee tankers supplied by
-  A.R. Dairy Food Pvt Ltd in June-July 2024. TTD blacklisted the supplier, and on 25
-  September 2024 its general manager (procurement) lodged a complaint at Tirupati East
-  police station, registered as Crime No. 470 of 2024 for cheating, criminal breach of trust
-  and offences under the Food Safety and Standards Act, 2006. On 1 October 2024 the Supreme
-  Court told the chief minister it expected "the gods to be kept away from politics"; on 4
-  October 2024, in W.P.(C) No. 622/2024 (Dr Subramanian Swamy v. State of Andhra Pradesh), it
-  replaced the state's own SIT with a five-member team of two CBI officers, two Andhra
-  Pradesh police officers and one FSSAI officer, working under the CBI Director's
-  supervision. The SIT arrested four dairy-company officials on 9 February 2025 and a TTD
-  procurement official on 27 November 2025; three of the four were granted bail on 3 July
-  2025 after an initial chargesheet, and the TTD official was granted bail on 24 March 2026.
-  A supplementary chargesheet dated 23 January 2026 extended the case to 36 accused in all,
-  including three TTD officials (among them the same official who had lodged the original
-  2024 complaint), dairy-company directors and a Delhi-based trader, over roughly five years
-  and about Rs 250 crore of ghee; the chargesheet's own forensic finding was adulteration
-  with vegetable oils and chemical esters rather than the beef tallow first alleged. The
-  Enforcement Directorate opened a money-laundering case on the same FIR and on 3 June 2026
-  searched 15 locations in six states, seizing Rs 60 lakh in cash and identifying more than
-  Rs 45 crore invested in property. TTD chairman B.R. Naidu said in January 2026 that claims
-  of a "clean chit" were false propaganda and that the chargesheet had established the
-  adulteration. As of September 2026 the criminal trial had not begun and the ED's
-  investigation was continuing.
+  Tirumala Tirupati Devasthanams (TTD) is the statutory trust that administers the Sri Venkateswara Temple at Tirumala and the laddu prasadam distributed to its devotees. In September 2024 Andhra Pradesh chief minister N. Chandrababu Naidu publicly alleged, citing a report from the NDDB's CALF laboratory in Anand, Gujarat, that ghee used in the laddus under the previous YSR Congress Party government contained animal fat, including tallow and lard; the report had found abnormally low S-values in ghee tankers supplied by A.R. Dairy Food Pvt Ltd in June-July 2024. TTD blacklisted the supplier, and on 25 September 2024 its general manager (procurement) lodged a complaint at Tirupati East police station, registered as Crime No. 470 of 2024 for cheating, criminal breach of trust and offences under the Food Safety and Standards Act, 2006. On 1 October 2024 the Supreme Court told the chief minister it expected "the gods to be kept away from politics"; on 4 October 2024, in W.P.(C) No. 622/2024 (Dr Subramanian Swamy v. State of Andhra Pradesh), it replaced the state's own SIT with a five-member team of two CBI officers, two Andhra Pradesh police officers and one FSSAI officer, working under the CBI Director's supervision. The SIT arrested four dairy-company officials on 9 February 2025 and a TTD procurement official on 27 November 2025; three of the four were granted bail on 3 July 2025 after an initial chargesheet, and the TTD official was granted bail on 24 March 2026. A supplementary chargesheet dated 23 January 2026 extended the case to 36 accused in all, including three TTD officials (among them the same official who had lodged the original 2024 complaint), dairy-company directors and a Delhi-based trader, over roughly five years and about Rs 250 crore of ghee; the chargesheet's own forensic finding was adulteration with vegetable oils and chemical esters rather than the beef tallow first alleged. The Enforcement Directorate opened a money-laundering case on the same FIR and on 3 June 2026 searched 15 locations in six states, seizing Rs 60 lakh in cash and identifying more than Rs 45 crore invested in property. TTD chairman B.R. Naidu said in January 2026 that claims of a "clean chit" were false propaganda and that the chargesheet had established the adulteration. As of September 2026 the criminal trial had not begun and the ED's investigation was continuing.
 summary_hi: >
-  तिरुमला तिरुपति देवस्थानम् (टीटीडी) वह वैधानिक न्यास है जो तिरुमला के श्री वेंकटेश्वर मंदिर और
-  भक्तों को दिए जाने वाले लड्डू प्रसादम का प्रबंधन करता है। सितंबर 2024 में आंध्र प्रदेश के मुख्यमंत्री
-  एन. चंद्रबाबू नायडू ने NDDB की गुजरात के आणंद स्थित CALF प्रयोगशाला की एक रिपोर्ट का हवाला देते
-  हुए सार्वजनिक रूप से आरोप लगाया कि पिछली वाईएसआर कांग्रेस सरकार के दौरान लड्डुओं में इस्तेमाल घी
-  में पशु-वसा, जिसमें चर्बी (टैलो) और लार्ड शामिल हैं, पाई गई; रिपोर्ट में जून-जुलाई 2024 में ए.आर. डेयरी
-  फूड प्रा. लि. द्वारा आपूर्ति किए गए टैंकरों के घी में असामान्य रूप से कम S-मान पाए गए थे। टीटीडी ने
-  आपूर्तिकर्ता को काली सूची में डाला, और 25 सितंबर 2024 को उसके महाप्रबंधक (क्रय) ने तिरुपति पूर्व
-  थाने में शिकायत दर्ज कराई, जो धोखाधड़ी, आपराधिक विश्वासघात और खाद्य सुरक्षा एवं मानक अधिनियम,
-  2006 के तहत अपराध संख्या 470/2024 के रूप में दर्ज हुई। 1 अक्टूबर 2024 को सर्वोच्च न्यायालय ने
-  मुख्यमंत्री से कहा कि वह "भगवान को राजनीति से दूर रखने" की अपेक्षा करता है; 4 अक्टूबर 2024 को,
-  डब्ल्यू.पी.(सी) संख्या 622/2024 (डॉ. सुब्रमण्यम स्वामी बनाम आंध्र प्रदेश राज्य) में, न्यायालय ने राज्य की
-  अपनी एसआईटी के स्थान पर दो सीबीआई अधिकारियों, दो आंध्र प्रदेश पुलिस अधिकारियों और एक FSSAI
-  अधिकारी की पाँच-सदस्यीय टीम गठित की, जो सीबीआई निदेशक की निगरानी में कार्य करेगी। एसआईटी ने 9
-  फरवरी 2025 को चार डेयरी कंपनी अधिकारियों को और 27 नवंबर 2025 को टीटीडी के एक क्रय अधिकारी को
-  गिरफ्तार किया; चार में से तीन को प्रारंभिक आरोप-पत्र दाखिल होने के बाद 3 जुलाई 2025 को ज़मानत मिली,
-  और टीटीडी अधिकारी को 24 मार्च 2026 को ज़मानत मिली। 23 जनवरी 2026 के एक पूरक आरोप-पत्र ने
-  मामले को कुल 36 आरोपियों तक बढ़ाया, जिनमें तीन टीटीडी अधिकारी (जिनमें वही अधिकारी भी शामिल है
-  जिसने 2024 की मूल शिकायत दर्ज कराई थी), डेयरी कंपनी निदेशक और दिल्ली का एक व्यापारी शामिल हैं,
-  और यह लगभग पाँच वर्षों तथा करीब 250 करोड़ रुपये के घी से जुड़ा है; आरोप-पत्र के अपने फोरेंसिक
-  निष्कर्ष के अनुसार मिलावट वनस्पति तेलों और रासायनिक एस्टरों से हुई थी, न कि शुरू में आरोपित गोमांस
-  की चर्बी से। प्रवर्तन निदेशालय ने उसी एफआईआर पर धन-शोधन का मामला दर्ज किया और 3 जून 2026 को
-  छह राज्यों के 15 ठिकानों पर तलाशी ली, 60 लाख रुपये नकद ज़ब्त किए और 45 करोड़ रुपये से अधिक की
-  संपत्ति में निवेश की पहचान की। टीटीडी अध्यक्ष बी.आर. नायडू ने जनवरी 2026 में कहा कि "क्लीन चिट" के
-  दावे झूठा प्रचार हैं और आरोप-पत्र ने मिलावट को स्थापित कर दिया है। सितंबर 2026 तक आपराधिक मुक़दमा
-  शुरू नहीं हुआ था और ईडी की जांच जारी थी।
+  तिरुमला तिरुपति देवस्थानम् (टीटीडी) वह वैधानिक न्यास है जो तिरुमला के श्री वेंकटेश्वर मंदिर और भक्तों को दिए जाने वाले लड्डू प्रसादम का प्रबंधन करता है। सितंबर 2024 में आंध्र प्रदेश के मुख्यमंत्री एन. चंद्रबाबू नायडू ने NDDB की गुजरात के आणंद स्थित CALF प्रयोगशाला की एक रिपोर्ट का हवाला देते हुए सार्वजनिक रूप से आरोप लगाया कि पिछली वाईएसआर कांग्रेस सरकार के दौरान लड्डुओं में इस्तेमाल घी में पशु-वसा, जिसमें चर्बी (टैलो) और लार्ड शामिल हैं, पाई गई; रिपोर्ट में जून-जुलाई 2024 में ए.आर. डेयरी फूड प्रा. लि. द्वारा आपूर्ति किए गए टैंकरों के घी में असामान्य रूप से कम S-मान पाए गए थे। टीटीडी ने आपूर्तिकर्ता को काली सूची में डाला, और 25 सितंबर 2024 को उसके महाप्रबंधक (क्रय) ने तिरुपति पूर्व थाने में शिकायत दर्ज कराई, जो धोखाधड़ी, आपराधिक विश्वासघात और खाद्य सुरक्षा एवं मानक अधिनियम, 2006 के तहत अपराध संख्या 470/2024 के रूप में दर्ज हुई। 1 अक्टूबर 2024 को सर्वोच्च न्यायालय ने मुख्यमंत्री से कहा कि वह "भगवान को राजनीति से दूर रखने" की अपेक्षा करता है; 4 अक्टूबर 2024 को, डब्ल्यू.पी.(सी) संख्या 622/2024 (डॉ. सुब्रमण्यम स्वामी बनाम आंध्र प्रदेश राज्य) में, न्यायालय ने राज्य की अपनी एसआईटी के स्थान पर दो सीबीआई अधिकारियों, दो आंध्र प्रदेश पुलिस अधिकारियों और एक FSSAI अधिकारी की पाँच-सदस्यीय टीम गठित की, जो सीबीआई निदेशक की निगरानी में कार्य करेगी। एसआईटी ने 9 फरवरी 2025 को चार डेयरी कंपनी अधिकारियों को और 27 नवंबर 2025 को टीटीडी के एक क्रय अधिकारी को गिरफ्तार किया; चार में से तीन को प्रारंभिक आरोप-पत्र दाखिल होने के बाद 3 जुलाई 2025 को ज़मानत मिली, और टीटीडी अधिकारी को 24 मार्च 2026 को ज़मानत मिली। 23 जनवरी 2026 के एक पूरक आरोप-पत्र ने मामले को कुल 36 आरोपियों तक बढ़ाया, जिनमें तीन टीटीडी अधिकारी (जिनमें वही अधिकारी भी शामिल है जिसने 2024 की मूल शिकायत दर्ज कराई थी), डेयरी कंपनी निदेशक और दिल्ली का एक व्यापारी शामिल हैं, और यह लगभग पाँच वर्षों तथा करीब 250 करोड़ रुपये के घी से जुड़ा है; आरोप-पत्र के अपने फोरेंसिक निष्कर्ष के अनुसार मिलावट वनस्पति तेलों और रासायनिक एस्टरों से हुई थी, न कि शुरू में आरोपित गोमांस की चर्बी से। प्रवर्तन निदेशालय ने उसी एफआईआर पर धन-शोधन का मामला दर्ज किया और 3 जून 2026 को छह राज्यों के 15 ठिकानों पर तलाशी ली, 60 लाख रुपये नकद ज़ब्त किए और 45 करोड़ रुपये से अधिक की संपत्ति में निवेश की पहचान की। टीटीडी अध्यक्ष बी.आर. नायडू ने जनवरी 2026 में कहा कि "क्लीन चिट" के दावे झूठा प्रचार हैं और आरोप-पत्र ने मिलावट को स्थापित कर दिया है। सितंबर 2026 तक आपराधिक मुक़दमा शुरू नहीं हुआ था और ईडी की जांच जारी थी।
 hi_reviewed: false
 response_from_subject:
   text_en: >
-    TTD itself set the case in motion: after its executive officer announced on 20 September
-    2024 that ghee samples had failed quality tests, the board blacklisted A.R. Dairy Food Pvt
-    Ltd and, five days later, its general manager (procurement) filed the police complaint
-    that became Crime No. 470/2024. On 23 September 2024 priests and officials performed a
-    four-hour purification ritual, "Shanti Homam Panchagavya Prokshana," at Tirumala,
-    including in the kitchens where the laddus and free meals are prepared. After the
-    supplementary chargesheet of January 2026, TTD chairman B.R. Naidu told a press
-    conference on 30 January 2026 that claims of a "clean chit" for the accused were "false
-    propaganda" and "completely untrue," that the SIT chargesheet had "clearly established
-    that adulterated ghee was used in the preparation of Tirumala Srivari laddus," that about
-    60 lakh kg of ghee worth roughly Rs 250 crore and used in about 20 crore laddus was
-    involved, and that some suppliers had been awarded contracts despite owning no cows or
-    having genuine production capacity; he called for micro-DNA testing and a fuller
-    financial investigation into the accused's bank transactions.
+    TTD itself set the case in motion: after its executive officer announced on 20 September 2024 that ghee samples had failed quality tests, the board blacklisted A.R. Dairy Food Pvt Ltd and, five days later, its general manager (procurement) filed the police complaint that became Crime No. 470/2024. On 23 September 2024 priests and officials performed a four-hour purification ritual, "Shanti Homam Panchagavya Prokshana," at Tirumala, including in the kitchens where the laddus and free meals are prepared. After the supplementary chargesheet of January 2026, TTD chairman B.R. Naidu told a press conference on 30 January 2026 that claims of a "clean chit" for the accused were "false propaganda" and "completely untrue," that the SIT chargesheet had "clearly established that adulterated ghee was used in the preparation of Tirumala Srivari laddus," that about 60 lakh kg of ghee worth roughly Rs 250 crore and used in about 20 crore laddus was involved, and that some suppliers had been awarded contracts despite owning no cows or having genuine production capacity; he called for micro-DNA testing and a fuller financial investigation into the accused's bank transactions.
   text_hi: >
-    टीटीडी ने ही मामले को गति दी: 20 सितंबर 2024 को कार्यपालक अधिकारी द्वारा घी के नमूनों के गुणवत्ता
-    परीक्षण में विफल होने की घोषणा के बाद, बोर्ड ने ए.आर. डेयरी फूड प्रा. लि. को काली सूची में डाला और
-    पाँच दिन बाद उसके महाप्रबंधक (क्रय) ने वह पुलिस शिकायत दर्ज कराई जो अपराध संख्या 470/2024 बनी।
-    23 सितंबर 2024 को पुजारियों और अधिकारियों ने तिरुमला में, लड्डू और अन्नप्रसादम बनने वाली रसोई
-    सहित, चार घंटे का शुद्धिकरण अनुष्ठान "शांति होमम पंचगव्य प्रोक्षण" संपन्न किया। जनवरी 2026 के पूरक
-    आरोप-पत्र के बाद, टीटीडी अध्यक्ष बी.आर. नायडू ने 30 जनवरी 2026 को एक प्रेस वार्ता में कहा कि
-    आरोपियों को "क्लीन चिट" मिलने के दावे "झूठा प्रचार" और "पूरी तरह असत्य" हैं, कि एसआईटी के
-    आरोप-पत्र ने "स्पष्ट रूप से स्थापित कर दिया है कि तिरुमला के श्रीवारी लड्डुओं की तैयारी में मिलावटी घी
-    इस्तेमाल हुआ," कि लगभग 60 लाख किलोग्राम, करीब 250 करोड़ रुपये मूल्य का घी लगभग 20 करोड़
-    लड्डुओं में इस्तेमाल हुआ, और कुछ आपूर्तिकर्ताओं को बिना एक भी गाय या वास्तविक उत्पादन क्षमता के
-    ठेके दिए गए; उन्होंने माइक्रो-डीएनए जांच और आरोपियों के बैंक लेन-देन की व्यापक वित्तीय जांच की माँग
-    की।
+    टीटीडी ने ही मामले को गति दी: 20 सितंबर 2024 को कार्यपालक अधिकारी द्वारा घी के नमूनों के गुणवत्ता परीक्षण में विफल होने की घोषणा के बाद, बोर्ड ने ए.आर. डेयरी फूड प्रा. लि. को काली सूची में डाला और पाँच दिन बाद उसके महाप्रबंधक (क्रय) ने वह पुलिस शिकायत दर्ज कराई जो अपराध संख्या 470/2024 बनी। 23 सितंबर 2024 को पुजारियों और अधिकारियों ने तिरुमला में, लड्डू और अन्नप्रसादम बनने वाली रसोई सहित, चार घंटे का शुद्धिकरण अनुष्ठान "शांति होमम पंचगव्य प्रोक्षण" संपन्न किया। जनवरी 2026 के पूरक आरोप-पत्र के बाद, टीटीडी अध्यक्ष बी.आर. नायडू ने 30 जनवरी 2026 को एक प्रेस वार्ता में कहा कि आरोपियों को "क्लीन चिट" मिलने के दावे "झूठा प्रचार" और "पूरी तरह असत्य" हैं, कि एसआईटी के आरोप-पत्र ने "स्पष्ट रूप से स्थापित कर दिया है कि तिरुमला के श्रीवारी लड्डुओं की तैयारी में मिलावटी घी इस्तेमाल हुआ," कि लगभग 60 लाख किलोग्राम, करीब 250 करोड़ रुपये मूल्य का घी लगभग 20 करोड़ लड्डुओं में इस्तेमाल हुआ, और कुछ आपूर्तिकर्ताओं को बिना एक भी गाय या वास्तविक उत्पादन क्षमता के ठेके दिए गए; उन्होंने माइक्रो-डीएनए जांच और आरोपियों के बैंक लेन-देन की व्यापक वित्तीय जांच की माँग की।
   source_id: ttd-src-25
 
 sources:
@@ -109,11 +34,7 @@ sources:
     captured_at:
     sha256:
     note: >
-      Bench of B.R. Gavai and K.V. Viswanathan JJ. Records that an FIR alleged adulterated
-      ghee in two tankers each on 06.07.2024 and 12.07.2024; states the Court "would not
-      permit the Court to be used as a political battleground"; substitutes the state SIT with
-      two CBI officers, two AP Police officers and one FSSAI officer under the CBI Director's
-      supervision.
+      Bench of B.R. Gavai and K.V. Viswanathan JJ. Records that an FIR alleged adulterated ghee in two tankers each on 06.07.2024 and 12.07.2024; states the Court "would not permit the Court to be used as a political battleground"; substitutes the state SIT with two CBI officers, two AP Police officers and one FSSAI officer under the CBI Director's supervision.
   - id: ttd-src-02
     url: https://indiankanoon.org/doc/104124407/
     title: Ankit P. Zatakiya v. The State of Andhra Pradesh, Criminal Petition No. 2034/2025, Andhra Pradesh High Court, order dated 29 April 2025
@@ -125,13 +46,7 @@ sources:
     captured_at: 2026-09-08
     sha256:
     note: >
-      Justice T. Mallikarjuna Rao. Anticipatory bail order reciting Crime No. 470/2024, PS
-      Tirupati East, sections BNS 274, 275, 316(5), 318(4), 61(2), 299 r/w 49 r/w 3(5) and FSS
-      Act ss.51 & 59; records the complaint of 25.09.2024 by P. Murali Krishna, GM
-      (Procurement) TTD; the 12.03.2024 tender for 10 lakh kg cow ghee to AR Dairy; four
-      tanker deliveries in June-July 2024; the NDDB CALF Lab (Anand) report of 12.07.2024
-      finding vegetable- and animal-fat adulterants including lard; the SC's W.P.(C) 622/2024
-      SIT order; and arrests of A.2 to A.5 on 09.02.2025.
+      Justice T. Mallikarjuna Rao. Anticipatory bail order reciting Crime No. 470/2024, PS Tirupati East, sections BNS 274, 275, 316(5), 318(4), 61(2), 299 r/w 49 r/w 3(5) and FSS Act ss.51 & 59; records the complaint of 25.09.2024 by P. Murali Krishna, GM (Procurement) TTD; the 12.03.2024 tender for 10 lakh kg cow ghee to AR Dairy; four tanker deliveries in June-July 2024; the NDDB CALF Lab (Anand) report of 12.07.2024 finding vegetable- and animal-fat adulterants including lard; the SC's W.P.(C) 622/2024 SIT order; and arrests of A.2 to A.5 on 09.02.2025.
   - id: ttd-src-03
     url: https://indiankanoon.org/doc/155079370/
     title: Pomil Jain v. The State of Andhra Pradesh, Crl.P. Nos. 4203, 4187 & 4198 of 2025, Andhra Pradesh High Court, common order dated 3 July 2025
@@ -143,15 +58,7 @@ sources:
     captured_at: 2026-09-08
     sha256:
     note: >
-      Justice K. Sreenivasa Reddy. Bail order for A.3, A.4 and A.5 (directors/CEO of Bhole
-      Baba Organic Dairy Milk Pvt Ltd and Sri Vyshnavi Dairy Specialities Pvt Ltd), arrested
-      09.02.2025. Sets out the NDDB CALF test-report dates (16.07.2024 and 23.07.2024) and
-      S-value findings, the chargesheet allegations of fabricated tender documents, use of
-      refined palm oil/palm kernel oil/palmolein with beta-carotene and other chemicals to
-      mimic ghee, bribes to TTD officials A.9 and A.10, and sections BNS 61(2), 238, 274, 275,
-      299, 316(5), 318(3), 318(4), 336(3), 340(2), 49 r/w 3(5); IPC 120B, 201, 271, 273, 295A,
-      409, 418, 420, 468, 471, 109 r/w 34; Prevention of Corruption Act 1988 ss.8, 9 & 10.
-      Grants bail on personal bonds of Rs 25,000 with two sureties each.
+      Justice K. Sreenivasa Reddy. Bail order for A.3, A.4 and A.5 (directors/CEO of Bhole Baba Organic Dairy Milk Pvt Ltd and Sri Vyshnavi Dairy Specialities Pvt Ltd), arrested 09.02.2025. Sets out the NDDB CALF test-report dates (16.07.2024 and 23.07.2024) and S-value findings, the chargesheet allegations of fabricated tender documents, use of refined palm oil/palm kernel oil/palmolein with beta-carotene and other chemicals to mimic ghee, bribes to TTD officials A.9 and A.10, and sections BNS 61(2), 238, 274, 275, 299, 316(5), 318(3), 318(4), 336(3), 340(2), 49 r/w 3(5); IPC 120B, 201, 271, 273, 295A, 409, 418, 420, 468, 471, 109 r/w 34; Prevention of Corruption Act 1988 ss.8, 9 & 10. Grants bail on personal bonds of Rs 25,000 with two sureties each.
   - id: ttd-src-04
     url: https://indiankanoon.org/doc/145000202/
     title: R.S.S.V.R. Subrahmanyam v. State of Andhra Pradesh, Criminal Petition No. 974/2026, Andhra Pradesh High Court, order dated 24 March 2026
@@ -163,14 +70,7 @@ sources:
     captured_at: 2026-09-08
     sha256:
     note: >
-      Justice Venkata Jyothirmai Pratapa. Bail order for Accused No.29, Rallapalli Srinivasa
-      Sri Venkata Rama Subrahmanyam (TTD GM, Procurement, 2017-18 and 2020-23), in
-      judicial custody since 27.11.2025, on allegations of accepting bribes for favourable
-      plant-inspection reports for Bhole Baba, Vyshnavi and Malganga dairies. Records that
-      "a supplementary charge sheet dated 23.01.2026 has been filed against A-16 to A-36,
-      including the Petitioner (A-29), before the ... Special Judge for SPE & ACB
-      Cases-cum-II Additional District & Sessions Judge, Nellore." Grants bail on a personal
-      bond of Rs 1,00,000 with two sureties, subject to conditions including weekly reporting.
+      Justice Venkata Jyothirmai Pratapa. Bail order for Accused No.29, Rallapalli Srinivasa Sri Venkata Rama Subrahmanyam (TTD GM, Procurement, 2017-18 and 2020-23), in judicial custody since 27.11.2025, on allegations of accepting bribes for favourable plant-inspection reports for Bhole Baba, Vyshnavi and Malganga dairies. Records that "a supplementary charge sheet dated 23.01.2026 has been filed against A-16 to A-36, including the Petitioner (A-29), before the ... Special Judge for SPE & ACB Cases-cum-II Additional District & Sessions Judge, Nellore." Grants bail on a personal bond of Rs 1,00,000 with two sureties, subject to conditions including weekly reporting.
   - id: ttd-src-05
     url: https://www.newsonair.gov.in/centre-seeks-report-over-alleged-adulteration-in-tirupati-laddu/
     title: Centre seeks report over alleged adulteration in Tirupati laddu
@@ -178,9 +78,9 @@ sources:
     type: official
     published_at: 2024-09-20
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20250910074755/https://www.newsonair.gov.in/centre-seeks-report-over-alleged-adulteration-in-tirupati-laddu/
+    captured_at: 2026-09-08
+    sha256: 3605f6fa2aa99211b5bb5171c8bbd8ef2f0591f7adbaf969eabaea3b15a07796
   - id: ttd-src-06
     url: https://www.newsonair.gov.in/fssai-issues-show-cause-notice-to-ghee-supplier-over-adulteration-allegations-in-tirupati-laddu/
     title: FSSAI issues show cause notice to ghee supplier over adulteration allegations in Tirupati laddu
@@ -188,9 +88,9 @@ sources:
     type: official
     published_at: 2024-09-23
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20250913142852/https://www.newsonair.gov.in/fssai-issues-show-cause-notice-to-ghee-supplier-over-adulteration-allegations-in-tirupati-laddu/
+    captured_at: 2026-09-08
+    sha256: d03abaa2392cc74b51ff0a8fca99420de7b15b51457dafdc649d8117986524d7
     note: All four ghee samples of the supplier failed the quality test.
   - id: ttd-src-07
     url: https://www.newsonair.gov.in/andhra-pradesh-govt-forms-sit-to-investigate-ghee-adulteration-in-tirumala-temple-prasadam/
@@ -199,9 +99,9 @@ sources:
     type: official
     published_at: 2024-09-27
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20250609000357/https://www.newsonair.gov.in/andhra-pradesh-govt-forms-sit-to-investigate-ghee-adulteration-in-tirumala-temple-prasadam/
+    captured_at: 2026-09-08
+    sha256: 3408b2f8584d9d4cac6a62e0f5f4c8465252c6b18a78a69e8858677b85f97f60
     note: Nine-member state SIT headed by IPS officer Sarva Shreshth Tripathi.
   - id: ttd-src-08
     url: https://www.newsonair.gov.in/sc-orders-sit-probe-into-allegations-of-adulterated-ghee-in-tirumala-tirupati-prasadam/
@@ -220,9 +120,9 @@ sources:
     type: official
     published_at: 2026-02-05
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260314103800/https://www.newsonair.gov.in/cm-n-chandrababu-naidu-alleges-leaders-of-ysr-congress-party-are-spreading-false-campaigns-to-defame-tirumala-venkateswara-swamy-temple/
+    captured_at: 2026-09-08
+    sha256: b714e04600f04bbaad700652266d180b1cf73fe15c06bd9972e509a2864d640d
     note: Political statement by the chief minister; recorded here as such, not as an established fact.
   - id: ttd-src-10
     url: https://www.deccanchronicle.com/southern-states/andhra-pradesh/tirupati-laddu-controversy-nddb-lab-report-confirmed-presence-of-animal-fat-naidu-1934256
@@ -231,9 +131,9 @@ sources:
     type: major_outlet
     published_at: 2024-09-20
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260211003507/https://www.deccanchronicle.com/southern-states/andhra-pradesh/tirupati-laddu-controversy-nddb-lab-report-confirmed-presence-of-animal-fat-naidu-1934256
+    captured_at: 2026-09-08
+    sha256: 7cf476c0927b43be65147700568090ad979d96c84208ff3c68ecba59c38491f0
     note: Chief Minister Naidu's own account of the basis for his allegation; recorded as his statement, not as an adjudicated fact.
   - id: ttd-src-11
     url: https://www.tribuneindia.com/news/india/animal-fat-used-in-tirupati-laddu-during-ysrcp-regime-alleges-tdp-shows-lab-report
@@ -242,9 +142,9 @@ sources:
     type: major_outlet
     published_at: 2024-09-20
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20241122002905/https://www.tribuneindia.com/news/india/animal-fat-used-in-tirupati-laddu-during-ysrcp-regime-alleges-tdp-shows-lab-report/
+    captured_at: 2026-09-08
+    sha256: 8e45aa918b2f81d992aa8ec99d8d8eadfb497bb223a0ab02c1c88e0bf45a7cf9
   - id: ttd-src-12
     url: https://m.thewire.in/article/caste/cbi-finds-synthetic-ghee-no-beef-tallow-in-tirupati-laddu-chandrababu-naidu-claim-debunked
     title: "CBI Finds Synthetic Ghee, No Beef Tallow, in Tirupati Laddu: Chandrababu Naidu Claim Debunked"
@@ -256,9 +156,7 @@ sources:
     captured_at:
     sha256:
     note: >
-      Reports that the SIT's chargesheet found the "S-value" deviations were caused by palm
-      oil, palm kernel oil, palmolein and chemical esters, not animal tissue, contradicting the
-      original "beef tallow" framing of the allegation.
+      Reports that the SIT's chargesheet found the "S-value" deviations were caused by palm oil, palm kernel oil, palmolein and chemical esters, not animal tissue, contradicting the original "beef tallow" framing of the allegation.
   - id: ttd-src-13
     url: https://www.tribuneindia.com/news/india/we-expect-gods-to-be-kept-off-politics-supreme-court-raps-n-chandrababu
     title: "'We expect gods to be kept off politics': Supreme Court raps N Chandrababu Naidu"
@@ -266,13 +164,11 @@ sources:
     type: major_outlet
     published_at: 2024-10-01
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20241001095131/https://www.tribuneindia.com/news/india/we-expect-gods-to-be-kept-off-politics-supreme-court-raps-n-chandrababu/
+    captured_at: 2026-09-08
+    sha256: 6ea48c98a628f6fd7d6cb07d79336edb1818460e7087ed97fcdcf1a7aff64c13
     note: >
-      Report of the 1 October 2024 hearing before Gavai and Viswanathan JJ; quotes "At
-      least, we expect the gods to be kept away from politics" and "When you ordered the
-      probe, what was the need for going public?"
+      Report of the 1 October 2024 hearing before Gavai and Viswanathan JJ; quotes "At least, we expect the gods to be kept away from politics" and "When you ordered the probe, what was the need for going public?"
   - id: ttd-src-14
     url: https://www.barandbench.com/news/tirupati-laddu-controversy-supreme-court-orders-probe-sit-cbi-supervision
     title: "Tirupati laddu controversy: Supreme Court orders probe by SIT under CBI supervision"
@@ -290,9 +186,9 @@ sources:
     type: major_outlet
     published_at: 2024-10-04
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20251124221017/https://www.scconline.com/blog/post/2024/10/04/supreme-court-directs-cbi-monitored-sit-investigation-in-tirupati-laddu-allegations/
+    captured_at: 2026-09-08
+    sha256: e6148b4d60b1c3c5cb64705629f5be1873b90f32638c187c42db1ac350f5f820
     note: Gives the case as Dr Subramanian Swamy v. State of Andhra Pradesh, W.P.(C) No. 622/2024.
   - id: ttd-src-16
     url: https://www.business-standard.com/india-news/condition-for-supplying-ghee-to-ttd-changed-during-ysrcp-govt-cm-naidu-124092200609_1.html
@@ -301,9 +197,9 @@ sources:
     type: major_outlet
     published_at: 2024-09-22
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20250808163420/https://www.business-standard.com/india-news/condition-for-supplying-ghee-to-ttd-changed-during-ysrcp-govt-cm-naidu-124092200609_1.html
+    captured_at: 2026-09-08
+    sha256: 3343b59d9e439e3212eab0b0c5e851f73eab7e58d49941de10c835f1e265e422
     note: Political statement by the chief minister on tender-eligibility changes; recorded as his claim.
   - id: ttd-src-17
     url: https://www.etvbharat.com/en/!bharat/tirumala-temple-priests-and-officials-hold-purification-ritual-shanti-homam-enn24092301621
@@ -312,9 +208,9 @@ sources:
     type: major_outlet
     published_at: 2024-09-23
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20240927001228/https://www.etvbharat.com/en/!bharat/tirumala-temple-priests-and-officials-hold-purification-ritual-shanti-homam-enn24092301621
+    captured_at: 2026-09-08
+    sha256: 7d36c576a45bde998c3f3a9a32999287436dd0ebf87fe2002f846bcf17d0f7f0
     note: "'Shanti Homam Panchagavya Prokshana' performed 6am-10am at Yagasala, including the laddu and Annaprasadam kitchens."
   - id: ttd-src-18
     url: https://www.indiatvnews.com/business/news/tirupati-laddu-row-ttd-files-complaint-against-ar-dairy-for-adulteration-of-ghee-probe-underway-2024-09-25-953941
@@ -323,9 +219,9 @@ sources:
     type: major_outlet
     published_at: 2024-09-25
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20240926022826/https://www.indiatvnews.com/business/news/tirupati-laddu-row-ttd-files-complaint-against-ar-dairy-for-adulteration-of-ghee-probe-underway-2024-09-25-953941
+    captured_at: 2026-09-08
+    sha256: d189ac6a8fcd0ddbcbd09881ca68a1134fb9672ef4bc9ebcdadb2e89e832cd24
   - id: ttd-src-19
     url: https://www.deccanherald.com/india/tamil-nadu/tirupati-laddu-row-adulterated-ghee-isnt-from-our-factory-says-dairy-firm-blacklisted-by-ttd-3199956
     title: "Tirupati laddu row: 'Adulterated ghee isn't from our factory', says dairy firm blacklisted by TTD"
@@ -344,14 +240,11 @@ sources:
     type: major_outlet
     published_at: 2025-07-12
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260216171531/https://www.livelaw.in/high-court/andhra-pradesh-high-court/andhra-pradesh-high-court-tirupati-laddu-cbi-io-probe-297348
+    captured_at: 2026-09-08
+    sha256: e66dfb8de3b69bae0fdab00de584b7ec0f2b3055eed0edd3c8da59f1cdcc4cf5
     note: >
-      Kaduru Chinnappanna v. State of Andhra Pradesh, 2025 LiveLaw (AP) 125, Justice
-      Harinath N. Holds that the CBI Director's nomination of J. Venkat Rao as an additional
-      investigating officer, outside the Supreme Court's five-member SIT, overreached the
-      Supreme Court's directions; directs investigation only through the reconstituted SIT.
+      Kaduru Chinnappanna v. State of Andhra Pradesh, 2025 LiveLaw (AP) 125, Justice Harinath N. Holds that the CBI Director's nomination of J. Venkat Rao as an additional investigating officer, outside the Supreme Court's five-member SIT, overreached the Supreme Court's directions; directs investigation only through the reconstituted SIT.
   - id: ttd-src-21
     url: https://lawbeat.in/top-stories/supreme-court-stays-high-courts-order-saying-cbi-violated-directions-on-tirupati-laddu-probe-1531944
     title: Supreme Court stays High Court's order saying CBI violated directions on Tirupati Laddu probe
@@ -363,9 +256,7 @@ sources:
     captured_at:
     sha256:
     note: >
-      Hearing before CJI B.R. Gavai and Chandran and Anjaria JJ on 26 September 2025;
-      stays the Andhra Pradesh High Court's 12 July 2025 order on the CBI Director's power
-      to assign investigating officers.
+      Hearing before CJI B.R. Gavai and Chandran and Anjaria JJ on 26 September 2025; stays the Andhra Pradesh High Court's 12 July 2025 order on the CBI Director's power to assign investigating officers.
   - id: ttd-src-22
     url: https://thefederal.com/category/states/south/andhra-pradesh/tirupati-laddu-case-cbi-final-chargesheet-226822
     title: "Tirupati laddu case: In final chargesheet, CBI names TTD employees, ghee suppliers as accused"
@@ -373,9 +264,9 @@ sources:
     type: major_outlet
     published_at: 2026-01-24
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260202222935/https://thefederal.com/category/states/south/andhra-pradesh/tirupati-laddu-case-cbi-final-chargesheet-226822
+    captured_at: 2026-09-08
+    sha256: 843e3b5791b23ba1e7993532ccd041f441a84d5f77eb8a2a767407af2e343902
     note: Reports the chargesheet filed in the Nellore ACB court on Friday, 23 January 2026, naming TTD employees, ghee suppliers and others.
   - id: ttd-src-23
     url: https://www.indiatvnews.com/news/india/tirupati-laddu-row-cbi-files-chargesheet-naming-36-in-ghastly-ghee-adulteration-racket-2026-01-24-1027270
@@ -384,9 +275,9 @@ sources:
     type: major_outlet
     published_at: 2026-01-24
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260207020115/https://www.indiatvnews.com/news/india/tirupati-laddu-row-cbi-files-chargesheet-naming-36-in-ghastly-ghee-adulteration-racket-2026-01-24-1027270
+    captured_at: 2026-09-08
+    sha256: c93c77337772ea8f80f3aea7e55c399d7b54966a2b1756dfd13f9ecfcb98216f
   - id: ttd-src-24
     url: https://tfipost.com/2026/02/tirupati-laddu-adulteration-case-cbi-led-sit-names-36-in-%E2%82%B9250-crore-ghee-scam/
     title: "Tirupati Laddu Adulteration Case: CBI-Led SIT Names 36 In Rs250-Crore Ghee Scam"
@@ -394,16 +285,11 @@ sources:
     type: major_outlet
     published_at: 2026-02
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260212190849/https://tfipost.com/2026/02/tirupati-laddu-adulteration-case-cbi-led-sit-names-36-in-%E2%82%B9250-crore-ghee-scam/
+    captured_at: 2026-09-08
+    sha256: 8b072fbec869bda4470291016e55c0beae6bdc4986ff0e9c834374470874a123
     note: >
-      Names accused Pomil Jain, Vipin Jain (Bhole Baba), Pralaya Kaveri Murali Krishna
-      (retired TTD GM Procurement, the original 2024 complainant), R.S.S.V.R.
-      Subrahmanyam (ex-TTD GM Procurement), Chinna Appanna (aide to former TTD
-      chairman Y.V. Subba Reddy), Apoorva Vinayakant Chawda (Vaishnavi Dairy),
-      R. Rajasekaran (AR Dairy) and Ajay Kumar Sugandh (Delhi trader); gives about 68 lakh
-      kg of ghee over 2019-2024 across 12 states, worth about Rs 250 crore.
+      Names accused Pomil Jain, Vipin Jain (Bhole Baba), Pralaya Kaveri Murali Krishna (retired TTD GM Procurement, the original 2024 complainant), R.S.S.V.R. Subrahmanyam (ex-TTD GM Procurement), Chinna Appanna (aide to former TTD chairman Y.V. Subba Reddy), Apoorva Vinayakant Chawda (Vaishnavi Dairy), R. Rajasekaran (AR Dairy) and Ajay Kumar Sugandh (Delhi trader); gives about 68 lakh kg of ghee over 2019-2024 across 12 states, worth about Rs 250 crore.
   - id: ttd-src-25
     url: https://newsmeter.in/regional/andhra-pradesh/tirumala-ghee-adulteration-case-ttd-chief-br-naidu-says-clean-chit-claims-are-false-propaganda-762264
     title: "Tirumala ghee adulteration case: TTD chief BR Naidu says 'clean chit' claims are false propaganda"
@@ -411,9 +297,9 @@ sources:
     type: major_outlet
     published_at: 2026-01-30
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260130153502/https://newsmeter.in/regional/andhra-pradesh/tirumala-ghee-adulteration-case-ttd-chief-br-naidu-says-clean-chit-claims-are-false-propaganda-762264
+    captured_at: 2026-09-08
+    sha256: 72805e07aabbdc8faf86e2c438890eee9dbe895ebab94e846b2dfe40bef28b4a
     note: Press conference at Padmavathi Rest House, Tirupati; TTD chairman's response to claims the accused had received a "clean chit."
   - id: ttd-src-26
     url: https://www.republicworld.com/india/two-ttd-officials-arrested-in-tirupati-laddu-ghee-adulteration-case
@@ -422,14 +308,11 @@ sources:
     type: major_outlet
     published_at: 2025-12-09
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20260118024201/https://www.republicworld.com/india/two-ttd-officials-arrested-in-tirupati-laddu-ghee-adulteration-case
+    captured_at: 2026-09-08
+    sha256: 5220741e4ff4eef01a8946035a03be5e50e6710ed329393b4a9b181097f3f293
     note: >
-      Reports the arrest of R.S.S.V.R. Subrahmanyam (TTD Procurement GM) and Ajay
-      Kumar Sugandh (Delhi trader) around 9 December 2025; the Andhra Pradesh High
-      Court's later bail order for Subrahmanyam (ttd-src-04) records him in judicial custody
-      from 27 November 2025, an earlier date than this report.
+      Reports the arrest of R.S.S.V.R. Subrahmanyam (TTD Procurement GM) and Ajay Kumar Sugandh (Delhi trader) around 9 December 2025; the Andhra Pradesh High Court's later bail order for Subrahmanyam (ttd-src-04) records him in judicial custody from 27 November 2025, an earlier date than this report.
   - id: ttd-src-27
     url: https://telanganatoday.com/ed-raids-15-locations-in-ttd-ghee-adulteration-case
     title: ED raids 15 locations in TTD ghee adulteration case
@@ -463,60 +346,17 @@ cases:
     case_number: Crime No. 470 of 2024, Tirupati East PS; W.P.(C) No. 622/2024 (Supreme Court, SIT order)
     filed_year: 2024
     case_type: criminal
-    statutes: ["BNS 61(2), 238, 274, 275, 299, 316(5), 318(3), 318(4), 336(3), 340(2), 49 r/w 3(5)", "IPC 109 r/w 34, 120B, 201, 271, 273, 295A, 409, 418, 420, 468, 471", "Food Safety and Standards Act 2006 s.51, s.59", "Prevention of Corruption Act 1988 s.8, s.9, s.10"]
+    statutes: [ "BNS 61(2), 238, 274, 275, 299, 316(5), 318(3), 318(4), 336(3), 340(2), 49 r/w 3(5)", "IPC 109 r/w 34, 120B, 201, 271, 273, 295A, 409, 418, 420, 468, 471", "Food Safety and Standards Act 2006 s.51, s.59", "Prevention of Corruption Act 1988 s.8, s.9, s.10" ]
     status: supplementary chargesheet filed 23 January 2026 against 36 accused in all (A.1-A.36); several accused on bail; trial pending
     tier: charged
     verdict_date:
     sentence_or_remedy:
     appeal_status: Not applicable (pre-trial)
     summary_en: >
-      Registered at Tirupati East police station on a complaint dated 25 September 2024 by
-      P. Murali Krishna, TTD's general manager (procurement), after an NDDB CALF Laboratory
-      report of 12 July 2024 found vegetable- and animal-fat adulterants, including lard, in
-      cow ghee tankers supplied by A.R. Dairy Food Pvt Ltd under a 10-lakh-kg tender. On 4
-      October 2024, in W.P.(C) No. 622/2024, the Supreme Court (Gavai and Viswanathan JJ)
-      replaced the state government's SIT with a five-member team of two CBI officers, two
-      Andhra Pradesh police officers and one FSSAI officer, working under the CBI Director,
-      after telling the parties it would not let the case "be used as a political battleground."
-      Investigation found a wider conspiracy involving Bhole Baba Organic Dairy Milk Pvt Ltd,
-      Sri Vyshnavi Dairy Specialities Pvt Ltd and others, who allegedly used proxy suppliers,
-      fabricated tender and lab documents, mixed refined palm oil and palm kernel oil with
-      chemical additives to mimic ghee, and paid bribes to TTD officials. Four dairy-company
-      officials were arrested on 9 February 2025 and released on bail on 3 July 2025 after an
-      initial chargesheet; a TTD procurement official, R.S.S.V.R. Subrahmanyam, was arrested
-      around late November 2025 and granted bail on 24 March 2026. A supplementary
-      chargesheet dated 23 January 2026 added accused A.16 to A.36, taking the total to 36,
-      including two more TTD officials — the retired procurement GM who had lodged the
-      original complaint, and an aide to a former TTD chairman. The chargesheet's own
-      forensic conclusion was that the adulteration involved vegetable oils and chemical
-      esters rather than the beef tallow first alleged in September 2024. A separate Andhra
-      Pradesh High Court ruling of 12 July 2025 that the CBI Director had unlawfully appointed
-      an additional investigating officer outside the Supreme Court's SIT was stayed by the
-      Supreme Court on 26 September 2025. As of September 2026 the criminal trial had not
-      begun.
+      Registered at Tirupati East police station on a complaint dated 25 September 2024 by P. Murali Krishna, TTD's general manager (procurement), after an NDDB CALF Laboratory report of 12 July 2024 found vegetable- and animal-fat adulterants, including lard, in cow ghee tankers supplied by A.R. Dairy Food Pvt Ltd under a 10-lakh-kg tender. On 4 October 2024, in W.P.(C) No. 622/2024, the Supreme Court (Gavai and Viswanathan JJ) replaced the state government's SIT with a five-member team of two CBI officers, two Andhra Pradesh police officers and one FSSAI officer, working under the CBI Director, after telling the parties it would not let the case "be used as a political battleground." Investigation found a wider conspiracy involving Bhole Baba Organic Dairy Milk Pvt Ltd, Sri Vyshnavi Dairy Specialities Pvt Ltd and others, who allegedly used proxy suppliers, fabricated tender and lab documents, mixed refined palm oil and palm kernel oil with chemical additives to mimic ghee, and paid bribes to TTD officials. Four dairy-company officials were arrested on 9 February 2025 and released on bail on 3 July 2025 after an initial chargesheet; a TTD procurement official, R.S.S.V.R. Subrahmanyam, was arrested around late November 2025 and granted bail on 24 March 2026. A supplementary chargesheet dated 23 January 2026 added accused A.16 to A.36, taking the total to 36, including two more TTD officials — the retired procurement GM who had lodged the original complaint, and an aide to a former TTD chairman. The chargesheet's own forensic conclusion was that the adulteration involved vegetable oils and chemical esters rather than the beef tallow first alleged in September 2024. A separate Andhra Pradesh High Court ruling of 12 July 2025 that the CBI Director had unlawfully appointed an additional investigating officer outside the Supreme Court's SIT was stayed by the Supreme Court on 26 September 2025. As of September 2026 the criminal trial had not begun.
     summary_hi: >
-      यह मामला तिरुपति पूर्व थाने में टीटीडी के महाप्रबंधक (क्रय) पी. मुरली कृष्ण की 25 सितंबर 2024 की
-      शिकायत पर दर्ज हुआ, जब NDDB CALF प्रयोगशाला की 12 जुलाई 2024 की रिपोर्ट में 10 लाख किलोग्राम
-      के टेंडर के तहत ए.आर. डेयरी फूड प्रा. लि. द्वारा आपूर्ति गाय के घी के टैंकरों में लार्ड सहित वनस्पति और
-      पशु-वसा आधारित मिलावटी तत्व पाए गए। 4 अक्टूबर 2024 को, डब्ल्यू.पी.(सी) संख्या 622/2024 में,
-      सर्वोच्च न्यायालय (न्यायमूर्ति गवई और विश्वनाथन) ने राज्य सरकार की एसआईटी के स्थान पर दो सीबीआई
-      अधिकारियों, दो आंध्र प्रदेश पुलिस अधिकारियों और एक FSSAI अधिकारी की पाँच-सदस्यीय टीम गठित की,
-      यह कहते हुए कि वह मामले को "राजनीतिक युद्धक्षेत्र" नहीं बनने देगा। जांच में बंधे बाबा ऑर्गेनिक डेयरी
-      मिल्क प्रा. लि., श्री वैष्णवी डेयरी स्पेशलिटीज़ प्रा. लि. और अन्य से जुड़ी व्यापक साज़िश सामने आई, जिसमें
-      कथित तौर पर प्रॉक्सी आपूर्तिकर्ताओं का इस्तेमाल, टेंडर व प्रयोगशाला दस्तावेज़ों में जालसाज़ी, घी जैसा
-      दिखाने के लिए रिफाइंड पाम तेल व पाम कर्नेल तेल में रासायनिक योज्य मिलाना, और टीटीडी अधिकारियों
-      को रिश्वत देना शामिल था। चार डेयरी कंपनी अधिकारियों को 9 फरवरी 2025 को गिरफ्तार किया गया और
-      प्रारंभिक आरोप-पत्र के बाद 3 जुलाई 2025 को ज़मानत मिली; टीटीडी के क्रय अधिकारी आर.एस.एस.वी.आर.
-      सुब्रह्मण्यम को नवंबर 2025 के अंत में गिरफ्तार किया गया और 24 मार्च 2026 को ज़मानत मिली। 23
-      जनवरी 2026 के एक पूरक आरोप-पत्र ने आरोपी A.16 से A.36 तक जोड़े, जिससे कुल संख्या 36 हो गई,
-      जिनमें दो और टीटीडी अधिकारी शामिल हैं — मूल शिकायत दर्ज कराने वाला सेवानिवृत्त क्रय महाप्रबंधक, और
-      एक पूर्व टीटीडी अध्यक्ष का सहयोगी। आरोप-पत्र के अपने फोरेंसिक निष्कर्ष के अनुसार मिलावट वनस्पति
-      तेलों और रासायनिक एस्टरों से हुई, न कि सितंबर 2024 में पहले आरोपित गोमांस की चर्बी से। एक अलग
-      मामले में, आंध्र प्रदेश उच्च न्यायालय के 12 जुलाई 2025 के इस निर्णय को कि सीबीआई निदेशक ने
-      सर्वोच्च न्यायालय की एसआईटी से बाहर एक अतिरिक्त जांच अधिकारी अवैध रूप से नियुक्त किया था,
-      सर्वोच्च न्यायालय ने 26 सितंबर 2025 को स्थगित कर दिया। सितंबर 2026 तक आपराधिक मुक़दमा शुरू
-      नहीं हुआ था।
-    source_ids: [ttd-src-01, ttd-src-02, ttd-src-03, ttd-src-04, ttd-src-08, ttd-src-20, ttd-src-21, ttd-src-22, ttd-src-23, ttd-src-24]
+      यह मामला तिरुपति पूर्व थाने में टीटीडी के महाप्रबंधक (क्रय) पी. मुरली कृष्ण की 25 सितंबर 2024 की शिकायत पर दर्ज हुआ, जब NDDB CALF प्रयोगशाला की 12 जुलाई 2024 की रिपोर्ट में 10 लाख किलोग्राम के टेंडर के तहत ए.आर. डेयरी फूड प्रा. लि. द्वारा आपूर्ति गाय के घी के टैंकरों में लार्ड सहित वनस्पति और पशु-वसा आधारित मिलावटी तत्व पाए गए। 4 अक्टूबर 2024 को, डब्ल्यू.पी.(सी) संख्या 622/2024 में, सर्वोच्च न्यायालय (न्यायमूर्ति गवई और विश्वनाथन) ने राज्य सरकार की एसआईटी के स्थान पर दो सीबीआई अधिकारियों, दो आंध्र प्रदेश पुलिस अधिकारियों और एक FSSAI अधिकारी की पाँच-सदस्यीय टीम गठित की, यह कहते हुए कि वह मामले को "राजनीतिक युद्धक्षेत्र" नहीं बनने देगा। जांच में बंधे बाबा ऑर्गेनिक डेयरी मिल्क प्रा. लि., श्री वैष्णवी डेयरी स्पेशलिटीज़ प्रा. लि. और अन्य से जुड़ी व्यापक साज़िश सामने आई, जिसमें कथित तौर पर प्रॉक्सी आपूर्तिकर्ताओं का इस्तेमाल, टेंडर व प्रयोगशाला दस्तावेज़ों में जालसाज़ी, घी जैसा दिखाने के लिए रिफाइंड पाम तेल व पाम कर्नेल तेल में रासायनिक योज्य मिलाना, और टीटीडी अधिकारियों को रिश्वत देना शामिल था। चार डेयरी कंपनी अधिकारियों को 9 फरवरी 2025 को गिरफ्तार किया गया और प्रारंभिक आरोप-पत्र के बाद 3 जुलाई 2025 को ज़मानत मिली; टीटीडी के क्रय अधिकारी आर.एस.एस.वी.आर. सुब्रह्मण्यम को नवंबर 2025 के अंत में गिरफ्तार किया गया और 24 मार्च 2026 को ज़मानत मिली। 23 जनवरी 2026 के एक पूरक आरोप-पत्र ने आरोपी A.16 से A.36 तक जोड़े, जिससे कुल संख्या 36 हो गई, जिनमें दो और टीटीडी अधिकारी शामिल हैं — मूल शिकायत दर्ज कराने वाला सेवानिवृत्त क्रय महाप्रबंधक, और एक पूर्व टीटीडी अध्यक्ष का सहयोगी। आरोप-पत्र के अपने फोरेंसिक निष्कर्ष के अनुसार मिलावट वनस्पति तेलों और रासायनिक एस्टरों से हुई, न कि सितंबर 2024 में पहले आरोपित गोमांस की चर्बी से। एक अलग मामले में, आंध्र प्रदेश उच्च न्यायालय के 12 जुलाई 2025 के इस निर्णय को कि सीबीआई निदेशक ने सर्वोच्च न्यायालय की एसआईटी से बाहर एक अतिरिक्त जांच अधिकारी अवैध रूप से नियुक्त किया था, सर्वोच्च न्यायालय ने 26 सितंबर 2025 को स्थगित कर दिया। सितंबर 2026 तक आपराधिक मुक़दमा शुरू नहीं हुआ था।
+    source_ids: [ ttd-src-01, ttd-src-02, ttd-src-03, ttd-src-04, ttd-src-08, ttd-src-20, ttd-src-21, ttd-src-22, ttd-src-23, ttd-src-24 ]
 
   - id: ttd-ghee-ed-pmla-2026
     title_en: Enforcement Directorate PMLA investigation, TTD ghee adulteration
@@ -527,227 +367,124 @@ cases:
     case_number: ECIR not on record
     filed_year: 2026
     case_type: criminal
-    statutes: [PMLA 2002]
+    statutes: [ PMLA 2002 ]
     status: investigation in progress; searches conducted 3 June 2026; no PMLA complaint filed as of September 2026
     tier: under_investigation
     verdict_date:
     sentence_or_remedy:
     appeal_status:
     summary_en: >
-      The Enforcement Directorate opened a money-laundering investigation on the basis of
-      the same FIR (Crime No. 470/2024) registered against A.R. Dairy Food Pvt Ltd and
-      others. On 3 June 2026 its Hyderabad Zonal Office searched 15 locations across
-      Maharashtra, Rajasthan, Uttarakhand, Tamil Nadu, Andhra Pradesh and Delhi, covering
-      the residences, offices and dairy plants of the accused, seized Rs 60 lakh in cash, and
-      reported finding more than Rs 45 crore of proceeds of crime invested in immovable
-      property through a network of shell entities. No PMLA complaint (the ED's equivalent of
-      a chargesheet) had been filed as of September 2026; the ED said further investigation
-      was in progress.
+      The Enforcement Directorate opened a money-laundering investigation on the basis of the same FIR (Crime No. 470/2024) registered against A.R. Dairy Food Pvt Ltd and others. On 3 June 2026 its Hyderabad Zonal Office searched 15 locations across Maharashtra, Rajasthan, Uttarakhand, Tamil Nadu, Andhra Pradesh and Delhi, covering the residences, offices and dairy plants of the accused, seized Rs 60 lakh in cash, and reported finding more than Rs 45 crore of proceeds of crime invested in immovable property through a network of shell entities. No PMLA complaint (the ED's equivalent of a chargesheet) had been filed as of September 2026; the ED said further investigation was in progress.
     summary_hi: >
-      प्रवर्तन निदेशालय ने ए.आर. डेयरी फूड प्रा. लि. एवं अन्य के विरुद्ध दर्ज उसी एफआईआर (अपराध संख्या
-      470/2024) के आधार पर धन-शोधन जांच शुरू की। 3 जून 2026 को इसके हैदराबाद क्षेत्रीय कार्यालय ने
-      महाराष्ट्र, राजस्थान, उत्तराखंड, तमिलनाडु, आंध्र प्रदेश और दिल्ली में 15 ठिकानों पर तलाशी ली, जिसमें
-      आरोपियों के आवास, कार्यालय और डेयरी संयंत्र शामिल थे, 60 लाख रुपये नकद ज़ब्त किए, और शेल
-      कंपनियों के जाल के माध्यम से अचल संपत्ति में निवेशित 45 करोड़ रुपये से अधिक के अपराध की आय
-      पाए जाने की सूचना दी। सितंबर 2026 तक कोई PMLA परिवाद (ईडी का आरोप-पत्र के समकक्ष) दाखिल
-      नहीं हुआ था; ईडी ने कहा कि आगे की जांच जारी है।
-    source_ids: [ttd-src-02, ttd-src-03, ttd-src-27, ttd-src-28]
+      प्रवर्तन निदेशालय ने ए.आर. डेयरी फूड प्रा. लि. एवं अन्य के विरुद्ध दर्ज उसी एफआईआर (अपराध संख्या 470/2024) के आधार पर धन-शोधन जांच शुरू की। 3 जून 2026 को इसके हैदराबाद क्षेत्रीय कार्यालय ने महाराष्ट्र, राजस्थान, उत्तराखंड, तमिलनाडु, आंध्र प्रदेश और दिल्ली में 15 ठिकानों पर तलाशी ली, जिसमें आरोपियों के आवास, कार्यालय और डेयरी संयंत्र शामिल थे, 60 लाख रुपये नकद ज़ब्त किए, और शेल कंपनियों के जाल के माध्यम से अचल संपत्ति में निवेशित 45 करोड़ रुपये से अधिक के अपराध की आय पाए जाने की सूचना दी। सितंबर 2026 तक कोई PMLA परिवाद (ईडी का आरोप-पत्र के समकक्ष) दाखिल नहीं हुआ था; ईडी ने कहा कि आगे की जांच जारी है।
+    source_ids: [ ttd-src-02, ttd-src-03, ttd-src-27, ttd-src-28 ]
 
 claims:
   - id: ttd-claim-01
     statement_en: >
-      On 18-20 September 2024 Andhra Pradesh chief minister N. Chandrababu Naidu
-      publicly alleged, citing a report from the NDDB's CALF laboratory in Anand, Gujarat,
-      that ghee used in TTD's Tirumala laddus under the previous YSR Congress Party
-      government contained animal fat, including beef tallow and lard.
+      On 18-20 September 2024 Andhra Pradesh chief minister N. Chandrababu Naidu publicly alleged, citing a report from the NDDB's CALF laboratory in Anand, Gujarat, that ghee used in TTD's Tirumala laddus under the previous YSR Congress Party government contained animal fat, including beef tallow and lard.
     statement_hi: >
-      18-20 सितंबर 2024 को आंध्र प्रदेश के मुख्यमंत्री एन. चंद्रबाबू नायडू ने NDDB की गुजरात के आणंद
-      स्थित CALF प्रयोगशाला की एक रिपोर्ट का हवाला देते हुए सार्वजनिक रूप से आरोप लगाया कि पिछली
-      वाईएसआर कांग्रेस सरकार के दौरान टीटीडी के तिरुमला लड्डुओं में इस्तेमाल घी में पशु-वसा, जिसमें
-      गोमांस की चर्बी और लार्ड शामिल हैं, पाई गई।
+      18-20 सितंबर 2024 को आंध्र प्रदेश के मुख्यमंत्री एन. चंद्रबाबू नायडू ने NDDB की गुजरात के आणंद स्थित CALF प्रयोगशाला की एक रिपोर्ट का हवाला देते हुए सार्वजनिक रूप से आरोप लगाया कि पिछली वाईएसआर कांग्रेस सरकार के दौरान टीटीडी के तिरुमला लड्डुओं में इस्तेमाल घी में पशु-वसा, जिसमें गोमांस की चर्बी और लार्ड शामिल हैं, पाई गई।
     tier: allegation
     date: 2024-09-20
-    source_ids: [ttd-src-10, ttd-src-11, ttd-src-16]
+    source_ids: [ ttd-src-10, ttd-src-11, ttd-src-16 ]
   - id: ttd-claim-02
     case_id: ttd-crime-470-2024-ghee-adulteration
     statement_en: >
-      The NDDB CALF Laboratory's report, dated 12 July 2024, on samples from ghee tankers
-      supplied to TTD by A.R. Dairy Food Pvt Ltd in June-July 2024, found the S-value
-      substantially below the standard limit and, per the laboratory's finding as recorded in
-      Andhra Pradesh High Court orders, the presence of vegetable- and animal-fat-based
-      adulterants including lard.
+      The NDDB CALF Laboratory's report, dated 12 July 2024, on samples from ghee tankers supplied to TTD by A.R. Dairy Food Pvt Ltd in June-July 2024, found the S-value substantially below the standard limit and, per the laboratory's finding as recorded in Andhra Pradesh High Court orders, the presence of vegetable- and animal-fat-based adulterants including lard.
     statement_hi: >
-      NDDB CALF प्रयोगशाला की 12 जुलाई 2024 की रिपोर्ट, जो जून-जुलाई 2024 में ए.आर. डेयरी फूड
-      प्रा. लि. द्वारा टीटीडी को आपूर्ति घी के टैंकरों के नमूनों पर थी, में S-मान मानक सीमा से काफी कम पाया
-      गया और, आंध्र प्रदेश उच्च न्यायालय के आदेशों में दर्ज प्रयोगशाला के निष्कर्ष के अनुसार, लार्ड सहित
-      वनस्पति और पशु-वसा आधारित मिलावटी तत्व पाए गए।
+      NDDB CALF प्रयोगशाला की 12 जुलाई 2024 की रिपोर्ट, जो जून-जुलाई 2024 में ए.आर. डेयरी फूड प्रा. लि. द्वारा टीटीडी को आपूर्ति घी के टैंकरों के नमूनों पर थी, में S-मान मानक सीमा से काफी कम पाया गया और, आंध्र प्रदेश उच्च न्यायालय के आदेशों में दर्ज प्रयोगशाला के निष्कर्ष के अनुसार, लार्ड सहित वनस्पति और पशु-वसा आधारित मिलावटी तत्व पाए गए।
     tier: under_investigation
     date: 2024-07-12
-    source_ids: [ttd-src-02, ttd-src-03, ttd-src-10]
+    source_ids: [ ttd-src-02, ttd-src-03, ttd-src-10 ]
   - id: ttd-claim-03
     statement_en: >
-      On 20 September 2024 TTD's Executive Officer J. Syamala Rao announced that ghee
-      samples from A.R. Dairy Food Pvt Ltd had failed quality tests and that the board was
-      blacklisting the supplier; the Food Safety and Standards Authority of India issued the
-      supplier a show-cause notice on 23 September 2024 after finding all four samples
-      substandard.
+      On 20 September 2024 TTD's Executive Officer J. Syamala Rao announced that ghee samples from A.R. Dairy Food Pvt Ltd had failed quality tests and that the board was blacklisting the supplier; the Food Safety and Standards Authority of India issued the supplier a show-cause notice on 23 September 2024 after finding all four samples substandard.
     statement_hi: >
-      20 सितंबर 2024 को टीटीडी के कार्यपालक अधिकारी जे. श्यामला राव ने घोषणा की कि ए.आर. डेयरी
-      फूड प्रा. लि. के घी के नमूने गुणवत्ता परीक्षण में विफल रहे और बोर्ड आपूर्तिकर्ता को काली सूची में
-      डाल रहा है; भारतीय खाद्य सुरक्षा एवं मानक प्राधिकरण (FSSAI) ने सभी चार नमूने अमानक पाए जाने
-      के बाद 23 सितंबर 2024 को आपूर्तिकर्ता को कारण बताओ नोटिस जारी किया।
+      20 सितंबर 2024 को टीटीडी के कार्यपालक अधिकारी जे. श्यामला राव ने घोषणा की कि ए.आर. डेयरी फूड प्रा. लि. के घी के नमूने गुणवत्ता परीक्षण में विफल रहे और बोर्ड आपूर्तिकर्ता को काली सूची में डाल रहा है; भारतीय खाद्य सुरक्षा एवं मानक प्राधिकरण (FSSAI) ने सभी चार नमूने अमानक पाए जाने के बाद 23 सितंबर 2024 को आपूर्तिकर्ता को कारण बताओ नोटिस जारी किया।
     tier: regulatory_action
     date: 2024-09-20
-    source_ids: [ttd-src-06, ttd-src-19, ttd-src-18]
+    source_ids: [ ttd-src-06, ttd-src-19, ttd-src-18 ]
   - id: ttd-claim-04
     case_id: ttd-crime-470-2024-ghee-adulteration
     statement_en: >
-      On 25 September 2024 TTD's general manager (procurement) P. Murali Krishna lodged
-      a complaint at Tirupati East police station, registered as Crime No. 470 of 2024 against
-      A.R. Dairy Food Pvt Ltd and others for cheating, criminal breach of trust and offences
-      under sections 51 and 59 of the Food Safety and Standards Act, 2006.
+      On 25 September 2024 TTD's general manager (procurement) P. Murali Krishna lodged a complaint at Tirupati East police station, registered as Crime No. 470 of 2024 against A.R. Dairy Food Pvt Ltd and others for cheating, criminal breach of trust and offences under sections 51 and 59 of the Food Safety and Standards Act, 2006.
     statement_hi: >
-      25 सितंबर 2024 को टीटीडी के महाप्रबंधक (क्रय) पी. मुरली कृष्ण ने तिरुपति पूर्व थाने में शिकायत दर्ज
-      कराई, जो ए.आर. डेयरी फूड प्रा. लि. एवं अन्य के विरुद्ध धोखाधड़ी, आपराधिक विश्वासघात और खाद्य
-      सुरक्षा एवं मानक अधिनियम, 2006 की धारा 51 और 59 के तहत अपराध संख्या 470/2024 के रूप में
-      दर्ज हुई।
+      25 सितंबर 2024 को टीटीडी के महाप्रबंधक (क्रय) पी. मुरली कृष्ण ने तिरुपति पूर्व थाने में शिकायत दर्ज कराई, जो ए.आर. डेयरी फूड प्रा. लि. एवं अन्य के विरुद्ध धोखाधड़ी, आपराधिक विश्वासघात और खाद्य सुरक्षा एवं मानक अधिनियम, 2006 की धारा 51 और 59 के तहत अपराध संख्या 470/2024 के रूप में दर्ज हुई।
     tier: under_investigation
     date: 2024-09-25
-    source_ids: [ttd-src-02, ttd-src-03, ttd-src-18]
+    source_ids: [ ttd-src-02, ttd-src-03, ttd-src-18 ]
   - id: ttd-claim-05
     case_id: ttd-crime-470-2024-ghee-adulteration
     statement_en: >
-      On 1 October 2024, hearing petitions on the ghee-adulteration allegations, the Supreme
-      Court (Gavai and Viswanathan JJ) said "we expect the gods to be kept away from
-      politics" and asked why the chief minister had gone to the press after ordering an
-      investigation of his own; on 4 October 2024, in W.P.(C) No. 622/2024, the same bench
-      recorded that it "would not permit the Court to be used as a political battleground" and
-      replaced the state government's SIT with a five-member team of two CBI officers, two
-      Andhra Pradesh police officers and one FSSAI officer, working under the supervision of
-      the CBI Director.
+      On 1 October 2024, hearing petitions on the ghee-adulteration allegations, the Supreme Court (Gavai and Viswanathan JJ) said "we expect the gods to be kept away from politics" and asked why the chief minister had gone to the press after ordering an investigation of his own; on 4 October 2024, in W.P.(C) No. 622/2024, the same bench recorded that it "would not permit the Court to be used as a political battleground" and replaced the state government's SIT with a five-member team of two CBI officers, two Andhra Pradesh police officers and one FSSAI officer, working under the supervision of the CBI Director.
     statement_hi: >
-      1 अक्टूबर 2024 को घी मिलावट के आरोपों से जुड़ी याचिकाओं की सुनवाई करते हुए सर्वोच्च न्यायालय
-      (न्यायमूर्ति गवई और विश्वनाथन) ने कहा "हम कम से कम यह अपेक्षा करते हैं कि भगवान को राजनीति से
-      दूर रखा जाए" और पूछा कि मुख्यमंत्री ने स्वयं जांच का आदेश देने के बाद प्रेस के पास जाने की क्या
-      आवश्यकता थी; 4 अक्टूबर 2024 को, डब्ल्यू.पी.(सी) संख्या 622/2024 में, उसी पीठ ने दर्ज किया कि वह
-      "न्यायालय को राजनीतिक युद्धक्षेत्र नहीं बनने देगी" और राज्य सरकार की एसआईटी के स्थान पर दो
-      सीबीआई अधिकारियों, दो आंध्र प्रदेश पुलिस अधिकारियों और एक FSSAI अधिकारी की पाँच-सदस्यीय टीम
-      गठित की, जो सीबीआई निदेशक की निगरानी में कार्य करेगी।
+      1 अक्टूबर 2024 को घी मिलावट के आरोपों से जुड़ी याचिकाओं की सुनवाई करते हुए सर्वोच्च न्यायालय (न्यायमूर्ति गवई और विश्वनाथन) ने कहा "हम कम से कम यह अपेक्षा करते हैं कि भगवान को राजनीति से दूर रखा जाए" और पूछा कि मुख्यमंत्री ने स्वयं जांच का आदेश देने के बाद प्रेस के पास जाने की क्या आवश्यकता थी; 4 अक्टूबर 2024 को, डब्ल्यू.पी.(सी) संख्या 622/2024 में, उसी पीठ ने दर्ज किया कि वह "न्यायालय को राजनीतिक युद्धक्षेत्र नहीं बनने देगी" और राज्य सरकार की एसआईटी के स्थान पर दो सीबीआई अधिकारियों, दो आंध्र प्रदेश पुलिस अधिकारियों और एक FSSAI अधिकारी की पाँच-सदस्यीय टीम गठित की, जो सीबीआई निदेशक की निगरानी में कार्य करेगी।
     tier: under_investigation
     date: 2024-10-04
-    source_ids: [ttd-src-01, ttd-src-08, ttd-src-13, ttd-src-14, ttd-src-15]
+    source_ids: [ ttd-src-01, ttd-src-08, ttd-src-13, ttd-src-14, ttd-src-15 ]
   - id: ttd-claim-06
     case_id: ttd-crime-470-2024-ghee-adulteration
     statement_en: >
-      On 9 February 2025 the CBI-led SIT arrested four dairy-company officials — Vipin Jain
-      and Pomil Jain, directors of Bhole Baba Organic Dairy Milk Pvt Ltd; Apoorva Vinaykanth
-      Chawda, CEO of Sri Vyshnavi Dairy Specialities Pvt Ltd; and Raju Rajasekaran,
-      Managing Director of A.R. Dairy Food Pvt Ltd — who were remanded to judicial custody.
+      On 9 February 2025 the CBI-led SIT arrested four dairy-company officials — Vipin Jain and Pomil Jain, directors of Bhole Baba Organic Dairy Milk Pvt Ltd; Apoorva Vinaykanth Chawda, CEO of Sri Vyshnavi Dairy Specialities Pvt Ltd; and Raju Rajasekaran, Managing Director of A.R. Dairy Food Pvt Ltd — who were remanded to judicial custody.
     statement_hi: >
-      9 फरवरी 2025 को सीबीआई-नेतृत्व वाली एसआईटी ने चार डेयरी कंपनी अधिकारियों को गिरफ्तार किया —
-      विपिन जैन और पोमिल जैन, बंधे बाबा ऑर्गेनिक डेयरी मिल्क प्रा. लि. के निदेशक; अपूर्वा विनयकांत चावड़ा,
-      श्री वैष्णवी डेयरी स्पेशलिटीज़ प्रा. लि. की सीईओ; और राजू राजशेखरन, ए.आर. डेयरी फूड प्रा. लि. के
-      प्रबंध निदेशक — जिन्हें न्यायिक हिरासत में भेजा गया।
+      9 फरवरी 2025 को सीबीआई-नेतृत्व वाली एसआईटी ने चार डेयरी कंपनी अधिकारियों को गिरफ्तार किया — विपिन जैन और पोमिल जैन, बंधे बाबा ऑर्गेनिक डेयरी मिल्क प्रा. लि. के निदेशक; अपूर्वा विनयकांत चावड़ा, श्री वैष्णवी डेयरी स्पेशलिटीज़ प्रा. लि. की सीईओ; और राजू राजशेखरन, ए.आर. डेयरी फूड प्रा. लि. के प्रबंध निदेशक — जिन्हें न्यायिक हिरासत में भेजा गया।
     tier: under_investigation
     date: 2025-02-09
-    source_ids: [ttd-src-02, ttd-src-03]
+    source_ids: [ ttd-src-02, ttd-src-03 ]
   - id: ttd-claim-07
     case_id: ttd-crime-470-2024-ghee-adulteration
     statement_en: >
-      On 3 July 2025 the Andhra Pradesh High Court (Justice K. Sreenivasa Reddy) granted
-      bail to three of the four accused on personal bonds of Rs 25,000 each with two sureties,
-      noting they had been in judicial custody for more than four-and-a-half months, had
-      cooperated with the investigation, and that the SIT had already filed a chargesheet.
+      On 3 July 2025 the Andhra Pradesh High Court (Justice K. Sreenivasa Reddy) granted bail to three of the four accused on personal bonds of Rs 25,000 each with two sureties, noting they had been in judicial custody for more than four-and-a-half months, had cooperated with the investigation, and that the SIT had already filed a chargesheet.
     statement_hi: >
-      3 जुलाई 2025 को आंध्र प्रदेश उच्च न्यायालय (न्यायमूर्ति के. श्रीनिवास रेड्डी) ने चार में से तीन
-      आरोपियों को प्रत्येक 25,000 रुपये के व्यक्तिगत बॉन्ड और दो-दो ज़मानतदारों पर ज़मानत दी, यह
-      दर्ज करते हुए कि वे साढ़े चार महीने से अधिक समय से न्यायिक हिरासत में थे, जांच में सहयोग किया,
-      और एसआईटी पहले ही आरोप-पत्र दाखिल कर चुकी थी।
+      3 जुलाई 2025 को आंध्र प्रदेश उच्च न्यायालय (न्यायमूर्ति के. श्रीनिवास रेड्डी) ने चार में से तीन आरोपियों को प्रत्येक 25,000 रुपये के व्यक्तिगत बॉन्ड और दो-दो ज़मानतदारों पर ज़मानत दी, यह दर्ज करते हुए कि वे साढ़े चार महीने से अधिक समय से न्यायिक हिरासत में थे, जांच में सहयोग किया, और एसआईटी पहले ही आरोप-पत्र दाखिल कर चुकी थी।
     tier: charged
     date: 2025-07-03
-    source_ids: [ttd-src-03]
+    source_ids: [ ttd-src-03 ]
   - id: ttd-claim-08
     case_id: ttd-crime-470-2024-ghee-adulteration
     statement_en: >
-      TTD's General Manager (Procurement) R.S.S.V.R. Subrahmanyam, who had headed
-      procurement in 2017-18 and 2020-23, was arrested and taken into judicial custody by
-      27 November 2025 on allegations of accepting bribes for favourable plant-inspection
-      reports for the dairy suppliers; press reports at the time gave the arrest date as around
-      9 December 2025, some days after the High Court's later bail order records his custody
-      as having begun.
+      TTD's General Manager (Procurement) R.S.S.V.R. Subrahmanyam, who had headed procurement in 2017-18 and 2020-23, was arrested and taken into judicial custody by 27 November 2025 on allegations of accepting bribes for favourable plant-inspection reports for the dairy suppliers; press reports at the time gave the arrest date as around 9 December 2025, some days after the High Court's later bail order records his custody as having begun.
     statement_hi: >
-      टीटीडी के महाप्रबंधक (क्रय) आर.एस.एस.वी.आर. सुब्रह्मण्यम, जिन्होंने 2017-18 और 2020-23 में
-      क्रय विभाग का नेतृत्व किया था, को डेयरी आपूर्तिकर्ताओं के लिए अनुकूल संयंत्र-निरीक्षण रिपोर्ट देने के
-      बदले रिश्वत लेने के आरोप में 27 नवंबर 2025 तक गिरफ्तार कर न्यायिक हिरासत में भेजा गया; उस
-      समय के प्रेस रिपोर्टों में गिरफ्तारी की तारीख लगभग 9 दिसंबर 2025 बताई गई, जो उच्च न्यायालय के
-      बाद के ज़मानत आदेश में दर्ज हिरासत आरंभ की तारीख से कुछ दिन बाद है।
+      टीटीडी के महाप्रबंधक (क्रय) आर.एस.एस.वी.आर. सुब्रह्मण्यम, जिन्होंने 2017-18 और 2020-23 में क्रय विभाग का नेतृत्व किया था, को डेयरी आपूर्तिकर्ताओं के लिए अनुकूल संयंत्र-निरीक्षण रिपोर्ट देने के बदले रिश्वत लेने के आरोप में 27 नवंबर 2025 तक गिरफ्तार कर न्यायिक हिरासत में भेजा गया; उस समय के प्रेस रिपोर्टों में गिरफ्तारी की तारीख लगभग 9 दिसंबर 2025 बताई गई, जो उच्च न्यायालय के बाद के ज़मानत आदेश में दर्ज हिरासत आरंभ की तारीख से कुछ दिन बाद है।
     tier: under_investigation
     date: 2025-11-27
-    source_ids: [ttd-src-04, ttd-src-26]
+    source_ids: [ ttd-src-04, ttd-src-26 ]
   - id: ttd-claim-09
     case_id: ttd-crime-470-2024-ghee-adulteration
     statement_en: >
-      A supplementary chargesheet dated 23 January 2026 was filed before the Special Judge
-      for SPE & ACB Cases-cum-II Additional District & Sessions Judge, Nellore, adding
-      accused A.16 to A.36 and bringing the total to 36 accused, including three TTD
-      officials — among them the retired procurement GM who had lodged the original 2024
-      complaint and an aide to a former TTD chairman — dairy-company directors, and a
-      Delhi-based trader, over an alleged five years and roughly Rs 250 crore of adulterated
-      ghee.
+      A supplementary chargesheet dated 23 January 2026 was filed before the Special Judge for SPE & ACB Cases-cum-II Additional District & Sessions Judge, Nellore, adding accused A.16 to A.36 and bringing the total to 36 accused, including three TTD officials — among them the retired procurement GM who had lodged the original 2024 complaint and an aide to a former TTD chairman — dairy-company directors, and a Delhi-based trader, over an alleged five years and roughly Rs 250 crore of adulterated ghee.
     statement_hi: >
-      23 जनवरी 2026 का एक पूरक आरोप-पत्र नेल्लोर के विशेष न्यायाधीश (एसपीई एवं एसीबी मामले)-सह-
-      द्वितीय अतिरिक्त ज़िला एवं सत्र न्यायाधीश की अदालत में दाखिल हुआ, जिसमें आरोपी A.16 से A.36
-      तक जोड़े गए और कुल संख्या 36 हो गई, जिनमें तीन टीटीडी अधिकारी — जिनमें 2024 की मूल शिकायत
-      दर्ज कराने वाला सेवानिवृत्त क्रय महाप्रबंधक और एक पूर्व टीटीडी अध्यक्ष का सहयोगी शामिल हैं —
-      डेयरी कंपनी निदेशक, और दिल्ली का एक व्यापारी शामिल हैं, जो कथित तौर पर लगभग पाँच वर्षों और
-      करीब 250 करोड़ रुपये के मिलावटी घी से जुड़ा है।
+      23 जनवरी 2026 का एक पूरक आरोप-पत्र नेल्लोर के विशेष न्यायाधीश (एसपीई एवं एसीबी मामले)-सह- द्वितीय अतिरिक्त ज़िला एवं सत्र न्यायाधीश की अदालत में दाखिल हुआ, जिसमें आरोपी A.16 से A.36 तक जोड़े गए और कुल संख्या 36 हो गई, जिनमें तीन टीटीडी अधिकारी — जिनमें 2024 की मूल शिकायत दर्ज कराने वाला सेवानिवृत्त क्रय महाप्रबंधक और एक पूर्व टीटीडी अध्यक्ष का सहयोगी शामिल हैं — डेयरी कंपनी निदेशक, और दिल्ली का एक व्यापारी शामिल हैं, जो कथित तौर पर लगभग पाँच वर्षों और करीब 250 करोड़ रुपये के मिलावटी घी से जुड़ा है।
     tier: charged
     date: 2026-01-23
-    source_ids: [ttd-src-04, ttd-src-22, ttd-src-23, ttd-src-24]
+    source_ids: [ ttd-src-04, ttd-src-22, ttd-src-23, ttd-src-24 ]
   - id: ttd-claim-10
     case_id: ttd-crime-470-2024-ghee-adulteration
     statement_en: >
-      The chargesheet's own forensic conclusion, as reported by The Wire, was that the low
-      S-values were caused by adulteration with refined palm oil, palm kernel oil, palmolein
-      and chemical esters such as beta-carotene and acetic-acid esters used to mimic ghee,
-      rather than by the beef tallow originally alleged by the chief minister in September 2024.
+      The chargesheet's own forensic conclusion, as reported by The Wire, was that the low S-values were caused by adulteration with refined palm oil, palm kernel oil, palmolein and chemical esters such as beta-carotene and acetic-acid esters used to mimic ghee, rather than by the beef tallow originally alleged by the chief minister in September 2024.
     statement_hi: >
-      द वायर की रिपोर्ट के अनुसार, आरोप-पत्र के अपने फोरेंसिक निष्कर्ष के अनुसार कम S-मान का कारण
-      रिफाइंड पाम तेल, पाम कर्नेल तेल, पामोलीन और घी जैसा दिखाने के लिए इस्तेमाल बीटा-कैरोटीन तथा
-      एसिटिक-एसिड एस्टर जैसे रासायनिक तत्वों से मिलावट थी, न कि सितंबर 2024 में मुख्यमंत्री द्वारा
-      शुरू में आरोपित गोमांस की चर्बी।
+      द वायर की रिपोर्ट के अनुसार, आरोप-पत्र के अपने फोरेंसिक निष्कर्ष के अनुसार कम S-मान का कारण रिफाइंड पाम तेल, पाम कर्नेल तेल, पामोलीन और घी जैसा दिखाने के लिए इस्तेमाल बीटा-कैरोटीन तथा एसिटिक-एसिड एस्टर जैसे रासायनिक तत्वों से मिलावट थी, न कि सितंबर 2024 में मुख्यमंत्री द्वारा शुरू में आरोपित गोमांस की चर्बी।
     tier: charged
     date: 2026-01-23
-    source_ids: [ttd-src-12, ttd-src-03]
+    source_ids: [ ttd-src-12, ttd-src-03 ]
   - id: ttd-claim-11
     case_id: ttd-ghee-ed-pmla-2026
     statement_en: >
-      On 3 June 2026 the Enforcement Directorate's Hyderabad Zonal Office searched 15
-      locations in Maharashtra, Rajasthan, Uttarakhand, Tamil Nadu, Andhra Pradesh and
-      Delhi under the PMLA, seized Rs 60 lakh in cash, and reported finding more than Rs 45
-      crore in proceeds of crime invested in immovable property through a network of
-      interconnected entities.
+      On 3 June 2026 the Enforcement Directorate's Hyderabad Zonal Office searched 15 locations in Maharashtra, Rajasthan, Uttarakhand, Tamil Nadu, Andhra Pradesh and Delhi under the PMLA, seized Rs 60 lakh in cash, and reported finding more than Rs 45 crore in proceeds of crime invested in immovable property through a network of interconnected entities.
     statement_hi: >
-      3 जून 2026 को प्रवर्तन निदेशालय के हैदराबाद क्षेत्रीय कार्यालय ने महाराष्ट्र, राजस्थान, उत्तराखंड,
-      तमिलनाडु, आंध्र प्रदेश और दिल्ली में PMLA के तहत 15 ठिकानों पर तलाशी ली, 60 लाख रुपये नकद
-      ज़ब्त किए, और परस्पर जुड़ी संस्थाओं के जाल के माध्यम से अचल संपत्ति में निवेशित 45 करोड़ रुपये
-      से अधिक के अपराध की आय पाए जाने की सूचना दी।
+      3 जून 2026 को प्रवर्तन निदेशालय के हैदराबाद क्षेत्रीय कार्यालय ने महाराष्ट्र, राजस्थान, उत्तराखंड, तमिलनाडु, आंध्र प्रदेश और दिल्ली में PMLA के तहत 15 ठिकानों पर तलाशी ली, 60 लाख रुपये नकद ज़ब्त किए, और परस्पर जुड़ी संस्थाओं के जाल के माध्यम से अचल संपत्ति में निवेशित 45 करोड़ रुपये से अधिक के अपराध की आय पाए जाने की सूचना दी।
     tier: under_investigation
     date: 2026-06-03
-    source_ids: [ttd-src-27, ttd-src-28, ttd-src-02]
+    source_ids: [ ttd-src-27, ttd-src-28, ttd-src-02 ]
   - id: ttd-claim-12
     statement_en: >
-      TTD chairman B.R. Naidu told a press conference on 30 January 2026 that claims the
-      accused had received a "clean chit" were "false propaganda" and "completely untrue,"
-      and that the SIT chargesheet had "clearly established that adulterated ghee was used
-      in the preparation of Tirumala Srivari laddus."
+      TTD chairman B.R. Naidu told a press conference on 30 January 2026 that claims the accused had received a "clean chit" were "false propaganda" and "completely untrue," and that the SIT chargesheet had "clearly established that adulterated ghee was used in the preparation of Tirumala Srivari laddus."
     statement_hi: >
-      टीटीडी अध्यक्ष बी.आर. नायडू ने 30 जनवरी 2026 को एक प्रेस वार्ता में कहा कि आरोपियों को "क्लीन
-      चिट" मिलने के दावे "झूठा प्रचार" और "पूरी तरह असत्य" हैं, और एसआईटी के आरोप-पत्र ने "स्पष्ट
-      रूप से स्थापित कर दिया है कि तिरुमला के श्रीवारी लड्डुओं की तैयारी में मिलावटी घी इस्तेमाल हुआ।"
+      टीटीडी अध्यक्ष बी.आर. नायडू ने 30 जनवरी 2026 को एक प्रेस वार्ता में कहा कि आरोपियों को "क्लीन चिट" मिलने के दावे "झूठा प्रचार" और "पूरी तरह असत्य" हैं, और एसआईटी के आरोप-पत्र ने "स्पष्ट रूप से स्थापित कर दिया है कि तिरुमला के श्रीवारी लड्डुओं की तैयारी में मिलावटी घी इस्तेमाल हुआ।"
     tier: charged
     date: 2026-01-30
-    source_ids: [ttd-src-25, ttd-src-04]
+    source_ids: [ ttd-src-25, ttd-src-04 ]
 
 events:
   - date: 2024-07-12
@@ -755,112 +492,112 @@ events:
     label_en: NDDB CALF Laboratory (Anand, Gujarat) reports low S-value and animal/vegetable fat adulterants in TTD ghee samples
     label_hi: NDDB CALF प्रयोगशाला (आणंद, गुजरात) ने टीटीडी घी के नमूनों में कम S-मान और पशु/वनस्पति वसा मिलावट की रिपोर्ट दी
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-02, ttd-src-03]
+    source_ids: [ ttd-src-02, ttd-src-03 ]
   - date: 2024-09-20
     kind: notice
     label_en: TTD Executive Officer announces failed ghee tests; A.R. Dairy Food Pvt Ltd blacklisted
     label_hi: टीटीडी कार्यपालक अधिकारी ने घी परीक्षण विफल होने की घोषणा की; ए.आर. डेयरी फूड प्रा. लि. काली सूची में
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-06, ttd-src-19]
+    source_ids: [ ttd-src-06, ttd-src-19 ]
   - date: 2024-09-18
     kind: other
     label_en: Chief Minister Chandrababu Naidu publicly alleges animal fat in Tirumala laddu ghee
     label_hi: मुख्यमंत्री चंद्रबाबू नायडू ने तिरुमला लड्डू के घी में पशु-वसा होने का सार्वजनिक आरोप लगाया
-    source_ids: [ttd-src-10, ttd-src-11]
+    source_ids: [ ttd-src-10, ttd-src-11 ]
   - date: 2024-09-23
     kind: notice
     label_en: FSSAI issues show-cause notice to A.R. Dairy Food Pvt Ltd
     label_hi: FSSAI ने ए.आर. डेयरी फूड प्रा. लि. को कारण बताओ नोटिस जारी किया
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-06]
+    source_ids: [ ttd-src-06 ]
   - date: 2024-09-23
     kind: other
     label_en: Priests and officials perform four-hour purification ritual at Tirumala temple
     label_hi: पुजारियों और अधिकारियों ने तिरुमला मंदिर में चार घंटे का शुद्धिकरण अनुष्ठान किया
-    source_ids: [ttd-src-17]
+    source_ids: [ ttd-src-17 ]
   - date: 2024-09-25
     kind: fir
     label_en: TTD's GM (Procurement) lodges complaint; registered as Crime No. 470/2024, Tirupati East PS
     label_hi: टीटीडी के महाप्रबंधक (क्रय) की शिकायत तिरुपति पूर्व थाने में अपराध संख्या 470/2024 के रूप में दर्ज
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-02, ttd-src-03, ttd-src-18]
+    source_ids: [ ttd-src-02, ttd-src-03, ttd-src-18 ]
   - date: 2024-09-27
     kind: other
     label_en: Andhra Pradesh government constitutes nine-member state SIT under IPS officer Sarva Shreshth Tripathi
     label_hi: आंध्र प्रदेश सरकार ने आईपीएस अधिकारी सर्व श्रेष्ठ त्रिपाठी के नेतृत्व में नौ-सदस्यीय राज्य एसआईटी गठित की
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-07]
+    source_ids: [ ttd-src-07 ]
   - date: 2024-10-01
     kind: other
     label_en: Supreme Court tells chief minister it expects "the gods to be kept away from politics"
     label_hi: सर्वोच्च न्यायालय ने मुख्यमंत्री से कहा कि वह "भगवान को राजनीति से दूर रखने" की अपेक्षा करता है
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-13]
+    source_ids: [ ttd-src-13 ]
   - date: 2024-10-04
     kind: other
     label_en: Supreme Court replaces state SIT with five-member CBI-supervised SIT (W.P.(C) No. 622/2024)
     label_hi: सर्वोच्च न्यायालय ने राज्य एसआईटी के स्थान पर सीबीआई-निगरानी वाली पाँच-सदस्यीय एसआईटी गठित की (डब्ल्यू.पी.(सी) 622/2024)
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-01, ttd-src-08]
+    source_ids: [ ttd-src-01, ttd-src-08 ]
   - date: 2025-02-09
     kind: arrest
     label_en: SIT arrests four dairy-company officials (Vipin Jain, Pomil Jain, Apoorva Chawda, Raju Rajasekaran)
     label_hi: एसआईटी ने चार डेयरी कंपनी अधिकारियों (विपिन जैन, पोमिल जैन, अपूर्वा चावड़ा, राजू राजशेखरन) को गिरफ्तार किया
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-02, ttd-src-03]
+    source_ids: [ ttd-src-02, ttd-src-03 ]
   - date: 2025-07-03
     kind: bail
     label_en: Andhra Pradesh High Court grants bail to three of the four dairy-company officials
     label_hi: आंध्र प्रदेश उच्च न्यायालय ने चार में से तीन डेयरी कंपनी अधिकारियों को ज़मानत दी
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-03]
+    source_ids: [ ttd-src-03 ]
   - date: 2025-07-12
     kind: other
     label_en: Andhra Pradesh High Court holds CBI Director unlawfully appointed an investigating officer outside the SC-mandated SIT
     label_hi: आंध्र प्रदेश उच्च न्यायालय ने कहा कि सीबीआई निदेशक ने एससी-निर्धारित एसआईटी से बाहर जांच अधिकारी अवैध रूप से नियुक्त किया
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-20]
+    source_ids: [ ttd-src-20 ]
   - date: 2025-09-26
     kind: other
     label_en: Supreme Court stays the Andhra Pradesh High Court's ruling on the CBI Director's power to appoint the investigating officer
     label_hi: सर्वोच्च न्यायालय ने जांच अधिकारी नियुक्ति पर आंध्र प्रदेश उच्च न्यायालय के निर्णय पर रोक लगाई
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-21]
+    source_ids: [ ttd-src-21 ]
   - date: 2025-11-27
     kind: arrest
     label_en: SIT takes TTD Procurement GM R.S.S.V.R. Subrahmanyam into judicial custody
     label_hi: एसआईटी ने टीटीडी क्रय महाप्रबंधक आर.एस.एस.वी.आर. सुब्रह्मण्यम को न्यायिक हिरासत में लिया
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-04, ttd-src-26]
+    source_ids: [ ttd-src-04, ttd-src-26 ]
   - date: 2026-01-23
     kind: chargesheet
     label_en: Supplementary chargesheet filed at ACB Court, Nellore, naming accused A.16-A.36 (total 36)
     label_hi: नेल्लोर एसीबी अदालत में पूरक आरोप-पत्र दाखिल, आरोपी A.16-A.36 नामित (कुल 36)
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-04, ttd-src-22, ttd-src-23]
+    source_ids: [ ttd-src-04, ttd-src-22, ttd-src-23 ]
   - date: 2026-01-30
     kind: other
     label_en: TTD chairman B.R. Naidu rejects "clean chit" claims, affirms chargesheet's findings
     label_hi: टीटीडी अध्यक्ष बी.आर. नायडू ने "क्लीन चिट" के दावों को खारिज किया, आरोप-पत्र के निष्कर्षों की पुष्टि की
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-25]
+    source_ids: [ ttd-src-25 ]
   - date: 2026-02
     kind: bail
     label_en: Andhra Pradesh High Court grants bail to Chinna Appanna, aide to former TTD chairman Y.V. Subba Reddy
     label_hi: आंध्र प्रदेश उच्च न्यायालय ने पूर्व टीटीडी अध्यक्ष वाई.वी. सुब्बा रेड्डी के सहयोगी चिन्ना अप्पन्ना को ज़मानत दी
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-24]
+    source_ids: [ ttd-src-24 ]
   - date: 2026-03-24
     kind: bail
     label_en: Andhra Pradesh High Court grants bail to TTD official R.S.S.V.R. Subrahmanyam
     label_hi: आंध्र प्रदेश उच्च न्यायालय ने टीटीडी अधिकारी आर.एस.एस.वी.आर. सुब्रह्मण्यम को ज़मानत दी
     case_id: ttd-crime-470-2024-ghee-adulteration
-    source_ids: [ttd-src-04]
+    source_ids: [ ttd-src-04 ]
   - date: 2026-06-03
     kind: raid
     label_en: ED searches 15 locations in six states; seizes Rs 60 lakh cash, finds Rs 45 crore in properties
     label_hi: ईडी ने छह राज्यों में 15 ठिकानों पर तलाशी ली; 60 लाख रुपये नकद ज़ब्त, 45 करोड़ रुपये की संपत्ति का पता चला
     case_id: ttd-ghee-ed-pmla-2026
-    source_ids: [ttd-src-27, ttd-src-28]
+    source_ids: [ ttd-src-27, ttd-src-28 ]
 
 relationships: []

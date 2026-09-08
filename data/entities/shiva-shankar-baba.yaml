@@ -3,36 +3,19 @@ type: person
 is_subject: true
 name_en: Shiva Shankar Baba
 name_hi: शिव शंकर बाबा
-aliases: [Shiva Sankaran, Shiva Sankar Baba, Siva Sankar Baba, Siva Sankaran]
+aliases: [ Shiva Sankaran, Shiva Sankar Baba, Siva Sankar Baba, Siva Sankaran ]
 born:
 died:
 base_location: Sree Ramarajiya Campus, Kelambakkam, Tamil Nadu
 country: IN
-countries_of_operation: [IN]
-organisations: [Sushil Hari International Residential School, Sriramarajya Trust]
+countries_of_operation: [ IN ]
+organisations: [ Sushil Hari International Residential School, Sriramarajya Trust ]
 activity_status: active
 abap_2017_list: false
 summary_en: >
-  Shiva Sankaran, known as Shiva Shankar Baba, founder of the Sushil Hari International
-  Residential School and the Sriramarajya Trust at Kelambakkam, Tamil Nadu, was named in
-  multiple FIRs registered by the CB-CID, Kancheepuram in 2021 alleging sexual abuse of
-  students at the school, after former students posted accounts on social media. He was
-  arrested in June 2021 after allegedly absconding, and three chargesheets against him were
-  taken on file as Special Sessions Cases before the Special Court for exclusive trial of
-  POCSO Act cases at Chengalpattu. In October 2022 the Madras High Court quashed one of the
-  FIRs against him; after the Tamil Nadu government moved the court and it emerged that a
-  chargesheet had already been filed in that case, the High Court recalled its quashing order
-  in November 2022. Trial in the Special Sessions Cases is on record as pending.
+  Shiva Sankaran, known as Shiva Shankar Baba, founder of the Sushil Hari International Residential School and the Sriramarajya Trust at Kelambakkam, Tamil Nadu, was named in multiple FIRs registered by the CB-CID, Kancheepuram in 2021 alleging sexual abuse of students at the school, after former students posted accounts on social media. He was arrested in June 2021 after allegedly absconding, and three chargesheets against him were taken on file as Special Sessions Cases before the Special Court for exclusive trial of POCSO Act cases at Chengalpattu. In October 2022 the Madras High Court quashed one of the FIRs against him; after the Tamil Nadu government moved the court and it emerged that a chargesheet had already been filed in that case, the High Court recalled its quashing order in November 2022. Trial in the Special Sessions Cases is on record as pending.
 summary_hi: >
-  शिव संकरन, जो शिव शंकर बाबा के नाम से जाने जाते हैं, तमिलनाडु के केलंबक्कम स्थित सुशील हरि
-  इंटरनेशनल रेजिडेंशियल स्कूल और श्रीरामराज्य ट्रस्ट के संस्थापक हैं। पूर्व छात्रों द्वारा सोशल मीडिया
-  पर अनुभव साझा किए जाने के बाद 2021 में कांचीपुरम सीबी-सीआईडी ने स्कूल में छात्रों के यौन शोषण के
-  आरोप में उनके विरुद्ध कई एफआईआर दर्ज कीं। कथित रूप से फरार होने के बाद जून 2021 में उन्हें गिरफ्तार
-  किया गया, और उनके विरुद्ध तीन आरोप-पत्र चेंगलपट्टु स्थित पॉक्सो अधिनियम के मामलों की विशेष अदालत में
-  विशेष सत्र मामलों के रूप में दाखिल हुए। अक्टूबर 2022 में मद्रास उच्च न्यायालय ने उनके विरुद्ध एक
-  एफआईआर रद्द कर दी; तमिलनाडु सरकार के अदालत में जाने और यह सामने आने पर कि उस मामले में आरोप-पत्र
-  पहले ही दाखिल हो चुका था, उच्च न्यायालय ने नवंबर 2022 में अपना रद्दीकरण आदेश वापस ले लिया। विशेष सत्र
-  मामलों में विचारण अभिलेख के अनुसार लंबित है।
+  शिव संकरन, जो शिव शंकर बाबा के नाम से जाने जाते हैं, तमिलनाडु के केलंबक्कम स्थित सुशील हरि इंटरनेशनल रेजिडेंशियल स्कूल और श्रीरामराज्य ट्रस्ट के संस्थापक हैं। पूर्व छात्रों द्वारा सोशल मीडिया पर अनुभव साझा किए जाने के बाद 2021 में कांचीपुरम सीबी-सीआईडी ने स्कूल में छात्रों के यौन शोषण के आरोप में उनके विरुद्ध कई एफआईआर दर्ज कीं। कथित रूप से फरार होने के बाद जून 2021 में उन्हें गिरफ्तार किया गया, और उनके विरुद्ध तीन आरोप-पत्र चेंगलपट्टु स्थित पॉक्सो अधिनियम के मामलों की विशेष अदालत में विशेष सत्र मामलों के रूप में दाखिल हुए। अक्टूबर 2022 में मद्रास उच्च न्यायालय ने उनके विरुद्ध एक एफआईआर रद्द कर दी; तमिलनाडु सरकार के अदालत में जाने और यह सामने आने पर कि उस मामले में आरोप-पत्र पहले ही दाखिल हो चुका था, उच्च न्यायालय ने नवंबर 2022 में अपना रद्दीकरण आदेश वापस ले लिया। विशेष सत्र मामलों में विचारण अभिलेख के अनुसार लंबित है।
 hi_reviewed: false
 
 sources:
@@ -47,15 +30,7 @@ sources:
     captured_at: 2026-09-09
     sha256:
     note: >
-      CRL.O.P.No.23835 of 2021, Justice M. Nirmal Kumar. Petition by Shiva Sankaran @ Shiva
-      Shankar Baba to set aside a trial court search-warrant order in Crime No.10 of 2021
-      (CBCID, Metro Wing-II, Chennai). Records that earlier FIRs, Crime Nos. 1 and 3 of 2021,
-      were registered by CB-CID, Kancheepuram against Sivasankar Baba and others; that in Crime
-      No.3 of 2021 most co-accused were granted anticipatory bail during January-August 2021;
-      that on completion of investigation three chargesheets were filed and taken on file as
-      Special S.C. Nos. 69 to 71 of 2021; and identifies the petitioner as founder of Sushil
-      Hari International School and the Ramarajiya Trust. Dismisses the petition and confirms
-      the trial court's search-warrant order.
+      CRL.O.P.No.23835 of 2021, Justice M. Nirmal Kumar. Petition by Shiva Sankaran @ Shiva Shankar Baba to set aside a trial court search-warrant order in Crime No.10 of 2021 (CBCID, Metro Wing-II, Chennai). Records that earlier FIRs, Crime Nos. 1 and 3 of 2021, were registered by CB-CID, Kancheepuram against Sivasankar Baba and others; that in Crime No.3 of 2021 most co-accused were granted anticipatory bail during January-August 2021; that on completion of investigation three chargesheets were filed and taken on file as Special S.C. Nos. 69 to 71 of 2021; and identifies the petitioner as founder of Sushil Hari International School and the Ramarajiya Trust. Dismisses the petition and confirms the trial court's search-warrant order.
   - id: shivab-src-02
     url: https://www.newindianexpress.com/cities/chennai/2021/Jun/16/metoo-shiva-shankar-baba-who-fled-chennai-after-sexual-abuse-charges-at-school-nabbed-in-delhi-2317074.html
     title: "#MeToo: Shiva Shankar Baba, who fled Chennai after sexual abuse charges at school, nabbed in Delhi"
@@ -63,15 +38,11 @@ sources:
     type: major_outlet
     published_at: 2021-06-16
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20251207003747/https://www.newindianexpress.com/cities/chennai/2021/Jun/16/metoo-shiva-shankar-baba-who-fled-chennai-after-sexual-abuse-charges-at-school-nabbed-in-delhi-2317074.html
+    captured_at: 2026-09-08
+    sha256: 4f559fba4311148912f7c328653f36e3454f70799ade393dd8e4c2400728189b
     note: >
-      Sahaya Novinston Lobo. Reports that Shiva Shankar Baba, founder of the Sushil Hari
-      International Residential School at Kelambakkam, was arrested by the CB-CID in Delhi after
-      absconding once his case was transferred from Chennai police to CB-CID; says three cases
-      were registered against him under the IPC, POCSO Act and the Tamil Nadu Prohibition of
-      Harassment of Women Act, after school alumni alleged sexual abuse on social media.
+      Sahaya Novinston Lobo. Reports that Shiva Shankar Baba, founder of the Sushil Hari International Residential School at Kelambakkam, was arrested by the CB-CID in Delhi after absconding once his case was transferred from Chennai police to CB-CID; says three cases were registered against him under the IPC, POCSO Act and the Tamil Nadu Prohibition of Harassment of Women Act, after school alumni alleged sexual abuse on social media.
   - id: shivab-src-03
     url: https://www.newindianexpress.com/cities/chennai/2021/Jun/18/shiva-shankar-baba-remandedfor-sexually-abusing-minors-2317827.html
     title: Shiva Shankar Baba remanded for sexually abusing minors
@@ -79,13 +50,11 @@ sources:
     type: major_outlet
     published_at: 2021-06-18
     language: en
-    archive_url:
-    captured_at:
-    sha256:
+    archive_url: https://web.archive.org/web/20210630175717/https://www.newindianexpress.com/cities/chennai/2021/jun/18/shiva-shankar-baba-remandedfor-sexually-abusing-minors-2317827.html
+    captured_at: 2026-09-08
+    sha256: 7ff765d264d8205211b2530b37a5884d357ab687e9744120bcab9a29dc3ee176
     note: >
-      Reports that Shiva Shankar Baba was produced before the magistrate at Chengalpattu and
-      remanded to 15 days' judicial custody on 17 June 2021, after his arrest in Delhi by CB-CID
-      the previous day; names Mahabalipuram All-Women Police as the registering authority.
+      Reports that Shiva Shankar Baba was produced before the magistrate at Chengalpattu and remanded to 15 days' judicial custody on 17 June 2021, after his arrest in Delhi by CB-CID the previous day; names Mahabalipuram All-Women Police as the registering authority.
   - id: shivab-src-04
     url: https://www.barandbench.com/news/litigation/madras-high-court-recalls-order-quashed-sexual-harassment-case-against-godman-shiva-sankar-baba
     title: Madras High Court recalls order that quashed sexual harassment case against 'godman' Shiva Sankar Baba
@@ -97,9 +66,7 @@ sources:
     captured_at:
     sha256:
     note: >
-      Ayesha Arvind. Reports that the Madras High Court, on 21 November 2022, recalled Justice
-      R.N. Manjula's 17 October 2022 order which had quashed an FIR against Shiva Sankar Baba on
-      the ground of a "technical flaw".
+      Ayesha Arvind. Reports that the Madras High Court, on 21 November 2022, recalled Justice R.N. Manjula's 17 October 2022 order which had quashed an FIR against Shiva Sankar Baba on the ground of a "technical flaw".
   - id: shivab-src-05
     url: https://www.barandbench.com/news/litigation/madras-high-court-says-it-would-not-have-quashed-sexual-harassment-fir-against-shiva-sankar-baba-if-it-knew-chargesheet-was-filed
     title: Madras High Court says it would not have quashed sexual harassment FIR against Shiva Sankar Baba if it knew chargesheet was filed
@@ -111,9 +78,7 @@ sources:
     captured_at:
     sha256:
     note: >
-      Ayesha Arvind. Reports that on 4 November 2022 the Madras High Court said it would not
-      have quashed the sexual-harassment case against Shiva Sankar Baba on 17 October 2022 had
-      it known a chargesheet had already been filed in the case.
+      Ayesha Arvind. Reports that on 4 November 2022 the Madras High Court said it would not have quashed the sexual-harassment case against Shiva Sankar Baba on 17 October 2022 had it known a chargesheet had already been filed in the case.
 
 cases:
   - id: shiva-shankar-baba-sushil-hari-pocso-2021
@@ -125,50 +90,18 @@ cases:
     case_number: Crime Nos. 1, 3 and 10 of 2021, CB-CID Kancheepuram / Metro Wing-II; chargesheets taken on file as Special S.C. Nos. 69 to 71 of 2021
     filed_year: 2021
     case_type: criminal
-    statutes: ["IPC", "POCSO Act 2012", "Tamil Nadu Prohibition of Harassment of Women Act 1998"]
+    statutes: [ "IPC", "POCSO Act 2012", "Tamil Nadu Prohibition of Harassment of Women Act 1998" ]
     status: three chargesheets filed; trial pending in Special S.C. Nos. 69-71 of 2021; one FIR briefly quashed by the Madras High Court in October 2022 and recalled in November 2022
     tier: charged
     verdict_date:
     sentence_or_remedy:
     appeal_status: >
-      No verdict is on record. As of the last verified reporting (November 2022), the case
-      stood revived after the Madras High Court recalled its quashing order; no further
-      confirmed update on the trial's progress was located.
+      No verdict is on record. As of the last verified reporting (November 2022), the case stood revived after the Madras High Court recalled its quashing order; no further confirmed update on the trial's progress was located.
     summary_en: >
-      Former students of the Sushil Hari International Residential School at Kelambakkam,
-      founded by Shiva Sankaran, known as Shiva Shankar Baba, posted allegations of sexual abuse
-      on social media in mid-2021. The CB-CID, Kancheepuram registered FIRs against him,
-      including Crime Nos. 1 and 3 of 2021, under the IPC, the POCSO Act and the Tamil Nadu
-      Prohibition of Harassment of Women Act; most co-accused were granted anticipatory bail
-      during January-August 2021. Shiva Shankar Baba was reported to have absconded once his
-      case was transferred to the CB-CID; he was arrested in Delhi on 16 June 2021 and remanded
-      to 15 days' judicial custody by a Chengalpattu magistrate the next day. On completion of
-      investigation, three chargesheets were filed and taken on file as Special S.C. Nos. 69 to
-      71 of 2021 before the Special Court for exclusive trial of POCSO Act cases, Chengalpattu.
-      Separately, in a related search-warrant matter (Crime No.10 of 2021) the Madras High Court
-      on 7 December 2021 dismissed his petition challenging a trial court order authorising a
-      break-open search of the school and trust premises. On 17 October 2022 Justice R.N.
-      Manjula of the Madras High Court quashed one of the FIRs against him on the ground of a
-      "technical flaw"; after the Tamil Nadu government moved the court and it emerged that a
-      chargesheet had already been filed in that matter, the High Court said on 4 November 2022
-      that it would not have quashed the FIR had it known this, and formally recalled the
-      quashing order on 21 November 2022.
+      Former students of the Sushil Hari International Residential School at Kelambakkam, founded by Shiva Sankaran, known as Shiva Shankar Baba, posted allegations of sexual abuse on social media in mid-2021. The CB-CID, Kancheepuram registered FIRs against him, including Crime Nos. 1 and 3 of 2021, under the IPC, the POCSO Act and the Tamil Nadu Prohibition of Harassment of Women Act; most co-accused were granted anticipatory bail during January-August 2021. Shiva Shankar Baba was reported to have absconded once his case was transferred to the CB-CID; he was arrested in Delhi on 16 June 2021 and remanded to 15 days' judicial custody by a Chengalpattu magistrate the next day. On completion of investigation, three chargesheets were filed and taken on file as Special S.C. Nos. 69 to 71 of 2021 before the Special Court for exclusive trial of POCSO Act cases, Chengalpattu. Separately, in a related search-warrant matter (Crime No.10 of 2021) the Madras High Court on 7 December 2021 dismissed his petition challenging a trial court order authorising a break-open search of the school and trust premises. On 17 October 2022 Justice R.N. Manjula of the Madras High Court quashed one of the FIRs against him on the ground of a "technical flaw"; after the Tamil Nadu government moved the court and it emerged that a chargesheet had already been filed in that matter, the High Court said on 4 November 2022 that it would not have quashed the FIR had it known this, and formally recalled the quashing order on 21 November 2022.
     summary_hi: >
-      केलंबक्कम स्थित सुशील हरि इंटरनेशनल रेजिडेंशियल स्कूल, जिसकी स्थापना शिव संकरन उर्फ शिव शंकर बाबा
-      ने की थी, के पूर्व छात्रों ने 2021 के मध्य में सोशल मीडिया पर यौन शोषण के आरोप पोस्ट किए। कांचीपुरम
-      सीबी-सीआईडी ने उनके विरुद्ध आईपीसी, पॉक्सो अधिनियम और तमिलनाडु महिला उत्पीड़न निवारण अधिनियम के
-      तहत एफआईआर दर्ज कीं, जिनमें क्राइम संख्या 1 और 3/2021 शामिल हैं; अधिकांश सह-अभियुक्तों को जनवरी-अगस्त
-      2021 के दौरान अग्रिम ज़मानत मिली। मामला सीबी-सीआईडी को स्थानांतरित होते ही शिव शंकर बाबा के फरार होने
-      की खबर आई; उन्हें 16 जून 2021 को दिल्ली में गिरफ्तार किया गया और अगले दिन चेंगलपट्टु के मजिस्ट्रेट ने
-      15 दिन की न्यायिक हिरासत में भेजा। जाँच पूरी होने पर तीन आरोप-पत्र दाखिल हुए और चेंगलपट्टु की पॉक्सो
-      अधिनियम मामलों की विशेष अदालत में विशेष सत्र मामले संख्या 69 से 71/2021 के रूप में दर्ज हुए। इसके अलग
-      एक संबंधित तलाशी-वारंट मामले (क्राइम संख्या 10/2021) में मद्रास उच्च न्यायालय ने 7 दिसंबर 2021 को
-      स्कूल और ट्रस्ट परिसर की तलाशी हेतु विचारण अदालत के आदेश को चुनौती देने वाली उनकी याचिका खारिज की।
-      17 अक्टूबर 2022 को मद्रास उच्च न्यायालय की न्यायमूर्ति आर.एन. मंजुला ने "तकनीकी त्रुटि" के आधार पर
-      उनके विरुद्ध एक एफआईआर रद्द कर दी; तमिलनाडु सरकार के अदालत में जाने और यह सामने आने पर कि उस मामले
-      में आरोप-पत्र पहले ही दाखिल हो चुका था, उच्च न्यायालय ने 4 नवंबर 2022 को कहा कि यदि उसे यह पता होता
-      तो वह एफआईआर रद्द नहीं करता, और 21 नवंबर 2022 को औपचारिक रूप से रद्दीकरण आदेश वापस ले लिया।
-    source_ids: [shivab-src-01, shivab-src-02, shivab-src-03, shivab-src-04, shivab-src-05]
+      केलंबक्कम स्थित सुशील हरि इंटरनेशनल रेजिडेंशियल स्कूल, जिसकी स्थापना शिव संकरन उर्फ शिव शंकर बाबा ने की थी, के पूर्व छात्रों ने 2021 के मध्य में सोशल मीडिया पर यौन शोषण के आरोप पोस्ट किए। कांचीपुरम सीबी-सीआईडी ने उनके विरुद्ध आईपीसी, पॉक्सो अधिनियम और तमिलनाडु महिला उत्पीड़न निवारण अधिनियम के तहत एफआईआर दर्ज कीं, जिनमें क्राइम संख्या 1 और 3/2021 शामिल हैं; अधिकांश सह-अभियुक्तों को जनवरी-अगस्त 2021 के दौरान अग्रिम ज़मानत मिली। मामला सीबी-सीआईडी को स्थानांतरित होते ही शिव शंकर बाबा के फरार होने की खबर आई; उन्हें 16 जून 2021 को दिल्ली में गिरफ्तार किया गया और अगले दिन चेंगलपट्टु के मजिस्ट्रेट ने 15 दिन की न्यायिक हिरासत में भेजा। जाँच पूरी होने पर तीन आरोप-पत्र दाखिल हुए और चेंगलपट्टु की पॉक्सो अधिनियम मामलों की विशेष अदालत में विशेष सत्र मामले संख्या 69 से 71/2021 के रूप में दर्ज हुए। इसके अलग एक संबंधित तलाशी-वारंट मामले (क्राइम संख्या 10/2021) में मद्रास उच्च न्यायालय ने 7 दिसंबर 2021 को स्कूल और ट्रस्ट परिसर की तलाशी हेतु विचारण अदालत के आदेश को चुनौती देने वाली उनकी याचिका खारिज की। 17 अक्टूबर 2022 को मद्रास उच्च न्यायालय की न्यायमूर्ति आर.एन. मंजुला ने "तकनीकी त्रुटि" के आधार पर उनके विरुद्ध एक एफआईआर रद्द कर दी; तमिलनाडु सरकार के अदालत में जाने और यह सामने आने पर कि उस मामले में आरोप-पत्र पहले ही दाखिल हो चुका था, उच्च न्यायालय ने 4 नवंबर 2022 को कहा कि यदि उसे यह पता होता तो वह एफआईआर रद्द नहीं करता, और 21 नवंबर 2022 को औपचारिक रूप से रद्दीकरण आदेश वापस ले लिया।
+    source_ids: [ shivab-src-01, shivab-src-02, shivab-src-03, shivab-src-04, shivab-src-05 ]
 
 claims:
   - id: shivab-claim-01
@@ -177,35 +110,35 @@ claims:
     statement_hi: 2021 में कांचीपुरम सीबी-सीआईडी ने शिव शंकर बाबा के विरुद्ध एफआईआर दर्ज कीं, जिनमें क्राइम संख्या 1 और 3/2021 शामिल हैं, जो केलंबक्कम के सुशील हरि इंटरनेशनल रेजिडेंशियल स्कूल में छात्रों के यौन शोषण के आरोप में आईपीसी, पॉक्सो अधिनियम और तमिलनाडु महिला उत्पीड़न निवारण अधिनियम के तहत दर्ज हुई थीं।
     tier: under_investigation
     date: 2021-06
-    source_ids: [shivab-src-01, shivab-src-02]
+    source_ids: [ shivab-src-01, shivab-src-02 ]
   - id: shivab-claim-02
     case_id: shiva-shankar-baba-sushil-hari-pocso-2021
     statement_en: Shiva Shankar Baba was arrested by the CB-CID in Delhi on 16 June 2021 after allegedly absconding once his case was transferred from Chennai police, and was remanded to 15 days' judicial custody by a Chengalpattu magistrate on 17 June 2021.
     statement_hi: शिव शंकर बाबा को 16 जून 2021 को दिल्ली में सीबी-सीआईडी ने गिरफ्तार किया, यह आरोप था कि मामला चेन्नई पुलिस से स्थानांतरित होते ही वे फरार हो गए थे; 17 जून 2021 को चेंगलपट्टु के मजिस्ट्रेट ने उन्हें 15 दिन की न्यायिक हिरासत में भेजा।
     tier: under_investigation
     date: 2021-06-16
-    source_ids: [shivab-src-01, shivab-src-02, shivab-src-03]
+    source_ids: [ shivab-src-01, shivab-src-02, shivab-src-03 ]
   - id: shivab-claim-03
     case_id: shiva-shankar-baba-sushil-hari-pocso-2021
     statement_en: On completion of investigation, three chargesheets against Shiva Shankar Baba and co-accused were filed and taken on file as Special S.C. Nos. 69 to 71 of 2021 before the Special Court for exclusive trial of POCSO Act cases, Chengalpattu.
     statement_hi: जाँच पूरी होने पर, शिव शंकर बाबा और सह-अभियुक्तों के विरुद्ध तीन आरोप-पत्र दाखिल हुए और चेंगलपट्टु की पॉक्सो अधिनियम मामलों की विशेष अदालत में विशेष सत्र मामले संख्या 69 से 71/2021 के रूप में दर्ज किए गए।
     tier: charged
     date: 2021
-    source_ids: [shivab-src-01]
+    source_ids: [ shivab-src-01 ]
   - id: shivab-claim-04
     case_id: shiva-shankar-baba-sushil-hari-pocso-2021
     statement_en: On 7 December 2021 the Madras High Court (Justice M. Nirmal Kumar), in CRL.O.P.No.23835 of 2021, dismissed Shiva Shankar Baba's petition to set aside a trial court order authorising the CB-CID to break open and search the school and trust premises in connection with Crime No.10 of 2021.
     statement_hi: 7 दिसंबर 2021 को मद्रास उच्च न्यायालय (न्यायमूर्ति एम. निर्मल कुमार) ने सीआरएल.ओ.पी. संख्या 23835/2021 में, क्राइम संख्या 10/2021 के सिलसिले में स्कूल और ट्रस्ट परिसर को तोड़कर तलाशी लेने की अनुमति देने वाले विचारण अदालत के आदेश को रद्द करने की शिव शंकर बाबा की याचिका खारिज कर दी।
     tier: charged
     date: 2021-12-07
-    source_ids: [shivab-src-01]
+    source_ids: [ shivab-src-01 ]
   - id: shivab-claim-05
     case_id: shiva-shankar-baba-sushil-hari-pocso-2021
     statement_en: On 17 October 2022 Justice R.N. Manjula of the Madras High Court quashed one of the FIRs against Shiva Shankar Baba on the ground of a "technical flaw"; after the Tamil Nadu government moved the court and it emerged that a chargesheet had already been filed in that case, the High Court recalled the quashing order on 21 November 2022.
     statement_hi: 17 अक्टूबर 2022 को मद्रास उच्च न्यायालय की न्यायमूर्ति आर.एन. मंजुला ने "तकनीकी त्रुटि" के आधार पर शिव शंकर बाबा के विरुद्ध एक एफआईआर रद्द कर दी; तमिलनाडु सरकार के अदालत में जाने और यह सामने आने पर कि उस मामले में आरोप-पत्र पहले ही दाखिल हो चुका था, उच्च न्यायालय ने 21 नवंबर 2022 को रद्दीकरण आदेश वापस ले लिया।
     tier: allegation
     date: 2022-11-21
-    source_ids: [shivab-src-04, shivab-src-05]
+    source_ids: [ shivab-src-04, shivab-src-05 ]
 
 events:
   - date: 2021-06-16
@@ -213,34 +146,34 @@ events:
     label_en: Arrested by CB-CID in Delhi
     label_hi: दिल्ली में सीबी-सीआईडी द्वारा गिरफ्तार
     case_id: shiva-shankar-baba-sushil-hari-pocso-2021
-    source_ids: [shivab-src-02, shivab-src-03]
+    source_ids: [ shivab-src-02, shivab-src-03 ]
   - date: 2021-06-17
     kind: other
     label_en: Remanded to 15 days' judicial custody at Chengalpattu
     label_hi: चेंगलपट्टु में 15 दिन की न्यायिक हिरासत में भेजा गया
     case_id: shiva-shankar-baba-sushil-hari-pocso-2021
-    source_ids: [shivab-src-03]
+    source_ids: [ shivab-src-03 ]
   - date: 2021
     kind: chargesheet
     label_en: Three chargesheets filed, taken on file as Special S.C. Nos. 69-71 of 2021
     label_hi: तीन आरोप-पत्र दाखिल, विशेष सत्र मामले संख्या 69-71/2021 के रूप में दर्ज
     case_id: shiva-shankar-baba-sushil-hari-pocso-2021
-    source_ids: [shivab-src-01]
+    source_ids: [ shivab-src-01 ]
   - date: 2021-12-07
     kind: other
     label_en: Madras High Court dismisses petition against search-warrant order
     label_hi: मद्रास उच्च न्यायालय ने तलाशी-वारंट आदेश के विरुद्ध याचिका खारिज की
     case_id: shiva-shankar-baba-sushil-hari-pocso-2021
-    source_ids: [shivab-src-01]
+    source_ids: [ shivab-src-01 ]
   - date: 2022-10-17
     kind: other
     label_en: Madras High Court quashes one FIR on a technical ground
     label_hi: मद्रास उच्च न्यायालय ने तकनीकी आधार पर एक एफआईआर रद्द की
     case_id: shiva-shankar-baba-sushil-hari-pocso-2021
-    source_ids: [shivab-src-04, shivab-src-05]
+    source_ids: [ shivab-src-04, shivab-src-05 ]
   - date: 2022-11-21
     kind: other
     label_en: Madras High Court recalls the quashing order
     label_hi: मद्रास उच्च न्यायालय ने रद्दीकरण आदेश वापस लिया
     case_id: shiva-shankar-baba-sushil-hari-pocso-2021
-    source_ids: [shivab-src-04]
+    source_ids: [ shivab-src-04 ]
