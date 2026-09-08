@@ -4,6 +4,9 @@ import { migrate } from "drizzle-orm/libsql/migrator";
 async function main() {
 fs.mkdirSync(".data", { recursive: true });
 const { db, client } = await import("../src/db/client");
+// WAL lets the dev server (readers) and this script (writer) share the file without
+// SQLITE_BUSY; it's a property of the file itself, so this only needs to run once.
+await client.execute("PRAGMA journal_mode=WAL");
 await migrate(db, { migrationsFolder: "src/db/migrations" });
 
 // Full-text search over entities. External-content FTS5 table kept in sync by triggers.

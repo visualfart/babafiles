@@ -1,0 +1,373 @@
+id: rajneesh-osho
+type: person
+is_subject: true
+name_en: Bhagwan Shree Rajneesh (Osho)
+name_hi: भगवान श्री रजनीश (ओशो)
+aliases: [Osho, Chandra Mohan Jain, Acharya Rajneesh, Rajneesh Chandra Mohan Jain]
+born: 1931-12-11
+died: 1990-01-19
+base_location: Rajneeshpuram, Wasco County, Oregon, United States (1981-1985); earlier Pune, Maharashtra
+country: IN
+countries_of_operation: [IN, US]
+organisations: [Rajneesh Foundation International, Rajneesh Neo-Sannyas International Commune, Rajneesh Investment Corporation, City of Rajneeshpuram]
+activity_status: deceased
+abap_2017_list: false
+summary_en: >
+  Rajneesh, later known as Osho, led a commune at Rajneeshpuram on a ranch in Wasco County,
+  Oregon, from 1981 to 1985. Federal agents arrested him at Charlotte, North Carolina on 28
+  October 1985 as he and associates attempted to leave the country following a 35-count federal
+  indictment for immigration fraud (arranging sham marriages so foreign followers could remain in
+  the United States). He pleaded guilty in November 1985 in the US District Court for Oregon to
+  federal immigration-fraud charges; under the plea agreement he paid a $400,000 fine, received a
+  suspended sentence, and left the United States, later reported as barred from re-entry for five
+  years. Separately, the US Department of Justice's 1986 Annual Report records that his personal
+  secretary Ma Anand Sheela and a nurse practitioner, Dianne Onang, pleaded guilty to a federal
+  charge of conspiracy to tamper with consumer products after followers cultured salmonella
+  bacteria and contaminated salad bars in The Dalles, Oregon, in September 1984, sickening more
+  than 750 people; both were sentenced to four-and-a-half years' imprisonment. A separate federal
+  wiretapping conspiracy indictment named 21 commune members, of whom ten were convicted. The
+  Oregon Attorney General separately sued in 1984 to have the incorporation of the City of
+  Rajneeshpuram declared unconstitutional as an establishment of religion; a federal court held in
+  October 1984 that the state's complaint stated a valid claim, and the city's status did not
+  survive the commune's collapse after Rajneesh's deportation.
+summary_hi: >
+  रजनीश, जिन्हें बाद में ओशो के नाम से जाना गया, 1981 से 1985 तक ओरेगन के वास्को काउंटी स्थित एक
+  फार्म पर रजनीशपुरम आश्रम के प्रमुख थे। संघीय एजेंटों ने 28 अक्टूबर 1985 को उत्तरी कैरोलिना के
+  शार्लट में उन्हें उस समय गिरफ्तार किया जब वे और उनके सहयोगी आप्रवासन धोखाधड़ी (विदेशी अनुयायियों को
+  अमेरिका में रहने देने के लिए बनावटी विवाह कराने) के 35-सूत्री संघीय अभियोग के बाद देश छोड़ने का प्रयास
+  कर रहे थे। नवंबर 1985 में उन्होंने ओरेगन की अमेरिकी जिला अदालत में संघीय आप्रवासन-धोखाधड़ी के आरोपों
+  में दोष स्वीकार किया; समझौते के तहत उन्होंने 4,00,000 डॉलर जुर्माना भरा, उन्हें निलंबित सज़ा मिली,
+  और वे अमेरिका छोड़ गए, जिसके बाद बताया गया कि उन्हें पाँच वर्ष तक पुनः प्रवेश से रोका गया था। अलग से,
+  अमेरिकी न्याय विभाग की 1986 की वार्षिक रिपोर्ट दर्ज करती है कि उनकी निजी सचिव मा आनंद शीला और एक
+  नर्स प्रैक्टिशनर डायने ओनांग ने संघीय स्तर पर उपभोक्ता उत्पादों से छेड़छाड़ की साज़िश के आरोप में दोष
+  स्वीकार किया, जब अनुयायियों ने सितंबर 1984 में साल्मोनेला जीवाणु तैयार कर ओरेगन के द डैलेस में सलाद
+  बार दूषित कर दिए थे, जिससे 750 से अधिक लोग बीमार पड़े; दोनों को साढ़े चार वर्ष कारावास की सज़ा हुई।
+  एक अलग संघीय टेलीफोन-अवरोधन साज़िश अभियोग में आश्रम के 21 सदस्यों के नाम थे, जिनमें से दस दोषी ठहराए
+  गए। ओरेगन के महाधिवक्ता ने अलग से 1984 में मुकदमा दायर कर रजनीशपुरम शहर के निगमन को धर्म-स्थापना के
+  रूप में असंवैधानिक घोषित करने की माँग की; अक्टूबर 1984 में एक संघीय अदालत ने माना कि राज्य की शिकायत
+  एक वैध दावा प्रस्तुत करती है, और आश्रम के पतन के बाद शहर की स्थिति कायम नहीं रह सकी।
+hi_reviewed: false
+
+sources:
+  - id: rajneesh-src-01
+    url: https://www.washingtonpost.com/archive/politics/1985/10/29/rajneesh-arrested-in-n-carolina/881827c5-6290-4083-a200-a68c936d0957/
+    title: Rajneesh Arrested in N. Carolina
+    publisher: The Washington Post (AP)
+    type: major_outlet
+    published_at: 1985-10-29
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Reports the 28 October 1985 arrest at a refuelling stop in North Carolina as Rajneesh's aircraft headed toward Bermuda.
+  - id: rajneesh-src-02
+    url: https://www.upi.com/Archives/1985/10/28/Bhagwan-Shree-Rajneesh-and-eight-disciples-were-arrested-Monday/6212499323600/
+    title: Bhagwan Shree Rajneesh and eight disciples were arrested Monday
+    publisher: United Press International
+    type: major_outlet
+    published_at: 1985-10-28
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Wire report on the arrest and the federal indictment for immigration-law violations.
+  - id: rajneesh-src-03
+    url: https://www.upi.com/Archives/1985/11/15/Deported-Indian-guru-Bhagwan-Shree-Rajneesh-winged-his-way/7007808082759/
+    title: Deported Indian guru Bhagwan Shree Rajneesh winged his way ...
+    publisher: United Press International
+    type: major_outlet
+    published_at: 1985-11-15
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Reports his deportation flight out of the United States following the guilty plea and sentencing.
+  - id: rajneesh-src-04
+    url: https://www.upi.com/Archives/1985/12/13/Five-Rajneeshees-plead-guilty-to-immigration-fraud/9486503298000/
+    title: Five Rajneeshees plead guilty to immigration fraud
+    publisher: United Press International
+    type: major_outlet
+    published_at: 1985-12-13
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Reports that five more disciples pleaded guilty under a plea bargain (suspended sentences, five years'
+      probation) in the same 35-count indictment that had named Rajneesh, and recites that Rajneesh himself had
+      pleaded guilty to two felony immigration-fraud counts and paid a $400,000 fine.
+  - id: rajneesh-src-05
+    url: https://upload.wikimedia.org/wikipedia/commons/5/53/1986_Annual_Report_of_The_Attorney_General_of_The_United_States.pdf
+    title: Annual Report of the Attorney General of the United States, Fiscal Year 1986
+    publisher: United States Department of Justice
+    type: official
+    published_at: 1986
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Official DOJ annual report. Page 162 (Immigration and Naturalization Service, Investigations): "A massive
+      immigration marriage fraud scheme was shut down when Indian guru Bhagwan Shree Rajneesh and his
+      subordinates pled guilty to immigration fraud charges and left the United States with numerous followers."
+      Page 81 (Criminal Division): records a five-count federal wiretapping conspiracy indictment naming 21
+      Rajneeshpuram defendants (10 convicted, 11 fugitives), and that on 20 March 1986 a grand jury separately
+      indicted Ma Anand Sheela and nurse practitioner Dianne Onang for conspiracy to tamper with consumer
+      products after followers cultured salmonella bacteria via the commune's medical clinic and contaminated
+      salad bars in The Dalles, Oregon, sickening over 750 people and hospitalising 45; both pleaded guilty and
+      were sentenced to four-and-a-half-year prison terms.
+  - id: rajneesh-src-06
+    url: https://www.courtlistener.com/opinion/1476422/state-of-or-v-city-of-rajneeshpuram/
+    title: State of Oregon v. City of Rajneeshpuram, 598 F. Supp. 1208 (D. Or. 1984)
+    publisher: United States District Court for the District of Oregon (via CourtListener)
+    type: court
+    published_at: 1984-10-12
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Civ. No. 84-359-FR, Frye J. Denies the City of Rajneeshpuram's and Rajneesh Foundation International's
+      motion to dismiss the State of Oregon's declaratory-judgment action, holding that the state's complaint
+      stated a claim that recognising the City of Rajneeshpuram as a municipal corporation would violate the
+      Establishment Clause of the First Amendment. Names Rajneesh Foundation International, Rajneesh Investment
+      Corporation, Rajneesh Neo-Sannyas International Commune and Ma Anand Sheela among the defendants.
+  - id: rajneesh-src-07
+    url: https://en.wikisource.org/wiki/State_of_Oregon_v._City_of_Rajneeshpuram/1984_11_16
+    title: State of Oregon v. City of Rajneeshpuram, 598 F. Supp. 1217 (D. Or. 16 Nov 1984 order)
+    publisher: United States District Court for the District of Oregon (public-domain court text via Wikisource)
+    type: court
+    published_at: 1984-11-16
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Frye J. Order on the state's motion for summary order and the eleventh amendment; part of the same declaratory-judgment action against the City of Rajneeshpuram.
+  - id: rajneesh-src-08
+    url: https://en.wikisource.org/wiki/State_of_Oregon_v._City_of_Rajneeshpuram
+    title: "State of Oregon v. City of Rajneeshpuram: case index, 1984-1985"
+    publisher: United States District Court for the District of Oregon (public-domain court text via Wikisource)
+    type: court
+    published_at: 1985
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Chronological index of the District of Oregon's orders in the case from March 1984 to April 1985, including the 12 October 1984 order denying the motion to dismiss.
+  - id: rajneesh-src-09
+    url: https://www.ebsco.com/research-starters/history/guru-bhagwan-shree-rajneesh-indicted-immigration-fraud
+    title: Guru Bhagwan Shree Rajneesh Is Indicted for Immigration Fraud
+    publisher: EBSCO Research Starters
+    type: other
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Reference-database background summary; used only for neutral context, not as the basis of any adverse claim.
+
+cases:
+  - id: rajneesh-us-v-rajneesh-immigration-fraud-1985
+    title_en: United States v. Rajneesh (immigration-fraud conspiracy)
+    title_hi: संयुक्त राज्य अमेरिका बनाम रजनीश (आप्रवासन-धोखाधड़ी साज़िश)
+    jurisdiction_country: US
+    jurisdiction_region: Oregon
+    court: United States District Court for the District of Oregon
+    case_number: Part of a 35-count federal indictment against Rajneesh and associates; individual criminal case number not located
+    filed_year: 1985
+    case_type: immigration
+    statutes: [Federal immigration fraud (sham marriages), False statements to the Immigration and Naturalization Service]
+    status: Guilty plea; sentence suspended; deported
+    tier: convicted
+    verdict_date: 1985-11
+    sentence_or_remedy: "$400,000 fine and prosecution costs; ten-year sentence suspended; required to leave the United States, with press reports of a five-year bar on re-entry without Attorney General permission"
+    appeal_status: Not applicable (guilty plea)
+    summary_en: >
+      A federal grand jury in Oregon indicted Rajneesh and several associates on 35 counts arising from a scheme,
+      which prosecutors called the largest recorded marriage-fraud case in US history, of arranging sham
+      marriages between US citizens and foreign followers so the latter could remain in the country. Federal
+      agents arrested Rajneesh at Charlotte, North Carolina on 28 October 1985 as his aircraft, en route to
+      Bermuda, stopped to refuel. In November 1985 he pleaded guilty in the US District Court for Oregon to
+      immigration-fraud charges. Under the plea agreement he paid a $400,000 fine, received a suspended sentence,
+      and left the United States; contemporary wire reports describe a five-year bar on re-entry without the
+      Attorney General's permission. The US Department of Justice's 1986 Annual Report records that "a massive
+      immigration marriage fraud scheme was shut down when Indian guru Bhagwan Shree Rajneesh and his
+      subordinates pled guilty to immigration fraud charges and left the United States with numerous followers."
+      Several other named followers pleaded guilty to related immigration-fraud counts in the same matter in
+      December 1985 and received suspended sentences with five years' probation.
+    summary_hi: >
+      ओरेगन की एक संघीय ग्रैंड जूरी ने रजनीश और उनके कई सहयोगियों पर 35 आरोपों का अभियोग लगाया, जो एक ऐसी
+      योजना से जुड़े थे जिसे अभियोजकों ने अमेरिकी इतिहास का सबसे बड़ा दर्ज विवाह-धोखाधड़ी मामला बताया — विदेशी
+      अनुयायियों को देश में रहने देने के लिए अमेरिकी नागरिकों के साथ बनावटी विवाह कराना। 28 अक्टूबर 1985 को
+      संघीय एजेंटों ने उत्तरी कैरोलिना के शार्लट में रजनीश को उस समय गिरफ्तार किया जब बरमूडा जा रहा उनका
+      विमान ईंधन भरवाने रुका था। नवंबर 1985 में उन्होंने ओरेगन की अमेरिकी जिला अदालत में आप्रवासन-धोखाधड़ी
+      के आरोपों में दोष स्वीकार किया। समझौते के तहत उन्होंने 4,00,000 डॉलर जुर्माना भरा, उन्हें निलंबित सज़ा
+      मिली, और वे अमेरिका छोड़ गए; उस समय की समाचार एजेंसी रिपोर्टें बताती हैं कि उन्हें महाधिवक्ता की अनुमति
+      के बिना पाँच वर्ष तक पुनः प्रवेश से रोका गया था। अमेरिकी न्याय विभाग की 1986 की वार्षिक रिपोर्ट दर्ज
+      करती है कि "भारतीय गुरु भगवान श्री रजनीश और उनके अधीनस्थों के आप्रवासन-धोखाधड़ी के आरोपों में दोष
+      स्वीकार कर कई अनुयायियों सहित अमेरिका छोड़ने के साथ एक विशाल आप्रवासन विवाह-धोखाधड़ी योजना बंद हो गई।"
+      इसी मामले में दिसंबर 1985 में कई अन्य नामित अनुयायियों ने संबंधित आप्रवासन-धोखाधड़ी के आरोपों में दोष
+      स्वीकार किया और उन्हें निलंबित सज़ा व पाँच वर्ष की परिवीक्षा मिली।
+    source_ids: [rajneesh-src-01, rajneesh-src-02, rajneesh-src-03, rajneesh-src-04, rajneesh-src-05, rajneesh-src-09]
+
+  - id: rajneesh-oregon-ag-v-rajneeshpuram
+    title_en: State of Oregon v. City of Rajneeshpuram (Establishment Clause challenge to the city's incorporation)
+    title_hi: ओरेगन राज्य बनाम रजनीशपुरम शहर (शहर के निगमन को चुनौती देने वाला धर्म-स्थापना खंड मामला)
+    jurisdiction_country: US
+    jurisdiction_region: Oregon
+    court: United States District Court for the District of Oregon
+    case_number: Civ. No. 84-359-FR
+    filed_year: 1984
+    case_type: civil
+    statutes: [First Amendment Establishment Clause, Oregon Constitution Article I]
+    status: State's Establishment Clause claim upheld against a motion to dismiss; city's incorporation did not survive the commune's collapse
+    tier: regulatory_action
+    verdict_date: 1984-10-12
+    sentence_or_remedy: Declaratory relief sought against the City of Rajneeshpuram's recognition as a municipal corporation
+    appeal_status: Proceedings continued through 1985 per the docket; the City of Rajneeshpuram ceased to function after Rajneesh's deportation and the commune's collapse in late 1985
+    summary_en: >
+      The Oregon Attorney General, David Frohnmayer, brought a declaratory-judgment action against the City of
+      Rajneeshpuram, Rajneesh Foundation International, Rajneesh Investment Corporation, Rajneesh Neo-Sannyas
+      International Commune, Ma Anand Sheela and other commune officials, arguing that Wasco County's 1982
+      incorporation of the City of Rajneeshpuram on land owned by the Rajneesh organisations amounted to an
+      unconstitutional establishment of religion because governmental and religious functions in the city were
+      fused. On 12 October 1984 the District of Oregon (Frye, J.) denied the defendants' motion to dismiss,
+      holding that the state's complaint stated a valid Establishment Clause claim. Further orders followed into
+      1985. The city's separate legal status did not survive the disintegration of the commune following
+      Rajneesh's arrest, guilty plea and deportation in late 1985.
+    summary_hi: >
+      ओरेगन के महाधिवक्ता डेविड फ्रोन्मायर ने रजनीशपुरम शहर, रजनीश फाउंडेशन इंटरनेशनल, रजनीश इन्वेस्टमेंट
+      कॉर्पोरेशन, रजनीश नियो-संन्यास इंटरनेशनल कम्यून, मा आनंद शीला और आश्रम के अन्य पदाधिकारियों के विरुद्ध
+      एक घोषणात्मक-निर्णय वाद दायर किया, यह तर्क देते हुए कि 1982 में वास्को काउंटी द्वारा रजनीश संगठनों के
+      स्वामित्व वाली भूमि पर रजनीशपुरम शहर का निगमन धर्म की असंवैधानिक स्थापना है क्योंकि शहर में सरकारी और
+      धार्मिक कार्य आपस में घुल-मिल गए थे। 12 अक्टूबर 1984 को ओरेगन जिला अदालत (न्यायाधीश फ्राई) ने
+      प्रतिवादियों के खारिज़ी आवेदन को अस्वीकार करते हुए कहा कि राज्य की शिकायत एक वैध धर्म-स्थापना खंड दावा
+      प्रस्तुत करती है। इसके बाद 1985 तक और आदेश जारी रहे। रजनीश की गिरफ्तारी, दोष स्वीकृति और 1985 के अंत
+      में निर्वासन के बाद आश्रम के बिखरने के साथ शहर की अलग कानूनी स्थिति कायम नहीं रह सकी।
+    source_ids: [rajneesh-src-06, rajneesh-src-07, rajneesh-src-08]
+
+claims:
+  - id: rajneesh-claim-01
+    case_id: rajneesh-us-v-rajneesh-immigration-fraud-1985
+    statement_en: A federal grand jury in Oregon returned a 35-count indictment against Rajneesh and associates charging conspiracy and false statements to immigration officials arising from a scheme to arrange sham marriages for foreign followers.
+    statement_hi: ओरेगन की एक संघीय ग्रैंड जूरी ने रजनीश और उनके सहयोगियों पर 35 आरोपों का अभियोग लगाया, जिसमें विदेशी अनुयायियों के लिए बनावटी विवाह कराने की योजना से जुड़ी साज़िश और आप्रवासन अधिकारियों को झूठे बयान देने के आरोप शामिल थे।
+    tier: charged
+    date: 1985-10
+    source_ids: [rajneesh-src-01, rajneesh-src-02, rajneesh-src-05]
+  - id: rajneesh-claim-02
+    case_id: rajneesh-us-v-rajneesh-immigration-fraud-1985
+    statement_en: Federal agents arrested Rajneesh at Charlotte, North Carolina on 28 October 1985 as his aircraft, said by prosecutors to be en route to Bermuda, stopped to refuel.
+    statement_hi: 28 अक्टूबर 1985 को उत्तरी कैरोलिना के शार्लट में संघीय एजेंटों ने रजनीश को उस समय गिरफ्तार किया जब अभियोजकों के अनुसार बरमूडा जा रहा उनका विमान ईंधन भरवाने रुका था।
+    tier: charged
+    date: 1985-10-28
+    source_ids: [rajneesh-src-01, rajneesh-src-02, rajneesh-src-05]
+  - id: rajneesh-claim-03
+    case_id: rajneesh-us-v-rajneesh-immigration-fraud-1985
+    statement_en: In November 1985 Rajneesh pleaded guilty in the US District Court for Oregon to federal immigration-fraud charges; the US Department of Justice's 1986 Annual Report records that he and his subordinates "pled guilty to immigration fraud charges and left the United States with numerous followers."
+    statement_hi: नवंबर 1985 में रजनीश ने ओरेगन की अमेरिकी जिला अदालत में संघीय आप्रवासन-धोखाधड़ी के आरोपों में दोष स्वीकार किया; अमेरिकी न्याय विभाग की 1986 की वार्षिक रिपोर्ट दर्ज करती है कि उन्होंने और उनके अधीनस्थों ने "आप्रवासन-धोखाधड़ी के आरोपों में दोष स्वीकार कर कई अनुयायियों सहित अमेरिका छोड़ दिया।"
+    tier: convicted
+    date: 1985-11
+    source_ids: [rajneesh-src-04, rajneesh-src-05]
+  - id: rajneesh-claim-04
+    case_id: rajneesh-us-v-rajneesh-immigration-fraud-1985
+    statement_en: Under the plea agreement Rajneesh paid a $400,000 fine, received a suspended sentence, and left the United States; contemporary wire-service reports describe the arrangement as barring his re-entry for five years without the US Attorney General's permission.
+    statement_hi: समझौते के तहत रजनीश ने 4,00,000 डॉलर जुर्माना भरा, उन्हें निलंबित सज़ा मिली, और वे अमेरिका छोड़ गए; उस समय की समाचार एजेंसी रिपोर्टें इस व्यवस्था को अमेरिकी महाधिवक्ता की अनुमति के बिना पाँच वर्ष तक पुनः प्रवेश पर रोक के रूप में वर्णित करती हैं।
+    tier: convicted
+    date: 1985-11
+    source_ids: [rajneesh-src-04, rajneesh-src-09, rajneesh-src-05]
+  - id: rajneesh-claim-05
+    statement_en: On 20 March 1986 a federal grand jury indicted Rajneesh's personal secretary, Ma Anand Sheela, and a licensed nurse practitioner, Dianne Onang, on a charge of conspiracy to tamper with consumer products after investigators found that followers had cultured salmonella bacteria through the commune's medical clinic and placed it in salad bars at restaurants in The Dalles, Oregon in September 1984, sickening more than 750 people and hospitalising 45; both defendants pleaded guilty and were sentenced to four-and-a-half years' imprisonment.
+    statement_hi: 20 मार्च 1986 को एक संघीय ग्रैंड जूरी ने रजनीश की निजी सचिव मा आनंद शीला और एक लाइसेंसधारी नर्स प्रैक्टिशनर डायने ओनांग पर उपभोक्ता उत्पादों से छेड़छाड़ की साज़िश का आरोप लगाया, जब जाँचकर्ताओं ने पाया कि अनुयायियों ने आश्रम के चिकित्सा क्लिनिक के माध्यम से साल्मोनेला जीवाणु तैयार कर सितंबर 1984 में ओरेगन के द डैलेस के रेस्तराओं में सलाद बार में डाल दिए थे, जिससे 750 से अधिक लोग बीमार पड़े और 45 अस्पताल में भर्ती हुए; दोनों अभियुक्तों ने दोष स्वीकार किया और उन्हें साढ़े चार वर्ष कारावास की सज़ा हुई।
+    tier: convicted
+    date: 1986-03-20
+    source_ids: [rajneesh-src-05]
+  - id: rajneesh-claim-06
+    statement_en: A separate federal grand jury indictment charged 21 Rajneeshpuram commune members and former members with a five-count conspiracy to illegally intercept communications (wiretapping); ten of the 21 defendants were convicted, and the remaining eleven fled the country and were fugitives as of the Department of Justice's 1986 Annual Report.
+    statement_hi: एक अलग संघीय ग्रैंड जूरी अभियोग में रजनीशपुरम आश्रम के 21 वर्तमान व पूर्व सदस्यों पर गैरकानूनी टेलीफोन-अवरोधन की पाँच-सूत्री साज़िश का आरोप लगाया गया; 21 में से दस अभियुक्त दोषी ठहराए गए, और शेष ग्यारह देश छोड़कर भाग गए तथा अमेरिकी न्याय विभाग की 1986 की वार्षिक रिपोर्ट के समय तक फरार थे।
+    tier: convicted
+    date: 1986
+    source_ids: [rajneesh-src-05]
+  - id: rajneesh-claim-07
+    case_id: rajneesh-oregon-ag-v-rajneeshpuram
+    statement_en: The Oregon Attorney General sued the City of Rajneeshpuram, Rajneesh Foundation International and associated Rajneesh entities in 1984, seeking a declaration that the city's incorporation on land controlled by the Rajneesh organisations was an unconstitutional establishment of religion.
+    statement_hi: ओरेगन के महाधिवक्ता ने 1984 में रजनीशपुरम शहर, रजनीश फाउंडेशन इंटरनेशनल और संबंधित रजनीश संस्थाओं पर मुकदमा दायर कर यह घोषणा माँगी कि रजनीश संगठनों के नियंत्रण वाली भूमि पर शहर का निगमन धर्म की असंवैधानिक स्थापना है।
+    tier: regulatory_action
+    date: 1984
+    source_ids: [rajneesh-src-06, rajneesh-src-08]
+  - id: rajneesh-claim-08
+    case_id: rajneesh-oregon-ag-v-rajneeshpuram
+    statement_en: On 12 October 1984 the US District Court for the District of Oregon (Frye, J.) denied the City of Rajneeshpuram's motion to dismiss, holding that the state's complaint stated a valid claim that recognising the city as a municipal corporation would violate the Establishment Clause of the First Amendment.
+    statement_hi: 12 अक्टूबर 1984 को ओरेगन की अमेरिकी जिला अदालत (न्यायाधीश फ्राई) ने रजनीशपुरम शहर के खारिज़ी आवेदन को अस्वीकार करते हुए कहा कि राज्य की शिकायत यह वैध दावा प्रस्तुत करती है कि शहर को नगर निगम के रूप में मान्यता देना प्रथम संशोधन के धर्म-स्थापना खंड का उल्लंघन होगा।
+    tier: regulatory_action
+    date: 1984-10-12
+    source_ids: [rajneesh-src-06]
+
+events:
+  - date: 1981-07
+    kind: other
+    label_en: Moves the movement's headquarters from Pune, India to a ranch in Wasco County, Oregon, later incorporated as the City of Rajneeshpuram
+    label_hi: आंदोलन का मुख्यालय पुणे, भारत से ओरेगन के वास्को काउंटी स्थित एक फार्म पर स्थानांतरित, जो बाद में रजनीशपुरम शहर के रूप में निगमित हुआ
+    source_ids: [rajneesh-src-02, rajneesh-src-06]
+  - date: 1984-09
+    kind: incident
+    label_en: Followers contaminate salad bars at restaurants in The Dalles, Oregon with salmonella bacteria, sickening more than 750 people
+    label_hi: अनुयायियों ने ओरेगन के द डैलेस के रेस्तराओं में सलाद बार को साल्मोनेला जीवाणु से दूषित किया, जिससे 750 से अधिक लोग बीमार पड़े
+    source_ids: [rajneesh-src-05]
+  - date: 1984
+    kind: notice
+    label_en: Oregon Attorney General files a declaratory-judgment action against the City of Rajneeshpuram
+    label_hi: ओरेगन के महाधिवक्ता ने रजनीशपुरम शहर के विरुद्ध घोषणात्मक-निर्णय वाद दायर किया
+    case_id: rajneesh-oregon-ag-v-rajneeshpuram
+    source_ids: [rajneesh-src-06, rajneesh-src-08]
+  - date: 1984-10-12
+    kind: other
+    label_en: District of Oregon denies the City of Rajneeshpuram's motion to dismiss the state's Establishment Clause suit
+    label_hi: ओरेगन जिला अदालत ने राज्य के धर्म-स्थापना खंड वाद को खारिज़ करने के रजनीशपुरम शहर के आवेदन को अस्वीकार किया
+    case_id: rajneesh-oregon-ag-v-rajneeshpuram
+    source_ids: [rajneesh-src-06]
+  - date: 1985-10-23
+    kind: chargesheet
+    label_en: Federal grand jury returns a 35-count indictment against Rajneesh and associates for immigration fraud
+    label_hi: संघीय ग्रैंड जूरी ने रजनीश और उनके सहयोगियों पर आप्रवासन-धोखाधड़ी के 35 आरोपों का अभियोग लगाया
+    case_id: rajneesh-us-v-rajneesh-immigration-fraud-1985
+    source_ids: [rajneesh-src-01, rajneesh-src-02]
+  - date: 1985-10-28
+    kind: arrest
+    label_en: Arrested by federal agents at Charlotte, North Carolina while attempting to leave the country
+    label_hi: देश छोड़ने के प्रयास के दौरान उत्तरी कैरोलिना के शार्लट में संघीय एजेंटों द्वारा गिरफ्तार
+    case_id: rajneesh-us-v-rajneesh-immigration-fraud-1985
+    source_ids: [rajneesh-src-01, rajneesh-src-02]
+  - date: 1985-11
+    kind: verdict
+    label_en: Pleads guilty in the US District Court for Oregon to federal immigration-fraud charges
+    label_hi: ओरेगन की अमेरिकी जिला अदालत में संघीय आप्रवासन-धोखाधड़ी के आरोपों में दोष स्वीकार किया
+    case_id: rajneesh-us-v-rajneesh-immigration-fraud-1985
+    source_ids: [rajneesh-src-04, rajneesh-src-05]
+  - date: 1985-11-15
+    kind: other
+    label_en: Deported and flies out of the United States after the guilty plea and sentencing
+    label_hi: दोष स्वीकृति और सज़ा के बाद निर्वासित होकर अमेरिका से रवाना हुए
+    case_id: rajneesh-us-v-rajneesh-immigration-fraud-1985
+    source_ids: [rajneesh-src-03]
+  - date: 1985-12-13
+    kind: verdict
+    label_en: Five more followers plead guilty to related immigration-fraud counts in the same indictment
+    label_hi: उसी अभियोग में पाँच और अनुयायियों ने संबंधित आप्रवासन-धोखाधड़ी के आरोपों में दोष स्वीकार किया
+    case_id: rajneesh-us-v-rajneesh-immigration-fraud-1985
+    source_ids: [rajneesh-src-04]
+  - date: 1986-03-20
+    kind: chargesheet
+    label_en: Federal grand jury indicts Ma Anand Sheela and Dianne Onang for conspiracy to tamper with consumer products over the salmonella attack
+    label_hi: संघीय ग्रैंड जूरी ने साल्मोनेला हमले को लेकर मा आनंद शीला और डायने ओनांग पर उपभोक्ता उत्पादों से छेड़छाड़ की साज़िश का अभियोग लगाया
+    source_ids: [rajneesh-src-05]
+  - date: 1986
+    kind: verdict
+    label_en: Ma Anand Sheela and Dianne Onang plead guilty and are sentenced to four-and-a-half years' imprisonment; ten of 21 defendants in a related wiretapping conspiracy are convicted
+    label_hi: मा आनंद शीला और डायने ओनांग ने दोष स्वीकार किया और उन्हें साढ़े चार वर्ष कारावास की सज़ा हुई; एक संबंधित टेलीफोन-अवरोधन साज़िश मामले में 21 में से दस अभियुक्त दोषी ठहराए गए
+    source_ids: [rajneesh-src-05]
+  - date: 1990-01-19
+    kind: death
+    label_en: Dies at Pune, India
+    label_hi: पुणे, भारत में निधन
+    source_ids: [rajneesh-src-09]
+
+relationships: []

@@ -1,0 +1,397 @@
+id: radhe-maa
+type: person
+is_subject: true
+name_en: Radhe Maa
+name_hi: राधे माँ
+aliases: [Sukhvinder Kaur, Sukhwinder Kaur]
+born:
+died:
+base_location: Mumbai, Maharashtra (also associated with Punjab)
+country: IN
+countries_of_operation: [IN]
+organisations: [Mamtamai Shri Radhe Guru Maa Charitable Trust]
+activity_status: active
+abap_2017_list: true
+summary_en: >
+  Radhe Maa (Sukhvinder Kaur) is a Mumbai-based self-styled godwoman. In 2015 a woman, Nikki
+  Gupta, named her in a dowry-harassment complaint at Borivali police station alleging Radhe Maa
+  instigated her in-laws to demand more dowry; a 2016 police chargesheet excluded Radhe Maa citing
+  insufficient evidence, and after the complainant challenged that before the Bombay High Court,
+  the Court in April 2017 directed police to record her statement and reassess the case. A Mumbai
+  sessions court eventually discharged Radhe Maa, holding that no domestic relationship existed
+  between her and the complainant. Separately, a 2015 complaint alleged obscenity in the way she
+  let devotees embrace her, which the Bombay High Court asked police to examine, and a Punjab
+  complainant's 2015 complaint accusing her of hurting religious sentiments led the Punjab and
+  Haryana High Court, in 2017, to issue a contempt notice to a police officer for not acting on
+  it; television personality Dolly Bindra separately filed a police complaint in 2015 accusing her
+  of sexual harassment. In September 2017 the Akhil Bharatiya Akhara Parishad named her on a list
+  of 14 religious figures it asked governments to act against. Radhe Maa has repeatedly denied wrongdoing,
+  saying "I am innocent, pure and pious."
+summary_hi: >
+  राधे माँ (सुखविंदर कौर) मुंबई-आधारित एक स्वयंभू गॉडवुमन हैं। 2015 में एक महिला, निक्की गुप्ता, ने बोरीवली
+  थाने में दहेज उत्पीड़न की शिकायत में राधे माँ का नाम लेते हुए आरोप लगाया कि उन्होंने उसके ससुराल वालों को
+  अधिक दहेज माँगने के लिए उकसाया; 2016 की पुलिस आरोप-पत्र में सबूतों की कमी बताकर राधे माँ को बाहर रखा गया,
+  और शिकायतकर्ता द्वारा इसे बॉम्बे उच्च न्यायालय में चुनौती देने के बाद, न्यायालय ने अप्रैल 2017 में पुलिस
+  को उसका बयान दर्ज कर मामले का पुनर्मूल्यांकन करने का निर्देश दिया। मुंबई की एक सत्र अदालत ने अंततः राधे
+  माँ को उन्मोचित कर दिया, यह मानते हुए कि उनके और शिकायतकर्ता के बीच कोई पारिवारिक संबंध (डोमेस्टिक
+  रिलेशनशिप) नहीं था। अलग से, 2015 की एक शिकायत में उनके भक्तों को गले लगाने देने के तरीके को अश्लील बताया
+  गया, जिसकी जाँच के लिए बॉम्बे उच्च न्यायालय ने पुलिस से पूछा, और पंजाब के एक शिकायतकर्ता की 2015 की उस
+  शिकायत, जिसमें उन पर धार्मिक भावनाएँ आहत करने का आरोप था, के चलते पंजाब एवं हरियाणा उच्च न्यायालय ने 2017
+  में कार्रवाई न करने पर एक पुलिस अधिकारी को अवमानना नोटिस जारी किया; टीवी कलाकार डॉली बिंद्रा ने अलग से
+  2015 में उन पर यौन उत्पीड़न का आरोप लगाते हुए पुलिस शिकायत दर्ज कराई। सितंबर 2017 में अखिल भारतीय अखाड़ा
+  परिषद ने उन्हें अपनी उस सूची में नामित किया जिसके विरुद्ध कार्रवाई की माँग सरकारों से की गई थी। राधे माँ
+  ने बार-बार गलत काम से इनकार करते हुए कहा है, "मैं निर्दोष, पवित्र और पूज्य हूँ।"
+hi_reviewed: false
+response_from_subject:
+  text_en: >
+    At a press conference after the dowry-harassment allegation surfaced, Radhe Maa said: "I have
+    not hurt anyone.... I am innocent, pure and pious," and asked why she would take money from a
+    poor complainant when she had not taken anything from daughters-in-law "who belong to royal
+    families." She said, "Check my bank accounts. If you find a single paisa earned by wrong
+    means, I will kill myself."
+  text_hi: >
+    दहेज उत्पीड़न का आरोप सामने आने के बाद एक प्रेस कॉन्फ़्रेंस में राधे माँ ने कहा: "मैंने किसी को नुकसान
+    नहीं पहुँचाया.... मैं निर्दोष, पवित्र और पूज्य हूँ," और पूछा कि जब उन्होंने "शाही परिवारों से" आईं
+    अपनी बहुओं से कुछ नहीं लिया, तो एक ग़रीब शिकायतकर्ता से पैसे क्यों लेंगी। उन्होंने कहा, "मेरे बैंक खाते
+    जाँच लो। अगर एक पैसा भी ग़लत तरीके से कमाया मिला, तो मैं आत्महत्या कर लूँगी।"
+  source_id: radhe-maa-src-02
+
+sources:
+  - id: radhe-maa-src-01
+    url: https://www.outlookindia.com/national/radhe-maa-the-lady-in-red
+    title: Radhe Maa, The Lady In Red
+    publisher: Outlook India
+    type: major_outlet
+    published_at: 2024-07-21
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Profile recounting the 2014/2015 Nikki Gupta dowry-harassment case (naming Radhe Maa on
+      Bombay High Court intervention after police initially dropped charges) and stating that "a
+      Sessions court discharged the case, observing that no domestic relation existed between
+      Radhe Maa and Nikki" (reported as of the year before this July 2024 article, i.e. 2023);
+      quotes Radhe Maa's response; also covers other complaints (Manmohan Gupta's black-magic
+      complaint, Dolly Bindra's case).
+  - id: radhe-maa-src-02
+    url: https://www.deccanherald.com/content/494525/i-am-pure-innocent-radhe.html
+    title: I am pure, innocent, Radhe Maa
+    publisher: Deccan Herald (DHNS)
+    type: major_outlet
+    published_at: 2015-08-10
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Radhe Maa's press-conference denial of the dowry-harassment allegation.
+  - id: radhe-maa-src-03
+    url: https://www.deccanherald.com/amp/story/india%2Fradhe-maa-get-summons-soon-2143959
+    title: Radhe Maa to get summons soon in dowry case, police
+    publisher: Deccan Herald (PTI)
+    type: major_outlet
+    published_at: 2015-08-09
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Mumbai police (DCP Dhananjay Kulkarni, Kandivali senior inspector Mukund Pawar) confirm an
+      FIR was registered against Radhe Maa and six others, including the complainant's in-laws,
+      over dowry harassment, and that summons was being issued to her as the seventh accused.
+  - id: radhe-maa-src-04
+    url: https://www.tribuneindia.com/news/archive/nation/dowry-case-hc-tells-police-to-record-statement-against-radhe-maa-398971
+    title: Dowry case, HC tells police to record statement against Radhe Maa
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2017-04-28
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Bombay High Court (Justice Sadhana Jadhav) directs Borivali police to record the
+      complainant's statement and take further action per law, after she challenged the 2016
+      chargesheet's exclusion of Radhe Maa.
+  - id: radhe-maa-src-05
+    url: https://zeenews.india.com/news/india/does-obscenity-offence-stand-against-radhe-maa-mumbai-hc-asks-police_1655752.html
+    title: Does obscenity offence stand against Radhe Maa? Mumbai HC asks police
+    publisher: Zee News
+    type: major_outlet
+    published_at: 2015
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Reports a Bombay High Court division bench (Justices V.M. Kanade and Shalini
+      Phansalkar-Joshi) asking Mumbai police whether the offence of indecency and obscenity under
+      section 110 of the Bombay Police Act was made out against Radhe Maa, on a complaint by
+      advocate Falguni Brahmbhatt; Kandivali police subsequently summoned Radhe Maa. The page could
+      not be fully retrieved (access blocked); citation is to the article as indexed.
+  - id: radhe-maa-src-06
+    url: https://www.thequint.com/news/india/fir-to-be-filed-against-radhe-maa
+    title: Why No Action Taken on Complaint Against Radhe Maa? HC Raps Cop
+    publisher: The Quint
+    type: major_outlet
+    published_at: 2017-09-05
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Punjab and Haryana High Court (Justice Daya Chaudhary) issues a show-cause notice to the
+      Kapurthala SSP asking why contempt proceedings should not be initiated for failing to act
+      on a 2015 complaint by Phagwara resident Surinder Mittal, a former VHP member, alleging
+      Radhe Maa hurt religious sentiments, made threats and committed other IPC offences; matter
+      listed for 13 October 2017.
+  - id: radhe-maa-src-07
+    url: https://www.tribuneindia.com/news/archive/features/nirmal-baba-radhe-maa-narayan-sai-on-list-of-14-fake-babas-464947
+    title: Nirmal Baba, Radhe Maa, Narayan Sai on 'list of 14 fake babas'
+    publisher: The Tribune
+    type: major_outlet
+    published_at: 2017-09-10
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: Akhil Bharatiya Akhara Parishad list of 14 names; Radhe Maa (Sukhwinder Kaur) is named.
+  - id: radhe-maa-src-08
+    url: https://www.deccanherald.com/content/494992/dolly-bindra-gets-threat-calls.html
+    title: Dolly Bindra gets threat calls, files complaint against Radhe Maa
+    publisher: Deccan Herald (Agencies)
+    type: major_outlet
+    published_at: 2015-08-13
+    language: en
+    archive_url:
+    captured_at:
+    sha256:
+    note: >
+      Television personality Dolly Bindra filed a police complaint against Radhe Maa accusing her
+      of sexual harassment/voyeurism, and separately said she received threatening calls.
+
+cases:
+  - id: radhe-maa-mumbai-dowry-case-2015
+    title_en: State v. Radhe Maa and others (Borivali dowry-harassment case)
+    title_hi: राज्य बनाम राधे माँ एवं अन्य (बोरीवली दहेज उत्पीड़न मामला)
+    jurisdiction_country: IN
+    jurisdiction_region: Maharashtra
+    court: Borivali police station; Bombay High Court; Sessions Court, Mumbai (discharge)
+    case_number: FIR registered August 2015, Borivali police station, on the complaint of Nikki Gupta (FIR number not located)
+    filed_year: 2015
+    case_type: criminal
+    statutes: [IPC 498A, Dowry Prohibition Act 1961]
+    status: discharged; sessions court found no domestic relationship existed between Radhe Maa and the complainant
+    tier: discharged
+    verdict_date: 2023
+    sentence_or_remedy: Discharged
+    appeal_status: Not applicable
+    summary_en: >
+      In 2015 Nikki Gupta filed a dowry-harassment complaint against her husband, in-laws and
+      Radhe Maa at Borivali police station, Mumbai, alleging Radhe Maa instigated her in-laws,
+      long-time followers of hers, to demand dowry beyond what her family had given at her
+      wedding. Police issued summons to Radhe Maa as the seventh accused. A 2016 police
+      chargesheet named six of the complainant's in-laws but excluded Radhe Maa, citing
+      insufficient evidence, without informing the complainant. After the complainant approached
+      the Bombay High Court, it directed the Borivali police in April 2017 to record her statement
+      and reassess the case. The proceedings continued for several years; a Mumbai sessions court
+      eventually discharged Radhe Maa, holding that no domestic relationship existed between her
+      and the complainant, a finding reported around 2023.
+    summary_hi: >
+      2015 में निक्की गुप्ता ने मुंबई के बोरीवली थाने में अपने पति, ससुराल वालों और राधे माँ के विरुद्ध दहेज
+      उत्पीड़न की शिकायत दर्ज कराई, यह आरोप लगाते हुए कि राधे माँ ने अपने पुराने अनुयायी रहे उसके ससुराल
+      वालों को उसकी शादी में परिवार द्वारा दिए गए से अधिक दहेज माँगने के लिए उकसाया। पुलिस ने सातवें अभियुक्त
+      के रूप में राधे माँ को समन जारी किया। 2016 की पुलिस आरोप-पत्र में शिकायतकर्ता के छह ससुराल वालों के
+      नाम थे लेकिन सबूतों की कमी बताकर राधे माँ को बाहर रखा गया, बिना शिकायतकर्ता को सूचित किए। शिकायतकर्ता
+      के बॉम्बे उच्च न्यायालय जाने के बाद, न्यायालय ने अप्रैल 2017 में बोरीवली पुलिस को उसका बयान दर्ज कर
+      मामले का पुनर्मूल्यांकन करने का निर्देश दिया। कार्यवाही कई वर्षों तक चली; मुंबई की एक सत्र अदालत ने
+      अंततः राधे माँ को उन्मोचित कर दिया, यह मानते हुए कि उनके और शिकायतकर्ता के बीच कोई पारिवारिक संबंध
+      नहीं था, जिसकी सूचना लगभग 2023 में सामने आई।
+    source_ids: [radhe-maa-src-01, radhe-maa-src-02, radhe-maa-src-03, radhe-maa-src-04]
+
+  - id: radhe-maa-obscenity-religious-complaints-2015
+    title_en: Obscenity and public-order complaints against Radhe Maa (Mumbai and Punjab, 2015-2017)
+    title_hi: राधे माँ के विरुद्ध अश्लीलता व सार्वजनिक व्यवस्था संबंधी शिकायतें (मुंबई व पंजाब, 2015-2017)
+    jurisdiction_country: IN
+    jurisdiction_region: Maharashtra; Punjab
+    court: Bombay High Court; Punjab and Haryana High Court
+    case_number: >
+      Complaint of advocate Falguni Brahmbhatt before Bombay police/High Court (2015); complaint
+      of Surinder Mittal, Phagwara, before Punjab and Haryana High Court (CWP concerning
+      Kapurthala SSP's inaction, 2015-2017)
+    filed_year: 2015
+    case_type: criminal
+    statutes: [Bombay Police Act s.110]
+    status: complaints pursued through the courts; no chargesheet, conviction or closure order located
+    tier: allegation
+    verdict_date:
+    sentence_or_remedy:
+    appeal_status:
+    summary_en: >
+      In 2015 Mumbai advocate Falguni Brahmbhatt complained that Radhe Maa's practice of letting
+      male devotees embrace and lift her amounted to obscenity under the Bombay Police Act; the
+      Bombay High Court asked police to examine whether the offence was made out, and Kandivali
+      police summoned her. Separately, Phagwara resident Surinder Mittal's 2015 complaint accused
+      her of hurting religious sentiments and making threats; when police did not act despite an
+      earlier High Court direction, the Punjab and Haryana High Court in September 2017 issued a
+      show-cause notice to the Kapurthala SSP asking why he should not face contempt proceedings.
+      No chargesheet, conviction or formal closure in either matter was located in the sources
+      checked.
+    summary_hi: >
+      2015 में मुंबई की अधिवक्ता फाल्गुनी ब्रह्मभट्ट ने शिकायत की कि राधे माँ द्वारा पुरुष भक्तों को गले
+      लगाने व उठाने देने की प्रथा बॉम्बे पुलिस अधिनियम के तहत अश्लीलता है; बॉम्बे उच्च न्यायालय ने पुलिस से
+      यह जाँचने को कहा कि क्या यह अपराध बनता है, और कांदिवली पुलिस ने उन्हें समन भेजा। अलग से, फगवाड़ा
+      निवासी सुरिंदर मित्तल की 2015 की शिकायत में उन पर धार्मिक भावनाएँ आहत करने और धमकी देने का आरोप था;
+      पहले के उच्च न्यायालय निर्देश के बावजूद पुलिस के कार्रवाई न करने पर, पंजाब एवं हरियाणा उच्च न्यायालय
+      ने सितंबर 2017 में कपूरथला के एसएसपी को यह नोटिस जारी किया कि उनके विरुद्ध अवमानना कार्यवाही क्यों न
+      शुरू की जाए। जाँची गई सामग्री में दोनों मामलों में किसी आरोप-पत्र, दोषसिद्धि या औपचारिक समापन आदेश की
+      जानकारी नहीं मिली।
+    source_ids: [radhe-maa-src-05, radhe-maa-src-06]
+
+claims:
+  - id: radhe-maa-claim-01
+    case_id: radhe-maa-mumbai-dowry-case-2015
+    statement_en: >
+      In 2015 Nikki Gupta filed a dowry-harassment complaint at Borivali police station, Mumbai,
+      naming her husband, in-laws and Radhe Maa, alleging Radhe Maa instigated her in-laws, her
+      long-time followers, to demand dowry beyond what her family had given at the wedding; police
+      registered an FIR and issued summons to Radhe Maa as the seventh accused.
+    statement_hi: >
+      2015 में निक्की गुप्ता ने मुंबई के बोरीवली थाने में अपने पति, ससुराल वालों और राधे माँ का नाम लेते
+      हुए दहेज उत्पीड़न की शिकायत दर्ज कराई, यह आरोप लगाते हुए कि राधे माँ ने अपने पुराने अनुयायी रहे उसके
+      ससुराल वालों को शादी में परिवार द्वारा दिए गए से अधिक दहेज माँगने के लिए उकसाया; पुलिस ने एफआईआर दर्ज
+      कर सातवें अभियुक्त के रूप में राधे माँ को समन जारी किया।
+    tier: allegation
+    date: 2015-08-09
+    source_ids: [radhe-maa-src-01, radhe-maa-src-03]
+  - id: radhe-maa-claim-02
+    case_id: radhe-maa-mumbai-dowry-case-2015
+    statement_en: >
+      A 2016 police chargesheet in the case named six of the complainant's in-laws but omitted
+      Radhe Maa, citing insufficient evidence, without informing the complainant; on her plea, the
+      Bombay High Court on 28 April 2017 directed the Borivali police to record her statement and
+      take further action per law.
+    statement_hi: >
+      2016 की पुलिस आरोप-पत्र में शिकायतकर्ता के छह ससुराल वालों के नाम थे लेकिन सबूतों की कमी बताकर, बिना
+      शिकायतकर्ता को सूचित किए, राधे माँ को बाहर रखा गया; उसकी याचिका पर बॉम्बे उच्च न्यायालय ने 28 अप्रैल
+      2017 को बोरीवली पुलिस को उसका बयान दर्ज कर विधि के अनुसार आगे कार्रवाई करने का निर्देश दिया।
+    tier: allegation
+    date: 2017-04-28
+    source_ids: [radhe-maa-src-01, radhe-maa-src-04]
+  - id: radhe-maa-claim-03
+    case_id: radhe-maa-mumbai-dowry-case-2015
+    statement_en: >
+      A Mumbai sessions court eventually discharged Radhe Maa from the dowry-harassment case,
+      holding that no domestic relationship existed between her and the complainant, a finding
+      reported around 2023.
+    statement_hi: >
+      मुंबई की एक सत्र अदालत ने अंततः राधे माँ को दहेज उत्पीड़न मामले से उन्मोचित कर दिया, यह मानते हुए कि
+      उनके और शिकायतकर्ता के बीच कोई पारिवारिक संबंध (डोमेस्टिक रिलेशनशिप) नहीं था, जिसकी सूचना लगभग 2023
+      में सामने आई।
+    tier: discharged
+    date: 2023
+    source_ids: [radhe-maa-src-01]
+  - id: radhe-maa-claim-04
+    case_id: radhe-maa-obscenity-religious-complaints-2015
+    statement_en: >
+      Mumbai advocate Falguni Brahmbhatt complained in 2015 that Radhe Maa's practice of letting
+      male devotees embrace and lift her amounted to obscenity under the Bombay Police Act; the
+      Bombay High Court's division bench asked Mumbai police whether the offence of indecency and
+      obscenity under section 110 of that Act was made out, and Kandivali police summoned her.
+    statement_hi: >
+      मुंबई की अधिवक्ता फाल्गुनी ब्रह्मभट्ट ने 2015 में शिकायत की कि राधे माँ द्वारा पुरुष भक्तों को गले
+      लगाने व उठाने देने की प्रथा बॉम्बे पुलिस अधिनियम के तहत अश्लीलता है; बॉम्बे उच्च न्यायालय की खंडपीठ ने
+      मुंबई पुलिस से पूछा कि क्या उक्त अधिनियम की धारा 110 के तहत अशिष्टता व अश्लीलता का अपराध बनता है, और
+      कांदिवली पुलिस ने उन्हें समन भेजा।
+    tier: allegation
+    date: 2015
+    source_ids: [radhe-maa-src-05]
+  - id: radhe-maa-claim-05
+    case_id: radhe-maa-obscenity-religious-complaints-2015
+    statement_en: >
+      Phagwara resident Surinder Mittal's 2015 complaint accused Radhe Maa of hurting religious
+      sentiments and making threats; after police did not act despite an earlier High Court
+      direction to examine the complaint, the Punjab and Haryana High Court on 5 September 2017
+      issued a show-cause notice to the Kapurthala SSP asking why contempt proceedings should not
+      be initiated against him for non-compliance.
+    statement_hi: >
+      फगवाड़ा निवासी सुरिंदर मित्तल की 2015 की शिकायत में राधे माँ पर धार्मिक भावनाएँ आहत करने और धमकी देने
+      का आरोप था; शिकायत की जाँच के पहले के उच्च न्यायालय निर्देश के बावजूद पुलिस के कार्रवाई न करने पर,
+      पंजाब एवं हरियाणा उच्च न्यायालय ने 5 सितंबर 2017 को कपूरथला के एसएसपी को यह नोटिस जारी किया कि
+      अनुपालन न करने पर उनके विरुद्ध अवमानना कार्यवाही क्यों न शुरू की जाए।
+    tier: allegation
+    date: 2017-09-05
+    source_ids: [radhe-maa-src-06]
+  - id: radhe-maa-claim-06
+    statement_en: >
+      Television personality Dolly Bindra filed a police complaint in August 2015 accusing Radhe
+      Maa of sexual harassment and voyeurism, and separately said she received threatening calls
+      afterwards.
+    statement_hi: >
+      टीवी कलाकार डॉली बिंद्रा ने अगस्त 2015 में राधे माँ पर यौन उत्पीड़न व दृश्यरतिक्रीड़ा (वॉयरिज़्म) का
+      आरोप लगाते हुए पुलिस शिकायत दर्ज कराई, और अलग से कहा कि इसके बाद उसे धमकी भरे फोन आए।
+    tier: allegation
+    date: 2015-08-13
+    source_ids: [radhe-maa-src-08]
+  - id: radhe-maa-claim-07
+    statement_en: >
+      On 10 September 2017 the Akhil Bharatiya Akhara Parishad, the apex body of Hindu akharas,
+      released a list of 14 religious figures it asked governments to act against, and Radhe Maa
+      (Sukhwinder Kaur) was among the names.
+    statement_hi: >
+      10 सितंबर 2017 को हिंदू अखाड़ों की शीर्ष संस्था अखिल भारतीय अखाड़ा परिषद ने 14 धार्मिक व्यक्तियों की
+      एक सूची जारी की जिनके विरुद्ध उसने सरकारों से कार्रवाई की माँग की, और राधे माँ (सुखविंदर कौर) का नाम
+      उनमें शामिल था।
+    tier: allegation
+    date: 2017-09-10
+    source_ids: [radhe-maa-src-07]
+
+events:
+  - date: 2015-08
+    kind: fir
+    label_en: FIR registered against Radhe Maa and others at Borivali police station in the dowry-harassment case
+    label_hi: दहेज उत्पीड़न मामले में बोरीवली थाने में राधे माँ व अन्य के विरुद्ध एफआईआर दर्ज
+    case_id: radhe-maa-mumbai-dowry-case-2015
+    source_ids: [radhe-maa-src-03]
+  - date: 2015-08-10
+    kind: other
+    label_en: Radhe Maa denies the dowry-harassment allegation at a press conference
+    label_hi: प्रेस कॉन्फ़्रेंस में राधे माँ ने दहेज उत्पीड़न के आरोप से इनकार किया
+    case_id: radhe-maa-mumbai-dowry-case-2015
+    source_ids: [radhe-maa-src-02]
+  - date: 2015-08-13
+    kind: other
+    label_en: Dolly Bindra files a police complaint against Radhe Maa
+    label_hi: डॉली बिंद्रा ने राधे माँ के विरुद्ध पुलिस शिकायत दर्ज कराई
+    source_ids: [radhe-maa-src-08]
+  - date: 2016
+    kind: chargesheet
+    label_en: Police chargesheet in the dowry case excludes Radhe Maa, citing insufficient evidence
+    label_hi: दहेज मामले की पुलिस आरोप-पत्र में सबूतों की कमी बताकर राधे माँ को बाहर रखा गया
+    case_id: radhe-maa-mumbai-dowry-case-2015
+    source_ids: [radhe-maa-src-01]
+  - date: 2017-04-28
+    kind: notice
+    label_en: Bombay High Court directs police to record complainant's statement and reassess the case
+    label_hi: बॉम्बे उच्च न्यायालय ने पुलिस को शिकायतकर्ता का बयान दर्ज कर मामले का पुनर्मूल्यांकन करने का निर्देश दिया
+    case_id: radhe-maa-mumbai-dowry-case-2015
+    source_ids: [radhe-maa-src-04]
+  - date: 2017-09-05
+    kind: notice
+    label_en: Punjab and Haryana High Court issues contempt notice to Kapurthala SSP over inaction on complaint
+    label_hi: पंजाब एवं हरियाणा उच्च न्यायालय ने शिकायत पर निष्क्रियता को लेकर कपूरथला एसएसपी को अवमानना नोटिस जारी किया
+    case_id: radhe-maa-obscenity-religious-complaints-2015
+    source_ids: [radhe-maa-src-06]
+  - date: 2017-09-10
+    kind: other
+    label_en: Named on the Akhil Bharatiya Akhara Parishad list
+    label_hi: अखिल भारतीय अखाड़ा परिषद की सूची में नामित
+    source_ids: [radhe-maa-src-07]
+  - date: 2023
+    kind: acquittal
+    label_en: Mumbai sessions court discharges Radhe Maa from the dowry-harassment case
+    label_hi: मुंबई सत्र अदालत ने राधे माँ को दहेज उत्पीड़न मामले से उन्मोचित किया
+    case_id: radhe-maa-mumbai-dowry-case-2015
+    source_ids: [radhe-maa-src-01]
+
+relationships: []

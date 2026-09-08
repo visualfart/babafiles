@@ -305,7 +305,7 @@ cases:
       उच्च न्यायालय सीबीआई पर उन्हें पकड़ने के लिए, विदेश में भी (2023) और उनके बैंक खाते जब्त कराकर (2023),
       दबाव डालता रहा। सितंबर 2025 में सीबीआई ने एक विशेष अदालत को बताया कि उसकी हैदराबाद इकाई को पता चला है
       कि दीक्षित की 2023 में लगभग 82 वर्ष की आयु में मृत्यु हो गई थी, और वह विचारण की समाप्ति की माँग करेगी।
-    source_ids: [v-dixit-src-02, v-dixit-src-03, v-dixit-src-04, v-dixit-src-07, v-dixit-src-10]
+    source_ids: [v-dixit-src-01, v-dixit-src-02, v-dixit-src-03, v-dixit-src-04, v-dixit-src-07, v-dixit-src-10]
 
 claims:
   - id: v-dixit-claim-01
@@ -352,7 +352,7 @@ claims:
       दौरे में बाधा डालने के लिए अज्ञात व्यक्तियों के विरुद्ध एक।
     tier: under_investigation
     date: 2018-01-03
-    source_ids: [v-dixit-src-02, v-dixit-src-10]
+    source_ids: [v-dixit-src-01, v-dixit-src-02, v-dixit-src-10]
   - id: v-dixit-claim-04
     case_id: dixit-cbi-rape-criminal-intimidation-2018
     statement_en: >
@@ -367,7 +367,7 @@ claims:
       नाबालिग के साथ बार-बार बलात्कार किया और उसे व उसके परिवार को धमकाया।
     tier: charged
     date: 2019-06-13
-    source_ids: [v-dixit-src-07]
+    source_ids: [v-dixit-src-01, v-dixit-src-07]
   - id: v-dixit-claim-05
     case_id: dixit-cbi-rape-criminal-intimidation-2018
     statement_en: >
@@ -381,7 +381,7 @@ claims:
       उनकी गिरफ़्तारी में सहायक सूचना के लिए 5 लाख रुपये का इनाम घोषित किया।
     tier: wanted
     date: 2019-02-22
-    source_ids: [v-dixit-src-02, v-dixit-src-07]
+    source_ids: [v-dixit-src-01, v-dixit-src-02, v-dixit-src-07]
   - id: v-dixit-claim-06
     case_id: dixit-cbi-rape-criminal-intimidation-2018
     statement_en: >
@@ -397,7 +397,7 @@ claims:
       फरार रहते हुए भी वे मार्च 2018 से छह यूट्यूब चैनलों पर वीडियो अपलोड करते रहे हैं।
     tier: wanted
     date: 2023-05-31
-    source_ids: [v-dixit-src-03]
+    source_ids: [v-dixit-src-01, v-dixit-src-03]
   - id: v-dixit-claim-07
     case_id: dixit-cbi-rape-criminal-intimidation-2018
     statement_en: >
@@ -410,7 +410,7 @@ claims:
       रखने का निर्देश दिया।
     tier: wanted
     date: 2023-09-12
-    source_ids: [v-dixit-src-04]
+    source_ids: [v-dixit-src-01, v-dixit-src-04]
   - id: v-dixit-claim-08
     case_id: dixit-rohini-ashram-hc-oversight-2017
     statement_en: >
@@ -441,7 +441,7 @@ claims:
       थे।
     tier: wanted
     date: 2025-09-29
-    source_ids: [v-dixit-src-02]
+    source_ids: [v-dixit-src-01, v-dixit-src-02]
   - id: v-dixit-claim-10
     case_id: dixit-rohini-ashram-hc-oversight-2017
     statement_en: >
@@ -456,7 +456,7 @@ claims:
       कामकाज की... जाँच होनी चाहिए"।
     tier: regulatory_action
     date: 2026-08-25
-    source_ids: [v-dixit-src-06]
+    source_ids: [v-dixit-src-01, v-dixit-src-06]
 
 events:
   - date: 2017-12-19
