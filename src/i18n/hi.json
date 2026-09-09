@@ -57,5 +57,7 @@
   "case": { "court": "न्यायालय", "number": "मामला संख्या", "filed": "दायर", "type": "प्रकार", "statutes": "धाराएँ", "status": "स्थिति", "verdict": "निर्णय", "sentence": "सज़ा या उपाय", "appeal": "अपील", "jurisdiction": "क्षेत्राधिकार", "subject": "विषय" },
   "source": { "publisher": "प्रकाशक", "type": "प्रकार", "published": "प्रकाशित", "archived": "संग्रहीत प्रति", "captured": "संग्रहीत", "hash": "संग्रहीत पाठ का SHA-256", "not_archived": "अभी संग्रहीत नहीं", "cited_by": "उद्धृत", "original": "मूल", "types": { "court": "न्यायालय रिकॉर्ड", "official": "आधिकारिक रिकॉर्ड", "major_outlet": "प्रमुख समाचार माध्यम", "other": "अन्य" }, "type_plural": { "court": "न्यायालय रिकॉर्ड", "official": "आधिकारिक रिकॉर्ड", "major_outlet": "प्रमुख समाचार माध्यम", "other": "अन्य स्रोत" } },
   "activity": { "active": "सक्रिय", "imprisoned": "कारावास में", "absconding": "फ़रार", "deceased": "दिवंगत", "inactive": "निष्क्रिय" },
+  "types": { "person": "व्यक्ति", "organisation": "संगठन", "temple_trust": "मंदिर व ट्रस्ट", "company": "कंपनियाँ", "political_party": "राजनीतिक दल", "other": "अन्य" },
+  "browse": { "title": "रिकॉर्ड ब्राउज़ करें", "type": "प्रकार", "status": "स्थिति", "jurisdiction": "क्षेत्राधिकार", "activity": "व्यक्ति की स्थिति", "all_types": "सभी प्रकार", "sorted_by": "गंभीरता के अनुसार क्रमबद्ध" },
   "common": { "all": "सभी", "records": "रिकॉर्ड", "claims": "दावे", "sources": "स्रोत", "cases": "मामले", "read": "पढ़ें", "back": "वापस", "lang": "English", "none": "रिकॉर्ड पर कुछ नहीं" }
 }

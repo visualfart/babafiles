@@ -57,5 +57,7 @@
   "case": { "court": "Court", "number": "Case number", "filed": "Filed", "type": "Type", "statutes": "Statutes", "status": "Status", "verdict": "Verdict", "sentence": "Sentence or remedy", "appeal": "Appeal", "jurisdiction": "Jurisdiction", "subject": "Subject" },
   "source": { "publisher": "Publisher", "type": "Type", "published": "Published", "archived": "Archived copy", "captured": "Captured", "hash": "SHA-256 of captured text", "not_archived": "Not yet archived", "cited_by": "Cited by", "original": "Original", "types": { "court": "Court record", "official": "Official record", "major_outlet": "Major outlet", "other": "Other" }, "type_plural": { "court": "Court records", "official": "Official records", "major_outlet": "Major outlets", "other": "Other sources" } },
   "activity": { "active": "Active", "imprisoned": "Imprisoned", "absconding": "Absconding", "deceased": "Deceased", "inactive": "Inactive" },
+  "types": { "person": "People", "organisation": "Organisations", "temple_trust": "Temples & trusts", "company": "Companies", "political_party": "Political parties", "other": "Other" },
+  "browse": { "title": "Browse the record", "type": "Type", "status": "Status", "jurisdiction": "Jurisdiction", "activity": "Status of the person", "all_types": "All types", "sorted_by": "Sorted by severity" },
   "common": { "all": "All", "records": "records", "claims": "claims", "sources": "sources", "cases": "cases", "read": "Read", "back": "Back", "lang": "हिंदी", "none": "None on record" }
 }

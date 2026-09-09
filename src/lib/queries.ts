@@ -28,16 +28,33 @@ async function linkMap(
   return m;
 }
 
-export async function listSubjects(opts: { adverse?: boolean; type?: string; tier?: Tier } = {}) {
+export async function listSubjects(opts: {
+  adverse?: boolean; type?: string; tier?: Tier; country?: string; activityStatus?: string;
+} = {}) {
   const conds = [eq(t.entities.isSubject, true)];
   if (opts.type) conds.push(eq(t.entities.type, opts.type));
   if (opts.tier) conds.push(eq(t.entities.overallTier, opts.tier));
   else if (opts.adverse === true) conds.push(inArray(t.entities.overallTier, [...ADVERSE_TIERS]));
   else if (opts.adverse === false) conds.push(eq(t.entities.overallTier, "no_record_found"));
+  if (opts.country) conds.push(eq(t.entities.country, opts.country));
+  if (opts.activityStatus) conds.push(eq(t.entities.activityStatus, opts.activityStatus));
   const rows = await db.select().from(t.entities).where(and(...conds)).orderBy(t.entities.nameEn);
   // Order by tier rank then name so the most serious records lead.
   const rank = (x: string | null) => (x ? TIERS.indexOf(x as Tier) : 99);
   return rows.sort((a, b) => rank(a.overallTier) - rank(b.overallTier) || a.nameEn.localeCompare(b.nameEn));
+}
+
+/** Counts for the Browse page's facet sidebar: by type, by base country, by activity status.
+ * Each facet is counted independently of the others (not narrowed by the current selection)
+ * so a reader can always see the full breakdown, not just what's left after filtering. */
+export async function facetCounts() {
+  const [byType, byCountry, byActivity] = await Promise.all([
+    db.select({ k: t.entities.type, n: sql<number>`count(*)` }).from(t.entities).where(eq(t.entities.isSubject, true)).groupBy(t.entities.type),
+    db.select({ k: t.entities.country, n: sql<number>`count(*)` }).from(t.entities).where(eq(t.entities.isSubject, true)).groupBy(t.entities.country),
+    db.select({ k: t.entities.activityStatus, n: sql<number>`count(*)` }).from(t.entities).where(eq(t.entities.isSubject, true)).groupBy(t.entities.activityStatus),
+  ]);
+  const toMap = (rows: { k: string | null; n: number }[]) => Object.fromEntries(rows.filter((r) => r.k).map((r) => [r.k as string, r.n]));
+  return { byType: toMap(byType), byCountry: toMap(byCountry), byActivity: toMap(byActivity) };
 }
 
 export async function recentlyUpdated(limit = 8) {
