@@ -8,24 +8,28 @@
   --rule-2: #f2f2f2;
   --paper: #ffffff;
   --measure: 72ch;
+  /* Two restrained accents: oxblood carries severity (adverse tiers, "you are here"),
+     ink-blue carries interactivity (links, active filters). Structure stays black/white;
+     colour is never decorative, only ever meaningful. */
+  --accent: oklch(38% 0.15 25);
+  --accent-2: oklch(37% 0.09 255);
 }
 
 html { color-scheme: light; }
 body {
   background: var(--paper);
   color: var(--ink);
-  font-family: var(--font-mono), ui-monospace, "SF Mono", Menlo, monospace;
-  font-size: 14px;
+  font-family: var(--font-sans), -apple-system, "Segoe UI", sans-serif;
+  font-size: 14.5px;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  font-feature-settings: "ss01", "zero";
 }
 a { color: inherit; text-decoration: none; }
 a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
 ::selection { background: var(--ink); color: var(--paper); }
 
-.wrap { max-width: 1040px; margin: 0 auto; padding: 0 28px; }
+.wrap { max-width: 1120px; margin: 0 auto; padding: 0 28px; }
 .label { font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-2); }
 .rule { border-top: 1px solid var(--rule); }
 .hair { border-color: var(--rule); }
@@ -34,16 +38,24 @@ a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoratio
 .measure { max-width: var(--measure); }
 .tnum { font-variant-numeric: tabular-nums; font-family: var(--font-mono), ui-monospace, monospace; }
 
-/* Hindi pages: a real Devanagari typeface instead of the mono font's fallback glyphs.
-   Numerals, the brand mark and citation numbers stay on the mono face via .tnum/.brand. */
+/* Hindi pages: a real Devanagari typeface for translated text. The brand mark stays Latin
+   in either language, so .brand does not need the override. */
 [lang="hi"] {
   font-family: var(--font-deva), "Noto Sans Devanagari", "Nirmala UI", system-ui, sans-serif;
 }
-.brand { font-family: var(--font-mono), ui-monospace, monospace; }
+[lang="hi"] h1, [lang="hi"] h2, [lang="hi"] h3 {
+  font-family: var(--font-deva), "Noto Sans Devanagari", "Nirmala UI", system-ui, sans-serif;
+}
+.brand { font-family: var(--font-serif), Georgia, serif; font-weight: 600; }
 
-h1 { font-size: 28px; line-height: 1.2; font-weight: 500; letter-spacing: -0.01em; }
-h2 { font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 500; color: var(--ink-2); }
+h1 { font-family: var(--font-serif), Georgia, serif; font-size: 30px; line-height: 1.25; font-weight: 600; letter-spacing: -0.01em; }
+h2 { font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 500; color: var(--ink-2); }
 h3 { font-size: 15px; font-weight: 500; }
+
+/* Rule-flanked small-caps section kicker: <div class="kicker"><span>Label</span></div> */
+.kicker { display: flex; align-items: center; gap: 14px; }
+.kicker::before, .kicker::after { content: ""; flex: 1; border-top: 1px solid var(--ink); }
+.kicker span { font-family: var(--font-mono), monospace; font-size: 10.5px; letter-spacing: 0.14em; text-transform: uppercase; white-space: nowrap; }
 
 .badge {
   display: inline-flex; align-items: center; gap: 6px;
@@ -51,9 +63,9 @@ h3 { font-size: 15px; font-weight: 500; }
   padding: 3px 8px; border: 1px solid var(--ink); border-radius: 999px; line-height: 1.4;
   white-space: nowrap;
 }
-.badge.adverse { background: var(--ink); color: var(--paper); }
+.badge.adverse { background: var(--accent); color: var(--paper); border-color: var(--accent); }
 .badge.favourable { border-color: var(--ink-3); color: var(--ink-2); }
-.badge.allegation { border-style: dashed; }
+.badge.allegation { border-style: dashed; border-color: var(--accent); color: var(--accent); }
 .badge.none { border-color: var(--rule); background: var(--rule-2); color: var(--ink-2); }
 
 .row { display: grid; grid-template-columns: 1fr; gap: 6px 24px; padding: 14px 0; border-top: 1px solid var(--rule); }

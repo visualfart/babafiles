@@ -8,7 +8,13 @@
     "no_record_section": "Checked, no adverse record found",
     "stats": "The record in numbers",
     "jurisdictions": "Jurisdictions",
-    "sources_archived": "Sources archived"
+    "sources_archived": "Sources archived",
+    "kicker": "Lead Report",
+    "dek": "Court and official findings on religious leaders, their organisations and temple trusts — in India and abroad.",
+    "index_title": "Index & Search",
+    "by_numbers": "By the Numbers",
+    "register": "The Register",
+    "also_checked": "Also Checked, No Adverse Record"
   },
   "tiers": {
     "convicted": "Convicted",

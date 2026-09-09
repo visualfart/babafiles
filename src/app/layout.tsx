@@ -1,10 +1,25 @@
 import type { Metadata } from "next";
-import { IBM_Plex_Mono, Noto_Sans_Devanagari } from "next/font/google";
+import { Newsreader, Inter, Space_Mono, Noto_Sans_Devanagari } from "next/font/google";
 import "./globals.css";
 
-const mono = IBM_Plex_Mono({
+const serif = Newsreader({
   subsets: ["latin"],
-  weight: ["400", "500"],
+  weight: ["400", "500", "600", "700"],
+  style: ["normal", "italic"],
+  variable: "--font-serif",
+  display: "swap",
+});
+
+const sans = Inter({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-sans",
+  display: "swap",
+});
+
+const mono = Space_Mono({
+  subsets: ["latin"],
+  weight: ["400", "700"],
   variable: "--font-mono",
   display: "swap",
 });
@@ -23,7 +38,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={`${mono.variable} ${devanagari.variable}`}>
+    <html lang="en" className={`${serif.variable} ${sans.variable} ${mono.variable} ${devanagari.variable}`}>
       <body>{children}</body>
     </html>
   );
