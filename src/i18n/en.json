@@ -46,10 +46,16 @@
     "abap": "Named on the Akhil Bharatiya Akhara Parishad list, September 2017",
     "unreviewed_hi": "Hindi text is a draft and has not been reviewed yet.",
     "no_record_note": "This person or organisation was checked against the registers below on the dates shown. Nothing adverse was found. This page carries only neutral identity facts.",
-    "updated": "Updated"
+    "updated": "Updated",
+    "overview": "Overview",
+    "born": "born",
+    "age_now": "age now",
+    "died_at": "died at",
+    "open_network": "Open full network",
+    "grouped_by_type": "grouped by type"
   },
   "case": { "court": "Court", "number": "Case number", "filed": "Filed", "type": "Type", "statutes": "Statutes", "status": "Status", "verdict": "Verdict", "sentence": "Sentence or remedy", "appeal": "Appeal", "jurisdiction": "Jurisdiction", "subject": "Subject" },
-  "source": { "publisher": "Publisher", "type": "Type", "published": "Published", "archived": "Archived copy", "captured": "Captured", "hash": "SHA-256 of captured text", "not_archived": "Not yet archived", "cited_by": "Cited by", "original": "Original", "types": { "court": "Court record", "official": "Official record", "major_outlet": "Major outlet", "other": "Other" } },
+  "source": { "publisher": "Publisher", "type": "Type", "published": "Published", "archived": "Archived copy", "captured": "Captured", "hash": "SHA-256 of captured text", "not_archived": "Not yet archived", "cited_by": "Cited by", "original": "Original", "types": { "court": "Court record", "official": "Official record", "major_outlet": "Major outlet", "other": "Other" }, "type_plural": { "court": "Court records", "official": "Official records", "major_outlet": "Major outlets", "other": "Other sources" } },
   "activity": { "active": "Active", "imprisoned": "Imprisoned", "absconding": "Absconding", "deceased": "Deceased", "inactive": "Inactive" },
   "common": { "all": "All", "records": "records", "claims": "claims", "sources": "sources", "cases": "cases", "read": "Read", "back": "Back", "lang": "हिंदी", "none": "None on record" }
 }
